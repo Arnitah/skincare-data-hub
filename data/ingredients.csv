@@ -38,7 +38,7 @@ ingredient_key,inci_name,cas,raw_material_count,product_count,regulatory_flags,s
 2-amino-6-chloro-4-nitrophenol,2-Amino-6-Chloro-4-Nitrophenol,6358-09-4,0,1,EU: restricted (max (b) 2.0%),open_beauty_facts
 2-benzylheptanol,2-Benzylheptanol,,0,2,,open_beauty_facts
 2-bromo-2-nitropropane-1,2-bromo-2-nitropropane-1,,0,5,,open_beauty_facts
-"2-bromo-2-nitropropane-1,3-diol","2-BROMO-2-NITROPROPANE-1,3-DIOL",52-51-7,0,42,EU: permitted preservative (limits apply) (max 0.1%); CA: restricted,open_beauty_facts
+"2-bromo-2-nitropropane-1,3-diol","2-BROMO-2-NITROPROPANE-1,3-DIOL",52-51-7,0,42,CA: restricted; EU: permitted preservative (limits apply) (max 0.1%),open_beauty_facts
 2-bromo-2-nitropropane-1-3-diol,2-bromo-2-nitropropane-1-3-Diol,,0,2,,open_beauty_facts
 2-bromo-2-nitropropane-1.3-diol,2-Bromo-2-Nitropropane-1.3-Diol,,0,2,,open_beauty_facts
 2-hexanediol,2-Hexanediol,,3,4,,formulator_sample_shop; lotioncrafter; open_beauty_facts
@@ -67,7 +67,7 @@ ingredient_key,inci_name,cas,raw_material_count,product_count,regulatory_flags,s
 4-hydroxyacetophenone,4-Hydroxyacetophenone,,0,2,,open_beauty_facts
 4-hydroxypropylamino-3-nitrophenol,4-Hydroxypropylamino-3-Nitrophenol,92952-81-3,0,1,"EU: restricted (max (b) 2.6%); EU: restricted (max (b) 2,6 %)",open_beauty_facts
 4-methylbenzylidene camphor,4-methylbenzylidene camphor,36861-47-9; 38102-62-4,0,5,EU: prohibited,open_beauty_facts
-4-terpineol,4-TERPINEOL,,0,2,,cosrx; open_beauty_facts
+4-terpineol,4-Terpineol,,0,2,,cosrx; open_beauty_facts
 4-tert-butyldihydrocinnamaldehyde,4-TERT-BUTYLDIHYDROCINNAMALDEHYDE,,0,1,EU: restricted (max 0.6%),open_beauty_facts
 47810 petaling jaya,47810 Petaling Jaya,,0,2,,open_beauty_facts
 4th floor,4th Floor,,0,2,,open_beauty_facts
@@ -82,7 +82,7 @@ ingredient_key,inci_name,cas,raw_material_count,product_count,regulatory_flags,s
 5-15 agents de surface anioniques. 5 enzymes,5-15 % Agents de surface anioniques. <5% Enzymes,,0,14,,open_beauty_facts
 5-15 anionische tenside,5-15% anionische Tenside,,0,3,,open_beauty_facts
 5-amino-6-chloro-o-cresol,5-AMINO-6-CHLORO-o-CRESOL,,0,3,,open_beauty_facts
-"5-bromo-5-nitro-1,3-dioxane","5-BROMO-5-NITRO-1,3-DIOXANE",30007-47-7,0,9,EU: permitted preservative (limits apply) (max 0.1%); CA: restricted,open_beauty_facts
+"5-bromo-5-nitro-1,3-dioxane","5-BROMO-5-NITRO-1,3-DIOXANE",30007-47-7,0,9,CA: restricted; EU: permitted preservative (limits apply) (max 0.1%),open_beauty_facts
 59200 kuala lumpur,59200 Kuala Lumpur,,0,2,,open_beauty_facts
 6-amino-m-cresol,6-Amino-m-Cresol,2835-98-5,0,1,EU: prohibited,open_beauty_facts
 6-hydroxyindole,6-HYDROXYINDOLE,,0,9,,open_beauty_facts
@@ -115,7 +115,7 @@ acacia senegal gum extract,ACACIA SENEGAL GUM EXTRACT,,0,4,,open_beauty_facts
 acacia seyal gum extract,Acacia Seyal Gum Extract,,0,3,,open_beauty_facts
 acacia victoriae seed extract,Acacia victoriae Seed Extract,Not assigned,1,0,,native_extracts
 acai senegal gum,Acai Senegal Gum,,1,0,,windy_point
-acanthopanax senticosus root extract,Acanthopanax senticosus Root Extract,84696-12-8,2,1,,aromantic; native_extracts; open_beauty_facts
+acanthopanax senticosus root extract,Acanthopanax Senticosus Root Extract,84696-12-8,2,1,,aromantic; native_extracts; open_beauty_facts
 aceite de coco,Aceite de Coco (Cocos nucifera),,0,3,,open_beauty_facts
 aceite mineral,aceite mineral,,0,9,,open_beauty_facts
 acer saccharum extract,Acer Saccharum (Sugar Maple) Extract,,4,16,,aromantic; formulator_sample_shop; open_beauty_facts; windy_point
@@ -395,7 +395,7 @@ aloe barbedensis leaf juice powder,Aloe Barbedensis Leaf Juice Powder,,0,2,,open
 aloe bardensis leaf extract,Aloe Bardensis Leaf Extract,,0,2,,open_beauty_facts
 aloe bardensis leaf juice powder,ALOE BARDENSIS LEAF JUICE POWDER,,0,2,,open_beauty_facts
 aloe extract,aloe extract,,0,2,,open_beauty_facts
-aloe ferox leaf extract,aloe ferox leaf extract,,0,6,,cosrx; open_beauty_facts
+aloe ferox leaf extract,Aloe Ferox Leaf Extract,,0,6,,cosrx; open_beauty_facts
 aloe vera,Aloe vera,,0,14,,open_beauty_facts
 aloe vera extract,Aloe Vera Extract,,0,8,,open_beauty_facts
 aloe vera gel,Aloe Vera Gel,,0,10,,open_beauty_facts
@@ -830,8 +830,8 @@ bentonite clay,bentonite clay,,0,3,,open_beauty_facts
 benxyl alcohol,Benxyl Alcohol,,0,3,,open_beauty_facts
 benzaldehyde,Benzaldehyde,100-52-7,0,15,EU: restricted,open_beauty_facts
 benzalkonium,Benzalkonium,,0,2,,open_beauty_facts
-benzalkonium chloride,Benzalkonium Chloride,61789-71-7; 68391-01-5; 68424-85-1; 8001-54-5,0,38,EU: restricted (max 3% (as benzalkonium chloride)); EU: permitted preservative (limits apply) (max 0.1% (as benzalkonium chloride)); CA: restricted,open_beauty_facts
-benzethonium chloride,Benzethonium Chloride,121-54-0,0,8,EU: permitted preservative (limits apply) (max 0.1%); CA: restricted,open_beauty_facts
+benzalkonium chloride,Benzalkonium Chloride,61789-71-7; 68391-01-5; 68424-85-1; 8001-54-5,0,38,CA: restricted; EU: restricted (max 3% (as benzalkonium chloride)); EU: permitted preservative (limits apply) (max 0.1% (as benzalkonium chloride)),open_beauty_facts
+benzethonium chloride,Benzethonium Chloride,121-54-0,0,8,CA: restricted; EU: permitted preservative (limits apply) (max 0.1%),open_beauty_facts
 benzil alcohol,BENZIL ALCOHOL,,0,2,,open_beauty_facts
 benzisothiazolinone,Benzisothiazolinone,,0,32,,open_beauty_facts
 benzo - phenone-4,benzo - phenone-4,,0,2,,open_beauty_facts
@@ -841,7 +841,7 @@ benzoate de sodium,benzoate de sodium,,0,14,,open_beauty_facts
 benzoato de sodio,BENZOATO DE SÓDIO,,0,15,,open_beauty_facts
 benzoato di sodio,benzoato di sodio,,0,2,,open_beauty_facts
 benzoic acid,Benzoic Acid,,8,660,EU: permitted preservative (limits apply) (max a) 2.5% (acid)),lotioncrafter; open_beauty_facts
-benzophenone,Benzophenone,119-61-9,0,3,EU: prohibited; CA: restricted,open_beauty_facts
+benzophenone,Benzophenone,119-61-9,0,3,CA: restricted; EU: prohibited,open_beauty_facts
 benzophenone - 3,Benzophenone - 3,,0,2,,open_beauty_facts
 benzophenone-1,BENZOPHENONE-1,,0,27,,open_beauty_facts
 benzophenone-2,BENZOPHENONE-2,,0,4,,open_beauty_facts
@@ -850,7 +850,7 @@ benzophenone-4,Benzophenone-4,,0,167,EU: permitted UV filter (limits apply) (max
 benzophenone-5,Benzophenone-5,,0,2,EU: permitted UV filter (limits apply) (max 5%(as acid)),open_beauty_facts
 benzotriazolyl,Benzotriazolyl,,0,4,,open_beauty_facts
 benzotriazolyl dodecyl p-cresol,Benzotriazolyl Dodecyl p-Cresol,,0,39,,open_beauty_facts; round_lab
-benzoyl peroxide,Benzoyl Peroxide (10.0%),94-36-0,0,1,EU: restricted (max 0.7% (after mixing for use)); CA: restricted,open_beauty_facts
+benzoyl peroxide,Benzoyl Peroxide (10.0%),94-36-0,0,1,CA: restricted; EU: restricted (max 0.7% (after mixing for use)),open_beauty_facts
 benzy alcohol,Benzy Alcohol,,0,9,,open_beauty_facts
 benzy salicylate,Benzy Salicylate,,0,8,,open_beauty_facts
 benzyi alcohol,BenzyI Alcohol,,0,3,,open_beauty_facts
@@ -1002,7 +1002,7 @@ brassica juncea seed oil,Brassica Juncea Seed Oil,,0,6,,open_beauty_facts
 brassica napus seed oil,BRASSICA NAPUS SEED OIL,,0,3,,open_beauty_facts
 brassica oleracea capitata leaf extract,Brassica oleracea capitata Leaf Extract,89958-13-4,1,1,,native_extracts; open_beauty_facts
 brassica oleracea gemmifera extract,Brassica oleracea gemmifera Extract,918-813-2 / 89958-13-4 / Listed Mono ID: 15033,1,0,,native_extracts
-brassica oleracea italica extract,Brassica oleracea italica Extract,89958-13-4 / 223749-36-8 / 91771-39-0,2,1,,formulator_sample_shop; native_extracts; open_beauty_facts
+brassica oleracea italica extract,Brassica Oleracea Italica (Broccoli) Extract,89958-13-4 / 223749-36-8 / 91771-39-0,2,1,,formulator_sample_shop; native_extracts; open_beauty_facts
 brassica oleracea italica extract silybum marianum seed extract,Brassica oleracea italica Extract (and) Silybum marianum Seed Extract (Suggested),Not assigned,1,0,,native_extracts
 brassica oleracea italica seed oil,Brassica Oleracea Italica (Broccoli) Seed Oil,,2,3,,aromantic; lotioncrafter; open_beauty_facts
 brassica oleracea seed oil,Brassica Oleracea (Broccoli) Seed Oil,,1,0,,formulator_sample_shop
@@ -1221,7 +1221,7 @@ calcium oxide,Calcium Oxide,,0,2,,open_beauty_facts
 calcium pantetheine sulfonate,CALCIUM PANTETHEINE SULFONATE,,0,7,,open_beauty_facts
 calcium pantothenate,Calcium Pantothenate,,1,35,,lotioncrafter; open_beauty_facts
 calcium pca,CALCIUM PCA,,0,3,,open_beauty_facts
-calcium peroxide,calcium peroxide,1305-79-9,0,4,"EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o); CA: restricted",open_beauty_facts
+calcium peroxide,calcium peroxide,1305-79-9,0,4,"CA: restricted; EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o)",open_beauty_facts
 calcium phosphate,calcium phosphate,,0,2,,open_beauty_facts
 calcium pyrophosphate,Calcium Pyrophosphate,,0,16,,open_beauty_facts
 calcium silicate,Calcium Silicate,,0,20,,open_beauty_facts
@@ -1231,7 +1231,7 @@ calcium sodium phosphosilicate 5 w w,Calcium Sodium Phosphosilicate (NOVAMIN) 5%
 calcium starch octenylsuccinate,Calcium Starch Octenylsuccinate,,0,4,,open_beauty_facts
 calcium stearate,Calcium Stearate,,0,2,EU: permitted colorant,open_beauty_facts
 calcium sulfate,Calcium Sulfate,,1,6,EU: permitted colorant,aromantic; open_beauty_facts
-calcium sulfate hydrate,Calcium Sulfate Hydrate,,2,0,,aromantic
+calcium sulfate hydrate,Calcium sulfate hydrate,,2,0,,aromantic
 calcium thioglycolate,calcium thioglycolate,,0,1,EU: restricted (max (a) (i) 8% (ii) 11%),open_beauty_facts
 calcium titanium borosilicate,CALCIUM TITANIUM BOROSILICATE,,0,3,,open_beauty_facts
 calcium zinc pvm ma copolymer,Calcium/Zinc PVM/MA Copolymer,,0,2,,open_beauty_facts
@@ -1274,12 +1274,12 @@ camellia sinensis extract,Camellia Sinensis (White Tea) Extract,,0,4,,open_beaut
 camellia sinensis extract camellia sinensis leaf extract,CAMELLIA SINENSIS EXTRACT / CAMELLIA SINENSIS LEAF EXTRACT,,0,4,,open_beauty_facts
 camellia sinensis leaf,CAMELLIA SINENSIS LEAF,,0,3,,open_beauty_facts
 camellia sinensis leaf extract,Camellia Sinensis Leaf Extract,84650-60-2,16,254,,cosrx; formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts; round_lab; windy_point
-camellia sinensis leaf water,CAMELLIA SINENSIS LEAF WATER,,0,8,,cosrx; open_beauty_facts; round_lab
+camellia sinensis leaf water,Camellia Sinensis Leaf Water,,0,8,,cosrx; open_beauty_facts; round_lab
 camellia sinensis oil,Camellia Sinensis Oil,,0,2,,open_beauty_facts
 camellia sinensis seed oil,Camellia Sinensis Seed Oil (Tea Tree Oil),,0,2,,open_beauty_facts
 camellia sinesis leaf extract,Camellia Sinesis Leaf Extract,,0,2,,open_beauty_facts
 camosine,Camosine,,0,5,,open_beauty_facts
-camphor,Camphor,21368-68-3; 464-48-2; 464-49-3; 76-22-2,0,83,EU: restricted; CA: restricted,open_beauty_facts; round_lab
+camphor,Camphor,21368-68-3; 464-48-2; 464-49-3; 76-22-2,0,83,CA: restricted; EU: restricted,open_beauty_facts; round_lab
 camphor benzalkonium methosulfate,camphor benzalkonium methosulfate,52793-97-2,0,1,EU: permitted UV filter (limits apply) (max 6%),open_beauty_facts
 can grow up to 2 feet high. the small white flowers,can grow up to 2 feet high. The small white flowers,,1,0,,formulator_sample_shop
 cananga odorata flower extract,cananga odorata flower extract,,0,7,EU: restricted,open_beauty_facts
@@ -1344,7 +1344,7 @@ caprylicicapric triglyceride,CAPRYLICICAPRIC TRIGLYCERIDE,,0,2,,open_beauty_fact
 capryloyl caproyl methyl glucamide,Capryloyl/Caproyl Methyl Glucamide,,0,4,,open_beauty_facts
 capryloyl glycerin sebacic acid copolymer,Capryloyl Glycerin/Sebacic Acid Copolymer,,0,13,,open_beauty_facts
 capryloyl glycine,Capryloyl Glycine,,1,86,,lotioncrafter; open_beauty_facts
-capryloyl salicylic acid,CAPRYLOYL SALICYLIC ACID,,0,55,,cosrx; open_beauty_facts; round_lab
+capryloyl salicylic acid,Capryloyl Salicylic Acid,,0,55,,cosrx; open_beauty_facts; round_lab
 capryly capryl glucoside,Capryly/Capryl Glucoside,,0,4,,open_beauty_facts
 capryly glycol,Capryly Glycol,,0,7,,open_beauty_facts
 caprylyl,Caprylyl,,0,8,,open_beauty_facts
@@ -1637,7 +1637,7 @@ chloroxylenol,Chloroxylenol,1321-23-9; 88-04-0,0,2,EU: permitted preservative (l
 chlorphenesi,Chlorphenesi,,0,2,,open_beauty_facts
 chlorphenesin,Chlorphenesin,104-29-0,0,269,EU: permitted preservative (limits apply) (max 0.3%),cosrx; open_beauty_facts
 chlorure de sodium,chlorure de sodium,,0,13,,open_beauty_facts
-cholecalciferol,Cholecalciferol,67-97-0,1,14,EU: prohibited; CA: restricted,formulator_sample_shop; open_beauty_facts
+cholecalciferol,Cholecalciferol,67-97-0,1,14,CA: restricted; EU: prohibited,formulator_sample_shop; open_beauty_facts
 cholesterol,Cholesterol,,3,125,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 choleth-24,Choleth-24,,1,0,,formulator_sample_shop
 chondrus crispus,Chondrus Crispus (Carrageenan),,0,50,,cosrx; open_beauty_facts; round_lab
@@ -1882,7 +1882,7 @@ citrus aurantium amara peel oil,Citrus Aurantium Amara (Bitter Orange) Peel Oil,
 citrus aurantium amara water,Citrus Aurantium Amara Water,,0,3,,open_beauty_facts
 citrus aurantium bergamia fruit extract,Citrus Aurantium Bergamia (Bergamot) Fruit Extract,,0,5,,open_beauty_facts
 citrus aurantium bergamia fruit oil,Citrus Aurantium Bergamia (Bergamot) Fruit Oil,,1,42,,aromantic; cosrx; open_beauty_facts; round_lab
-citrus aurantium bergamia leaf extract,Citrus Aurantium Bergamia Leaf Extract,,0,2,,round_lab
+citrus aurantium bergamia leaf extract,Citrus Aurantium Bergamia (Bergamot) Leaf Extract,,0,2,,round_lab
 citrus aurantium bergamia peel oil,CITRUS AURANTIUM BERGAMIA (BERGAMOT) PEEL OIL,68648-33-9; 8007-75-8; 85049-52-1; 89957-91-5,0,28,EU: restricted,open_beauty_facts
 citrus aurantium bergamia peel oil bergamot peel oil,citrus aurantium bergamia peel oil / bergamot peel oil,,0,2,,open_beauty_facts
 citrus aurantium bergamia peel water,Citrus Aurantium Bergamia Peel Water,,0,2,,open_beauty_facts
@@ -1908,7 +1908,7 @@ citrus australasica fruit extract,Citrus australasica Fruit Extract,1174331-57-7
 citrus australis fruit extract,Citrus australis Fruit Extract,Not assigned,1,0,,native_extracts
 citrus bergamia peel oil expressed,citrus bergamia peel oil expressed,,3,3,,aromantic; open_beauty_facts
 citrus clementina fruit extract,CITRUS CLEMENTINA FRUIT EXTRACT,Listed Mono ID: 11399,1,2,,native_extracts; open_beauty_facts
-citrus glauca fruit extract,Citrus glauca Fruit Extract,1174331-62-4,2,0,,formulator_sample_shop; native_extracts
+citrus glauca fruit extract,Citrus Glauca Fruit Extract,1174331-62-4,2,0,,formulator_sample_shop; native_extracts
 citrus grandis,CITRUS GRANDIS,,0,2,,open_beauty_facts
 citrus grandis fruit extract,Citrus Grandis Fruit Extract,,2,29,,formulator_sample_shop; open_beauty_facts
 citrus grandis grapefruit fruit water,Citrus Grandis / Grapefruit Fruit Water,,0,2,,open_beauty_facts
@@ -1954,7 +1954,7 @@ citrus medica limonum peel oil,Citrus Medica Limonum (Lemon) Peel Oil,,0,26,,ope
 citrus medica vulgaris fruit extract,CITRUS MEDICA VULGARIS FRUIT EXTRACT,,0,7,,open_beauty_facts
 citrus medica vulgaris peel oil,CITRUS MEDICA VULGARIS PEEL OIL,,0,2,,open_beauty_facts
 citrus nobilis fruit extract,Citrus Nobilis Fruit Extract,,0,13,,open_beauty_facts
-citrus nobilis oil,Citrus Nobilis Oil,,0,4,,cosrx; open_beauty_facts; round_lab
+citrus nobilis oil,Citrus Nobilis (Mandarin Orange) Oil,,0,4,,cosrx; open_beauty_facts; round_lab
 citrus nobilis peel oil,Citrus Nobilis (Mandarin Orange) Peel Oil,,3,20,,aromantic; open_beauty_facts
 citrus nobilis peel oil mandarin orange peel oil,Citrus Nobilis Peel Oil/Mandarin Orange Peel Oil,,0,2,,open_beauty_facts
 citrus paradisi fruit extract,Citrus Paradisi Fruit Extract,8016-20-4,1,16,,native_extracts; open_beauty_facts
@@ -1983,7 +1983,7 @@ cladonia rangiferina extract,Cladonia Rangiferina Extract,,1,0,,formulator_sampl
 cladosiphon okamuranus extract,Cladosiphon Okamuranus Extract,,0,4,,open_beauty_facts; round_lab
 clay,Clay,,0,2,,open_beauty_facts
 climbazole,Climbazole,38083-17-9,0,18,"EU: restricted (max 2,0 %); EU: permitted preservative (limits apply) (max (a) 0,2 %)",open_beauty_facts
-clitoria ternatea flower extract,Clitoria ternatea Flower Extract,Listed Mono ID: 16092,2,0,,formulator_sample_shop; native_extracts
+clitoria ternatea flower extract,Clitoria Ternatea Flower Extract,Listed Mono ID: 16092,2,0,,formulator_sample_shop; native_extracts
 clocherane,Clocherane,,0,3,,open_beauty_facts
 cloreto de cetrimonio,CLORETO DE CETRIMÔNIO,,0,2,,open_beauty_facts
 cloreto de sodio,CLORETO DE SÓDIO,,0,7,,open_beauty_facts
@@ -2276,7 +2276,7 @@ cumin,Cumin,,0,2,,open_beauty_facts
 cupressus sempervirens bark extract,Cupressus Sempervirens (Cypress) Bark Extract,,1,0,EU: restricted,formulator_sample_shop
 cupressus sempervirens leaf nut stem oil,Cupressus Sempervirens Leaf/Nut/Stem Oil,,0,1,EU: restricted,open_beauty_facts
 cupressus sempervirens leaf oil,Cupressus Sempervirens Leaf Oil,,1,0,,aromantic
-cupressus sempervirens oil,Cupressus Sempervirens (Cypress) Oil,,0,3,,cosrx; open_beauty_facts
+cupressus sempervirens oil,Cupressus Sempervirens Oil,,0,3,,cosrx; open_beauty_facts
 curcuma aromatica root oil,Curcuma Aromatica Root Oil,,0,3,,open_beauty_facts
 curcuma longa,CURCUMA LONGA,,0,2,,open_beauty_facts; round_lab
 curcuma longa root extract,Curcuma Longa (Turmeric) Root Extract,84775-52-0,3,32,,cosrx; formulator_sample_shop; native_extracts; open_beauty_facts; round_lab
@@ -2299,7 +2299,7 @@ cyclopentasiloxane,Cyclopentasiloxane,,8,474,,cosrx; formulator_sample_shop; lot
 cyclotetrasiloxane,cyclotetrasiloxane,,0,8,,open_beauty_facts
 cydonia oblonga leaf extract,CYDONIA OBLONGA LEAF EXTRACT,,0,2,,open_beauty_facts
 cydopentasiloxane,Cydopentasiloxane,,0,2,,open_beauty_facts
-cylindrotheca fusiformis extract,Cylindrotheca fusiformis extract,,2,0,,aromantic
+cylindrotheca fusiformis extract,Cylindrotheca Fusiformis Extract,,2,0,,aromantic
 cymbidium grandiflorum flower extract,Cymbidium Grandiflorum Flower Extract,,1,4,,formulator_sample_shop; open_beauty_facts
 cymbopogan citratus extract,Cymbopogan citratus Extract,84238-19-7 / 8998-14-1,1,0,,native_extracts
 cymbopogon bombycinus leaf extract,Cymbopogon bombycinus Leaf Extract,1415551-73-3,1,0,,native_extracts
@@ -2319,7 +2319,7 @@ cymidium grandiflorum flower extract,Cymidium Grandiflorum Flower Extract,,1,0,,
 cynara scolymus leaf extract,Cynara Scolymus (Artichoke) Leaf Extract,,1,2,,formulator_sample_shop; round_lab
 cyperus esculentus root oil,Cyperus Esculentus Root Oil,,1,2,,aromantic; open_beauty_facts
 cypres,Cypres,,0,2,,open_beauty_facts
-cystine,CYSTINE,,0,6,,cosrx; open_beauty_facts
+cystine,Cystine,,0,6,,cosrx; open_beauty_facts
 cystine bis-pg-propyl silanetriol,cystine bis-pg-propyl silanetriol,,0,2,,open_beauty_facts
 cystoseira compressa extract,Cystoseira Compressa Extract,,0,7,,open_beauty_facts
 cytisus scoparius branch flower leaf extract,CYTISUS SCOPARIUS BRANCH/FLOWER/LEAF EXTRACT,,0,2,,open_beauty_facts
@@ -2437,7 +2437,7 @@ diethylexyl carbonate,Diethylexyl Carbonate,,0,2,,open_beauty_facts
 "diethylhexyl 2,6-naphthalate","Diethylhexyl 2,6-Naphthalate",,0,5,,open_beauty_facts; round_lab
 diethylhexyl adipate,Diethylhexyl adipate,103-23-1,0,9,CA: restricted,open_beauty_facts
 diethylhexyl butamido triazone,Diethylhexyl Butamido Triazone,154702-15-5,0,86,EU: permitted UV filter (limits apply) (max 10%),open_beauty_facts; round_lab
-diethylhexyl carbonate,DIETHYLHEXYL CARBONATE,,0,17,,cosrx; open_beauty_facts; round_lab
+diethylhexyl carbonate,Diethylhexyl Carbonate,,0,17,,cosrx; open_beauty_facts; round_lab
 diethylhexyl maleate,diethylhexyl maleate,,0,2,,open_beauty_facts
 diethylhexyl sodium sulfosuccinate,Diethylhexyl Sodium Sulfosuccinate,,0,8,,cosrx; open_beauty_facts
 diethylhexyl succinate,Diethylhexyl Succinate,,0,3,,open_beauty_facts
@@ -2722,7 +2722,7 @@ equisetum hiemale extract,Equisetum Hiemale Extract,,1,0,,formulator_sample_shop
 equisetum maximum lam,Equisetum maximum Lam,,1,0,,aromantic
 erand gardens,erand gardens,,0,2,,open_beauty_facts
 eremophila longifolia leaf extract,Eremophila longifolia Leaf Extract,1174403-86-1,1,0,,native_extracts
-ergocalciferol,ergocalciferol (vitamin d),50-14-6,0,2,EU: prohibited; CA: restricted,open_beauty_facts
+ergocalciferol,ergocalciferol (vitamin d),50-14-6,0,2,CA: restricted; EU: prohibited,open_beauty_facts
 ergothioneine,ergothioneine,,0,2,,open_beauty_facts
 eruca sativa leaf extract,ERUCA SATIVA LEAF EXTRACT,,0,6,,open_beauty_facts
 eruciate,eruciate-,,0,2,,open_beauty_facts
@@ -2850,7 +2850,7 @@ eucalyptus globulus oil,Eucalyptus Globulus Oil,,0,30,,open_beauty_facts
 eucalyptus leaf oil,eucalyptus leaf oil,,0,3,,open_beauty_facts
 eucalyptus oil,eucalyptus oil,1627700-32-6; 8000-48-4; 85203-56-1; 90028-48-1; 91771-69-6,0,7,CA: restricted,open_beauty_facts
 eucalyptus olida leaf extract,Eucalyptus olida Leaf Extract,1174404-39-7,1,0,,native_extracts
-eucalyptus radiata flower leaf stem oil,Eucalyptus radiata flower/leaf/stem oil,,2,0,,aromantic
+eucalyptus radiata flower leaf stem oil,Eucalyptus Radiata Flower/Leaf/Stem Oil,,2,0,,aromantic
 eucalyptus radiata leaf stem oil,eucalyptus radiata (eucalyptus) leaf/stem oil,,0,3,,open_beauty_facts
 eucalyptusol,Eucalyptusöl,,0,2,,open_beauty_facts
 eucalypus globulus leaf extract,Eucalypus globulus Leaf Extract,84625-32-1,1,0,,native_extracts
@@ -2960,7 +2960,7 @@ foeniculum vulgare seed extract,Foeniculum Vulgare Seed Extract,84625-39-8 / 926
 folic acid,folic acid,,0,9,,open_beauty_facts; round_lab
 fomes officinalis extract,FOMES OFFICINALIS (MUSHROOM) EXTRACT,,0,4,,open_beauty_facts
 for burt s bees,for burt's bees,,0,2,,open_beauty_facts
-formaldehyde,FORMALDEHYDE,50-00-0,0,5,EU: prohibited; CA: restricted,open_beauty_facts
+formaldehyde,FORMALDEHYDE,50-00-0,0,5,CA: restricted; EU: prohibited,open_beauty_facts
 formic acid,FORMIC ACID,,0,91,EU: permitted preservative (limits apply) (max 0.5% (as acid)),open_beauty_facts
 formica acid,Formica acid,,0,2,,open_beauty_facts
 fosfato de potassio dibasico,FOSFATO DE POTÁSSIO DIBÁSICO,,0,2,,open_beauty_facts
@@ -3047,7 +3047,7 @@ gamma aminobutyric acid,Gamma Aminobutyric Acid,,1,0,,formulator_sample_shop
 ganoderma lucidum extract,Ganoderma Lucidum (Mushroom) Extract,,1,4,,formulator_sample_shop; open_beauty_facts; round_lab
 ganoderma sichuanense extract,Ganoderma sichuanense Extract,Listed Mono ID: 30704,1,0,,native_extracts
 garcinia indica butter,Garcinia indica (Kokum) Butter,,1,1,,formulator_sample_shop; open_beauty_facts
-garcinia indica seed butter,Garcinia Indica (Kokum) Seed Butter,,2,2,,aromantic; open_beauty_facts; windy_point
+garcinia indica seed butter,Garcinia Indica Seed Butter,,2,2,,aromantic; open_beauty_facts; windy_point
 garcinia mangostana fruit extract,Garcinia Mangostana Fruit Extract,90045-25-3,2,1,,formulator_sample_shop; native_extracts; open_beauty_facts
 garcinia mangostana oil,Garcinia Mangostana Oil,,1,0,,formulator_sample_shop
 garcinia mangostana peel extract,garcinia mangostana peel extract,,0,4,,open_beauty_facts
@@ -3144,7 +3144,7 @@ glycer stearate,GLYCER STEARATE,,0,2,,open_beauty_facts
 glycereth-18,glycereth-18,,0,2,,open_beauty_facts
 glycereth-2 cocoate,Glycereth-2 Cocoate,,0,18,,open_beauty_facts
 glycereth-2-cocoate,Glycereth-2-Cocoate,,0,3,,open_beauty_facts
-glycereth-25 pca isostearate,Glycereth-25 PCA Isostearate,,0,2,,cosrx; round_lab
+glycereth-25 pca isostearate,GLYCERETH-25 PCA ISOSTEARATE,,0,2,,cosrx; round_lab
 glycereth-26,Glycereth-26,,0,28,,open_beauty_facts; round_lab
 glycereth-7,Glycereth-7,,0,2,,open_beauty_facts
 glycereth-7 caprylate caprate,Glycereth-7 Caprylate/Caprate,,0,2,,open_beauty_facts
@@ -3224,7 +3224,7 @@ glyceryn,glyceryn,,0,6,,open_beauty_facts
 glycin soja oil,"GLYCIN SOJA (SOY, EAN) OIL",,0,3,,open_beauty_facts
 glycine,Glycine,,4,176,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 glycine max oil,Glycine Max (Soybean) Oil,,0,3,,open_beauty_facts; round_lab
-glycine max seed extract,"Glycine Max (Soybean) Seed Extract (10,032ppm)",,0,9,,open_beauty_facts; round_lab
+glycine max seed extract,Glycine Max (Soybean) Seed Extract,,0,9,,open_beauty_facts; round_lab
 glycine soja,Glycine Soja (Soybean),,0,6,,open_beauty_facts
 glycine soja extract,Glycine Soja Extract,,0,2,,open_beauty_facts
 glycine soja germ extract,Glycine Soja (Soybean) Germ Extract,,0,15,,open_beauty_facts
@@ -3257,7 +3257,7 @@ glycol trimellitic anhydride copolymer,Glycol/ Trimellitic Anhydride Copolymer,,
 glycoldistearate,GLYCOLDISTEARATE,,0,9,,open_beauty_facts
 glycolic acid,Glycolic Acid,79-14-1,2,44,CA: restricted,cosrx; formulator_sample_shop; open_beauty_facts
 glycolipids,Glycolipids,,0,25,,open_beauty_facts
-glycoprotein,Glycoprotein (0.2ppm),,0,2,,round_lab
+glycoprotein,Glycoprotein (8.3760ppm),,0,2,,round_lab
 glycoproteins,Glycoproteins,,0,9,,open_beauty_facts; round_lab
 glycosphingolipids,Glycosphingolipids,,0,9,,cosrx; open_beauty_facts; round_lab
 glycosyl trehalose,glycosyl trehalose,,0,2,,open_beauty_facts
@@ -3472,7 +3472,7 @@ hippophae rhamnoides fruit extract,Hippophae Rhamnoides Fruit Extract,,2,18,,aro
 hippophae rhamnoides fruit oil,Hippophae Rhamnoides Fruit Oil,,2,13,,formulator_sample_shop; lotioncrafter; open_beauty_facts
 hippophae rhamnoides oil,Hippophae Rhamnoides Oil,,0,15,,open_beauty_facts
 hippophae rhamnoides seed oil,Hippophae Rhamnoides (Sea Buckthorn) Seed Oil,,1,1,,lotioncrafter; open_beauty_facts
-hippophae rhamnoides water,"Hippophae Rhamnoides Water (146,248 ppm)",,0,2,,cosrx; round_lab
+hippophae rhamnoides water,Hippophae Rhamnoides Water,,0,2,,cosrx; round_lab
 histidine,Histidine,,1,84,,cosrx; formulator_sample_shop; open_beauty_facts
 histidine hci,Histidine HCI,,0,3,,open_beauty_facts
 histidine hcl,histidine hcl,,0,2,,open_beauty_facts
@@ -3525,7 +3525,7 @@ humulus lupulus flower extract,humulus lupulus (hops) flower extract,,0,2,,open_
 humulus lupus flower extract,Humulus Lupus (Hops) Flower Extract,,1,0,,lotioncrafter
 hy - drogenated rapeseed oil,Hy - drogenated Rapeseed Oil,,0,2,,open_beauty_facts
 hyaluronat,Hyaluronat,,0,2,,open_beauty_facts
-hyaluronate,HYALURONATE,,0,6,,cosrx; open_beauty_facts
+hyaluronate,Hyaluronate,,0,6,,cosrx; open_beauty_facts
 hyaluronic acid,Hyaluronic Acid,,5,113,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
 hyaluronsaure,Hyaluronsäure,,0,2,,open_beauty_facts
 hydantoin,hydantoin,,0,2,,open_beauty_facts
@@ -3541,7 +3541,7 @@ hydro - genated castor oil,HYDRO - GENATED CASTOR OIL,,0,3,,open_beauty_facts
 hydrochloric acid,Hydrochloric Acid,,0,70,,open_beauty_facts
 hydrofluorocarbon 152a,hydrofluorocarbon 152A,,0,8,,open_beauty_facts
 hydrogen dimethicone,Hydrogen Dimethicone,,0,18,,open_beauty_facts
-hydrogen peroxide,HYDROGEN PEROXIDE,7722-84-1,0,121,"EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o); CA: restricted",open_beauty_facts
+hydrogen peroxide,HYDROGEN PEROXIDE,7722-84-1,0,121,"CA: restricted; EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o)",open_beauty_facts
 hydrogenated,Hydrogenated,,0,4,,open_beauty_facts
 hydrogenated apricot kernel oil,HYDROGENATED APRICOT KERNEL OIL,,0,3,,open_beauty_facts
 hydrogenated castor oil,Hydrogenated Castor Oil,,4,294,,formulator_sample_shop; lotioncrafter; open_beauty_facts
@@ -3572,7 +3572,7 @@ hydrogenated palm kernel glycerides,HYDROGENATED PALM KERNEL GLYCERIDES,,0,13,,o
 hydrogenated palm kernel oil,HYDROGENATED PALM KERNEL OIL,,0,5,,open_beauty_facts
 hydrogenated palm oil,HYDROGENATED PALM OIL,,0,29,,open_beauty_facts
 hydrogenated phosphatidylcholine,Hydrogenated Phosphatidylcholine,,0,3,,cosrx; open_beauty_facts
-hydrogenated poly,Hydrogenated Poly(C6-14 Olefin),,0,11,,cosrx; open_beauty_facts; round_lab
+hydrogenated poly,HYDROGENATED POLY(C6-14 OLEFIN),,0,11,,cosrx; open_beauty_facts; round_lab
 hydrogenated polydecene,Hydrogenated Polydecene,,0,83,,open_beauty_facts; round_lab
 hydrogenated polyisobutene,HYDROGENATED POLYISOBUTENE,,0,126,,cosrx; open_beauty_facts; round_lab
 hydrogenated polylsobutene,HYDROGENATED POLYlSOBUTENE,,0,2,,open_beauty_facts
@@ -3671,7 +3671,7 @@ hydrolyzed wool,Hydrolyzed Wool,,1,3,,formulator_sample_shop; open_beauty_facts
 hydrolyzed yeast extract,HYDROLYZED YEAST EXTRACT,,0,3,,open_beauty_facts
 hydrolyzed yeast protein,HYDROLYZED YEAST PROTEIN,,0,6,,open_beauty_facts
 hydrolyzed yogurt protein,Hydrolyzed Yogurt Protein,,1,1,,formulator_sample_shop; open_beauty_facts
-hydroquinone,hydroquinone,123-31-9,0,1,EU: prohibited; EU: restricted (max 0.02% (after mixing for use)); CA: restricted,open_beauty_facts
+hydroquinone,hydroquinone,123-31-9,0,1,CA: restricted; EU: prohibited; EU: restricted (max 0.02% (after mixing for use)),open_beauty_facts
 hydroxde,Hydroxde,,0,2,,open_beauty_facts
 hydroxide,HYDROXIDE,,0,12,,open_beauty_facts
 hydroxy - acetophenone,Hydroxy - acetophenone,,0,2,,open_beauty_facts
@@ -3722,7 +3722,7 @@ hydroxyproplytrimonium hydrolyzed soy protein,Hydroxyproplytrimonium Hydrolyzed 
 hydroxypropyl,HYDROXYPROPYL,,0,4,,open_beauty_facts
 hydroxypropyl bis hcl,HYDROXYPROPYL BIS(N-HYDROXYETHYL-P-PHENYLENEDIAMINE) HCL,128729-28-2; 128729-30-6,0,5,EU: restricted,open_beauty_facts
 hydroxypropyl bislauramide mea,Hydroxypropyl Bislauramide MEA,,0,2,,cosrx
-hydroxypropyl bispalmitamide mea,Hydroxypropyl Bispalmitamide Mea,,0,2,,cosrx; open_beauty_facts
+hydroxypropyl bispalmitamide mea,Hydroxypropyl Bispalmitamide MEA,,0,2,,cosrx; open_beauty_facts
 hydroxypropyl cyclodextrin,Hydroxypropyl Cyclodextrin,,1,9,,cosrx; lotioncrafter; open_beauty_facts
 hydroxypropyl guar,HYDROXYPROPYL GUAR,,0,30,,open_beauty_facts
 hydroxypropyl guar hydroxypropyltri - monium chloride,HYDROXYPROPYL GUAR HYDROXYPROPYLTRI - MONIUM CHLORIDE,,0,2,,open_beauty_facts
@@ -3769,7 +3769,7 @@ if swallowed,if swallowed,,0,8,,open_beauty_facts
 if you are allergic to any of the above ingredients,if you are allergic to any of the above ingredients,,0,2,,open_beauty_facts
 if you choose,if you choose,,1,0,,lotioncrafter
 if you do,if you do,,0,2,,open_beauty_facts
-ilex paraguariensis leaf extract,Ilex paraguariensis Leaf Extract,73296-98-7 / 84082-59-7,2,2,,formulator_sample_shop; native_extracts; open_beauty_facts
+ilex paraguariensis leaf extract,Ilex Paraguariensis Leaf Extract,73296-98-7 / 84082-59-7,2,2,,formulator_sample_shop; native_extracts; open_beauty_facts
 illicium verum fruit extract,ILLICIUM VERUM (ANISE) FRUIT EXTRACT,,0,3,,open_beauty_facts
 illicium verum fruit seed oil,Illicium Verum (Anise) Fruit/Seed Oil,,0,5,,open_beauty_facts
 illite,Illite,,8,56,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
@@ -4452,7 +4452,7 @@ mel honey miel,Mel/Honey/Miel,,0,7,,open_beauty_facts
 mel quot,Mel (Honey)&quot,,0,3,,open_beauty_facts
 melaleuca alternifolia,melaleuca alternifolia,,0,2,,open_beauty_facts
 melaleuca alternifolia extract,MELALEUCA ALTERNIFOLIA (TEA TREE) EXTRACT,,0,2,,open_beauty_facts
-melaleuca alternifolia leaf extract,MELALEUCA ALTERNIFOLIA LEAF EXTRACT,,0,4,,cosrx; open_beauty_facts
+melaleuca alternifolia leaf extract,Melaleuca Alternifolia (Tea Tree) Leaf Extract,,0,4,,cosrx; open_beauty_facts
 melaleuca alternifolia leaf oil,Melaleuca Alternifolia (Tea Tree) Leaf Oil,,1,110,,aromantic; cosrx; open_beauty_facts
 melaleuca alternifolia leaf oil melaleuca alternifolia leaf oil,Melaleuca Alternifolia Leaf Oil/Melaleuca Alternifolia (Tea Tree) Leaf Oil,,0,4,,open_beauty_facts
 melaleuca alternifolia leaf oil tea tree leaf oil,MELALEUCA ALTERNIFOLIA LEAF OIL / TEA TREE LEAF OIL,,0,6,,open_beauty_facts
@@ -4558,7 +4558,7 @@ methyl paraben,Methyl Paraben,,0,20,,open_beauty_facts
 methyl perfluorobutyl ether,methyl perfluorobutyl ether,,0,3,,open_beauty_facts
 methyl phenylbutanol,Methyl Phenylbutanol,,0,3,,open_beauty_facts
 methyl propanediol,Methyl Propanediol,,0,2,,open_beauty_facts
-methyl salicylate,Methyl Salicylate,119-36-8,0,47,"EU: restricted (max (a) 0,06 %); CA: restricted",open_beauty_facts
+methyl salicylate,Methyl Salicylate,119-36-8,0,47,"CA: restricted; EU: restricted (max (a) 0,06 %)",open_beauty_facts
 methyl trimethicone,Methyl Trimethicone,,0,13,,cosrx; open_beauty_facts; round_lab
 methyl trimethicone. fil c179940 1,METHYL TRIMETHICONE. FIL C179940/1,,0,2,,open_beauty_facts
 methyl tyrosinate hcl,METHYL TYROSINATE HCL,,0,2,,open_beauty_facts
@@ -4586,7 +4586,7 @@ methylheptyl isostearate,methylheptyl isostearate,,0,2,,open_beauty_facts
 methylichloroisothiazolinone,Methylichloroisothiazolinone,,0,2,,open_beauty_facts
 methyliso - thiazolinone,METHYLISO - THIAZOLINONE,,0,4,,open_beauty_facts
 methylisothiazoline,Methylisothiazoline,,0,2,,open_beauty_facts
-methylisothiazolinone,Methylisothiazolinone,2682-20-4,0,652,"EU: permitted preservative (limits apply) (max 0.0015% (of a mixture in the ratio 3:1 o); EU: permitted preservative (limits apply) (max 0,0015 % Rinse-off products); CA: restricted",open_beauty_facts
+methylisothiazolinone,Methylisothiazolinone,2682-20-4,0,652,"CA: restricted; EU: permitted preservative (limits apply) (max 0.0015% (of a mixture in the ratio 3:1 o); EU: permitted preservative (limits apply) (max 0,0015 % Rinse-off products)",open_beauty_facts
 methylparabe propylparaben,METHYLPARABE PROPYLPARABEN,,0,2,,open_beauty_facts
 methylparaben,Methylparaben,,1,577,"EU: permitted preservative (limits apply) (max 0,4% (as acid) for single ester)",lotioncrafter; open_beauty_facts
 methylparaben propylparaben,methylparaben propylparaben,,0,2,,open_beauty_facts
@@ -4618,7 +4618,7 @@ microcrystalline cel - lulose,Microcrystalline Cel - lulose,,0,2,,open_beauty_fa
 microcrystalline cellulose,Microcrystalline Cellulose,,0,155,,cosrx; open_beauty_facts; round_lab
 microcrystalline cellulose gum,Microcrystalline cellulose gum,,0,2,,open_beauty_facts
 microcrystalline wax,Microcrystalline Wax,,0,43,,cosrx; open_beauty_facts; round_lab
-microcrystalline wax cera microcristallina cire microcristalline,Microcrystalline Wax\Cera Microcristallina\Cire Microcristalline,,0,5,,cosrx; open_beauty_facts
+microcrystalline wax cera microcristallina cire microcristalline,MICROCRYSTALLINE WAX / CERA MICROCRISTALLINA / CIRE MICROCRISTALLINE,,0,5,,cosrx; open_beauty_facts
 midrand,midrand,,0,2,,open_beauty_facts
 miel,miel,,0,4,,open_beauty_facts
 milchsaure,Milchsäure,,0,4,,open_beauty_facts
@@ -4852,7 +4852,7 @@ oenothera biennis flower extract,Oenothera Biennis (Evening Primrose) Flower Ext
 oenothera biennis oil,Oenothera Biennis Oil,,5,43,,aromantic; lotioncrafter; open_beauty_facts; round_lab; windy_point
 oenothera biennis oil evening primrose oil,OENOTHERA BIENNIS OIL / EVENING PRIMROSE OIL,,0,6,,open_beauty_facts
 oenothera biennis root extract,Oenothera Biennis (Evening Primrose) Root Extract,,3,0,,formulator_sample_shop
-oenothera biennis seed extract,Oenothera biennis Seed Extract,90028-66-3,3,4,,aromantic; native_extracts; open_beauty_facts
+oenothera biennis seed extract,Oenothera Biennis Seed Extract,90028-66-3,3,4,,aromantic; native_extracts; open_beauty_facts
 of beiersdorf ag,of Beiersdorf AG,,0,3,,open_beauty_facts
 of u,of u,,0,3,,open_beauty_facts
 officinalis leaf extract,OFFICINALIS (ROSEMARY) LEAF EXTRACT,,0,3,,open_beauty_facts
@@ -4972,7 +4972,7 @@ organic simmondsia chinensis seed oil,Organic Simmondsia Chinensis (Jojoba) Seed
 organic sunflower oil,Organic Sunflower Oil,,0,4,,open_beauty_facts
 organic tapioca syrup,Organic Tapioca Syrup,,0,3,,open_beauty_facts
 origan,Origan,,0,3,,open_beauty_facts
-origanum majorana leaf oil,Origanum majorana Leaf Oil,,3,2,,aromantic; open_beauty_facts
+origanum majorana leaf oil,Origanum Majorana Leaf Oil,,3,2,,aromantic; open_beauty_facts
 origanum vulgare leaf extract,Origanum vulgare Leaf Extract,84012-24-8,1,4,,native_extracts; open_beauty_facts
 origanum vulgare leaf oil,origanum vulgare leaf oil (oregano),,0,2,,open_beauty_facts
 ormenis multicaulis oil,Ormenis Multicaulis Oil,,0,5,,open_beauty_facts
@@ -5365,7 +5365,7 @@ petrolato liquido,PETROLATO LÍQUIDO,,0,4,,open_beauty_facts
 petrolatum,Petrolatum,,0,373,EU: prohibited,cosrx; open_beauty_facts
 petroleum,petroleum,,0,3,,open_beauty_facts
 petroleum jelly,Petroleum Jelly,,0,8,,open_beauty_facts
-petroleum resin,petroleum resin,,0,2,,cosrx; open_beauty_facts
+petroleum resin,Petroleum Resin,,0,2,,cosrx; open_beauty_facts
 petroselinum crispum seed extract,Petroselinum crispum Seed Extract,84012-33-9,1,0,,native_extracts
 peucedanum ostruthium leaf extract,Peucedanum Ostruthium Leaf Extract,,0,2,,open_beauty_facts
 pflanzliches glycerin,pflanzliches Glycerin,,0,12,,open_beauty_facts
@@ -5466,7 +5466,7 @@ picea mariana leaf oil,Picea Mariana Leaf Oil,,0,1,EU: restricted,open_beauty_fa
 pigment green 7,Pigment Green 7,,1,1,EU: prohibited; EU: permitted colorant (max Not to be used in eye products),open_beauty_facts; windy_point
 pigments,Pigments,,0,2,,open_beauty_facts
 pikea robusta extract,Pikea Robusta Extract,,1,0,,formulator_sample_shop
-pimpinella anisum fruit extract,Pimpinella Anisum Fruit Extract,,0,2,,cosrx; open_beauty_facts
+pimpinella anisum fruit extract,Pimpinella Anisum(Anise) Fruit Extract,,0,2,,cosrx; open_beauty_facts
 pimpinella anisum seed extract,pimpinella anisum (anise) seed extract,84775-42-8,1,4,,native_extracts; open_beauty_facts
 pin sylvestre,Pin sylvestre,,0,2,,open_beauty_facts
 pineamidopropyl betaine,Pineamidopropyl Betaine,,0,2,,open_beauty_facts
@@ -5652,7 +5652,7 @@ polyglyceryl-4 laurate sebacate,Polyglyceryl-4 Laurate/Sebacate,,0,7,,open_beaut
 polyglyceryl-4 laurate succinate,Polyglyceryl-4 Laurate/Succinate,,0,3,,open_beauty_facts
 polyglyceryl-4 oleate,Polyglyceryl-4 Oleate,,0,3,,open_beauty_facts
 polyglyceryl-4 oleyl ether,POLYGLYCERYL-4 OLEYL ETHER,,0,7,,open_beauty_facts
-polyglyceryl-4 olivate polyricinoleate,Polyglyceryl-4 Olivate/ Polyricinoleate,,2,0,,formulator_sample_shop; lotioncrafter
+polyglyceryl-4 olivate polyricinoleate,Polyglyceryl-4 Olivate/Polyricinoleate,,2,0,,formulator_sample_shop; lotioncrafter
 polyglyceryl-4-caprate,POLYGLYCERYL-4-CAPRATE,,0,6,,open_beauty_facts
 polyglyceryl-4-laurate,POLYGLYCERYL-4-LAURATE,,0,3,,open_beauty_facts
 polyglyceryl-5 trioleate,polyglyceryl-5 trioleate,,0,2,,open_beauty_facts
@@ -5863,7 +5863,7 @@ ppg-20 methyl glucose ether,PPG-20 Methyl Glucose Ether,,1,9,,lotioncrafter; ope
 ppg-26 buteth-26,PPG-26 buteth-26,,0,2,,open_beauty_facts
 ppg-26-buteth-26,PPG-26-BUTETH-26,,0,62,,open_beauty_facts
 ppg-3 benzyl ether myristate,PPG-3 Benzyl Ether Myristate,,0,11,,open_beauty_facts
-ppg-3 caprylyl ether,ppg-3 caprylyl ether,,0,5,,cosrx; open_beauty_facts
+ppg-3 caprylyl ether,PPG-3 Caprylyl Ether,,0,5,,cosrx; open_beauty_facts
 ppg-3 methyl ether,PPG-3 METHYL ETHER,,0,3,,open_beauty_facts
 ppg-3 myristyl,PPG-3 MYRISTYL,,0,2,,open_beauty_facts
 ppg-3 myristyl ether,PPG-3 MYRISTYL ETHER,,0,18,,open_beauty_facts
@@ -6034,7 +6034,7 @@ pyridoxine hcl,PYRIDOXINE HCL,,1,27,,lotioncrafter; open_beauty_facts
 pyridoxine hydrochloride,pyridoxine hydrochloride,,0,6,,open_beauty_facts
 pyridoxinhydrochlorid,Pyridoxinhydrochlorid (Vitamin B6),,0,2,,open_beauty_facts
 pyrophosphate,pyrophosphate,,0,4,,open_beauty_facts
-pyrus communis fruit extract,pyrus communis (pear) fruit extract,90082-43-2,1,5,,cosrx; native_extracts; open_beauty_facts
+pyrus communis fruit extract,Pyrus Communis (Pear) Fruit Extract,90082-43-2,1,5,,cosrx; native_extracts; open_beauty_facts
 pyrus cydonia fruit extract,pyrus cydonia fruit extract,,0,3,,open_beauty_facts
 pyrus cydonia seed extract,Pyrus Cydonia Seed Extract,,0,3,,open_beauty_facts
 pyrus malus,PYRUS MALUS (APPLE),,0,2,,open_beauty_facts
@@ -6085,7 +6085,7 @@ red 6 lake,red 6 lake,,0,5,,open_beauty_facts
 reg,reg,,0,5,,open_beauty_facts
 rehmannia glutinosa root extract,REHMANNIA GLUTINOSA ROOT EXTRACT,,0,2,,open_beauty_facts
 repeat if desired. inactive ingredients water,repeat if desired. inactive ingredients water,,0,2,,open_beauty_facts
-resorcinol,RESORCINOL,108-46-3,0,88,"EU: restricted (max (c) 0,5%); CA: restricted",open_beauty_facts
+resorcinol,RESORCINOL,108-46-3,0,88,"CA: restricted; EU: restricted (max (c) 0,5%)",open_beauty_facts
 resveratrol,Resveratrol,,2,5,,formulator_sample_shop; lotioncrafter; open_beauty_facts
 retinal,retinal,116-31-4,0,3,CA: restricted,open_beauty_facts
 retinol,Retinol,,5,33,"EU: restricted (max (a) 0,05 % Retinol Equivalent (RE))",formulator_sample_shop; open_beauty_facts
@@ -6271,7 +6271,7 @@ salicornia herbacea extract,Salicornia Herbacea Extract,,0,9,,open_beauty_facts
 salicylaldehyde,Salicylaldehyde,90-02-8,0,1,EU: restricted,open_beauty_facts
 salicylate,Salicylate,,0,11,,open_beauty_facts
 salicylc acid,SALICYLC ACID,,0,2,,open_beauty_facts
-salicylic acid,SALICYLIC ACID,69-72-7,8,651,"EU: restricted (max (a) 3.0%); EU: permitted preservative (limits apply) (max Salicylic acid: 0,5 % (acid)); CA: restricted",aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+salicylic acid,SALICYLIC ACID,69-72-7,8,651,"CA: restricted; EU: restricted (max (a) 3.0%); EU: permitted preservative (limits apply) (max Salicylic acid: 0,5 % (acid))",aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 salicylic acid 3,SALICYLIC ACID 3%,,0,3,,open_beauty_facts
 salicylicacid,SALICYLICACID,,0,7,,open_beauty_facts
 salicyloyl phytosphingosine,SALICYLOYL PHYTOSPHINGOSINE,,0,4,,open_beauty_facts
@@ -6515,7 +6515,7 @@ sodium benzotriazolyl butylphenol sulfonate,Sodium Benzotriazolyl Butylphenol Su
 sodium bezoate,SODIUM BEZOATE,,0,2,,open_beauty_facts
 sodium bicarbonate,Sodium Bicarbonate,,3,238,,aromantic; open_beauty_facts; windy_point
 sodium bisulfite,Sodium Bisulfite,,0,6,EU: restricted (max (a) 0.67% (as free SO2)); EU: permitted preservative (limits apply) (max 0.2% (as free SO2)),open_beauty_facts
-sodium borate,sodium borate,1303-96-4,0,6,EU: prohibited; CA: restricted,open_beauty_facts
+sodium borate,sodium borate,1303-96-4,0,6,CA: restricted; EU: prohibited,open_beauty_facts
 sodium butylparaben,Sodium Butylparaben,,0,1,"EU: permitted preservative (limits apply) (max - 0,14% (as acid) for the sum of the ind)",open_beauty_facts
 sodium c 14-16 olefin sulfonate,Sodium C 14-16 Olefin Sulfonate,,0,2,,open_beauty_facts
 sodium c12-13 pareth sulfate,sodium c12-13 pareth sulfate,,0,31,,open_beauty_facts
@@ -6749,7 +6749,7 @@ sodium palmitoyl sarcosinate,sodium palmitoyl sarcosinate,,0,2,,open_beauty_fact
 sodium palmkernelate,sodium palmkernelate,,0,3,,open_beauty_facts
 sodium pca,Sodium PCA,,5,266,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
 sodium peg-7 olive oil carboxylate,Sodium PEG-7 Olive Oil Carboxylate,,0,7,,open_beauty_facts
-sodium perborate,SODIUM PERBORATE,10332-33-9; 10486-00-7; 11138-47-9; 12040-72-1; 121-43-7; 13517-20-9; 15120-21-5; 37244-98-7; 7632-04-4,0,1,"EU: prohibited; EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o); CA: restricted",open_beauty_facts
+sodium perborate,SODIUM PERBORATE,10332-33-9; 10486-00-7; 11138-47-9; 12040-72-1; 121-43-7; 13517-20-9; 15120-21-5; 37244-98-7; 7632-04-4,0,1,"CA: restricted; EU: prohibited; EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o)",open_beauty_facts
 sodium persulfate,Sodium Persulfate,,0,3,,open_beauty_facts
 sodium phenoxyethanol,SODIUM PHENOXYETHANOL,,0,3,,open_beauty_facts
 sodium phenylbenzimidazole sulfonate,Sodium Phenylbenzimidazole Sulfonate,,0,20,EU: permitted UV filter (limits apply) (max 8%(as acid)),open_beauty_facts
@@ -6774,7 +6774,7 @@ sodium polystyrene sulfonate,Sodium Polystyrene Sulfonate,,0,6,,open_beauty_fact
 sodium potassium aluminum silicate,Sodium Potassium Aluminum Silicate,,0,4,,open_beauty_facts
 sodium propionate,sodium propionate,,0,2,EU: permitted preservative (limits apply) (max 2% (acid)),open_beauty_facts
 sodium propylparaben,Sodium Propylparaben,,0,15,"EU: permitted preservative (limits apply) (max - 0,14% (as acid) for the sum of the ind)",open_beauty_facts
-sodium pyrithione,SODIUM PYRITHIONE,3811-73-2,0,1,EU: prohibited; CA: prohibited,open_beauty_facts
+sodium pyrithione,SODIUM PYRITHIONE,3811-73-2,0,1,CA: prohibited; EU: prohibited,open_beauty_facts
 sodium pyruvate,Sodium Pyruvate,,0,5,,open_beauty_facts
 sodium rapeseedate,SODIUM RAPESEEDATE,,0,25,,open_beauty_facts
 sodium ricinoleate,Sodium Ricinoleate,,0,5,,open_beauty_facts
@@ -6851,12 +6851,12 @@ soeiro p,soeiro p,,0,2,,open_beauty_facts
 sojaol,Sojaöl,,0,3,,open_beauty_facts
 solanum centrale fruit extract,Solanum centrale Fruit Extract,Not assigned,1,0,,native_extracts
 solanum lycopersicum fruit extract,Solanum Lycopersicum (Tomato) Fruit Extract,,0,6,,open_beauty_facts
-solanum lycopersicum seed oil,Solanum lycopersicum Seed Oil,90131-63-8,3,1,,aromantic; formulator_sample_shop; native_extracts; open_beauty_facts
+solanum lycopersicum seed oil,Solanum Lycopersicum Seed Oil,90131-63-8,3,1,,aromantic; formulator_sample_shop; native_extracts; open_beauty_facts
 solanum melongena fruit extract,Solanum Melongena (Eggplant) Fruit Extract,,1,10,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
 solanum tuberosum pulp extract,solanum tuberosum (potato) pulp extract,,0,2,,open_beauty_facts
 soluble collagen,SOLUBLE COLLAGEN,,0,23,,cosrx; open_beauty_facts
 solublecollagen,SOLUBLECOLLAGEN,,0,5,,open_beauty_facts
-solum diatomeae,Solum Diatomeae (Diatomaceous Earth),,3,0,,aromantic
+solum diatomeae,Solum diatomeae,,3,0,,aromantic
 solum fullonum,Solum Fullonum (Fuller's Earth),,0,2,,open_beauty_facts
 solventi,solventi,,0,2,,open_beauty_facts
 sonnenblumenol,Sonnenblumenöl,,0,8,,open_beauty_facts
@@ -7076,7 +7076,7 @@ synthetic wax,SYNTHETIC WAX,,0,99,,cosrx; open_beauty_facts; round_lab
 syzygium leuhmannii fruit extract,Syzygium leuhmannii Fruit Extract,1542151-08-5,1,0,,native_extracts
 t-butyl alcohol,T-Butyl Alcohol,,0,33,,cosrx; open_beauty_facts
 taed,TAED,,0,3,,open_beauty_facts
-talc,Talc,14807-96-6,0,288,EU: restricted; CA: restricted,open_beauty_facts
+talc,Talc,14807-96-6,0,288,CA: restricted; EU: restricted,open_beauty_facts
 talco,Talco,,0,3,,open_beauty_facts
 talk,Talk,,0,2,,open_beauty_facts
 tallow,Tallow,,0,3,,open_beauty_facts
@@ -7290,7 +7290,7 @@ triceteareth-4 phosphate,Triceteareth-4 Phosphate,,0,10,,open_beauty_facts
 trichilia emetica seed butter,Trichilia Emetica (Mafura) Seed Butter,,0,2,,open_beauty_facts
 tricholoma matsutake extract,Tricholoma Matsutake Extract,,2,4,,formulator_sample_shop; open_beauty_facts
 triclocarban,Triclocarban,101-20-2,0,1,"EU: restricted (max 1.5%); EU: permitted preservative (limits apply) (max 0,2 %)",open_beauty_facts
-triclosan,Triclosan,3380-34-5,0,33,EU: permitted preservative (limits apply) (max 0.3%); CA: restricted,open_beauty_facts
+triclosan,Triclosan,3380-34-5,0,33,CA: restricted; EU: permitted preservative (limits apply) (max 0.3%),open_beauty_facts
 tridecane,Tridecane,,0,43,,open_beauty_facts
 trideceth-10,Trideceth-10,,0,102,,cosrx; open_beauty_facts
 trideceth-12,Trideceth-12,,0,54,,open_beauty_facts
@@ -7422,7 +7422,7 @@ undecylenoyl glycine,Undecylenoyl Glycine,,0,30,,open_beauty_facts
 undecylenoyl phenylalanine,Undecylenoyl phenylalanine,,1,0,,lotioncrafter
 unonene,unonene,,0,2,,open_beauty_facts
 urea,Urea,57-13-6,4,249,CA: restricted,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts
-urea peroxide,Urea Peroxide,124-43-6,0,1,"EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o); CA: restricted",open_beauty_facts
+urea peroxide,Urea Peroxide,124-43-6,0,1,"CA: restricted; EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o)",open_beauty_facts
 uriage thermal spring water,Uriage thermal spring water,,0,6,,open_beauty_facts
 urine flavine,Urine Flavine,,0,3,,open_beauty_facts
 ursolic acid,Ursolic Acid,,1,1,,formulator_sample_shop; open_beauty_facts

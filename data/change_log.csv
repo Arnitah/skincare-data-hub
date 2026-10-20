@@ -10,3 +10,391 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-10-20,20261020T221237Z,reg_eu,regulatory,,EU Cosmetics Regulation (CosIng annexes),initial_import,,2353 records imported
 2026-10-20,20261020T221237Z,reg_ca,regulatory,,Health Canada Cosmetic Ingredient Hotlist,initial_import,,580 records imported
 2026-10-20,20261020T221237Z,reg_us,regulatory,,US FDA cosmetic ingredient rules,initial_import,,99 records imported
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:eyeseryl®-all-in-peptide-solution-pff,Eyeseryl® All-In peptide solution PFF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:teca-95,TECA 95%,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:veganbiotics-asper-w,VeganBiotics Asper-W,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:l-pdrn-first™,L-PDRN First™,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:lotus-root-extract,Lotus Root Extract,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:terracera™-renew-np,TerraCera™ Renew NP,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:hya7-complex,Hya7™ Complex,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:lcpeptide-wrinklerelax,LCPeptide WrinkleRelax™,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:brown-rice-ferment-filtrate,Brown Rice Ferment Filtrate,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:mallow-extract,Mallow Extract,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:eyeseryl-solution-b,Eyeseryl® peptide solution B,changed,"ph_max, ph_min",ph_max:  -> 6.3; ph_min:  -> 5.3
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:fision-hydratress,Fision® HydraTress,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:barthix,BarThix™,changed,"ph_max, ph_min",ph_max:  -> 9; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:coffee-extract,Coffee Extract,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:aloethix,AloeThix™,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:lcpeptide-syn6,LCPeptide™ Syn-6,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:hydrolyzed-keratin-protein,Hydrolyzed Keratin Protein,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:hyaluronic-acid-4d,Hyaluronic Acid 4D,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:simulgel-eg,Simulgel™ EG,changed,"ph_max, ph_min",ph_max:  -> 12; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:foaming-oats,Foaming Oats,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:silverion-2400,Silvérion® 2400,changed,"ph_max, ph_min",ph_max:  -> 1.6; ph_min:  -> 1.4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:sepimax-zen,Sepimax Zen™,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:lactobacillus-ferment-lysate,Lactobacillus Ferment Lysate,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:cationic-ha,Cationic HA,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:leuphasyl,Leuphasyl® peptide solution,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 2
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:emulthix,EmulThix™,changed,"ph_max, ph_min",ph_max:  -> 11; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:leucidal-liquid,Leucidal® Liquid,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:surfpro-cg,SurfPro™ CG,changed,"ph_max, ph_min",ph_max:  -> 12.5; ph_min:  -> 11.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:olive-leaf-extract,Olive Leaf Extract,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:hibiscus-extract,Hibiscus Extract,changed,"ph_max, ph_min",ph_max:  -> 4; ph_min:  -> 3
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:gladback,Gladback™,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:ginkgo-extract,Ginkgo Extract,changed,"ph_max, ph_min",ph_max:  -> 5.8; ph_min:  -> 4.8
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:polyquaternium-7,Polyquaternium 7,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 3
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:hydroxypropyl-methylcellulose-hpmc,Hydroxypropyl Methylcellulose (HPMC),changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:lipomoist-2036-molecular-film,Lipomoist™ 2036 molecular film,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:argireline-amplified,Argireline® Amplified peptide solution,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:natracoll,NatraColl™,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:hydrolyzed-hemp-protein,Hydrolyzed Hemp Protein,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:witch-hazel-hydrosol,Witch Hazel Hydrosol,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 2.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:telangyn-peptide-solution,TELANGYN™ peptide solution,changed,"ph_max, ph_min",ph_max:  -> 4.5; ph_min:  -> 2.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:pumpkin-seed-extract,Pumpkin Seed Extract,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:inyline-solution,Inyline® peptide solution,changed,"ph_max, ph_min",ph_max:  -> 8.5; ph_min:  -> 7
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:foaming-apple,Foaming Apple,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:decorinyl,Decorinyl® functional ingredient,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 5
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:aristoflex-avc,Aristoflex® AVC,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:amticide-coconut,AMTicide® Coconut,changed,"ph_max, ph_min",ph_max:  -> 9; ph_min:  -> 7
+2026-10-20,20261020T230522Z,lotioncrafter,raw_materials,lotioncrafter:aloe-vera-juice-1x,Aloe Vera Juice 1X,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-chia-extract-g,FSS CHIA EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-modified-pap-ango-enzyme-pf,FSS MODIFIED PAP-ANGO ENZYME PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-calendula-extract-pf,FSS CALENDULA EXTRACT PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-daisy-extract-g-pf,FSS DAISY EXTRACT G PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ginger-extract-pf-1,FSS GINGER EXTRACT PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cucumber-tea-extract-os,FSS CUCUMBER TEA EXTRACT OS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rasberry-extract-os,FSS RASBERRY EXTRACT OS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-arnica-and-algae-extract-pet,FSS ARNICA AND ALGAE EXTRACT PET,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rose-hip-extract-os,FSS ROSE HIP EXTRACT OS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pumpkin-extract-os,FSS PUMPKIN EXTRACT OS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lemon-extract-os,FSS LEMON EXTRACT OS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-purslane-bioferment-pf-drk,FSS PURSLANE BIOFERMENT PF DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-biomimetic-jojoba-oil-discontinued,FSS BIOMIMETIC JOJOBA OIL,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-agave-hsp-drk,FSS AGAVE HSP DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ceramide-2,FSS CERAMIDE 2,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ceteth-20,FSS CETETH-20,changed,"ph_max, ph_min",ph_max:  -> 10; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hawthorn-extract-sf,FSS HAWTHORN EXTRACT SF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-okra-extract-g-pf,FSS OKRA EXTRACT G PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-passionflower-extract-sno,FSS PASSIONFLOWER EXTRACT SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-microvector-plump-hya-sil,FSS MICROVECTOR PLUMP HYA SIL,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-green-tea-extract-sil,FSS GREEN TEA EXTRACT SIL,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fluidifeel™-easy,FLUIDIFEEL™ EASY,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sodium-cocoyl-sarcosinate,FSS SODIUM COCOYL SARCOSINATE,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-biopolymer-willow-bark-pet,FSS BIOPOLYMER WILLOW BARK PET,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-desert-blend-pf,FSS DESERT BLEND PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sunflower-extract-g,FSS SUNFLOWER EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-caprylyl-glycol,FSS CAPRYLYL GLYCOL,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-collagen-amino-acids-40-pet,FSS COLLAGEN AMINO ACIDS 40 PET,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-emerald-extract,FSS EMERALD EXTRACT,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-songyi-mushroom-extract-pf-drk,FSS SONGYI MUSHROOM EXTRACT PF DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-almond-milk-extract-pg-pet,FSS ALMOND MILK EXTRACT PG PET,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ashwagandha-root-extract-sno,FSS ASHWAGANDHA ROOT EXTRACT SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-algae-extract-g-pet-drk,FSS ALGAE EXTRACT G PET DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-jojoba-extract-bg-pet,FSS JOJOBA EXTRACT BG PET,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-algae-blend-drk,FSS ALGAE BLEND DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-balm-mint-extract-bg-pf,FSS BALM MINT EXTRACT BG PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pomegranate-extract-pf-1,FSS POMEGRANATE EXTRACT PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rooibos-tea-extract-pf,FSS ROOIBOS TEA EXTRACT PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-manuka-honey-extract-os,FSS MANUKA HONEY EXTRACT OS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-silk-amino-acids-30,FSS SILK AMINO ACIDS 30,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cytoguard-advanced,FSS CYTOGUARD ADVANCED,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-desert-lime-extract-g-sb,FSS DESERT LIME EXTRACT G SB,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-grassroots-extract-pet-1,FSS GRASSROOTS EXTRACT PET,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-algae-coconut-blend-1,FSS ALGAE & COCONUT BLEND,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-algae-blend,FSS ALGAE BLEND,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-wheat-hydrolysate-hws-pf,FSS WHEAT HYDROLYSATE HWS PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-songyi-mushroom-extract-g-pf,FSS SONGYI MUSHROOM EXTRACT G PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-golden-chamomile-blend-bg,FSS GOLDEN CHAMOMILE BLEND BG,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-aloe-extract-g,FSS ALOE EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:octyldodecanol,OCTYLDODECANOL,changed,"ph_max, ph_min",ph_max:  -> 12; ph_min:  -> 2
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bamboo-charcoal-powder,FSS BAMBOO CHARCOAL POWDER,changed,"ph_max, ph_min",ph_max:  -> 10; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-papaya-extract-bg-pbf,FSS PAPAYA EXTRACT BG PBF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-japanese-cherry-tree-blossom-extract,FSS JAPANESE CHERRY TREE BLOSSOM EXTRACT,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rice-bran-extract-g,FSS RICE BRAN EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-fennel-extract,FSS FENNEL EXTRACT,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hya-solution-1,FSS HYA SOLUTION 1%,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-twinflower-extract-g-1,FSS TWINFLOWER EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-curly-hair-complex,FSS CURLY HAIR COMPLEX,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-moisturezyme-protect-1,FSS MOISTUREZYME PROTECT,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phyto-oil-c2,FSS PHYTO-OIL C2,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lumivitis,FSS LUMIVITIS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-quaternized-plant-keratin-pbf,FSS QUATERNIZED PLANT KERATIN PBF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-aloe-vera-green-tea-leaf-extract-cso,FSS ALOE VERA & GREEN TEA LEAF EXTRACT CSO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-biopolymer-chia-pf-drk,FSS BIOPOLYMER CHIA PF DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rose-pdrn,FSS ROSE PDRN,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-aloe-pdrn,FSS ALOE PDRN,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-dermal-respiratory-factor-sf-drk,FSS DERMAL RESPIRATORY FACTOR SF DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-polyquaternium-7,FSS POLYQUATERNIUM-7,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-chamomile-extract-rs,FSS Chamomile Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sodium-pca,FSS SODIUM PCA,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:dermothix™-75,Dermothix™ 75,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:sodium-chloride-usp,SODIUM CHLORIDE USP,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-green-tea-extract-sno,FSS Green Tea Extract SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-fennel-extract-aq-pf,FSS AQ FENNEL EXTRACT AQ PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hyalurosome,FSS HYALUROSOME,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-japanese-green-tea-extract-g,FSS JAPANESE GREEN TEA EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-evening-primrose-extract-aq,FSS EVENING PRIMROSE EXTRACT AQ,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-avocado-oil-butter,FSS AVOCADO OIL BUTTER,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-butylene-glycol-natural,FSS BUTYLENE GLYCOL-NATURAL,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hypochlorous-acid-500ppm,FSS HYPOCHLOROUS ACID 500PPM,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:pullulan,Pullulan,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-glass-act,FSS GLASS ACT,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-gotu-kola-extract-os-eco,FSS Gotu Kola Extract OS ECO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rice-water-sf,FSS RICE WATER SF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bentonite-clay,FSS Bentonite Clay,changed,"ph_max, ph_min",ph_max:  -> 10.5; ph_min:  -> 8.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:silderm-powder-gel,SilDerm Powder Gel,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:chitosan,Chitosan,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-irish-moss-extract-os,FSS Irish Moss Extract OS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-violet-blond-toner,FSS Violet’Blond Toner,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-blue-nette-toner,FSS Blue’Nette Toner,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:imwitorr-375,IMWITOR® 375,changed,"ph_max, ph_min",ph_max:  -> 10; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bearberry-extract-sno,FSS Bearberry Extract SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cucumber-extract-rs,FSS Cucumber Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-skin-saver-blend-sno,FSS Skin Saver Blend SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-irish-moss-extract-rs,FSS Irish Moss Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-shiitake-extract-sno,FSS SHIITAKE EXTRACT SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-willow-bark-extract-rs,FSS WILLOW BARK EXTRACT RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rosemary-extract-sno,FSS Rosemary Extract SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-white-tea-extract-sno,FSS White Tea Extract SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sea-kelp-extract-os,FSS Sea Kelp Extract OS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bearberry-extract-rs,FSS Bearberry Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cherry-juice-fd,FSS Cherry Juice FD,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-kale-protein-blend-drk,FSS KALE PROTEIN BLEND DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-peach-juice-drk,FSS Peach Juice DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-aloe-gel,FSS Aloe Gel,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:calendula-extract-sno,FSS CALENDULA EXTRACT SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rooibos-tea-extract-sno,FSS ROOIBOS TEA EXTRACT SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-eyebright-extract-sno,FSS EYEBRIGHT EXTRACT SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-gotu-kola-extract-rs,FSS Gotu Kola Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-green-tea-extract-rs,FSS Green Tea Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-eyebright-extract-rs,FSS Eyebright Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-comfrey-extract-rs,FSS Comfrey Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-arnica-extract-sno,FSS Arnica Extract SNO,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-eyebright-extract-g-pf,FSS EYEBRIGHT EXTRACT G PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-blue-agave-ferment,FSS Blue Agave Ferment,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-corn-hydrolysate-pf-drk,FSS CORN HYDROLYSATE PF DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-extensin-hydrolysate-g-psb,FSS Extensin Hydrolysate G PSB,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-soluble-elastin-j-pet,FSS Soluble Elastin J PET,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-milk-thistle-extract-rs,FSS Milk Thistle Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rosemary-extract-rs,FSS Rosemary Extract RS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-skinmuni-tea,FSS Skinmuni-Tea,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sal-vation,FSS Sal-Vation,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:pca-glyceryl-oleate,PCA Glyceryl Oleate,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:polyacrylate-crosspolymer-6,POLYACRYLATE CROSSPOLYMER-6,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 2
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lemon-peel-extract-g-drk,FSS Lemon Peel Extract G DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-amarasense,FSS AmaraSense,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pomeashield,FSS PomeaShield,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lash-enhancer,FSS Lash Enhancer,changed,"ph_max, ph_min",ph_max:  -> 9; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-oleashield,FSS OleaShield,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-modified-pumpkin-enzyme-pf-drk,FSS MODIFIED PUMPKIN ENZYME PF DRK,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:bieaur-actif-brown-algae,BiEau® Actif Brown Algae,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:bieaur-actif-red-algae,BiEau® Actif Red Algae,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hya-solution-1-pbf,FSS HYA SOLUTION 1% PBF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:procutigenr-vegan-thermal-shield,ProCutiGen® Vegan Thermal Shield,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-foaming-collagen-pf,FSS Foaming Collagen PF,changed,"ph_max, ph_min",ph_max:  -> 7.2; ph_min:  -> 6.8
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-avocado-extract-eco,FSS Avocado Extract ECO,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sildermr-emulsifying-bg,FSS Silderm® Emulsifying BG,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-peppermint-extract-pf,FSS Peppermint Extract PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-dermal-moisture-complex-lite-pps,FSS Dermal Moisture Complex Lite PPS,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-kombucha-rs,FSS Kombucha RS,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-dermal-moisture-complex-pf,FSS Dermal Moisture Complex PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-astaxanthin-extract-sf,FSS Astaxanthin Extract SF,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-vegeasilk,FSS VegeaSilk,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-kalahari-melon-extract-g-pf,FSS Kalahari Melon Extract G PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:probiocin-vr,PROBIOCIN V®,changed,"ph_max, ph_min",ph_max:  -> 11; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-collagen-amino-acids-pf,FSS Collagen Amino Acids PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-jujube-extract-bg,FSS Jujuba Extract BG,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-camellia-japonica-extract-eco,FSS Camellia Japonica Extract ECO,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-black-algae-extract,FSS Black Algae Extract,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-polysorbate-20,FSS Polysorbate 20,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-papaya-extract-g,FSS PAPAYA EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pollia-condensata-extract,FSS POLLIA CONDENSATA EXTRACT,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bio-chelate-pf,FSS BIO-CHELATE PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:phytocide-elderberry-os,PHYTOCIDE ELDERBERRY OS,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:phytocide-aspen-bark-extract-powder-low-price,PhytoCide Aspen Bark Extract Powder,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:leucidal-sf-complete,LEUCIDAL® SF COMPLETE,changed,"ph_max, ph_min",ph_max:  -> 10; ph_min:  -> 7
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:leucidal-complete,Leucidal®  Liquid Complete,changed,"ph_max, ph_min",ph_max:  -> 9; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:leucidal-sf-max,Leucidal® SF Max,changed,"ph_max, ph_min",ph_max:  -> 11; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-mistletoe-extract-g,FSS Mistletoe Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-foaming-apple,FSS FOAMING APPLE,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:xanthan-gum-soft,Xanthan Gum - Soft!,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-aloe-vera-200x-powder,FSS Aloe Vera 200X Powder,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-micrococcus-lysate,FSS Micrococcus Lysate,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-allantoin-powder,FSS Allantoin Powder,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:sodium-lauroamphoacetate,Sodium Lauroamphoacetate,changed,"ph_max, ph_min",ph_max:  -> 10.5; ph_min:  -> 9.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-silksens,FSS SilkSens,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hemp-oil-liposome-pf,FSS Hemp Oil Liposome PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-vitamin-ab3b5ce-liposome-pf,FSS Vitamin AB3B5CE Liposome PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-map-liposome-magnesium-ascorbyl-phosphate,FSS MAP Liposome (Magnesium Ascorbyl Phosphate),changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-unloaded-liposome-pf,FSS Unloaded Liposome PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ursolic-acid-liposome-pf,FSS Ursolic Acid Liposome PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-caffeine-liposome,FSS Caffeine Liposome PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-vitamin-abcde-liposome-pf,FSS Vitamin ABCDE Liposome PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-panthenol-liposome-pf,FSS Panthenol Liposome PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sod-liposome-pf,FSS SOD Liposome PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:nano-emulsion-concentrate,FSS Nano Emulsion Concentrate,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-vegetable-melanin-pf,FSS Vegetable Melanin PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phyto-biotics-perilla,FSS Phyto-Biotics Perilla®,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-botanical-complex,FSS Botanical Complex,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-biopolymer-chia-pf,FSS Biopolymer Chia PF,changed,"ph_max, ph_min",ph_max:  -> 8.6; ph_min:  -> 7
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-biopolymer-soy-pf,FSS BIOPOLYMER SOY PF,changed,"ph_max, ph_min",ph_max:  -> 8.6; ph_min:  -> 7
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-dark-circle-complex-pf,FSS DARK CIRCLE COMPLEX 2,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-foaming-amaranth-ect,FSS Foaming Amaranth ECT*,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-southernwood-plump-pd,FSS Southernwood Plump PD,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cytosulf-pf,FSS CytoSulf PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bamboo-extract-g-glycerin,FSS Bamboo Extract G (Glycerin),changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sea-silt-bioferment-g,FSS Sea Silt BioFerment G,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-iris-florentina-root-extract-pf,FSS IRIS BIOFLAVONOIDS PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-quaternized-rice-shine-pf,FSS Quaternized Rice Shine PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-quaternized-rice,FSS Quaternized Rice,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-quaternized-soy,FSS Quaternized Soy,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-foaming-amaranth-pet,FSS Foaming Amaranth PET,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rice-curl-complex-pf,FSS Rice Curl Complex PF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-quaternized-lemon-shine-pf,FSS Quaternized Lemon Shine PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pearl-hydrolysate-pf,FSS Pearl Hydrolysate PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-oat-amino-acids-pf,FSS Oat Amino Acids PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-wheat-amino-acids-pf,FSS Wheat Amino Acids PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-soy-amino-acids-pf,FSS Soy Amino Acids PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-plant-keratin-pf,FSS Plant Keratin PF,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-silk-hydrolysate-pf,FSS SILK HYDROLYSATE PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-oat-hydrolysate,FSS Oat Hydrolysate PF,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-wheat-hydrolysate-pf,FSS Wheat Hydrolysate PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-foaming-silk-pf,FSS Foaming Silk PF,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-foaming-silk,FSS Foaming Silk,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-foaming-soy-pf,FSS Foaming Soy PF,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phytogel-pf,FSS PhytoGel PF,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-soy-hydrolysate-pf-water-soluble,FSS Soy Hydrolysate PF (Water Soluble),changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phytoelastin-pf,FSS Phytolastin PF,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cashmere-protein-pf,FSS Cashmere Protein PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-yogurt-hydrolysate-sf,FSS Yogurt Hydrolysate SF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pumpkin-enzyme-pf,FSS MODIFIED PUMPKIN ENZYME PF,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pumpkin-anti-mmp-hydrolyzed-pumpkin-seedcake,FSS Pumpkin Anti-MMP- Hydrolyzed Pumpkin Seedcake,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pumpkin-anti-mmp-hydrolyzed-pumpkin-seedcake-2,FSS Pumpkin Anti-MMP,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-protein-serum-m,FSS Protein Serum M PF,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-dermapeptide-toning-pf,FSS DermaPeptide Toning PF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-dermapeptide-micro-c,FSS DermaPeptide Micro C,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-modified-pomegranate-enzyme-pf,FSS Modified Pomegranate Enzyme PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bamboo-isoflavones-pf,FSS Bamboo Isoflavones PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-southernwood-plump-bg-pf,FSS Southernwood Plump BG PF,changed,"ph_max, ph_min",ph_max:  -> 4; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-watermelon-bioferment,FSS Watermelon BioFerment,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-split-end-complex-msx,FSS Split End Complex MSX,changed,"ph_max, ph_min",ph_max:  -> 8.5; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-meadowsweet-extract-20,FSS Meadowsweet Extract 20%,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:lemon-peel-bioferment,Lemon Peel BioFerment,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-quinoa-extract-pbf,FSS Quinoa Extract PBF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-oat-extract-beta-pf,FSS Oat Extract Beta PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cocoa-bioferment-pf,FSS COCOA BIOFERMENT PF,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pumpkin-seed-extract-pf,FSS Pumpkin Seed Extract PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lycopene-bioferment-pf,FSS Lycopene BioFerment PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-dermal-respiratory-factor-advanced-pf,FSS Dermal Respiratory Factor Advanced PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-dermal-respiratory-factor-powder,FSS DERMAL RESPIRATORY FACTOR POWDER,changed,"ph_max, ph_min",ph_max:  -> 6.2; ph_min:  -> 4.8
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-celluplex-pf,FSS CelluPlex PF,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-willow-bark-extract-20,FSS Willow Bark Extract (20%),changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bull-kelp-bioferment-pf-sf,FSS BULL KELP BIOFERMENT PF SF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bull-kelp-bioferment-pd,FSS BULL KELP BIOFERMENT PD,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bull-kelp-bioferment-pbf,FSS BULL KELP BIOFERMENT PBF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bull-kelp-bioferment-lv,FSS BULL KELP BIOFERMENT LV,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-red-clover-bioferment,FSS Red Clover BioFerment,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-horsetail-extract-aq,FSS Horsetail Extract AQ,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-yogurt-extract-ef,FSS Yogurt Extract EF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-marine-collagen-powder,FSS Marine Collagen Powder,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-botanical-sugar-complex,FSS Botanical Sugar Complex,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-quinoa-protein,FSS Quinoa Protein,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-kale-protein-blend,FSS Kale Protein Blend,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-wakame-bioferment-advanced,FSS WAKAME BIOFERMENT ADVANCED,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-purslane-bioferment-pf,FSS Purslane BioFerment PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-vegan-kerazyme-protect,FSS Vegan Kerazyme® Protect,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phyto-biotics-blueberry,FSS Phyto-Biotics Blueberry,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-yeast-extract,FSS Yeast Extract,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phyto-biotics-saffron,FSS PHYTO-BIOTICS SAFFRON,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-orange-polyphenols-pbf,FSS Orange Polyphenols PBF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-skullcap-extract-pf,FSS Skullcap Extract PF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-turmeric-extract-g,FSS Turmeric Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-tomato-bioferment-pf,FSS Tomato BioFerment PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-kakadu-extract-pf,FSS Kakadu Extract PF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-goat-milk-hydrolysate,FSS Goat Milk Hydrolysate,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-jackfruit-extract-pf,FSS Jackfruit Extract PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-honey-matte,FSS Honey-Matte,changed,"ph_max, ph_min",ph_max:  -> 8.5; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-eggplant-extract-pf,FSS Eggplant Extract PF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-modified-papaya-enzyme-pf,FSS Modified Papaya Enzyme PF,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hibiscus-extract-bg-butylene-glycol,FSS Hibiscus Extract BG (Butylene Glycol),changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-walnut-extract-g,FSS Walnut Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-beer-extract,FSS Beer Extract,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-griffonia-lysate-advanced,FSS Griffonia Lysate Advanced,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-apricot-extract-g,FSS Apricot Extract G,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-probacillus-revive,FSS Probacillus Revive,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-prorevive-blemish-balm-complex,FSS ProRevive Blemish Balm Complex,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-amethyst-extract-pf,FSS Amethyst Extract PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-indian-gooseberry-extract-pf,FSS Indian Gooseberry Extract PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phyto-biotics-acai,FSS PHYTO-BIOTICS ACAI®,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:phytofuse-renew,PhytoFuse Renew®,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-volumizing-complex-pf,FSS Volumizing Complex PF,changed,"ph_max, ph_min",ph_max:  -> 8.5; ph_min:  -> 6.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phytocoll-pf,FSS Phytocoll PF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phyto-biotics-pumpkin-seed,FSS PHYTO-BIOTICS PUMPKIN SEED,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-moisture-plex-advanced-pf,FSS Moisture Plex Advanced PF,changed,"ph_max, ph_min",ph_max:  -> 7.25; ph_min:  -> 4.6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-glycolic-acid-solution,FSS Glycolic Acid Solution,changed,"ph_max, ph_min",ph_max:  -> 2.5; ph_min:  -> 1.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-silk-amino-acids-pf,FSS Silk Amino Acids PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phyto-biotics-apple,FSS Phyto-Biotics Apple,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-maqui-berry-extract,FSS Maqui Berry Extract,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-soybean-extract-g,FSS Soybean Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bamboo-water,FSS Bamboo Water,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cranberry-enzyme-pf,FSS Cranberry Enzyme PF,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pineapple-enzyme-extract-pf,FSS PINEAPPLE ENZYME EXTRACT PF,changed,"ph_max, ph_min",ph_max:  -> 4.5; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pine-bark-extract-g-pet,FSS Pine Bark Extract G PET,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sage-leaf-extract-g,FSS Sage Leaf Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hair-and-scalp-complex,FSS HAIR AND SCALP COMPLEX,changed,"ph_max, ph_min",ph_max:  -> 3.6; ph_min:  -> 2.6
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-hibiscus-extract-g-glycerin,FSS Hibiscus Extract G (Glycerin),changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-algae-extract-g-pf,FSS Algae Extract G PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-saccharomyces-ferment,FSS Saccharomyces Ferment,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-edelweiss-extract-pf-water-soluble,FSS Edelweiss Extract PF  (Water Soluble),changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-japanese-honeysuckle-extract-g,FSS Japanese Honeysuckle Extract G,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-carrot-extract-pf,FSS Carrot Extract PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lavender-extract-g-pf,FSS Lavender Extract G PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-jojoba-extract-g-pf,FSS Jojoba Extract G PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-forget-me-not-extract-g,FSS Forget-Me-Not Extract G,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-spotted-orchid-extract-g,FSS Spotted Orchid Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-apple-aha-s,FSS Apple AHA's,changed,"ph_max, ph_min",ph_max:  -> 3; ph_min:  -> 2
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-kiwi-extract-g-pf,FSS Kiwi Extract G PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-licorice-root-extract-pf,FSS Licorice Root Extract PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pomegranate-extract-pf,FSS Pomegranate Extract AQ PF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-chamomile-extract-pf,FSS Chamomile Extract AQ PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ginseng-extract-pf,FSS Ginseng Extract PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pueraria-mirifica-extract-pf,FSS Pueraria Mirifica Extract PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-coconut-extract-pf,FSS Coconut Extract PF,changed,"ph_max, ph_min",ph_max:  -> 7.8; ph_min:  -> 6.4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pikea-robusta-extract,FSS Pikea Robusta Extract,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sweet-potato-extract-pbf,FSS Sweet Potato Extract PBF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ginkgo-biloba-extract-g,FSS Ginkgo Biloba Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-coconut-water-pf,FSS Coconut Water PF,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pine-bark-extract-g-pf,FSS Pine Bark Extract G PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-blue-lotus-extract,FSS Blue Lotus Extract,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-royal-jelly-extract-g,FSS Royal Jelly Extract G,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-moringa-pterygosperma-seed-extract-g,FSS MORINGA PTERYGOSPERMA SEED EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-fruit-enzyme-complex-pf,FSS Fruit Enzyme Complex PF,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-wild-orchid-extract,FSS Wild Orchid Extract,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 3.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bearberry-extract-g,FSS Bearberry Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-mulberry-extract-g,FSS Mulberry Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-daisy-extract-bg-pf,FSS Daisy Extract BG PF,changed,"ph_max, ph_min",ph_max:  -> 5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-acai-sterols,FSS Acai Sterols,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ginger-mint-extract-cooling,FSS Ginger Mint Extract Cooling PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-rice-lipids,FSS Rice Lipids,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-viola-tricolor-extract-pf,FSS Viola Tricolor Extract PF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-jasmine-extract-pf,FSS Jasmine Extract PF,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-witch-hazel-extract-pf,FSS Witch Hazel Extract NS PF,changed,"ph_max, ph_min",ph_max:  -> 7.5; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-soapberry-saponins,FSS Soapberry Saponins,changed,"ph_max, ph_min",ph_max:  -> 11.5; ph_min:  -> 9.5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-pap-ango-enzyme-pbf,FSS Pap-Ango Enzyme PBF,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ginseng-powder,FSS Ginseng Powder,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ferula-foetida-extract-bg,FSS FERULA FOETIDA EXTRACT BG,changed,"ph_max, ph_min",ph_max:  -> 6; ph_min:  -> 3
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-white-willow-bark-extract,FSS White Willow Bark Extract,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:white-willow-bark-extract-powder,FSS White Willow Bark Extract Powder,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-willow-bark-extract-10,FSS Willow Bark Extract (10%),changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-watermelon-extract-g,FSS Watermelon Extract G,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sandalwood-extract-pf,FSS Sandalwood Extract PF,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-beet-root-extract-g,FSS Beet Root Extract G,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 5
+2026-10-20,20261020T230522Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-gotu-kola-extract-g,FSS GOTU KOLA EXTRACT G,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
+2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:simulgel-eg,Simulgel™ EG,changed,"ph_max, ph_min",ph_max:  -> 12; ph_min:  -> 5.5
+2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:sodium-cocoyl-methyl-taurate-copy,Sodium Methyl Cocoyl Taurate Paste,changed,"ph_max, ph_min",ph_max:  -> 8; ph_min:  -> 7
+2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:cationic-guar-gum,Cationic Guar Gum,changed,"ph_max, ph_min",ph_max:  -> 11; ph_min:  -> 9.5
+2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:jeesperse-ice-t-cis-2-conditioning-cold-process-emulsifier,Jeesperse ICE-T CIS-2 Conditioning Cold Process Emulsifier,changed,"ph_max, ph_min",ph_max:  -> 9; ph_min:  -> 2
+2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:lipomoist-2036-molecular-film,Lipomoist 2036 Molecular Film,changed,"ph_max, ph_min",ph_max:  -> 7; ph_min:  -> 4
+2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:hydroxyethylcellulose-hec,Hydroxyethylcellulose (HEC),changed,"ph_max, ph_min",ph_max:  -> 6.6; ph_min:  -> 4.4
+2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:iselux-ultra-mild-surfactant-blend,Iselux Ultra Mild Surfactant Blend,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 6
+2026-10-20,20261020T230522Z,aromantic,raw_materials,aromantic:organic-rose-hydrolat,Organic Rose Hydrolat,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
