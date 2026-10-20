@@ -1,0 +1,133 @@
+# Every site the hub reads from. One entry per source.
+#  kind:     raw_material (DIY ingredients -> Safe Batch) | product (finished products -> Clay) | regulatory (per-country rules)
+#  adapter:  which scraper handles it (see hub/adapters/)
+#  active:   set to false to pause a source without deleting it
+#  min_expected: if a run returns fewer records than this share of the previous run, it is marked FAILED
+#                and the previous data is kept (protects against a site redesign silently wiping data)
+
+defaults:
+  min_expected: 0.5
+  user_agent: "skincare-data-hub/1.0 (+https://github.com/Arnitah/skincare-data-hub)"
+
+sources:
+  # ---------------- DIY raw materials (Safe Batch) ----------------
+  - id: native_extracts
+    name: Native Extracts
+    country: AU
+    currency: AUD
+    language: en
+    kind: raw_material
+    adapter: native_extracts
+    base_url: https://www.nativeextracts.com
+    notes: Botanical extract manufacturer. B2B samples only (not for personal use per site).
+    active: true
+
+  - id: lotioncrafter
+    name: Lotioncrafter
+    country: US
+    currency: USD
+    language: en
+    kind: raw_material
+    adapter: shopify
+    base_url: https://lotioncrafter.com
+    exclude_types: [Digital Downloads, B2B, Containers & Packaging, "Equipment - Mixing & Measuring", Equipment, Gift Cards, Kits]
+    exclude_tags: [Closeout-DoNotOrder]
+    require_inci: true
+    active: true
+
+  - id: formulator_sample_shop
+    name: Formulator Sample Shop
+    country: US
+    currency: USD
+    language: en
+    kind: raw_material
+    adapter: shopify
+    base_url: https://formulatorsampleshop.com
+    include_types: [Raw Material, ""]
+    exclude_title_words: [kit, gift card, sample box]
+    fetch_pages: true          # INCI, use levels and pH are only on the product page
+    require_inci: true
+    active: true
+
+  - id: windy_point
+    name: Windy Point Soap Making Supplies
+    country: CA
+    currency: CAD
+    language: en
+    kind: raw_material
+    adapter: shopify
+    base_url: https://windypointsoap.com
+    exclude_types: [Fragrance Oils, 3D Printed Molds, Packaging, Glitters, Flavours, Molds, Labels, Equipment, Tools]
+    exclude_title_words: [mold, cap, pump, label, bottle, jar, scoop, pipette, mystery pack, gift card, sprayer, tin, tube]
+    require_inci: true
+    active: true
+
+  - id: aromantic
+    name: Aromantic
+    country: GB
+    currency: GBP
+    language: en
+    kind: raw_material
+    adapter: shopify
+    base_url: https://aromantic.co.uk
+    exclude_types: [Containers, Equipment, Kits & Packs, Bundle, Books, Gift Vouchers]
+    require_inci: true
+    active: true
+
+  # ---------------- Finished products (Clay) ----------------
+  - id: open_beauty_facts
+    name: Open Beauty Facts
+    country: GLOBAL
+    currency: ""
+    language: multi
+    kind: product
+    adapter: open_beauty_facts
+    base_url: https://world.openbeautyfacts.org
+    notes: Open database (ODbL licence - attribution + share-alike). Daily full export.
+    active: true
+
+  - id: round_lab
+    name: Round Lab
+    country: KR
+    currency: USD
+    language: en
+    kind: product
+    adapter: shopify
+    base_url: https://roundlab.com
+    brand: Round Lab
+    exclude_types: [Skin Care Kits, Hidden]
+    exclude_title_words: ["100% off", gift, set, kit, keyring]
+    require_inci: true
+    active: true
+
+  - id: cosrx
+    name: COSRX
+    country: KR
+    currency: USD
+    language: en
+    kind: product
+    adapter: shopify
+    base_url: https://www.cosrx.com
+    brand: COSRX
+    exclude_types: [FREEGIFT_HIDDEN, Custom Bundle]
+    exclude_title_words: [free gift, trio, duo, set, bundle, kit]
+    fetch_pages: true          # full ingredient list is only on the product page
+    require_inci: true
+    active: true
+
+  # ---------------- Regulatory (per-country rules) ----------------
+  # Data via CosIng Checker (cosingchecker.com), a third-party structured copy of official sources.
+  # Each rule keeps the official source URL. Flip active: true to add a country.
+  - {id: reg_eu, name: "EU Cosmetics Regulation (CosIng annexes)", country: EU, kind: regulatory, adapter: cosing_checker, jurisdiction: eu, active: true}
+  - {id: reg_ca, name: "Health Canada Cosmetic Ingredient Hotlist", country: CA, kind: regulatory, adapter: cosing_checker, jurisdiction: ca, active: true}
+  - {id: reg_us, name: "US FDA cosmetic ingredient rules", country: US, kind: regulatory, adapter: cosing_checker, jurisdiction: us, active: true}
+  - {id: reg_gb, name: "Great Britain (OPSS)", country: GB, kind: regulatory, adapter: cosing_checker, jurisdiction: gb, active: false}
+  - {id: reg_kr, name: "South Korea (MFDS)", country: KR, kind: regulatory, adapter: cosing_checker, jurisdiction: kr, active: false}
+  - {id: reg_au, name: "Australia (AICIS)", country: AU, kind: regulatory, adapter: cosing_checker, jurisdiction: au, active: false}
+  - {id: reg_jp, name: "Japan (MHLW)", country: JP, kind: regulatory, adapter: cosing_checker, jurisdiction: jp, active: false}
+  - {id: reg_cn, name: "China (NMPA)", country: CN, kind: regulatory, adapter: cosing_checker, jurisdiction: cn, active: false}
+  - {id: reg_asean, name: "ASEAN Cosmetic Directive", country: ASEAN, kind: regulatory, adapter: cosing_checker, jurisdiction: asean, active: false}
+  - {id: reg_br, name: "Brazil (ANVISA)", country: BR, kind: regulatory, adapter: cosing_checker, jurisdiction: br, active: false}
+  - {id: reg_in, name: "India (CDSCO)", country: IN, kind: regulatory, adapter: cosing_checker, jurisdiction: in, active: false}
+  - {id: reg_nz, name: "New Zealand (EPA)", country: NZ, kind: regulatory, adapter: cosing_checker, jurisdiction: nz, active: false}
+  - {id: reg_sa, name: "Saudi Arabia (SFDA)", country: SA, kind: regulatory, adapter: cosing_checker, jurisdiction: sa, active: false}

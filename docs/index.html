@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skincare Data Hub · Status</title>
+<style>
+:root{
+  --bg:#f6f5f1;--panel:#ffffff;--ink:#1d2320;--muted:#66706b;--line:#e3e1da;--accent:#2f4f3a;
+  --ok:#2e7d4f;--ok-bg:#e3f2e8;--warn:#9a6a00;--warn-bg:#fbf0d4;--bad:#b3261e;--bad-bg:#fbe3e1;--off:#7a7f7c;--off-bg:#ecebe7;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#111513;--panel:#181d1a;--ink:#e7ebe8;--muted:#9aa49f;--line:#2a312d;--accent:#8fc3a0;
+  --ok:#7fd29c;--ok-bg:#163223;--warn:#f0c661;--warn-bg:#3a2e10;--bad:#ff8a80;--bad-bg:#3b1715;--off:#9aa09c;--off-bg:#232825;}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-size:14px;line-height:1.45}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 16px 60px}
+header{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:flex-end;justify-content:space-between;margin-bottom:22px}
+h1{font-size:22px;margin:0;letter-spacing:-.01em}
+.sub{color:var(--muted);margin-top:4px}
+.health{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:999px;font-weight:600}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:22px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card .n{font-size:24px;font-weight:700;font-variant-numeric:tabular-nums}
+.card .l{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+section{background:var(--panel);border:1px solid var(--line);border-radius:12px;margin-bottom:22px;overflow:hidden}
+section h2{font-size:15px;margin:0;padding:14px 16px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.filters button{background:none;border:1px solid var(--line);color:var(--ink);border-radius:999px;padding:4px 10px;font-size:12px;cursor:pointer;margin-left:4px}
+.filters button.on{background:var(--accent);border-color:var(--accent);color:var(--panel)}
+.scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;min-width:820px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);font-weight:600}
+tr:last-child td{border-bottom:none}
+td.num{font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.badge{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;font-weight:600;white-space:nowrap}
+.passed{color:var(--ok);background:var(--ok-bg)}.partial{color:var(--warn);background:var(--warn-bg)}
+.failed{color:var(--bad);background:var(--bad-bg)}.paused,.never{color:var(--off);background:var(--off-bg)}
+.dots{display:flex;gap:2px}.dot{width:7px;height:16px;border-radius:2px;background:var(--off-bg)}
+.dot.passed{background:var(--ok)}.dot.partial{background:var(--warn)}.dot.failed{background:var(--bad)}
+.msg{color:var(--muted);font-size:12px;max-width:280px}
+.name{font-weight:600}.meta{color:var(--muted);font-size:12px}
+.chg{display:grid;grid-template-columns:90px 92px 1fr;gap:4px 12px;padding:10px 16px;border-bottom:1px solid var(--line)}
+.chg:last-child{border-bottom:none}
+.chg .k{font-size:12px;font-weight:600}
+.k.added{color:var(--ok)}.k.changed{color:var(--warn)}.k.removed{color:var(--bad)}
+.empty{padding:16px;color:var(--muted)}
+footer{color:var(--muted);font-size:12px}
+footer a{color:var(--accent)}
+@media (max-width:640px){.chg{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Skincare Data Hub</h1>
+      <div class="sub" id="when">Loading…</div>
+    </div>
+    <div class="health" id="health"></div>
+  </header>
+
+  <div class="cards" id="cards"></div>
+
+  <section>
+    <h2>Sources <span class="filters" id="filters"></span></h2>
+    <div class="scroll"><table>
+      <thead><tr><th>Source</th><th>Status</th><th>Last 30 runs</th><th>Last success</th>
+        <th class="num">Active</th><th class="num">+ Added</th><th class="num">~ Changed</th><th class="num">− Removed</th><th>Notes</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table></div>
+  </section>
+
+  <section>
+    <h2>Recent changes</h2>
+    <div id="changes"></div>
+  </section>
+
+  <footer>
+    Data files live in the <a href="https://github.com/Arnitah/skincare-data-hub/tree/main/data">repository's data folder</a>.
+    Product data from Open Beauty Facts is licensed under the ODbL. Regulatory data via cosingchecker.com (third-party copy of official sources).
+  </footer>
+</div>
+<script>
+const KIND = {raw_material:"DIY raw materials", product:"Finished products", regulatory:"Regulatory"};
+const fmtDate = s => s ? new Date(s).toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"}) : "—";
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let data, filter = "all";
+
+function render(){
+  const srcs = data.sources.filter(s => filter==="all" || s.kind===filter);
+  document.getElementById("rows").innerHTML = srcs.map(s => {
+    const st = s.last_run_status || "never";
+    const hist = (data.history[s.source_id]||[]).slice(-30);
+    const dots = Array.from({length:30},(_,i)=>{const h=hist[i-(30-hist.length)];return `<span class="dot ${h?h.status:""}" title="${h?esc(h.run_id+" "+h.status):""}"></span>`}).join("");
+    return `<tr>
+      <td><div class="name">${esc(s.name)}</div><div class="meta">${esc(s.country)} · ${esc(KIND[s.kind]||s.kind)}</div></td>
+      <td><span class="badge ${st}">${st}</span>${+s.consecutive_failures>1?`<div class="meta">${s.consecutive_failures} fails in a row</div>`:""}</td>
+      <td><div class="dots">${dots}</div></td>
+      <td class="meta">${fmtDate(s.last_success_at)}</td>
+      <td class="num">${(+s.records_active||0).toLocaleString()}</td>
+      <td class="num">${s.records_added||0}</td><td class="num">${s.records_changed||0}</td><td class="num">${s.records_removed||0}</td>
+      <td class="msg">${esc(s.message)}</td></tr>`;
+  }).join("") || `<tr><td colspan="9" class="empty">No sources</td></tr>`;
+}
+
+fetch("status.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
+  data = d;
+  document.getElementById("when").textContent = "Last refresh: " + fmtDate(d.generated_at);
+  const act = d.sources.filter(s=>s.active===true||s.active==="true"||s.active==="True");
+  const bad = act.filter(s=>s.last_run_status==="failed").length, part = act.filter(s=>s.last_run_status==="partial").length;
+  const h = document.getElementById("health");
+  h.className = "health badge " + (bad?"failed":part?"partial":"passed");
+  h.textContent = bad ? `${bad} source${bad>1?"s":""} failing` : part ? `${part} partial` : "All sources passing";
+  const t = d.totals;
+  document.getElementById("cards").innerHTML = [
+    ["DIY raw materials", t.raw_materials],["Finished products", t.products],["Ingredients (INCI)", t.ingredients],
+    ["Regulatory rules", t.regulatory],["Countries with rules", new Set(d.sources.filter(s=>s.kind==="regulatory"&&String(s.active)!=="false").map(s=>s.country)).size]
+  ].map(([l,n])=>`<div class="card"><div class="n">${(n||0).toLocaleString()}</div><div class="l">${l}</div></div>`).join("");
+  document.getElementById("filters").innerHTML = ["all","raw_material","product","regulatory"].map(k=>
+    `<button data-k="${k}" class="${k===filter?"on":""}">${k==="all"?"All":KIND[k]}</button>`).join("");
+  document.getElementById("filters").onclick = e => { if(e.target.dataset.k){filter=e.target.dataset.k;
+    document.querySelectorAll("#filters button").forEach(b=>b.classList.toggle("on",b.dataset.k===filter)); render();}};
+  render();
+  const ch = d.recent_changes.length ? d.recent_changes : d.imports;
+  document.getElementById("changes").innerHTML = ch.length ? ch.slice(0,100).map(c=>`<div class="chg">
+     <div class="meta">${esc(c.date)}</div><div class="k ${esc(c.change)}">${esc(c.change.replace("_"," "))}</div>
+     <div><span class="name">${esc(c.name)}</span> <span class="meta">· ${esc(c.source_id)}</span>
+     ${c.fields?`<div class="meta">${esc(c.details||c.fields)}</div>`:c.details?`<div class="meta">${esc(c.details)}</div>`:""}</div></div>`).join("")
+     : `<div class="empty">No changes yet — changes appear from the second daily run onward.</div>`;
+}).catch(()=>{document.getElementById("when").textContent="Could not load status.json";});
+</script>
+</body>
+</html>
