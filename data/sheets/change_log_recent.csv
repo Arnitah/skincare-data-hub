@@ -1,0 +1,12 @@
+date,run_id,source_id,table,record_id,name,change,fields,details
+2026-10-20,20261020T221237Z,reg_us,regulatory,,US FDA cosmetic ingredient rules,initial_import,,99 records imported
+2026-10-20,20261020T221237Z,reg_ca,regulatory,,Health Canada Cosmetic Ingredient Hotlist,initial_import,,580 records imported
+2026-10-20,20261020T221237Z,reg_eu,regulatory,,EU Cosmetics Regulation (CosIng annexes),initial_import,,2353 records imported
+2026-10-20,20261020T221237Z,cosrx,products,,COSRX,initial_import,,91 records imported
+2026-10-20,20261020T221237Z,round_lab,products,,Round Lab,initial_import,,61 records imported
+2026-10-20,20261020T221237Z,open_beauty_facts,products,,Open Beauty Facts,initial_import,,15230 records imported
+2026-10-20,20261020T221237Z,aromantic,raw_materials,,Aromantic,initial_import,,334 records imported
+2026-10-20,20261020T221237Z,windy_point,raw_materials,,Windy Point Soap Making Supplies,initial_import,,272 records imported
+2026-10-20,20261020T221237Z,formulator_sample_shop,raw_materials,,Formulator Sample Shop,initial_import,,679 records imported
+2026-10-20,20261020T221237Z,lotioncrafter,raw_materials,,Lotioncrafter,initial_import,,350 records imported
+2026-10-20,20261020T221237Z,native_extracts,raw_materials,,Native Extracts,initial_import,,252 records imported
