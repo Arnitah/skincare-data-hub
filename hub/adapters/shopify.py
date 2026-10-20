@@ -67,8 +67,14 @@ def run(src, ctx):
             except Exception as e:  # noqa: BLE001
                 return h, e
 
+        upd = {p["handle"]: p.get("updated_at") for p in products}
         with ThreadPoolExecutor(max_workers=2) as ex:
             for h, res in ex.map(fetch, todo):
+                if getattr(getattr(res, "response", None), "status_code", None) == 404:
+                    # unpublished/hidden listing (draft copies, regional duplicates): not an error, skip it
+                    cache[h] = {"u": upd.get(h), "has": False}
+                    page_text[h] = None
+                    continue
                 if isinstance(res, Exception):
                     failed += 1
                     page_text[h] = False

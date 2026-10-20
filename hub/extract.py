@@ -70,7 +70,7 @@ def percent_range(t):
 
 
 def ph_range(t):
-    m = re.search(r"\bpH[^0-9\n]{0,40}?(\d{1,2}(?:\.\d+)?)\s*(?:-|–|—|to)\s*(\d{1,2}(?:\.\d+)?)", t)
+    m = re.search(r"\bpH\b[^0-9%]{0,45}?(\d{1,2}(?:\.\d+)?)\s*(?:-|–|—|to)\s*(\d{1,2}(?:\.\d+)?)", t)
     if m:
         a, b = float(m.group(1)), float(m.group(2))
         if 0 <= a <= 14 and 0 <= b <= 14 and a <= b:
