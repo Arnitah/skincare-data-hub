@@ -26,6 +26,8 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main            # always start from the latest data, not the commit that triggered the run
 
       - uses: actions/setup-python@v5
         with:
@@ -48,7 +50,7 @@ jobs:
             echo "No changes"
           else
             git commit -m "Data refresh $(date -u +%Y-%m-%d)"
-            git pull --rebase origin main
+            git pull --rebase -X theirs origin main   # on a clash, this run's fresh data wins
             git push
           fi
 
