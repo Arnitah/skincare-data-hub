@@ -106,6 +106,25 @@ def _write_csv(path, cols, rows):
             w.writerow([_cell(r.get(c)) for c in cols])
 
 
+def _write_parts(prefix, cols, rows, n):
+    """Split a table into n CSVs for Google Sheets (IMPORTDATA rejects files over ~1-2 MB).
+    Part 1 has the header, later parts don't, so a tab can stack them: ={IMPORTDATA(p1);IMPORTDATA(p2);...}.
+    Rows go to a part by a stable hash of their id, so the number of parts never changes."""
+    import zlib
+    buckets = [[] for _ in range(n)]
+    for r in rows:
+        buckets[zlib.crc32(str(r.get(cols[0], "")).encode()) % n].append(r)
+    for i, b in enumerate(buckets, 1):
+        path = f"{prefix}_part{i}.csv"
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w", encoding="utf-8", newline="") as f:
+            w = csv.writer(f)
+            if i == 1:
+                w.writerow(cols)
+            for r in b:
+                w.writerow([_cell(r.get(c)) for c in cols])
+
+
 def _read_csv(path):
     try:
         with open(path, encoding="utf-8", newline="") as f:
@@ -527,6 +546,18 @@ def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now
     _write_csv(os.path.join(sheets, "raw_materials.csv"),
                [c for c in COLUMNS["raw_materials"] if c not in ("description", "image_url", "tags")],
                sorted(tables["raw_materials"].values(), key=lambda r: r["id"]))
+    # split copies for Google Sheets (stable part counts - the Sheet's formulas list each part)
+    slim_products = [c for c in COLUMNS["products"] if c not in ("ingredients_text", "tags", "image_url", "source_type",
+                                                                  "data_basis", "removed_on", "countries_sold")]
+    _write_parts(os.path.join(sheets, "products"), slim_products,
+                 [r for r in sorted(tables["products"].values(), key=lambda r: r["id"]) if r.get("listing_status") != "removed"], 8)
+    _write_parts(os.path.join(sheets, "raw_materials"),
+                 [c for c in COLUMNS["raw_materials"] if c not in ("description", "image_url", "tags")],
+                 sorted(tables["raw_materials"].values(), key=lambda r: r["id"]), 3)
+    _write_parts(os.path.join(sheets, "regulatory"),
+                 [c for c in COLUMNS["regulatory"] if c not in ("conditions", "warnings", "data_via")],
+                 sorted(tables["regulatory"].values(), key=lambda r: r["id"]), 4)
+    _write_parts(os.path.join(sheets, "ingredients"), icols, ingredients, 2)
     _write_csv(os.path.join(sheets, "milk_atlas_summary.csv"), atlas_mod.SUMMARY_COLS, A["summary"])
     _write_csv(os.path.join(sheets, "milk_atlas_matches_exact.csv"), atlas_mod.MATCH_COLS,
                sorted((m for m in A["matches"] if m["match_type"] == "exact"), key=lambda m: (m["atlas_id"], m["record_id"])))
