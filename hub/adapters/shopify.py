@@ -5,7 +5,7 @@ Product pages are only re-fetched when the product's updated_at changed since th
 """
 from concurrent.futures import ThreadPoolExecutor
 
-from .. import extract, inci, net
+from .. import categories, extract, inci, net
 
 
 def _feed(s, base):
@@ -133,6 +133,7 @@ def run(src, ctx):
                 continue
             items = [i for i in inci.split_list(ing) if inci.looks_valid(i)]
             common.update({
+                "category_group": categories.group(p["title"], p.get("product_type") or "", "; ".join(p.get("tags") or [])),
                 "brand": src.get("brand", ""), "barcode": "",
                 "size": extract.size_from_title(p["title"]) or sizes,
                 "countries_sold": src["country"],

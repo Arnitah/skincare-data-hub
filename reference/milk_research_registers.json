@@ -1,0 +1,395 @@
+{
+ "schemaVersion": "1.0",
+ "title": "Beauty Intelligence — Global Milk Research Registers",
+ "reviewDate": "2026-10-20",
+ "purpose": "Companion research layer for the Global Milk Ingredient Atlas, separating traditions, current commercial examples and scientific evidence.",
+ "methodology": [
+  "Do not infer a cosmetic tradition from food tradition or modern marketing.",
+  "Brand pages establish seller claims or listed ingredients, not independent efficacy.",
+  "Check current country-specific INCI and availability; formulas change.",
+  "Keep milk, protein, hydrolysate, extract, oil, ferment filtrate and colloidal oatmeal distinct.",
+  "Not verified in this pass means evidence has not been established here, not that a claim is false."
+ ],
+ "traditions_register": [
+  {
+   "id": "TR-01",
+   "material": "Donkey milk",
+   "region_context": "Mediterranean Europe; historical literature also discusses East Asian contexts",
+   "reported_use": "Historical literature describes donkey milk as a therapeutic food and in infant feeding; this does not prove a cosmetic skincare tradition.",
+   "verification_status": "Historical food/medical context supported; cosmetic-specific tradition not verified",
+   "confidence": "Moderate for historical context; low for cosmetic tradition",
+   "next_step": "Locate primary sources explicitly documenting topical beauty use, date, place and community.",
+   "source_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8152225/"
+   ]
+  },
+  {
+   "id": "TR-02",
+   "material": "Cow milk / milk proteins",
+   "region_context": "Cross-regional; claims must be place- and period-specific",
+   "reported_use": "Broad ancient-beauty claims should not be accepted without traceable primary evidence.",
+   "verification_status": "Broad claim not verified as a single tradition",
+   "confidence": "Low",
+   "next_step": "Require source, date, community, preparation and application route.",
+   "source_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/34071375/"
+   ]
+  },
+  {
+   "id": "TR-03",
+   "material": "Goat milk",
+   "region_context": "Multiple regions",
+   "reported_use": "Contemporary goat-milk soaps exist; modern product use does not prove an ancient tradition.",
+   "verification_status": "Modern commercial use supported; historical tradition needs separate evidence",
+   "confidence": "Moderate for modern use",
+   "next_step": "Separate ethnographic evidence from product evidence.",
+   "source_urls": [
+    "https://www.heritage-store.com/"
+   ]
+  },
+  {
+   "id": "TR-04",
+   "material": "Sheep milk",
+   "region_context": "Mediterranean and pastoral regions are research leads, not proof",
+   "reported_use": "Do not infer skincare tradition from sheep dairying or food culture alone.",
+   "verification_status": "Specific cosmetic tradition not verified",
+   "confidence": "Low",
+   "next_step": "Search regional museum, oral-history and historical cosmetic sources.",
+   "source_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/34071375/"
+   ]
+  },
+  {
+   "id": "TR-05",
+   "material": "Camel milk",
+   "region_context": "Arid and semi-arid pastoral regions; country/community specificity required",
+   "reported_use": "Food traditions and contemporary soap marketing are distinct evidence types.",
+   "verification_status": "Modern product examples located; historical topical use not established here",
+   "confidence": "Low to moderate",
+   "next_step": "Find primary regional sources for topical preparation and use.",
+   "source_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8152225/"
+   ],
+   "link_corrections": "URL normalised to the canonical PMC8152225 form on import; the original form also resolves to the same article."
+  },
+  {
+   "id": "TR-06",
+   "material": "Rice water / rice ferment",
+   "region_context": "East Asian hair-care narratives often appear online",
+   "reported_use": "Repeated internet claims do not establish a practice origin, continuity or efficacy.",
+   "verification_status": "Popular claim; primary historical source not attached",
+   "confidence": "Low for origin claims",
+   "next_step": "Distinguish homemade rice water from rice milk, extract and ferment filtrate.",
+   "source_urls": [
+    "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-ingredient-database_en"
+   ]
+  },
+  {
+   "id": "TR-07",
+   "material": "Coconut milk",
+   "region_context": "Tropical coconut-growing regions; practices vary by community",
+   "reported_use": "Coconut milk, coconut oil and coconut-derived surfactants are not interchangeable.",
+   "verification_status": "Specific regional tradition needs primary-source confirmation",
+   "confidence": "Low to moderate",
+   "next_step": "Record country, community, preparation, application and source language.",
+   "source_urls": [
+    "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-ingredient-database_en"
+   ]
+  },
+  {
+   "id": "TR-08",
+   "material": "Soy milk / soy-derived ingredients",
+   "region_context": "East Asian food cultures and modern global cosmetics",
+   "reported_use": "Food history does not itself verify topical use; soy protein/extract differs from soy milk.",
+   "verification_status": "Traditional topical claim not verified",
+   "confidence": "Low",
+   "next_step": "Trace exact ingredient identity and topical application in scholarly sources.",
+   "source_urls": [
+    "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-ingredient-database_en"
+   ]
+  },
+  {
+   "id": "TR-09",
+   "material": "Fermented dairy / yoghurt",
+   "region_context": "Many food cultures",
+   "reported_use": "Current cosmetic products exist, but a traditional face-mask claim needs a place- and time-specific source.",
+   "verification_status": "Modern products supported; historical regional details unverified",
+   "confidence": "Moderate for current products; low for broad tradition claims",
+   "next_step": "Attach historical sources before marking a region as confirmed.",
+   "source_urls": [
+    "https://www.korres.com/"
+   ]
+  },
+  {
+   "id": "TR-10",
+   "material": "Colostrum",
+   "region_context": "Research and historical therapeutic-food literature",
+   "reported_use": "Scientific interest in colostrum does not establish traditional cosmetic use or justify DIY application.",
+   "verification_status": "Scientific review located; cosmetic tradition unverified",
+   "confidence": "Moderate for research context; low for tradition claim",
+   "next_step": "Separate food/medical history, marketing and controlled topical evidence.",
+   "source_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/34071375/"
+   ]
+  }
+ ],
+ "commercial_product_register": [
+  {
+   "id": "PR-01",
+   "brand": "GOAT",
+   "product": "Original Goat Milk Soap",
+   "material_claim": "Goat milk",
+   "market": "North America / online",
+   "format": "Rinse-off soap",
+   "verification_status": "Official product page located in prior research; verify current formula and availability",
+   "ingredient_interpretation": "Check current INCI; a soap is not equivalent to leave-on milk.",
+   "source_urls": [
+    "https://www.heritage-store.com/"
+   ]
+  },
+  {
+   "id": "PR-02",
+   "brand": "Cammellatte",
+   "product": "Camel Milk Face & Body Soap",
+   "material_claim": "Camel milk",
+   "market": "Online; availability may vary",
+   "format": "Rinse-off soap",
+   "verification_status": "Product listing located; stock and shipping may change",
+   "ingredient_interpretation": "Verify current INCI, seller, manufacturing country and stock.",
+   "source_urls": [
+    "https://cammellatte.com/"
+   ]
+  },
+  {
+   "id": "PR-03",
+   "brand": "KORRES",
+   "product": "Mediterranean Donkey Milk Protein Strengthening Face Cream",
+   "material_claim": "Donkey milk",
+   "market": "Europe / online",
+   "format": "Leave-on face cream",
+   "verification_status": "Official product page located in prior research; verify current availability",
+   "ingredient_interpretation": "Ingredient presence does not prove donkey milk alone causes the claimed outcome.",
+   "source_urls": [
+    "https://www.korres.com/"
+   ]
+  },
+  {
+   "id": "PR-04",
+   "brand": "KORRES",
+   "product": "Mediterranean Donkey Milk Miracle Milk Hand & Nail Treatment",
+   "material_claim": "Donkey milk",
+   "market": "Europe / online",
+   "format": "Leave-on hand/nail treatment",
+   "verification_status": "Official product page located in prior research; verify current availability",
+   "ingredient_interpretation": "Capture full INCI and exact claim from current country-specific page.",
+   "source_urls": [
+    "https://www.korres.com/"
+   ]
+  },
+  {
+   "id": "PR-05",
+   "brand": "OGX",
+   "product": "Nourishing + Coconut Milk Shampoo",
+   "material_claim": "Coconut-milk branding; researched page listed coconut fruit extract and hydrolyzed milk protein",
+   "market": "North America",
+   "format": "Rinse-off shampoo",
+   "verification_status": "Official product page located in prior research",
+   "ingredient_interpretation": "Do not assume it contains coconut milk beverage; extracts and milk proteins are distinct.",
+   "source_urls": [
+    "https://www.ogxbeauty.com/"
+   ]
+  },
+  {
+   "id": "PR-06",
+   "brand": "AVEENO",
+   "product": "Daily Moisturizing Body Wash",
+   "material_claim": "Oat-derived ingredients, not ordinary oat milk",
+   "market": "North America",
+   "format": "Rinse-off body wash",
+   "verification_status": "Official product page located in prior research",
+   "ingredient_interpretation": "Record oat kernel flour/oil/extract as oat-derived ingredients unless INCI says otherwise.",
+   "source_urls": [
+    "https://www.aveeno.com/"
+   ]
+  },
+  {
+   "id": "PR-07",
+   "brand": "Garnier",
+   "product": "Rice Water Smooth Shampoo",
+   "material_claim": "Rice ferment filtrate",
+   "market": "Selected markets",
+   "format": "Rinse-off shampoo",
+   "verification_status": "Official product page located in prior research; formula varies by country",
+   "ingredient_interpretation": "Ferment filtrate is not homemade rice water or rice milk.",
+   "source_urls": [
+    "https://www.garnierusa.com/"
+   ]
+  },
+  {
+   "id": "PR-08",
+   "brand": "Kitsch",
+   "product": "Rice Water Shampoo",
+   "material_claim": "Rice-water positioning",
+   "market": "Canada / online",
+   "format": "Rinse-off shampoo",
+   "verification_status": "Canadian product page located in prior research; verify current INCI and availability",
+   "ingredient_interpretation": "Separate front-label story from exact rice-derived ingredient form.",
+   "source_urls": [
+    "https://www.mykitsch.com/"
+   ]
+  },
+  {
+   "id": "PR-09",
+   "brand": "KORRES",
+   "product": "Greek Yoghurt product family",
+   "material_claim": "Greek yoghurt / yoghurt-related ingredients",
+   "market": "Europe / online",
+   "format": "Multiple formats",
+   "verification_status": "Official category page located; verify individual SKU and INCI",
+   "ingredient_interpretation": "Create one product record per SKU once its ingredient list is confirmed.",
+   "source_urls": [
+    "https://www.korres.com/"
+   ]
+  },
+  {
+   "id": "PR-10",
+   "brand": "Register rule",
+   "product": "Unverified milk-labelled product",
+   "material_claim": "Any milk or milk-derived ingredient",
+   "market": "Any",
+   "format": "Any",
+   "verification_status": "Template, not a product recommendation",
+   "ingredient_interpretation": "Require exact product name, country, official page, current INCI, capture date and exact claim.",
+   "source_urls": [
+    "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-ingredient-database_en"
+   ]
+  }
+ ],
+ "scientific_evidence_register": [
+  {
+   "id": "EV-01",
+   "material": "Bovine milk proteins and derivatives",
+   "question": "Safety in cosmetic use?",
+   "evidence_type": "Cosmetic Ingredient Review safety assessment",
+   "finding": "Expert panel concluded 16 bovine milk protein/derivative ingredients were safe under present practices of use and concentration in the assessment.",
+   "strength": "Moderate for the assessment scope",
+   "limits": "Not proof of efficacy or a guarantee for every formula/person; allergy and finished-formula context matter.",
+   "source_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/35510869/",
+    "https://journals.sagepub.com/doi/full/10.1177/10915818221098137"
+   ]
+  },
+  {
+   "id": "EV-02",
+   "material": "Milk proteins in cosmetics/dermatology",
+   "question": "What activities are being researched?",
+   "evidence_type": "Review article",
+   "finding": "A review discusses milk and colostrum proteins and potential applications, while noting limited literature and the need for more research.",
+   "strength": "Low to moderate for specific cosmetic outcomes",
+   "limits": "Mechanistic or laboratory activity does not automatically translate to finished-product benefits.",
+   "source_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/34071375/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8197926/"
+   ]
+  },
+  {
+   "id": "EV-03",
+   "material": "Donkey milk",
+   "question": "What is known about composition and historical context?",
+   "evidence_type": "Narrative review",
+   "finding": "Review covers composition, historical therapeutic-food context and research into possible functions.",
+   "strength": "Moderate for background; low for a cosmetic claim without product-specific trials",
+   "limits": "Historical food/medical use is not proof of topical cosmetic efficacy.",
+   "source_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8152225/"
+   ]
+  },
+  {
+   "id": "EV-04",
+   "material": "Colloidal oatmeal",
+   "question": "Is there an established skin-protectant use?",
+   "evidence_type": "Official US OTC drug label",
+   "finding": "An official label lists colloidal oatmeal 1% as an active skin protectant for temporary relief of minor irritation and itching, including eczema and rashes.",
+   "strength": "High for the stated label and jurisdiction",
+   "limits": "Colloidal oatmeal is not oat milk; regulatory status varies by country and product class.",
+   "source_urls": [
+    "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=423c821d-92af-47f0-b9ee-8b68ecbcc44e",
+    "https://www.accessdata.fda.gov/drugsatfda_docs/omuf/OTCMonograph_M016SkinProtectantDrugProductsforOTCHumanUse09242021.pdf"
+   ]
+  },
+  {
+   "id": "EV-05",
+   "material": "Cosmetic ingredient naming/status",
+   "question": "Where can EU ingredient names be checked?",
+   "evidence_type": "European Commission database description",
+   "finding": "CosIng compiles common cosmetic ingredient names and information on cosmetic substances and relevant EU legal references.",
+   "strength": "High for ingredient-name/reference lookup",
+   "limits": "A CosIng entry alone is not an efficacy endorsement or universal safety guarantee.",
+   "source_urls": [
+    "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-ingredient-database_en"
+   ]
+  },
+  {
+   "id": "EV-06",
+   "material": "Finished cosmetic product claims",
+   "question": "Does an ingredient page prove product safety or efficacy?",
+   "evidence_type": "Regulatory guidance",
+   "finding": "FDA says most cosmetics and ingredients are not pre-approved by FDA, except certain color additives; companies are responsible for safety under labelled or customary use.",
+   "strength": "High for the US framework",
+   "limits": "US guidance is not a substitute for Canadian or EU requirements.",
+   "source_urls": [
+    "https://www.fda.gov/cosmetics/cosmetic-products-ingredients/cosmetic-ingredients"
+   ]
+  },
+  {
+   "id": "EV-07",
+   "material": "Milk proteins / hydrolysates",
+   "question": "What function and risk should be displayed?",
+   "evidence_type": "Safety assessment synthesis",
+   "finding": "Milk-derived proteins may function as conditioning ingredients; milk proteins can be relevant allergens for some people.",
+   "strength": "Moderate for broad ingredient context",
+   "limits": "Do not infer every derivative has identical allergenicity or every user will react.",
+   "source_urls": [
+    "https://journals.sagepub.com/doi/full/10.1177/10915818221098137"
+   ]
+  },
+  {
+   "id": "EV-08",
+   "material": "Rice ferment filtrate vs rice water",
+   "question": "Are these interchangeable?",
+   "evidence_type": "Ingredient identity rule",
+   "finding": "No. Ferment filtrate is a processed cosmetic ingredient and differs from homemade rice water, rice milk, rice extract and rice protein.",
+   "strength": "High as a data-model distinction",
+   "limits": "Exact composition depends on process and supplier specification.",
+   "source_urls": [
+    "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-ingredient-database_en"
+   ]
+  },
+  {
+   "id": "EV-09",
+   "material": "Plant milks",
+   "question": "Can beverage composition predict cosmetic performance?",
+   "evidence_type": "Evidence-quality rule",
+   "finding": "No. Beverage composition is not equivalent to a cosmetic INCI, concentration, stability, bioavailability or performance.",
+   "strength": "High as an interpretation safeguard",
+   "limits": "Finished-product claims require product-specific evidence.",
+   "source_urls": [
+    "https://www.fda.gov/cosmetics/cosmetic-products-ingredients/cosmetic-ingredients"
+   ]
+  },
+  {
+   "id": "EV-10",
+   "material": "Traditional-use claims",
+   "question": "What qualifies a tradition as verified?",
+   "evidence_type": "Research protocol",
+   "finding": "Require a traceable primary or scholarly source identifying place/community, period, preparation, application route and the specific claim documented.",
+   "strength": "High as a data-quality standard",
+   "limits": "Not verified in this pass does not mean the claim is necessarily false.",
+   "source_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8152225/"
+   ],
+   "link_corrections": "URL normalised to the canonical PMC8152225 form on import; the original form also resolves to the same article."
+  }
+ ],
+ "imported_from": "beauty_intelligence_global_milk_research_registers_v1_0.json"
+}

@@ -73,6 +73,15 @@ footer a{color:var(--accent)}
   </section>
 
   <section>
+    <h2>Milk Ingredient Atlas <span class="meta">exact = the milk itself · related = extract / protein / ferment</span></h2>
+    <div class="scroll"><table>
+      <thead><tr><th>Atlas entry</th><th class="num">Products (exact)</th><th class="num">Related</th>
+        <th class="num">Raw materials</th><th class="num">New today</th><th>Examples</th><th>Evidence</th></tr></thead>
+      <tbody id="atlas"></tbody>
+    </table></div>
+  </section>
+
+  <section>
     <h2>Recent changes</h2>
     <div id="changes"></div>
   </section>
@@ -116,13 +125,19 @@ fetch("status.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
   const t = d.totals;
   document.getElementById("cards").innerHTML = [
     ["DIY raw materials", t.raw_materials],["Finished products", t.products],["Ingredients (INCI)", t.ingredients],
-    ["Regulatory rules", t.regulatory],["Countries with rules", new Set(d.sources.filter(s=>s.kind==="regulatory"&&String(s.active)!=="false").map(s=>s.country)).size]
+    ["Regulatory rules", t.regulatory],["Milk atlas matches", t.atlas_product_matches_exact],["Countries with rules", new Set(d.sources.filter(s=>s.kind==="regulatory"&&String(s.active)!=="false").map(s=>s.country)).size]
   ].map(([l,n])=>`<div class="card"><div class="n">${(n||0).toLocaleString()}</div><div class="l">${l}</div></div>`).join("");
   document.getElementById("filters").innerHTML = ["all","raw_material","product","regulatory"].map(k=>
     `<button data-k="${k}" class="${k===filter?"on":""}">${k==="all"?"All":KIND[k]}</button>`).join("");
   document.getElementById("filters").onclick = e => { if(e.target.dataset.k){filter=e.target.dataset.k;
     document.querySelectorAll("#filters button").forEach(b=>b.classList.toggle("on",b.dataset.k===filter)); render();}};
   render();
+  document.getElementById("atlas").innerHTML = (d.milk_atlas||[]).map(a=>`<tr>
+     <td><div class="name">${esc(a.name)}</div><div class="meta">${esc(a.atlas_id)} · ${esc(a.group)}</div></td>
+     <td class="num">${a.products_exact}</td><td class="num">${a.products_related}</td>
+     <td class="num">${(+a.raw_materials_exact||0)+(+a.raw_materials_related||0)}</td><td class="num">${a.new_matches_today||0}</td>
+     <td class="msg">${esc(a.example_products)}</td><td class="meta">${esc(a.evidence_ids)}</td></tr>`).join("")
+     || `<tr><td colspan="7" class="empty">Atlas not built yet</td></tr>`;
   const ch = d.recent_changes.length ? d.recent_changes : d.imports;
   document.getElementById("changes").innerHTML = ch.length ? ch.slice(0,100).map(c=>`<div class="chg">
      <div class="meta">${esc(c.date)}</div><div class="k ${esc(c.change)}">${esc(c.change.replace("_"," "))}</div>

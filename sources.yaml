@@ -2,16 +2,21 @@
 #  kind:     raw_material (DIY ingredients -> Safe Batch) | product (finished products -> Clay) | regulatory (per-country rules)
 #  adapter:  which scraper handles it (see hub/adapters/)
 #  active:   set to false to pause a source without deleting it
+#  source_type / data_basis: where the facts come from (seller page, brand page, crowd-sourced, regulator copy)
 #  min_expected: if a run returns fewer records than this share of the previous run, it is marked FAILED
 #                and the previous data is kept (protects against a site redesign silently wiping data)
 
 defaults:
   min_expected: 0.5
+  source_type: regulator            # starter-pack vocabulary: manufacturer | retailer | regulator | paper | user_reported | other
+  data_basis: regulator_rules_via_third_party
   user_agent: "skincare-data-hub/1.0 (+https://github.com/Arnitah/skincare-data-hub)"
 
 sources:
   # ---------------- DIY raw materials (Safe Batch) ----------------
   - id: native_extracts
+    source_type: manufacturer
+    data_basis: supplier_published
     name: Native Extracts
     country: AU
     currency: AUD
@@ -23,6 +28,8 @@ sources:
     active: true
 
   - id: lotioncrafter
+    source_type: retailer
+    data_basis: supplier_published
     name: Lotioncrafter
     country: US
     currency: USD
@@ -36,6 +43,8 @@ sources:
     active: true
 
   - id: formulator_sample_shop
+    source_type: retailer
+    data_basis: supplier_published
     name: Formulator Sample Shop
     country: US
     currency: USD
@@ -50,6 +59,8 @@ sources:
     active: true
 
   - id: windy_point
+    source_type: retailer
+    data_basis: supplier_published
     name: Windy Point Soap Making Supplies
     country: CA
     currency: CAD
@@ -63,6 +74,8 @@ sources:
     active: true
 
   - id: aromantic
+    source_type: retailer
+    data_basis: supplier_published
     name: Aromantic
     country: GB
     currency: GBP
@@ -76,6 +89,8 @@ sources:
 
   # ---------------- Finished products (Clay) ----------------
   - id: open_beauty_facts
+    source_type: other
+    data_basis: crowd_sourced
     name: Open Beauty Facts
     country: GLOBAL
     currency: ""
@@ -87,6 +102,8 @@ sources:
     active: true
 
   - id: round_lab
+    source_type: manufacturer
+    data_basis: brand_published
     name: Round Lab
     country: KR
     currency: USD
@@ -101,6 +118,8 @@ sources:
     active: true
 
   - id: cosrx
+    source_type: manufacturer
+    data_basis: brand_published
     name: COSRX
     country: KR
     currency: USD

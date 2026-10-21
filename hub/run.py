@@ -19,30 +19,37 @@ import re
 
 import yaml
 
-from . import inci, net
+from . import atlas as atlas_mod, inci, net
 from .adapters import ADAPTERS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 STATE = os.path.join(ROOT, "state")
 DOCS = os.path.join(ROOT, "docs")
+REVIEWS = os.path.join(ROOT, "reviews", "record_reviews.csv")
+REVIEW_COLS = ["table", "record_id", "record_status", "evidence_grade", "review_date", "reviewer", "notes"]
+STATUSES = {"verified", "candidate", "needs_review", "rejected", "not_applicable"}
+GRADES = {"A", "B", "C", "D", "U", ""}
 
 TABLE_FOR_KIND = {"raw_material": "raw_materials", "product": "products", "regulatory": "regulatory"}
-META = ("first_seen", "last_seen", "last_changed", "record_status", "removed_on")
+META = ("first_seen", "last_seen", "last_changed", "listing_status", "removed_on", "record_status",
+        "review_date", "reviewer_notes", "source_type", "data_basis")
+DERIVED = ("regulatory_flags", "regulated_ingredient_count", "price_min_usd", "category_group", "atlas_ids")
 NOISE = ("image_url",)  # changes often (CDN version params), never meaningful
 
 COLUMNS = {
-    "raw_materials": ["id", "source_id", "record_status", "country", "currency", "name", "category", "inci",
+    "raw_materials": ["id", "source_id", "listing_status", "record_status", "source_type", "data_basis", "review_date", "reviewer_notes", "country", "currency", "name", "category", "inci",
                       "inci_components", "ingredient_keys", "cas", "botanical_name", "plant_part",
                       "use_level_min_pct", "use_level_max_pct", "use_level_text", "ph_min", "ph_max", "solubility",
                       "shelf_life_months", "price_min", "price_max", "price_min_usd", "sizes", "in_stock",
-                      "regulatory_flags", "url", "image_url", "tags", "description",
+                      "regulatory_flags", "atlas_ids", "url", "image_url", "tags", "description",
                       "first_seen", "last_seen", "last_changed", "removed_on"],
-    "products": ["id", "source_id", "record_status", "brand", "name", "category", "country", "countries_sold",
+    "products": ["id", "source_id", "listing_status", "record_status", "source_type", "data_basis", "review_date", "reviewer_notes", "brand", "name", "category", "category_group",
+                 "country", "countries_sold",
                  "barcode", "size", "price_min", "price_max", "currency", "price_min_usd", "ingredient_count",
-                 "regulated_ingredient_count", "ingredients_text", "url", "image_url", "tags",
+                 "regulated_ingredient_count", "atlas_ids", "ingredients_text", "url", "image_url", "tags",
                  "first_seen", "last_seen", "last_changed", "removed_on"],
-    "regulatory": ["id", "source_id", "record_status", "jurisdiction", "country", "regulator", "substance",
+    "regulatory": ["id", "source_id", "listing_status", "record_status", "source_type", "data_basis", "review_date", "reviewer_notes", "jurisdiction", "country", "regulator", "substance",
                    "inci", "ingredient_key", "also_known_as", "cas", "ec", "status", "reference", "product_type",
                    "max_concentration", "conditions", "warnings", "legal_role", "source_version",
                    "source_updated", "source_url", "official_source_url", "data_via",
@@ -109,7 +116,7 @@ def _read_csv(path):
 
 def _hash(rec):
     body = {k: v for k, v in rec.items() if k not in META and k not in NOISE and not k.startswith("_")
-            and k not in ("regulatory_flags", "regulated_ingredient_count", "price_min_usd")}
+            and k not in DERIVED}
     return hashlib.sha1(json.dumps(body, sort_keys=True, default=str).encode()).hexdigest()
 
 
@@ -150,11 +157,16 @@ def main(argv=None):
     today = now.strftime("%Y-%m-%d")
 
     tables = {t: {r["id"]: r for r in _read_json(os.path.join(DATA, f"{t}.json"), [])} for t in COLUMNS}
+    for t in tables.values():                      # migrate rows written before listing_status existed
+        for r in t.values():
+            if "listing_status" not in r and r.get("record_status") in ("active", "removed"):
+                r["listing_status"] = r.pop("record_status")
     src_state = _read_json(os.path.join(STATE, "sources_state.json"), {})
     s = net.session(defaults.get("user_agent"))
     fx = _fx(s)
 
     changes, runs = [], []
+    excluded_now = {}
     for src in sources:
         sid = src["id"]
         st = src_state.setdefault(sid, {})
@@ -162,7 +174,7 @@ def main(argv=None):
             continue
         table = TABLE_FOR_KIND[src["kind"]]
         prev = {k: v for k, v in tables[table].items() if v.get("source_id") == sid}
-        prev_active = sum(1 for v in prev.values() if v.get("record_status") != "removed")
+        prev_active = sum(1 for v in prev.values() if v.get("listing_status") != "removed")
         cache_path = os.path.join(STATE, "cache", f"{sid}.json")
         cache = _read_json(cache_path, {})
         started = time.time()
@@ -184,6 +196,11 @@ def main(argv=None):
             traceback.print_exc()
 
         added = changed = removed = 0
+        if res is not None and status in ("passed", "partial") and "excluded" in res:
+            excluded_now[sid] = res["excluded"]
+            for x in res["excluded"]:                 # never cosmetics: purge, don't mark 'removed'
+                if tables[table].pop(x["id"], None) is not None:
+                    prev.pop(x["id"], None)
         if status in ("passed", "partial"):
             seen = set()
             initial = not prev
@@ -193,7 +210,7 @@ def main(argv=None):
                     continue
                 seen.add(rid)
                 old = prev.get(rid)
-                rec["record_status"] = "active"
+                rec["listing_status"] = "active"
                 rec["last_seen"] = today
                 rec["removed_on"] = ""
                 if old is None:
@@ -205,15 +222,15 @@ def main(argv=None):
                                         "change": "added", "fields": "", "details": ""})
                 else:
                     rec["first_seen"] = old.get("first_seen") or today
-                    if _hash(rec) != _hash(old) or old.get("record_status") == "removed":
+                    if _hash(rec) != _hash(old) or old.get("listing_status") == "removed":
                         rec["last_changed"] = today
                         changed += 1
                         diff = [k for k in set(rec) | set(old)
                                 if k not in META and k not in NOISE and not k.startswith("_")
-                                and k not in ("regulatory_flags", "regulated_ingredient_count", "price_min_usd")
+                                and k not in DERIVED
                                 and _cell(rec.get(k)) != _cell(old.get(k))]
-                        if old.get("record_status") == "removed":
-                            diff.append("record_status")
+                        if old.get("listing_status") == "removed":
+                            diff.append("listing_status")
                         details = "; ".join(f"{k}: {_brief(old.get(k))} -> {_brief(rec.get(k))}"
                                             for k in sorted(diff)[:4] if not isinstance(rec.get(k), (list, dict)))
                         changes.append({"date": today, "run_id": run_id, "source_id": sid, "table": table,
@@ -224,8 +241,8 @@ def main(argv=None):
                 tables[table][rid] = rec
             if status == "passed":                       # only trust removals from a clean run
                 for rid, old in prev.items():
-                    if rid not in seen and old.get("record_status") != "removed":
-                        old["record_status"] = "removed"
+                    if rid not in seen and old.get("listing_status") != "removed":
+                        old["listing_status"] = "removed"
                         old["removed_on"] = today
                         removed += 1
                         changes.append({"date": today, "run_id": run_id, "source_id": sid, "table": table,
@@ -237,7 +254,7 @@ def main(argv=None):
                                 "fields": "", "details": f"{added} records imported"})
             _write_json(cache_path, cache)
 
-        active_now = sum(1 for v in tables[table].values() if v.get("source_id") == sid and v.get("record_status") != "removed")
+        active_now = sum(1 for v in tables[table].values() if v.get("source_id") == sid and v.get("listing_status") != "removed")
         dur = round(time.time() - started, 1)
         st["last_run_status"] = status
         st["last_run_at"] = now.isoformat(timespec="seconds")
@@ -255,7 +272,7 @@ def main(argv=None):
                      "pages_failed": (res or {}).get("pages_failed", 0), "message": message})
         print(f"[{sid}] {status.upper()} active={active_now} +{added} ~{changed} -{removed} {dur}s {message}", flush=True)
 
-    _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now)
+    _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now, excluded_now)
     _write_json(os.path.join(STATE, "sources_state.json"), src_state, pretty=True)
     ran = [r for r in runs]
     if ran and all(r["status"] == "failed" for r in ran):
@@ -263,8 +280,13 @@ def main(argv=None):
 
 
 # ---------------------------------------------------------------- derived tables + outputs
-def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now):
+def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now, excluded_now=None):
     today = now.strftime("%Y-%m-%d")
+    src_by_id = {x["id"]: x for x in sources}
+    from .categories import group as _group
+    for r in tables["products"].values():
+        if not r.get("category_group"):
+            r["category_group"] = _group(r.get("name"), r.get("category"), r.get("tags"))
     # USD prices
     for t in ("raw_materials", "products"):
         for r in tables[t].values():
@@ -275,7 +297,7 @@ def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now
     reg_by_key, reg_by_cas = defaultdict(list), defaultdict(list)
     restrictive = defaultdict(bool)          # key -> prohibited/restricted somewhere
     for r in tables["regulatory"].values():
-        if r.get("record_status") == "removed":
+        if r.get("listing_status") == "removed":
             continue
         mx = re.split(r"[\n;]", str(r.get("max_concentration") or ""))[0].strip()[:40]
         label = f"{r['jurisdiction']}: {STATUS_LABEL.get(r['status'], r['status'])}" + (f" (max {mx})" if mx else "")
@@ -311,7 +333,7 @@ def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now
         return e
 
     for r in tables["raw_materials"].values():
-        if r.get("record_status") == "removed":
+        if r.get("listing_status") == "removed":
             continue
         comps = [c for c in (r.get("inci_components") or "").split("; ") if c]
         keys = []
@@ -328,7 +350,7 @@ def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now
 
     pi_rows = []
     for r in tables["products"].values():
-        if r.get("record_status") == "removed":
+        if r.get("listing_status") == "removed":
             continue
         flagged = 0
         for pos, name in enumerate(r.get("ingredients") or [], 1):
@@ -356,15 +378,121 @@ def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now
                             "raw_material_count": e["raw_material_count"], "product_count": e["product_count"],
                             "regulatory_flags": flags_for([k]), "sources": "; ".join(sorted(e["sources"]))})
 
+    # ---- provenance + review defaults (starter-pack vocabulary)
+    for t in COLUMNS:
+        for r in tables[t].values():
+            src = src_by_id.get(r.get("source_id"), {})
+            r["source_type"] = src.get("source_type", "")
+            r["data_basis"] = src.get("data_basis", "")
+            r["record_status"] = "candidate"          # scraped facts await validation until a reviewer says otherwise
+            r["review_date"] = ""
+            r["reviewer_notes"] = ""
+
+    # ---- Milk Ingredient Atlas + research registers
+    act_products = [r for r in tables["products"].values() if r.get("listing_status") != "removed"]
+    act_raw = [r for r in tables["raw_materials"].values() if r.get("listing_status") != "removed"]
+    A = atlas_mod.build(act_products, act_raw, today)
+    per_record = defaultdict(list)
+    for m in A["matches"]:
+        per_record[(m["table"], m["record_id"])].append(f"{m['atlas_id']}:{m['match_type']}")
+    for t in ("products", "raw_materials"):
+        for r in tables[t].values():
+            r["atlas_ids"] = "; ".join(sorted(per_record.get((t, r["id"]), [])))
+
+    # ---- human reviews (reviews/record_reviews.csv) override defaults and survive every daily run
+    review_rows = _read_csv(REVIEWS)
+    review_warnings = []
+    lookup = {
+        "raw_materials": tables["raw_materials"], "products": tables["products"], "regulatory": tables["regulatory"],
+        "evidence_register": {e["evidence_id"]: e for e in A["evidence"]},
+        "traditions_register": {e["tradition_id"]: e for e in A["traditions"]},
+        "commercial_register": {e["commercial_product_id"]: e for e in A["commercial"]},
+        "milk_atlas": {e["atlas_id"]: e["hub_matches"] for e in A["atlas"]["records"]},
+        "milk_atlas_matches": {f"{m['atlas_id']}|{m['record_id']}": m for m in A["matches"]},
+    }
+    ingredient_reviews = {}
+    for i, rv in enumerate(review_rows, 2):
+        t, rid = (rv.get("table") or "").strip(), (rv.get("record_id") or "").strip()
+        st, gr = (rv.get("record_status") or "").strip(), (rv.get("evidence_grade") or "").strip().upper()
+        if not t and not rid:
+            continue
+        if st and st not in STATUSES:
+            review_warnings.append(f"row {i}: unknown record_status '{st}'")
+            continue
+        if gr not in GRADES:
+            review_warnings.append(f"row {i}: evidence_grade must be A, B, C, D or U")
+            continue
+        if t == "ingredients":
+            ingredient_reviews[rid] = rv
+            continue
+        target = lookup.get(t, {}).get(rid)
+        if target is None:
+            review_warnings.append(f"row {i}: {t} '{rid}' not found")
+            continue
+        if st:
+            target["record_status"] = st
+        if gr and "evidence_grade" in target:
+            target["evidence_grade"] = gr
+            target["evidence_grade_rationale"] = rv.get("notes") or target.get("evidence_grade_rationale", "")
+        target["review_date"] = rv.get("review_date", "")
+        target["reviewer_notes"] = " - ".join(x for x in (rv.get("reviewer", ""), rv.get("notes", "")) if x)
+
+    order = {"A": 0, "B": 1, "C": 2, "D": 3, "U": 4}
+    for ing in ingredients:
+        hits = A["key_to_atlas"].get(ing["ingredient_key"], [])
+        aids = sorted({a for a, mt in hits})
+        ing["atlas_ids"] = "; ".join(f"{a}:{mt}" for a, mt in sorted(hits))
+        evs = [e for e in A["evidence"] if e["evidence_id"] in atlas_mod.EVIDENCE_KEYS
+               and re.search(atlas_mod.EVIDENCE_KEYS[e["evidence_id"]], ing["ingredient_key"])]
+        eff = [e for e in evs if e["safety_or_efficacy"] == "efficacy"]
+        ing["evidence_ids"] = "; ".join(sorted(e["evidence_id"] for e in eff))
+        ing["safety_evidence_ids"] = "; ".join(sorted(e["evidence_id"] for e in evs if e["safety_or_efficacy"] == "safety"))
+        # grade = strongest reviewer-assigned grade among efficacy evidence for this exact form (U = not assessed)
+        ing["evidence_grade"] = min((e["evidence_grade"] for e in eff), key=lambda g: order.get(g, 9), default="U")
+        ing["inci_name_status"] = "candidate"
+        ing["record_status"] = "candidate"
+        ing["review_date"] = ing["reviewer_notes"] = ""
+        rv = ingredient_reviews.pop(ing["ingredient_key"], None)
+        if rv:
+            if rv.get("record_status"):
+                ing["record_status"] = ing["inci_name_status"] = rv["record_status"]
+            if (rv.get("evidence_grade") or "").strip():
+                ing["evidence_grade"] = rv["evidence_grade"].strip().upper()
+            ing["review_date"] = rv.get("review_date", "")
+            ing["reviewer_notes"] = " - ".join(x for x in (rv.get("reviewer", ""), rv.get("notes", "")) if x)
+    for k in ingredient_reviews:
+        review_warnings.append(f"ingredients '{k}' not found (use the ingredient_key column value)")
+    for aid_rec in A["atlas"]["records"]:
+        hm = aid_rec["hub_matches"]
+        aid_rec["record_status"] = hm.get("record_status", "candidate")
+
     # ---- write tables
     for t, cols in COLUMNS.items():
         rows = sorted(tables[t].values(), key=lambda r: r["id"])
         _write_json(os.path.join(DATA, f"{t}.json"), rows)
         _write_csv(os.path.join(DATA, f"{t}.csv"), cols, rows)
     _write_csv(os.path.join(DATA, "product_ingredients.csv"), ["product_id", "position", "inci_name", "ingredient_key"], pi_rows)
-    icols = ["ingredient_key", "inci_name", "cas", "raw_material_count", "product_count", "regulatory_flags", "sources"]
+    icols = ["ingredient_key", "inci_name", "inci_name_status", "cas", "raw_material_count", "product_count",
+             "regulatory_flags", "atlas_ids", "evidence_ids", "evidence_grade", "safety_evidence_ids",
+             "record_status", "review_date",
+             "reviewer_notes", "sources"]
     _write_csv(os.path.join(DATA, "ingredients.csv"), icols, ingredients)
     _write_json(os.path.join(DATA, "ingredients.json"), ingredients)
+
+    # ---- atlas + registers + excluded items
+    _write_json(os.path.join(DATA, "milk_atlas.json"), A["atlas"], pretty=True)
+    _write_csv(os.path.join(DATA, "milk_atlas_matches.csv"), atlas_mod.MATCH_COLS,
+               sorted(A["matches"], key=lambda m: (m["atlas_id"], m["match_type"], m["table"], m["record_id"])))
+    for name, cols, rows in (("evidence_register", atlas_mod.EVIDENCE_COLS, A["evidence"]),
+                             ("traditions_register", atlas_mod.TRADITION_COLS, A["traditions"]),
+                             ("commercial_register", atlas_mod.COMMERCIAL_COLS, A["commercial"])):
+        _write_csv(os.path.join(DATA, f"{name}.csv"), cols, rows)
+        _write_json(os.path.join(DATA, f"{name}.json"), rows, pretty=True)
+    for sid, ex in (excluded_now or {}).items():
+        _write_csv(os.path.join(DATA, f"excluded_non_cosmetic_{sid}.csv"),
+                   ["id", "barcode", "brand", "name", "category", "tags", "ingredients_start", "url", "reason"], ex)
+    if not os.path.exists(REVIEWS):
+        _write_csv(REVIEWS, REVIEW_COLS, [])
 
     # ---- history
     hist = _read_csv(os.path.join(DATA, "sync_runs.csv")) + runs
@@ -394,20 +522,28 @@ def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now
     sheets = os.path.join(DATA, "sheets")
     _write_csv(os.path.join(sheets, "products_index.csv"),
                [c for c in COLUMNS["products"] if c not in ("ingredients_text", "tags", "image_url")],
-               [r for r in sorted(tables["products"].values(), key=lambda r: r["id"]) if r.get("record_status") != "removed"])
+               [r for r in sorted(tables["products"].values(), key=lambda r: r["id"]) if r.get("listing_status") != "removed"])
     _write_csv(os.path.join(sheets, "change_log_recent.csv"), CHANGE_COLS, log[-2000:][::-1])
     _write_csv(os.path.join(sheets, "raw_materials.csv"),
                [c for c in COLUMNS["raw_materials"] if c not in ("description", "image_url", "tags")],
                sorted(tables["raw_materials"].values(), key=lambda r: r["id"]))
+    _write_csv(os.path.join(sheets, "milk_atlas_summary.csv"), atlas_mod.SUMMARY_COLS, A["summary"])
+    _write_csv(os.path.join(sheets, "milk_atlas_matches_exact.csv"), atlas_mod.MATCH_COLS,
+               sorted((m for m in A["matches"] if m["match_type"] == "exact"), key=lambda m: (m["atlas_id"], m["record_id"])))
     _write_csv(os.path.join(sheets, "regulatory.csv"),
                [c for c in COLUMNS["regulatory"] if c not in ("conditions", "warnings", "data_via")],
                sorted(tables["regulatory"].values(), key=lambda r: r["id"]))
 
     # ---- dashboard feed
-    counts = {t: sum(1 for r in tables[t].values() if r.get("record_status") != "removed") for t in COLUMNS}
+    counts = {t: sum(1 for r in tables[t].values() if r.get("listing_status") != "removed") for t in COLUMNS}
     counts["ingredients"] = len(ingredients)
     counts["products_with_regulated_ingredients"] = sum(1 for r in tables["products"].values()
-                                                      if r.get("record_status") != "removed" and r.get("regulated_ingredient_count"))
+                                                      if r.get("listing_status") != "removed" and r.get("regulated_ingredient_count"))
+    counts["atlas_entries_with_product_matches"] = sum(1 for x in A["summary"] if x["products_exact"])
+    counts["atlas_product_matches_exact"] = sum(x["products_exact"] for x in A["summary"])
+    counts["excluded_non_cosmetic"] = sum(len(_read_csv(os.path.join(DATA, f))) for f in os.listdir(DATA)
+                                          if f.startswith("excluded_non_cosmetic_"))
+    counts["review_status"] = dict(Counter(r.get("record_status") for t in COLUMNS for r in tables[t].values()))
     history = defaultdict(list)
     for h in hist:
         history[h["source_id"]].append({"run_id": h["run_id"], "status": h["status"]})
@@ -415,7 +551,9 @@ def _derive_and_write(tables, fx, sources, src_state, runs, changes, run_id, now
               "totals": counts, "sources": src_rows,
               "history": {k: v[-30:] for k, v in history.items()},
               "recent_changes": [c for c in log if c["change"] != "initial_import"][-150:][::-1],
-              "imports": [c for c in log if c["change"] == "initial_import"][-30:][::-1]}
+              "imports": [c for c in log if c["change"] == "initial_import"][-30:][::-1],
+              "review_warnings": review_warnings,
+              "milk_atlas": A["summary"]}
     _write_json(os.path.join(DATA, "status.json"), status, pretty=True)
     _write_json(os.path.join(DOCS, "status.json"), status)
 

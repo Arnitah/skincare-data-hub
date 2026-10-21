@@ -1,0 +1,94 @@
+# How each Milk Atlas entry is matched against hub ingredient names.
+# Patterns are regular expressions tested against the hub's normalised ingredient key
+# (lower-case, accents and bracketed common names removed, e.g. "Caprae Lac (Goat Milk)" -> "caprae lac").
+#
+#   exact:   the material itself (the milk, the named fraction)
+#   related: derived forms the atlas says to track SEPARATELY (extract, protein, ferment, flour...).
+#            Reported as a different match_type - never counted as the milk itself.
+#   exclude: keys that look similar but are a different ingredient
+#
+# Oils of the same plant (coconut oil, almond oil, soybean oil...) are deliberately NOT matched:
+# the atlas treats them as separate ingredient categories.
+
+MILK-001:  # Cow's milk
+  exact: ['^(milk|lac|whole milk|milk solids|milk powder|dried milk|nonfat dry milk|skim(med)? milk( powder)?|sine adipe lac|poudre de lait( ecreme)?|lait( entier)?|bos taurus milk|cow milk|lactis lac)$']
+MILK-002:  # Goat's milk
+  exact: ['goat( s)? milk', 'caprae lac', 'lac caprae', 'capra hircus milk', 'lait de chevre', 'ziegenmilch']
+MILK-003:  # Sheep's milk
+  exact: ['sheep( s)? milk', 'ovis aries milk', 'ovis lac', 'lait de brebis']
+MILK-004:  # Buffalo milk
+  exact: ['buffalo milk', 'bubalus bubalis milk']
+MILK-005:  # Camel milk
+  exact: ['camel( s)? milk', 'camelus (dromedarius|bactrianus) milk', 'lait de chamelle']
+MILK-006:  # Donkey's milk
+  exact: ['donkey( s)? milk', 'lac asinae', 'asinae lac', 'equus asinus milk', 'lait d anesse', 'eselsmilch', 'asses milk']
+MILK-007:  # Mare's milk
+  exact: ['mare( s)? milk', 'equae lac', 'lac equae', 'equus caballus milk', 'lait de jument', 'stutenmilch']
+MILK-008:  # Yak milk
+  exact: ['yak milk', 'bos grunniens milk']
+MILK-009:  # Coconut milk
+  exact: ['coconut milk(?! protein)', 'cocos nucifera milk(?! protein)', 'lait de coco']
+  related: ['cocos nucifera (fruit )?(juice|water|liquid endosperm)', 'coconut water', '(coconut|cocos nucifera) milk protein']
+MILK-010:  # Oat milk
+  exact: ['oat milk', 'avena sativa milk']
+  related: ['avena sativa (kernel )?(flour|meal)', 'colloidal oatmeal', 'avena sativa kernel extract', 'hydrolyzed oat protein', 'avena sativa peptide']
+MILK-011:  # Rice milk
+  exact: ['rice milk', 'oryza sativa milk']
+  related: ['hydrolyzed rice protein', 'oryza sativa seed protein', 'rice ferment', 'oryza sativa .*ferment', 'rice water', 'oryza sativa (seed |bran )?water']
+MILK-012:  # Soy milk
+  exact: ['^(soy ?milk|soymilk|glycine (soja|max) milk)$']
+  related: ['hydrolyzed soy protein', 'glycine soja (seed |germ )?(extract|protein)', 'soy protein', 'lactobacillus soymilk ferment']
+MILK-013:  # Almond milk
+  exact: ['almond milk', 'prunus amygdalus dulcis milk', 'lait d amande']
+  related: ['hydrolyzed sweet almond protein', 'sweet almond protein']
+MILK-014:  # Cashew milk
+  exact: ['cashew milk', 'anacardium occidentale milk']
+MILK-015:  # Hemp-seed milk
+  exact: ['hemp( seed)? milk', 'cannabis sativa seed milk']
+  related: ['cannabis sativa seed extract', 'hemp seed extract', 'hydrolyzed hemp seed protein']
+MILK-016:  # Pea milk / pea protein beverage
+  exact: ['pea milk', 'pisum sativum milk']
+  related: ['hydrolyzed pea protein', 'pisum sativum (seed |sprout )?(extract|protein|peptide)']
+MILK-017:  # Quinoa-derived milk / liquid
+  exact: ['quinoa milk', 'chenopodium quinoa milk']
+  related: ['hydrolyzed quinoa', 'chenopodium quinoa seed extract']
+MILK-018:  # Sesame-seed milk
+  exact: ['sesame milk', 'sesamum indicum milk']
+  related: ['sesamum indicum seed extract']
+MILK-019:  # Peanut milk
+  exact: ['peanut milk', 'arachis hypogaea milk']
+MILK-020:  # Barley-derived beverage
+  exact: ['barley milk', 'hordeum vulgare milk']
+  related: ['hordeum (vulgare|distichon) (seed |stem |leaf )?(extract|water)']
+MILK-021:  # Millet-derived beverage
+  exact: ['millet milk']
+  related: ['panicum miliaceum (seed )?extract', 'hydrolyzed millet']
+MILK-022:  # Yogurt
+  exact: ['yog(h)?o?urt']
+MILK-023:  # Kefir
+  exact: ['kefir']
+MILK-024:  # Buttermilk
+  exact: ['buttermilk']
+MILK-025:  # Fermented rice liquid
+  exact: ['rice ferment filtrate', 'saccharomyces rice ferment', 'lactobacillus rice ferment', 'oryza sativa .*ferment', 'fermented rice water']
+MILK-026:  # Lactic acid
+  exact: ['^lactic acid$', '^milchsaure$', '^acide lactique$', '^l-lactic acid$']
+MILK-027:  # Milk protein (whole fraction, not hydrolysed)
+  exact: ['^(milk protein|lactis proteinum|proteine du lait|milk amino acids)$', '^lactis proteinum milk protein']
+  exclude: ['hydroly']
+MILK-028:  # Hydrolyzed milk protein
+  exact: ['hydroly[sz]ed milk protein', 'hydroly[sz]ed lactis protein', 'milk protein hydrolysate']
+MILK-029:  # Whey protein
+  exact: ['whey', 'lactis serum( proteinum)?', 'serum lactis']
+MILK-030:  # Casein
+  exact: ['casein', 'caseinate']
+MILK-031:  # Lactoferrin
+  exact: ['lactoferrin']
+MILK-032:  # Colostrum
+  exact: ['colostrum']
+MILK-033:  # Milk fat / butterfat
+  exact: ['^(butterfat|milk fat|milk lipids?|lactis lipida|butter|butter oil|ghee|anhydrous milk fat)$']
+MILK-034:  # Lactose
+  exact: ['^lactose( monohydrate)?$']
+MILK-035:  # Milk-derived peptides
+  exact: ['milk peptides?', 'casein peptides?', 'whey peptides?', 'lactoferrin peptide', 'hydroly[sz]ed milk peptide']
