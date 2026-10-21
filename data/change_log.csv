@@ -406,3 +406,6 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-10-21,20261021T143019Z,aromantic,raw_materials,aromantic:eucalyptus-radiata-essential-oil,Eucalyptus Radiata Essential Oil,changed,in_stock,in_stock: true -> false
 2026-10-21,20261021T143019Z,aromantic,raw_materials,aromantic:organic-rosemary-camphor-essential-oil,Organic Rosemary Camphor Essential Oil,changed,in_stock,in_stock: true -> false
 2026-10-21,20261021T143019Z,cosrx,products,cosrx:cosrx-5-pdrn-nad-multi-repair-cream,COSRX 5 PDRN NAD+ Multi Repair Cream,added,,
+2026-10-21,20261021T192333Z,lotioncrafter,raw_materials,lotioncrafter:tetrahexyldecyl-ascorbate-thda-deodorized,"Tetrahexyldecyl Ascorbate (THDA), Deodorized",changed,in_stock,in_stock: false -> true
+2026-10-21,20261021T192333Z,lotioncrafter,raw_materials,lotioncrafter:polyquaternium-7,Polyquaternium 7,changed,in_stock,in_stock: false -> true
+2026-10-21,20261021T192333Z,windy_point,raw_materials,windy_point:sodium-bicarbonate-baking-soda-bulk,Sodium Bicarbonate (Baking Soda) - Bulk,changed,in_stock,in_stock: true -> false

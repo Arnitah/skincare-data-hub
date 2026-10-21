@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T14:30:19+00:00",
- "run_id": "20261021T143019Z",
+ "generated_at": "2026-10-21T19:23:33+00:00",
+ "run_id": "20261021T192333Z",
  "date": "2026-10-21",
  "totals": {
   "raw_materials": 1888,
@@ -27,8 +27,8 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 350,
    "records_added": 0,
-   "records_changed": 0,
+   "records_changed": 2,
    "records_removed": 0,
-   "duration_seconds": 3.8,
+   "duration_seconds": 3.7,
    "message": ""
   },
   {
@@ -69,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 680,
-   "records_added": 1,
+   "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1050.6,
+   "duration_seconds": 1050.4,
    "message": ""
   },
   {
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 272,
    "records_added": 0,
-   "records_changed": 0,
+   "records_changed": 1,
    "records_removed": 0,
-   "duration_seconds": 8.5,
+   "duration_seconds": 8.7,
    "message": ""
   },
   {
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
-   "records_changed": 2,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.1,
+   "duration_seconds": 3.8,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 9.4,
+   "duration_seconds": 8.0,
    "message": ""
   },
   {
@@ -153,14 +153,14 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 61,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1.2,
+   "duration_seconds": 1.3,
    "message": ""
   },
   {
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 92,
-   "records_added": 1,
+   "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 212.0,
+   "duration_seconds": 212.2,
    "message": ""
   },
   {
@@ -195,14 +195,14 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 14.5,
+   "duration_seconds": 14.7,
    "message": ""
   },
   {
@@ -216,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.1,
+   "duration_seconds": 4.2,
    "message": ""
   },
   {
@@ -237,8 +237,8 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T14:30:19+00:00",
-   "last_success_at": "2026-10-21T14:30:19+00:00",
+   "last_run_at": "2026-10-21T19:23:33+00:00",
+   "last_success_at": "2026-10-21T19:23:33+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
@@ -479,6 +479,10 @@
    {
     "run_id": "20261021T143019Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
+    "status": "passed"
    }
   ],
   "lotioncrafter": [
@@ -500,6 +504,10 @@
    },
    {
     "run_id": "20261021T143019Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
     "status": "passed"
    }
   ],
@@ -523,6 +531,10 @@
    {
     "run_id": "20261021T143019Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -544,6 +556,10 @@
    },
    {
     "run_id": "20261021T143019Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
     "status": "passed"
    }
   ],
@@ -567,6 +583,10 @@
    {
     "run_id": "20261021T143019Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -588,6 +608,10 @@
    },
    {
     "run_id": "20261021T143019Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
     "status": "passed"
    }
   ],
@@ -611,6 +635,10 @@
    {
     "run_id": "20261021T143019Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -632,6 +660,10 @@
    },
    {
     "run_id": "20261021T143019Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
     "status": "passed"
    }
   ],
@@ -655,6 +687,10 @@
    {
     "run_id": "20261021T143019Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -676,6 +712,10 @@
    },
    {
     "run_id": "20261021T143019Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
     "status": "passed"
    }
   ],
@@ -699,10 +739,47 @@
    {
     "run_id": "20261021T143019Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T192333Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-10-21",
+   "run_id": "20261021T192333Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:sodium-bicarbonate-baking-soda-bulk",
+   "name": "Sodium Bicarbonate (Baking Soda) - Bulk",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-10-21",
+   "run_id": "20261021T192333Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:polyquaternium-7",
+   "name": "Polyquaternium 7",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-10-21",
+   "run_id": "20261021T192333Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:tetrahexyldecyl-ascorbate-thda-deodorized",
+   "name": "Tetrahexyldecyl Ascorbate (THDA), Deodorized",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
   {
    "date": "2026-10-21",
    "run_id": "20261021T143019Z",
@@ -2319,39 +2396,6 @@
    "change": "changed",
    "fields": "ph_max, ph_min",
    "details": "ph_max:  -> 8; ph_min:  -> 6.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-wheat-hydrolysate-pf",
-   "name": "FSS Wheat Hydrolysate PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-oat-hydrolysate",
-   "name": "FSS Oat Hydrolysate PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-silk-hydrolysate-pf",
-   "name": "FSS SILK HYDROLYSATE PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4"
   }
  ],
  "imports": [
