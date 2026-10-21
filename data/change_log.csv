@@ -402,3 +402,7 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-10-21,20261021T052211Z,aromantic,raw_materials,aromantic:arctic-blackcurrant-seed-co2-extract,Arctic Blackcurrant Seed CO2 Extract,changed,in_stock,in_stock: true -> false
 2026-10-21,20261021T052211Z,cosrx,products,cosrx:the-retinol-0-1-cream_new-bundle,The Retinol 0.1 Cream,added,,
 2026-10-21,20261021T052211Z,cosrx,products,cosrx:the-retinol-0-1-cream-1,The Retinol 0.1 Cream,removed,,
+2026-10-21,20261021T143019Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-bio-chelate-zinc-pf,FSS BIO-CHELATE ZINC PF,added,,
+2026-10-21,20261021T143019Z,aromantic,raw_materials,aromantic:eucalyptus-radiata-essential-oil,Eucalyptus Radiata Essential Oil,changed,in_stock,in_stock: true -> false
+2026-10-21,20261021T143019Z,aromantic,raw_materials,aromantic:organic-rosemary-camphor-essential-oil,Organic Rosemary Camphor Essential Oil,changed,in_stock,in_stock: true -> false
+2026-10-21,20261021T143019Z,cosrx,products,cosrx:cosrx-5-pdrn-nad-multi-repair-cream,COSRX 5 PDRN NAD+ Multi Repair Cream,added,,
