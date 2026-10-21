@@ -1,0 +1,3858 @@
+{
+ "title": "Beauty Intelligence — Milk Ingredient Atlas",
+ "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
+ "generated": "2026-10-21",
+ "records": [
+  {
+   "atlas_id": "MILK-001",
+   "name": "Cow's milk",
+   "group": "Animal milk",
+   "source": "Bos taurus",
+   "composition": "~87% water; 3.0–3.9% protein; 3.3–5.4% fat; 4.4–5.6% lactose; minerals/ash ~0.7–0.8%",
+   "constituents": "Caseins, whey proteins (including beta-lactoglobulin and alpha-lactalbumin), triglycerides, lactose, calcium, phosphorus",
+   "skin": "Soaps, cleansers and creams; milk proteins/fats may contribute conditioning or emollience",
+   "hair": "Milk-protein conditioning products; possible film formation and improved feel",
+   "evidence": "Ingredient function is formulation-dependent; do not infer clinical benefit from food composition",
+   "safety": "Milk-protein allergy; fresh milk spoils and is not a preserved cosmetic",
+   "regions": "Global dairy markets; regional traditions vary",
+   "confidence": "Composition: established; cosmetic outcome: formulation-dependent",
+   "sources": "FAO milk composition; comparative milk-composition reviews",
+   "record_type": "Animal milk",
+   "traditional_use_notes": "Dairy bathing and milk-based cleansing appear in historical and modern beauty narratives, but a specific practice should be tied to a named source/community before being treated as established.",
+   "regions_research_context": "Global dairy markets; no single region owns the practice.",
+   "commercial_examples": "No specific product example added in this pass; search by exact INCI and market.",
+   "commercial_source_urls": "",
+   "verification_status": "Tradition requires source-level verification; composition well established.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 88,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 88
+    },
+    "by_category_group": {
+     "body": 48,
+     "other": 29,
+     "hair": 9,
+     "deodorant": 2
+    },
+    "top_countries_sold": {
+     "france": 48,
+     "norway": 8,
+     "germany": 7,
+     "morocco": 4,
+     "united states": 3,
+     "belgium": 3,
+     "united kingdom": 3,
+     "switzerland": 2
+    },
+    "example_products": [
+     {
+      "brand": "L'OREAL NORGE AS",
+      "name": "Maybelline Neglelakk Colorshow Clear Shine 64",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk",
+      "ingredient_position": 1,
+      "ingredient_count": 10,
+      "url": "https://world.openbeautyfacts.org/product/30097001"
+     },
+     {
+      "brand": "Dobeles dzirnavnieks",
+      "name": "Thick pancake mix",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "skimmed milk powder",
+      "ingredient_position": 2,
+      "ingredient_count": 7,
+      "url": "https://world.openbeautyfacts.org/product/4750020040116"
+     },
+     {
+      "brand": "Grandis",
+      "name": "Grandis wafers family",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "LAIT",
+      "ingredient_position": 2,
+      "ingredient_count": 2,
+      "url": "https://world.openbeautyfacts.org/product/6111249987329"
+     },
+     {
+      "brand": "Urja",
+      "name": "Taak",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk solids",
+      "ingredient_position": 2,
+      "ingredient_count": 4,
+      "url": "https://world.openbeautyfacts.org/product/8906019581245"
+     },
+     {
+      "brand": "ISANA",
+      "name": "Isana Cremeseife Olive",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "SINE ADIPE LAC",
+      "ingredient_position": 3,
+      "ingredient_count": 8,
+      "url": "https://world.openbeautyfacts.org/product/4305615346120"
+     },
+     {
+      "brand": "Groupe Ice",
+      "name": "Baleno",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Poudre de lait ecreme",
+      "ingredient_position": 3,
+      "ingredient_count": 6,
+      "url": "https://world.openbeautyfacts.org/product/6111255522460"
+     },
+     {
+      "brand": "lidl",
+      "name": "Pâte à tartiner",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "poudre de lait écrémé",
+      "ingredient_position": 4,
+      "ingredient_count": 4,
+      "url": "https://world.openbeautyfacts.org/product/20303693"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Monsavon 250 gd vanille",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sine Adipe Lac",
+      "ingredient_position": 5,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/3181730032237"
+     },
+     {
+      "brand": "Monsavon",
+      "name": "100% Essentiel Lait & Amande douce",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sine Adipe Lac",
+      "ingredient_position": 5,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/3181730032244"
+     },
+     {
+      "brand": "Unilever",
+      "name": "100% essentiel Douche crème hydratante Lait, Perle & Patchouli",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sine Adipe Lac",
+      "ingredient_position": 5,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/3181730192627"
+     },
+     {
+      "brand": "mylan",
+      "name": "saugella dermoliquide",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "lac",
+      "ingredient_position": 5,
+      "ingredient_count": 19,
+      "url": "https://world.openbeautyfacts.org/product/3700343900032"
+     },
+     {
+      "brand": "Ombia",
+      "name": "liquid hand soap",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "sine adipe lac",
+      "ingredient_position": 6,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/2004060008264"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [
+     "TR-02"
+    ],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-002",
+   "name": "Goat's milk",
+   "group": "Animal milk",
+   "source": "Capra hircus",
+   "composition": "~84–89% water; 3.0–5.2% protein; 3.0–7.2% fat; 3.2–5.0% lactose; minerals/ash ~0.7–0.9%",
+   "constituents": "Caseins, whey proteins, milk fat, lactose, calcium and other minerals",
+   "skin": "Soaps, cleansers, creams",
+   "hair": "Specialty protein-containing conditioners",
+   "evidence": "Common commercial use; limited evidence for superiority over comparable formulas",
+   "safety": "Milk-protein allergy; product pH and preservation matter",
+   "regions": "Mediterranean, Africa, South Asia and elsewhere",
+   "confidence": "Composition: established; special benefit claims: limited",
+   "sources": "FAO; comparative milk-composition reviews",
+   "record_type": "Animal milk",
+   "traditional_use_notes": "Goat-milk soaps and creams are a visible specialty category. Regional traditions vary; avoid implying a universal practice.",
+   "regions_research_context": "Mediterranean, parts of Africa and South Asia, and global artisan markets.",
+   "commercial_examples": "Goat is GOAT Original Goat Milk Soap; product page lists goat milk and full ingredient list.",
+   "commercial_source_urls": "https://goatisgoat.com/en-ca/products/goat-milk-soap-original",
+   "verification_status": "Commercial example verified from brand page; claims are brand claims, not independent efficacy evidence.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 20,
+    "products_related": 0,
+    "raw_materials_exact": 4,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 20
+    },
+    "by_category_group": {
+     "body": 13,
+     "other": 3,
+     "fragrance": 3,
+     "hair": 1
+    },
+    "top_countries_sold": {
+     "france": 11,
+     "canada": 2,
+     "spain": 2,
+     "united states": 1,
+     "germany": 1,
+     "italy": 1,
+     "switzerland": 1,
+     "croatia": 1
+    },
+    "example_products": [
+     {
+      "brand": "L'Autruche de Laurette",
+      "name": "Savon naturel artisanal",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "20% lait de chèvre",
+      "ingredient_position": 2,
+      "ingredient_count": 2,
+      "url": "https://world.openbeautyfacts.org/product/3770002153178"
+     },
+     {
+      "brand": "La Ferme du Bergognon",
+      "name": "Lait hydratant au lait de nos chèvres - fleur de genêt",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "GOAT MILK",
+      "ingredient_position": 2,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/9061900946677"
+     },
+     {
+      "brand": "La savonnerie de Marcel",
+      "name": "Savon aux petits soins - Calendula & Lait de chèvre",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Caprae Lac",
+      "ingredient_position": 4,
+      "ingredient_count": 12,
+      "url": "https://world.openbeautyfacts.org/product/3770013052026"
+     },
+     {
+      "brand": "Soin Amalthée",
+      "name": "L'incontournable savon au lait de chèvre parfum amande",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "GOAT MILK",
+      "ingredient_position": 4,
+      "ingredient_count": 10,
+      "url": "https://world.openbeautyfacts.org/product/3770020070006"
+     },
+     {
+      "brand": "Soin Amalthée",
+      "name": "L'incontournable savon au lait de chèvre parfum thé",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "GOAT MILK",
+      "ingredient_position": 4,
+      "ingredient_count": 10,
+      "url": "https://world.openbeautyfacts.org/product/3770020070013"
+     },
+     {
+      "brand": "Soin Amalthée",
+      "name": "L'incontournable savon au lait de chèvre parfum rose",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "GOAT MILK",
+      "ingredient_position": 4,
+      "ingredient_count": 10,
+      "url": "https://world.openbeautyfacts.org/product/3770020070020"
+     },
+     {
+      "brand": "Caprina",
+      "name": "Gel Douche / Body Wash",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Caprae Lac/Goat Milk/Lait de Chèvre",
+      "ingredient_position": 5,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/0628308852024"
+     },
+     {
+      "brand": "Maison berthon guilhem",
+      "name": "savon bio",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "goat milk (lait de chèvre frais)",
+      "ingredient_position": 6,
+      "ingredient_count": 8,
+      "url": "https://world.openbeautyfacts.org/product/3760189190042"
+     },
+     {
+      "brand": "Maison Berthe Guilhem",
+      "name": "Savon surgras bio au lait de chèvre alpine",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "goat milk",
+      "ingredient_position": 6,
+      "ingredient_count": 8,
+      "url": "https://world.openbeautyfacts.org/product/3760189190066"
+     },
+     {
+      "brand": "Les Savons d'Orély",
+      "name": "Milky Thym",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "CAPRAE LAC",
+      "ingredient_position": 7,
+      "ingredient_count": 12,
+      "url": "https://world.openbeautyfacts.org/product/3770002587140"
+     },
+     {
+      "brand": "Weleda",
+      "name": "Rasiercreme",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Goat Milk (Caprae Lac)",
+      "ingredient_position": 8,
+      "ingredient_count": 22,
+      "url": "https://world.openbeautyfacts.org/product/08133025"
+     },
+     {
+      "brand": "Lov'FROG",
+      "name": "savon certifié au lait de chèvre bio",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "GOAT MILK* PARFUM",
+      "ingredient_position": 8,
+      "ingredient_count": 8,
+      "url": "https://world.openbeautyfacts.org/product/3660050015408"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Goat Milk Powder",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Goat Milk Powder",
+      "url": "https://formulatorsampleshop.com/products/fss-goat-milk-powder"
+     },
+     {
+      "name": "Goat Milk Powder",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Goat Milk",
+      "url": "https://lotioncrafter.com/products/goat-milk-powder"
+     },
+     {
+      "name": "Detergent Free Goat Milk MP Soap - Bulk",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Goat Milk",
+      "url": "https://windypointsoap.com/products/copy-of-detergent-free-goat-milk-mp-soap"
+     },
+     {
+      "name": "Detergent Free Goat Milk MP Soap",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Goat Milk",
+      "url": "https://windypointsoap.com/products/detergent-free-goat-milk-mp-soap-2lb-tray"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [
+     "TR-03"
+    ],
+    "commercial_register_ids": [
+     "PR-01"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-003",
+   "name": "Sheep's milk",
+   "group": "Animal milk",
+   "source": "Ovis aries",
+   "composition": "~80–83% water; 4.5–7.0% protein; 5–9% fat; 4.1–5.9% lactose; minerals/ash ~0.8–1.0%",
+   "constituents": "Relatively high casein, whey proteins, triglycerides, lactose and minerals",
+   "skin": "Rich dairy soaps and creams",
+   "hair": "Possible source of dairy proteins for specialty formulas",
+   "evidence": "Composition data established; direct cosmetic outcome evidence limited",
+   "safety": "Milk-protein allergy; use formulated products",
+   "regions": "Mediterranean and other sheep-dairy regions",
+   "confidence": "Composition: established; cosmetic claims: limited",
+   "sources": "FAO; comparative milk-composition reviews",
+   "record_type": "Animal milk",
+   "traditional_use_notes": "Sheep-milk soaps and dairy-based skin products are a plausible specialty-product research lead in sheep-dairy regions; no specific traditional beauty practice verified in this pass.",
+   "regions_research_context": "Mediterranean and other sheep-dairy regions.",
+   "commercial_examples": "No specific product example verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Product-market lead only; seek official label and source.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 1,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 1
+    },
+    "by_category_group": {
+     "body": 1
+    },
+    "top_countries_sold": {
+     "france": 1
+    },
+    "example_products": [
+     {
+      "brand": "Les Savons d'Orély",
+      "name": "Milky Patchouli",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "SHEEP MILK",
+      "ingredient_position": 7,
+      "ingredient_count": 15,
+      "url": "https://world.openbeautyfacts.org/product/3770002587164"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [
+     "TR-04"
+    ],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-004",
+   "name": "Buffalo milk",
+   "group": "Animal milk",
+   "source": "Bubalus bubalis",
+   "composition": "~82–84% water; protein often ~3–5%; fat commonly ~5–9%; lactose ~3.2–4.9%; minerals/ash ~0.8–0.9%",
+   "constituents": "Casein-rich proteins, whey proteins, triglycerides, lactose, calcium and phosphorus",
+   "skin": "Rich soaps and creams",
+   "hair": "Potential dairy-protein ingredient source",
+   "evidence": "Higher fat than cow milk does not prove better topical performance",
+   "safety": "Milk-protein allergy; formulation quality and preservation matter",
+   "regions": "South Asia, Mediterranean and other buffalo-dairy regions",
+   "confidence": "Composition: established; cosmetic claims: limited",
+   "sources": "FAO; comparative milk-composition reviews",
+   "record_type": "Animal milk",
+   "traditional_use_notes": "Buffalo milk is widely used as food in South Asia; topical beauty use should not be inferred from food culture without a specific documented source.",
+   "regions_research_context": "South Asia and other buffalo-dairy regions.",
+   "commercial_examples": "No specific product example verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Food use is not proof of cosmetic tradition or benefit.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {},
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-005",
+   "name": "Camel milk",
+   "group": "Animal milk",
+   "source": "Camelus dromedarius / Camelus bactrianus",
+   "composition": "~84–89% water; protein ~2.4–4.2%; fat ~2–6%; lactose ~3.5–5.1%; minerals/ash ~0.7–0.9%",
+   "constituents": "Caseins, whey proteins, milk fat, lactose, minerals; vitamin levels vary",
+   "skin": "Specialty soaps and creams; researched as a bioactive ingredient source",
+   "hair": "Emerging specialty shampoo/conditioner ingredient concept",
+   "evidence": "Promising biochemical research is not proof of clinical cosmetic benefit",
+   "safety": "Potential allergy; fresh milk requires preservation",
+   "regions": "North Africa, Sahel, Horn of Africa, Arabian Peninsula and Central Asia",
+   "confidence": "Composition: established; topical efficacy: limited",
+   "sources": "FAO; comparative milk-composition reviews",
+   "record_type": "Animal milk",
+   "traditional_use_notes": "Camel-milk soap and body-care products are a contemporary niche; historical or community-specific traditional uses need separate documentation.",
+   "regions_research_context": "North Africa, Sahel, Horn of Africa, Arabian Peninsula and Central Asia are relevant camel-dairy regions.",
+   "commercial_examples": "Cammellatte Camel Milk Face & Body Soap; ingredient list and product claims are published on the brand page.",
+   "commercial_source_urls": "https://cammellatte.com/en-ca/products/camel-milk-body-face-soap",
+   "verification_status": "Commercial product page found; listing showed out of stock and shipping charges at research time. Brand efficacy claims unverified independently.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {},
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [
+     "TR-05"
+    ],
+    "commercial_register_ids": [
+     "PR-02"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-006",
+   "name": "Donkey's milk",
+   "group": "Animal milk",
+   "source": "Equus asinus",
+   "composition": "~89–91% water; protein ~1.4–2.0%; fat ~0.3–1.8%; lactose ~5.8–7.4%; low mineral/ash content",
+   "constituents": "Whey proteins, lower casein proportion than ruminant milks, lactose and small amounts of fat",
+   "skin": "Specialty soaps and creams",
+   "hair": "Possible source for specialty protein formulations; little direct evidence",
+   "evidence": "Cosmetic marketing often exceeds clinical evidence",
+   "safety": "Milk-protein allergy; use preserved finished products",
+   "regions": "European and Mediterranean specialty dairy markets",
+   "confidence": "Composition: established; cosmetic efficacy: limited",
+   "sources": "FAO; comparative milk-composition reviews",
+   "record_type": "Animal milk",
+   "traditional_use_notes": "Donkey-milk skincare is marketed in parts of the European/Mediterranean specialty beauty market. Historical claims should be traced to primary sources rather than repeated as fact.",
+   "regions_research_context": "Mediterranean/European specialty markets.",
+   "commercial_examples": "KORRES Mediterranean Donkey Milk Protein Strengthening Face Cream; official product page includes donkey milk in the INCI list.",
+   "commercial_source_urls": "https://gr.korres.com/products/mediterranean-donkey-milk-protein-strengthening-face-cream-nourished-supple?country=GR&currency=EUR&variant=42803859685537",
+   "verification_status": "Official product example verified; availability and formula may vary by market.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 35,
+    "products_related": 0,
+    "raw_materials_exact": 1,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 35
+    },
+    "by_category_group": {
+     "body": 22,
+     "face": 3,
+     "fragrance": 3,
+     "other": 3,
+     "hair": 2,
+     "oral_care": 1,
+     "sun_care": 1
+    },
+    "top_countries_sold": {
+     "france": 31,
+     "germany": 2,
+     "belgium": 1,
+     "portugal": 1
+    },
+    "example_products": [
+     {
+      "brand": "LABORATOIRE PAYSANE",
+      "name": "Savon exfoliant",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Donkey milk",
+      "ingredient_position": 1,
+      "ingredient_count": 7,
+      "url": "https://world.openbeautyfacts.org/product/2000000002893"
+     },
+     {
+      "brand": "SARYANE",
+      "name": "savon liquide au lait d'ânesse bio et aloe vera",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "SAVON LIQUIDE AU LAIT D'ÂNESSE BIO ALOE VERA Aqua",
+      "ingredient_position": 1,
+      "ingredient_count": 12,
+      "url": "https://world.openbeautyfacts.org/product/3700601100891"
+     },
+     {
+      "brand": "Cosmonaturel",
+      "name": "Crème de jour au lait d'ânesse bio",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "DONKEY MILK",
+      "ingredient_position": 2,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/2000000000998"
+     },
+     {
+      "brand": "Wholly Kaw",
+      "name": "Pompelmo",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Donkey Milk",
+      "ingredient_position": 4,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/0738956804921"
+     },
+     {
+      "brand": "BleuJaune en Provence",
+      "name": "Savon douche au lait d'anesse bio",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Donkey milk",
+      "ingredient_position": 4,
+      "ingredient_count": 12,
+      "url": "https://world.openbeautyfacts.org/product/3700998201195"
+     },
+     {
+      "brand": "HITTON",
+      "name": "Savon de soin lait d'ânesse",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "DONKEY MILK",
+      "ingredient_position": 4,
+      "ingredient_count": 15,
+      "url": "https://world.openbeautyfacts.org/product/3760269130074"
+     },
+     {
+      "brand": "Asinus",
+      "name": "Savon végétal au lait d'ânesse Concombre",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "LAC ASINAE (5%)",
+      "ingredient_position": 4,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/3770000551143"
+     },
+     {
+      "brand": "Anes&Sens",
+      "name": "gel douche au lait d'ânesse",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Donkey Milk",
+      "ingredient_position": 4,
+      "ingredient_count": 11,
+      "url": "https://world.openbeautyfacts.org/product/5425021090222"
+     },
+     {
+      "brand": "Aux grandes Z'oreilles",
+      "name": "Mandala",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "donkey milk",
+      "ingredient_position": 5,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/2000000080895"
+     },
+     {
+      "brand": "Aux grandes Z'oreilles",
+      "name": "Dentifrice fraîcheur",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "donkey milk",
+      "ingredient_position": 5,
+      "ingredient_count": 8,
+      "url": "https://world.openbeautyfacts.org/product/2000000080932"
+     },
+     {
+      "brand": "Léa Nature",
+      "name": "Douche Lait d'ânesse Douche et bain lacté",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Donkey Milk",
+      "ingredient_position": 5,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/3517360002430"
+     },
+     {
+      "brand": "MKL",
+      "name": "Lait d’ânesse",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "DONKEY MILK",
+      "ingredient_position": 5,
+      "ingredient_count": 10,
+      "url": "https://world.openbeautyfacts.org/product/3760162120691"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Donkey Milk Extract",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Donkey Milk Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-donkey-milk-extract"
+     }
+    ],
+    "evidence_ids": [
+     "EV-03"
+    ],
+    "tradition_ids": [
+     "TR-01"
+    ],
+    "commercial_register_ids": [
+     "PR-03",
+     "PR-04"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-007",
+   "name": "Mare's milk",
+   "group": "Animal milk",
+   "source": "Equus caballus",
+   "composition": "~89–91% water; protein often ~1.8–2.7%; fat commonly ~1–2%; lactose ~5.6–7.2%",
+   "constituents": "Whey proteins, caseins, lactose, lipids and minerals",
+   "skin": "Specialty ingredient research",
+   "hair": "Possible protein source for formulated products",
+   "evidence": "Direct topical cosmetic evidence is sparse",
+   "safety": "Potential allergy; raw milk is not a cosmetic formula",
+   "regions": "Central Asia and other equine-dairy regions",
+   "confidence": "Composition: established; cosmetic use/effect: limited",
+   "sources": "FAO; comparative milk-composition reviews",
+   "record_type": "Animal milk",
+   "traditional_use_notes": "No region-specific topical beauty tradition or current product was verified in this pass. Investigate Central Asian dairy cultures through ethnographic and product-label sources.",
+   "regions_research_context": "Central Asia and other mare-dairy regions are research leads, not confirmed beauty-use claims.",
+   "commercial_examples": "No specific product example verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Tradition and commercial presence unverified.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 3,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 3
+    },
+    "by_category_group": {
+     "body": 2,
+     "other": 1
+    },
+    "top_countries_sold": {
+     "france": 3
+    },
+    "example_products": [
+     {
+      "brand": "Perle de Jument",
+      "name": "Crème réparatrice pour les mains au lait de Jument Bio",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Mare Milk",
+      "ingredient_position": 1,
+      "ingredient_count": 22,
+      "url": "https://world.openbeautyfacts.org/product/3700616300927"
+     },
+     {
+      "brand": "La Soulane",
+      "name": "Savon fleuri au lait de jument Bio",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "mare milk",
+      "ingredient_position": 4,
+      "ingredient_count": 12,
+      "url": "https://world.openbeautyfacts.org/product/3770001142081"
+     },
+     {
+      "brand": "Léa Nature",
+      "name": "Douche au lait de jument Crème de douche nourrissante",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Mare Milk",
+      "ingredient_position": 12,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/3517360006261"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-008",
+   "name": "Yak milk",
+   "group": "Animal milk",
+   "source": "Bos grunniens",
+   "composition": "Water around 80–85%; protein ~4–6%; fat ~5.5–9%; lactose ~4–5.9%; minerals vary",
+   "constituents": "Caseins, whey proteins, triglycerides, lactose and minerals",
+   "skin": "Research candidate for specialty dairy-derived formulations",
+   "hair": "Possible source of protein and lipid ingredients",
+   "evidence": "Traditional food use is not evidence of topical efficacy",
+   "safety": "Milk-protein allergy; preservation required",
+   "regions": "Himalayan and Central Asian highlands",
+   "confidence": "Composition: established; topical efficacy: limited",
+   "sources": "FAO; yak milk composition review",
+   "record_type": "Animal milk",
+   "traditional_use_notes": "No specific topical beauty tradition or commercial cosmetic was verified in this pass; do not infer skincare use from Himalayan dairy culture alone.",
+   "regions_research_context": "Himalayan and Tibetan Plateau regions are research leads.",
+   "commercial_examples": "No specific product example verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Tradition and commercial presence unverified.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {},
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-009",
+   "name": "Coconut milk",
+   "group": "Plant milk",
+   "source": "Cocos nucifera endosperm + water",
+   "composition": "Highly variable; raw expressed milk can be ~68% water, ~24% fat, ~2.3% protein and ~5.5% carbohydrate per 100 g; canned/light/beverage products differ",
+   "constituents": "Water, triglycerides, saturated fatty acids including lauric acid, small proteins and carbohydrates",
+   "skin": "Emollient or cleansing formulations when appropriately formulated",
+   "hair": "Masks and conditioning preparations for hair lengths",
+   "evidence": "Do not transfer evidence for coconut oil directly to coconut milk",
+   "safety": "Food-grade mixtures spoil; may not suit all scalps/skin; rinse if irritated",
+   "regions": "South and Southeast Asia, Pacific, Caribbean, tropical Americas and Africa",
+   "confidence": "Food composition: variable but documented; topical outcome: formula-dependent",
+   "sources": "USDA FoodData Central records; coconut milk composition",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Coconut preparations are used in some tropical-region hair-care traditions; document the specific community and preparation. Coconut milk, coconut oil and coconut extract are distinct.",
+   "regions_research_context": "South and Southeast Asia, Pacific islands, Caribbean and tropical regions; practices differ.",
+   "commercial_examples": "OGX Nourishing + Coconut Milk Shampoo; official page lists Cocos Nucifera fruit extract and hydrolyzed milk protein, so it is not a pure coconut-milk formula.",
+   "commercial_source_urls": "https://www.ogxbeauty.com/products/coconut-milk-shampoo",
+   "verification_status": "Official commercial example verified; note formula includes multiple actives and hydrolyzed milk protein.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 2,
+    "products_related": 61,
+    "raw_materials_exact": 1,
+    "raw_materials_related": 4,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 63
+    },
+    "by_category_group": {
+     "body": 2
+    },
+    "top_countries_sold": {
+     "germany": 1,
+     "india": 1
+    },
+    "example_products": [
+     {
+      "brand": "Stirling Soap Co.",
+      "name": "Bergamot Lavender",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Coconut Milk",
+      "ingredient_position": 10,
+      "ingredient_count": 13,
+      "url": "https://world.openbeautyfacts.org/product/8051739111545"
+     },
+     {
+      "brand": "Parachute",
+      "name": "parachute body lotion coconut milk & honey 400ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Cocos nucifera (Coconut) milk",
+      "ingredient_position": 17,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/8901088064576"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Coconut Milk Powder",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Dehydrated Coconut Milk",
+      "url": "https://formulatorsampleshop.com/products/fss-coconut-milk-powder"
+     },
+     {
+      "name": "FSS Coconut Juice PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Cocos Nucifera (Coconut) Fruit Juice",
+      "url": "https://formulatorsampleshop.com/products/fss-coconut-juice-pf"
+     },
+     {
+      "name": "FSS Coconut Water PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Cocos Nucifera (Coconut) Water",
+      "url": "https://formulatorsampleshop.com/products/fss-coconut-water-pf"
+     },
+     {
+      "name": "Coconut Endosperm",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Cocos Nucifera (Coconut) Liquid Endosperm",
+      "url": "https://lotioncrafter.com/products/coconut-endosperm"
+     },
+     {
+      "name": "Detergent Free Coconut Milk MP Soap",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Cocos Nucifera (Coconut) Fruit Juice",
+      "url": "https://windypointsoap.com/products/detergent-free-coconut-milk-mp-soap"
+     }
+    ],
+    "evidence_ids": [
+     "EV-09"
+    ],
+    "tradition_ids": [
+     "TR-07"
+    ],
+    "commercial_register_ids": [
+     "PR-05"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-010",
+   "name": "Oat milk",
+   "group": "Plant milk",
+   "source": "Avena sativa + water",
+   "composition": "Commercial beverages commonly mostly water, with variable oat carbohydrate, beta-glucan, small protein and fat; formulation varies",
+   "constituents": "Water, oat carbohydrates, variable beta-glucans, lipids, proteins and minerals",
+   "skin": "Oat-derived cosmetic ingredients are used in moisturizing products; colloidal oatmeal has topical evidence for dry/itchy skin",
+   "hair": "Oat extracts/proteins in conditioning formulations",
+   "evidence": "Evidence for colloidal oatmeal does not establish equivalent effects for oat beverage",
+   "safety": "Check allergy and full formula; beverage is not a preserved cosmetic",
+   "regions": "Global commercial plant-beverage markets",
+   "confidence": "Colloidal oatmeal: moderate topical support; oat milk: limited direct evidence",
+   "sources": "Colloidal oatmeal safety/efficacy review",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Oats have a stronger topical evidence history as colloidal oatmeal/oat kernel ingredients than as ordinary oat beverage. Do not conflate the two.",
+   "regions_research_context": "Global modern skincare; no exclusive regional tradition assigned.",
+   "commercial_examples": "AVEENO Daily Moisturizing Body Wash; official ingredient list includes Avena Sativa (Oat) Kernel Flour/Oil/Extract, not oat milk beverage.",
+   "commercial_source_urls": "https://www.aveeno.ca/products/daily-moisturizing-body-wash",
+   "verification_status": "Official product example verifies oat-derived ingredients, not oat milk itself.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 4,
+    "products_related": 226,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 10,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 225,
+     "round_lab": 3,
+     "cosrx": 2
+    },
+    "by_category_group": {
+     "body": 3,
+     "other": 1
+    },
+    "top_countries_sold": {
+     "united states": 1,
+     "france": 1,
+     "spain": 1,
+     "india": 1
+    },
+    "example_products": [
+     {
+      "brand": "La savonnerie de Marcel",
+      "name": "Douceur d'hiver",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Avena Sativa Milk",
+      "ingredient_position": 4,
+      "ingredient_count": 15,
+      "url": "https://world.openbeautyfacts.org/product/3770013052101"
+     },
+     {
+      "brand": "Dr. Squatch",
+      "name": "Lavender Fields Forever",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Oat Milk",
+      "ingredient_position": 5,
+      "ingredient_count": 8,
+      "url": "https://world.openbeautyfacts.org/product/0810095592614"
+     },
+     {
+      "brand": "Doctor spa",
+      "name": "Leche avena",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "OAT MILK",
+      "ingredient_position": 10,
+      "ingredient_count": 13,
+      "url": "https://world.openbeautyfacts.org/product/7467345282370"
+     },
+     {
+      "brand": "mCaffeine",
+      "name": "mCaffeine Pumpkin Spice Latte Body Wash:",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Avena Sativa (Oat) Milk",
+      "ingredient_position": 12,
+      "ingredient_count": 23,
+      "url": "https://world.openbeautyfacts.org/product/8906129573888"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Colloidal Oat PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Colloidal Oatmeal",
+      "url": "https://formulatorsampleshop.com/products/fss-colloidal-oat-pf"
+     },
+     {
+      "name": "FSS Foaming Oat PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Sodium Cocoyl Hydrolyzed Oat Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-foaming-oat-pf"
+     },
+     {
+      "name": "Colloidal Oats",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Avena Sativa Kernel Flour",
+      "url": "https://lotioncrafter.com/products/colloidal-oats"
+     },
+     {
+      "name": "Fision® ActiveBright",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Oat Protein",
+      "url": "https://lotioncrafter.com/products/fision-activebright"
+     },
+     {
+      "name": "Hydrolyzed Oats",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Oat Protein",
+      "url": "https://lotioncrafter.com/products/hydrolyzed-oats"
+     },
+     {
+      "name": "Oatmeal Cellular Extract",
+      "source_id": "native_extracts",
+      "country": "AU",
+      "matched_ingredient": "Avena sativa Meal Extract",
+      "url": "https://www.nativeextracts.com/products/oatmeal-avena-sativa-cellular-extract"
+     },
+     {
+      "name": "Colloidal Oatmeal",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Avena Sativa (Oat) Kernel Flour",
+      "url": "https://windypointsoap.com/products/colloidal-oatmeal"
+     },
+     {
+      "name": "Detergent Free Baby Buttermilk MP Soap",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Avena Sativa (Oat) Kernel Flour",
+      "url": "https://windypointsoap.com/products/detergent-free-baby-buttermilk-mp-soap"
+     }
+    ],
+    "evidence_ids": [
+     "EV-04",
+     "EV-09"
+    ],
+    "tradition_ids": [],
+    "commercial_register_ids": [
+     "PR-06"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-011",
+   "name": "Rice milk",
+   "group": "Plant milk",
+   "source": "Oryza sativa + water",
+   "composition": "Mostly water; carbohydrate/starch content varies; many beverages contain little protein and added oils/sugars may change composition",
+   "constituents": "Water, starch-derived carbohydrates, variable lipids and low protein",
+   "skin": "Research/formulation inspiration; rice-derived extracts are distinct materials",
+   "hair": "Rice-derived ingredients and hydrolyzed rice protein are used in some formulations",
+   "evidence": "Do not equate rice milk with rice water, rice ferment or hydrolyzed rice protein",
+   "safety": "Homemade water-based mixtures can grow microbes",
+   "regions": "East and Southeast Asia; global beverage market",
+   "confidence": "Beverage composition: product-specific; topical efficacy: limited",
+   "sources": "Plant beverage composition study; CIR plant-protein safety assessment",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Rice-water and rice-derived preparations are associated with several East and Southeast Asian hair/skin practices, but rice milk is not rice water. Verify the precise preparation and community.",
+   "regions_research_context": "East and Southeast Asia are broad research regions; avoid attributing one practice to all countries.",
+   "commercial_examples": "Commercial examples are generally rice ferment or hydrolyzed rice protein rather than literal rice milk; see separate Fermented rice liquid record.",
+   "commercial_source_urls": "https://www.garnier.co.uk/our-brands/hair-care/ultimate-blends/rice-water/shampoo",
+   "verification_status": "Official product illustrates rice ferment filtrate, not rice milk.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 2,
+    "products_related": 68,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 11,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 65,
+     "cosrx": 5
+    },
+    "by_category_group": {
+     "body": 2
+    },
+    "top_countries_sold": {
+     "united states": 2
+    },
+    "example_products": [
+     {
+      "brand": "",
+      "name": "method body body wash",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "rice milk shea butter",
+      "ingredient_position": 1,
+      "ingredient_count": 34,
+      "url": "https://world.openbeautyfacts.org/product/0817939018576"
+     },
+     {
+      "brand": "",
+      "name": "method body",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "rice milk shea butter",
+      "ingredient_position": 1,
+      "ingredient_count": 26,
+      "url": "https://world.openbeautyfacts.org/product/0843536107184"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS DermaPeptide Revitalizing PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Rice Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-dermapeptide-revitalizing"
+     },
+     {
+      "name": "FSS Foaming Rice PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Sodium Cocoyl Hydrolyzed Rice Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-foaming-rice-pf"
+     },
+     {
+      "name": "FSS MultiGrain Complex OS",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Cocoyl Hydrolyzed Rice Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-multigrain-complex-os"
+     },
+     {
+      "name": "FSS Quaternized Rice",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydroxypropyltrimonium Hydrolyzed Rice Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-quaternized-rice"
+     },
+     {
+      "name": "FSS Rice BioFerment PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Lactobacillus/Oryza Sativa (Rice) BioFerment",
+      "url": "https://formulatorsampleshop.com/products/fss-rice-bioferment-pf"
+     },
+     {
+      "name": "FSS RICE WATER SF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "FSS RICE WATER SF",
+      "url": "https://formulatorsampleshop.com/products/fss-rice-water-sf"
+     },
+     {
+      "name": "FSS Split End Complex MSX",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydroxypropyltrimonium Hydrolyzed Rice Protein/Siloxysilicate",
+      "url": "https://formulatorsampleshop.com/products/fss-split-end-complex-msx"
+     },
+     {
+      "name": "Brown Rice Ferment Filtrate",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Saccharomyces/Rice ferment filtrate",
+      "url": "https://lotioncrafter.com/products/brown-rice-ferment-filtrate"
+     }
+    ],
+    "evidence_ids": [
+     "EV-08",
+     "EV-09"
+    ],
+    "tradition_ids": [
+     "TR-06"
+    ],
+    "commercial_register_ids": [
+     "PR-08"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-012",
+   "name": "Soy milk",
+   "group": "Plant milk",
+   "source": "Glycine max + water",
+   "composition": "Commercial samples may contain ~2–4% protein, ~1–2.5% fat and variable carbohydrate; fortified/sweetened products differ",
+   "constituents": "Soy proteins, lipids, carbohydrates, and isoflavones in variable amounts",
+   "skin": "Soy-derived cosmetic ingredients are used in selected formulas",
+   "hair": "Hydrolyzed soy protein can be used as a conditioning ingredient",
+   "evidence": "Evidence for isolated soy ingredients does not automatically apply to soy beverage",
+   "safety": "Soy allergy; review ingredient and processing details",
+   "regions": "East Asia and global plant-based markets",
+   "confidence": "Composition: product-dependent; specific cosmetic claims: ingredient-dependent",
+   "sources": "Plant beverage composition study; CIR plant-derived protein assessment",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Soy is culturally important as food in East Asia; a topical soy-milk beauty tradition was not verified in this pass. Modern cosmetics more often use soy oil, extract or protein derivatives.",
+   "regions_research_context": "East Asia is a food-culture context, not evidence of topical use.",
+   "commercial_examples": "No soy-milk beverage product verified; search cosmetics by Glycine Soja (Soybean) Oil/Protein/Extract separately.",
+   "commercial_source_urls": "",
+   "verification_status": "Food history is not topical-use evidence.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 153,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 18,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 152,
+     "round_lab": 1
+    },
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [
+     {
+      "name": "Phytokeratin",
+      "source_id": "aromantic",
+      "country": "GB",
+      "matched_ingredient": "Hydrolysed Soy Protein",
+      "url": "https://aromantic.co.uk/products/phytokeratin"
+     },
+     {
+      "name": "FSS Foaming Soy PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Sodium Cocoyl Hydrolyzed Soy Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-foaming-soy-pf"
+     },
+     {
+      "name": "FSS MVS Lips",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Glycine Soja (Soybean) Seed Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-mvs-lips"
+     },
+     {
+      "name": "FSS PHYTO-OIL C2",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Glycine Soja (Soybean) Seed Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-phyto-oil-c2"
+     },
+     {
+      "name": "FSS PHYTO-OIL C3",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Glycine Soja (Soybean) Seed Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-phyto-oil-c3"
+     },
+     {
+      "name": "FSS Plant Keratin PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Soy Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-plant-keratin-pf"
+     },
+     {
+      "name": "FSS Quaternized Soy",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydroxyproplytrimonium Hydrolyzed Soy Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-quaternized-soy"
+     },
+     {
+      "name": "FSS SOY HYDROLYSATE PF DRK",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Soy Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-soy-hydrolysate-pf-drk"
+     }
+    ],
+    "evidence_ids": [
+     "EV-09"
+    ],
+    "tradition_ids": [
+     "TR-08"
+    ],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-013",
+   "name": "Almond milk",
+   "group": "Plant milk",
+   "source": "Prunus dulcis + water",
+   "composition": "Mostly water; usually low protein and fat in beverage form, with large variation by almond content and added ingredients",
+   "constituents": "Water, variable almond lipids and proteins; fortification/additives depend on product",
+   "skin": "Almond oil and extracts are separate materials used in some formulas",
+   "hair": "Almond oil may act as an emollient in hair products",
+   "evidence": "Do not attribute almond-oil properties to almond beverage",
+   "safety": "Tree-nut allergy consideration",
+   "regions": "Mediterranean origin; global beverage market",
+   "confidence": "Beverage composition: product-dependent; cosmetic claims: derivative-specific",
+   "sources": "Product labels and food composition references",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Almond oil has a long cosmetic use history in some regions; that should not be attributed to almond milk beverage without evidence.",
+   "regions_research_context": "Mediterranean and global cosmetic markets for almond oil.",
+   "commercial_examples": "No almond-milk product verified; almond oil is a separate ingredient category.",
+   "commercial_source_urls": "",
+   "verification_status": "Ingredient identity must not be conflated.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 13,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 13
+    },
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [],
+    "evidence_ids": [
+     "EV-09"
+    ],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-014",
+   "name": "Cashew milk",
+   "group": "Plant milk",
+   "source": "Anacardium occidentale + water",
+   "composition": "Mostly water; variable fat, carbohydrate and protein based on cashew content and added oils",
+   "constituents": "Water, cashew lipids, proteins and carbohydrates",
+   "skin": "Ingredient-research concept; specific cashew derivatives may be used in formulations",
+   "hair": "Potential source inspiration for lipid-rich formulas",
+   "evidence": "Direct topical evidence for the beverage is limited",
+   "safety": "Tree-nut allergy consideration; avoid food mixtures stored for later use",
+   "regions": "Tropical Americas origin; global beverage market",
+   "confidence": "Composition: product-dependent; topical efficacy: limited",
+   "sources": "Product-specific composition records needed",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "No specific traditional topical beauty use verified in this pass.",
+   "regions_research_context": "Cashew-producing regions are research leads for supply chains, not confirmed topical traditions.",
+   "commercial_examples": "No specific product example verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Commercial and traditional use unverified.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {},
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-015",
+   "name": "Hemp-seed milk",
+   "group": "Plant milk",
+   "source": "Cannabis sativa seeds + water",
+   "composition": "Mostly water with variable seed oil, protein and carbohydrate; commercial recipes differ",
+   "constituents": "Water, hemp-seed lipids, proteins and carbohydrates",
+   "skin": "Hemp-seed oil is a separate lipid ingredient used in some emollient formulas",
+   "hair": "Hemp-seed oil may contribute emollience; evidence is formula-specific",
+   "evidence": "Do not equate hemp-seed milk with hemp-seed oil or CBD",
+   "safety": "Check full ingredient identity and product preservation",
+   "regions": "Global plant-based markets",
+   "confidence": "Composition: product-dependent; specific cosmetic claims: limited",
+   "sources": "Product-specific composition records needed",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Hemp-seed oil has cosmetic uses; hemp-seed milk beverage is not interchangeable with hemp oil or extract.",
+   "regions_research_context": "Global modern cosmetic supply chains.",
+   "commercial_examples": "No hemp-milk beverage product verified; track hemp seed oil/extract separately.",
+   "commercial_source_urls": "",
+   "verification_status": "Do not infer beverage benefits from oil studies.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 3,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 1,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 3
+    },
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [
+     {
+      "name": "Hydrolyzed Hemp Protein",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Cannabis Sativa Seed Extract",
+      "url": "https://lotioncrafter.com/products/hydrolyzed-hemp-protein"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-016",
+   "name": "Pea milk / pea protein beverage",
+   "group": "Plant milk",
+   "source": "Pisum sativum + water",
+   "composition": "Mostly water; protein varies by formulation and may be added as pea protein isolate",
+   "constituents": "Water, pea proteins, carbohydrates, and optional oils, gums or fortificants",
+   "skin": "Potential ingredient source for plant-protein formulations",
+   "hair": "Pea protein/hydrolysate may be researched for conditioning",
+   "evidence": "Ingredient-specific evidence required; beverage is not equivalent to hydrolysate",
+   "safety": "Review full formula and allergy history",
+   "regions": "Global emerging plant-beverage market",
+   "confidence": "Product-specific composition; direct cosmetic evidence limited",
+   "sources": "Cosmetic plant-protein ingredient reviews",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Pea protein is used as a plant-derived ingredient in some hair/skin formulas; pea beverage itself is not established as a topical treatment.",
+   "regions_research_context": "Global plant-protein ingredient market.",
+   "commercial_examples": "No pea-milk beverage cosmetic verified; track Hydrolyzed Pea Protein as a separate INCI candidate.",
+   "commercial_source_urls": "",
+   "verification_status": "Ingredient and beverage evidence differ.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 23,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 7,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 23
+    },
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [
+     {
+      "name": "FSS ACTIVE.LITE® HAIR",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Pea Protein",
+      "url": "https://formulatorsampleshop.com/products/active-lite-hair"
+     },
+     {
+      "name": "FISION® GLOWPLEX",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Pisum Sativum (Pea) Extract",
+      "url": "https://formulatorsampleshop.com/products/fisionr-glowplex"
+     },
+     {
+      "name": "Fision® HydraTress",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Pisum Sativum (Pea) Seed Extract",
+      "url": "https://lotioncrafter.com/products/fision-hydratress"
+     },
+     {
+      "name": "Fision® WrinkleFix",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Pea Protein",
+      "url": "https://lotioncrafter.com/products/fision-wrinklefix"
+     },
+     {
+      "name": "Fision® GlowPlex",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Pisum Sativum (Pea) Seed Extract",
+      "url": "https://windypointsoap.com/products/fision-glowplex"
+     },
+     {
+      "name": "Fision® HydraTress",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Pisum Sativum (Pea) Seed Extract",
+      "url": "https://windypointsoap.com/products/fision-hydratress"
+     },
+     {
+      "name": "Fision® WrinkleFix",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Hydrolyzed Pea Protein",
+      "url": "https://windypointsoap.com/products/fision-wrinklefix"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-017",
+   "name": "Quinoa-derived milk / liquid",
+   "group": "Plant milk",
+   "source": "Chenopodium quinoa + water",
+   "composition": "No standard composition; depends on extraction, dilution and processing",
+   "constituents": "Water, soluble carbohydrates, proteins and minor lipids",
+   "skin": "Potential extract-based formulation research",
+   "hair": "Hydrolyzed quinoa protein is a distinct ingredient category",
+   "evidence": "Direct evidence for quinoa beverage as topical product is limited",
+   "safety": "Require standardized ingredient identity and microbial controls",
+   "regions": "Andean food heritage; contemporary global ingredient research",
+   "confidence": "Composition: not standardized; efficacy: limited",
+   "sources": "Ingredient supplier specifications needed",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "No specific traditional quinoa-milk beauty practice verified. Modern cosmetic research more often concerns quinoa extract or hydrolyzed quinoa protein.",
+   "regions_research_context": "Andean food heritage is relevant to quinoa as food; topical use needs separate evidence.",
+   "commercial_examples": "No quinoa-milk beverage product verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Do not infer topical tradition from food heritage.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 28,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 10,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 28
+    },
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [
+     {
+      "name": "FISION® GLOWPLEX",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Chenopodium Quinoa Seed Extract",
+      "url": "https://formulatorsampleshop.com/products/fisionr-glowplex"
+     },
+     {
+      "name": "FSS MultiGrain Complex OS",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Cocoyl Hydrolyzed Quinoa Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-multigrain-complex-os"
+     },
+     {
+      "name": "FSS Quinoa Protein",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Quinoa",
+      "url": "https://formulatorsampleshop.com/products/fss-quinoa-protein"
+     },
+     {
+      "name": "FSS VEGAN KERATIN OS",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Chenopodium Quinoa Seed Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-vegan-keratin-os"
+     },
+     {
+      "name": "FSS VEGAN KERATIN SF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Chenopodium Quinoa Seed Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-vegan-keratin-sf"
+     },
+     {
+      "name": "Fision® HydraTress",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Quinoa",
+      "url": "https://lotioncrafter.com/products/fision-hydratress"
+     },
+     {
+      "name": "Hydrolyzed Quinoa",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Quinoa",
+      "url": "https://lotioncrafter.com/products/hydrolyzed-quinoa"
+     },
+     {
+      "name": "Fision® GlowPlex",
+      "source_id": "windy_point",
+      "country": "CA",
+      "matched_ingredient": "Chenopodium Quinoa Seed Extract",
+      "url": "https://windypointsoap.com/products/fision-glowplex"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-018",
+   "name": "Sesame-seed milk",
+   "group": "Plant milk",
+   "source": "Sesamum indicum seeds + water",
+   "composition": "No standard composition; depends on seed ratio and processing",
+   "constituents": "Water, sesame lipids and proteins",
+   "skin": "Sesame oil is a distinct emollient ingredient",
+   "hair": "Sesame oil is used in some hair-oiling traditions and formulations",
+   "evidence": "Do not assume beverage and oil have equivalent effects",
+   "safety": "Sesame is a major allergen in some jurisdictions",
+   "regions": "South Asia, Middle East, Africa and global food markets",
+   "confidence": "Composition: product-dependent; topical efficacy: ingredient-specific",
+   "sources": "Ingredient identity and product-label verification needed",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Sesame oil is used in cosmetics and traditional care in some regions; sesame beverage use should not be substituted for evidence about oil.",
+   "regions_research_context": "South Asia, Middle East and global cosmetic markets for sesame oil.",
+   "commercial_examples": "No sesame-milk cosmetic product verified; track Sesamum Indicum (Sesame) Seed Oil separately.",
+   "commercial_source_urls": "",
+   "verification_status": "Sesame is a known allergen; check exact ingredient.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 3,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 1,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 3
+    },
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [
+     {
+      "name": "Linefill™",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Sesamum Indicum (Sesame) Seed Extract",
+      "url": "https://lotioncrafter.com/products/linefill"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-019",
+   "name": "Peanut milk",
+   "group": "Plant milk",
+   "source": "Arachis hypogaea + water",
+   "composition": "No standard composition; depends on peanut content and processing",
+   "constituents": "Water, peanut proteins and lipids",
+   "skin": "Not a default DIY recommendation; research only with clear safety controls",
+   "hair": "No routine recommendation based on beverage evidence",
+   "evidence": "Direct cosmetic evidence limited",
+   "safety": "Peanut allergy can be severe; avoid topical experimentation in allergic individuals",
+   "regions": "Emerging plant beverage concept",
+   "confidence": "Composition: product-dependent; cosmetic evidence: limited",
+   "sources": "Ingredient and allergen safety references required",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "No specific topical beauty tradition verified. Peanut oil and peanut proteins are distinct materials and carry allergen considerations.",
+   "regions_research_context": "Global food ingredient context only; no regional beauty claim assigned.",
+   "commercial_examples": "No peanut-milk cosmetic product verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "High allergen relevance; not a default DIY ingredient.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {},
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-020",
+   "name": "Barley-derived beverage",
+   "group": "Plant milk",
+   "source": "Hordeum vulgare + water",
+   "composition": "No standard composition; starch and soluble carbohydrate levels depend on processing",
+   "constituents": "Water, barley-derived carbohydrates and variable protein",
+   "skin": "Potential extract research; not equivalent to colloidal grain ingredients",
+   "hair": "Grain-derived protein research only when exact ingredient is identified",
+   "evidence": "Direct topical evidence for beverage is limited",
+   "safety": "Barley/gluten considerations depend on the ingredient and processing",
+   "regions": "Global grain food traditions",
+   "confidence": "Composition: product-dependent; efficacy: limited",
+   "sources": "Ingredient specification required",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "No specific topical barley-beverage beauty tradition verified; barley extracts/proteins are separate cosmetic materials.",
+   "regions_research_context": "Global grain food cultures; topical use needs evidence.",
+   "commercial_examples": "No barley-beverage cosmetic product verified.",
+   "commercial_source_urls": "",
+   "verification_status": "Gluten/cereal sensitivity assessment may be relevant to specific materials.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 19,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 3,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 19
+    },
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [
+     {
+      "name": "FSS Barrier Protect",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hordeum Distichon (Barley) Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-barrier-protect"
+     },
+     {
+      "name": "FSS Beer Extract",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hordeum Distichon (Barley) Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-beer-extract"
+     },
+     {
+      "name": "Barley Cellular Extract",
+      "source_id": "native_extracts",
+      "country": "AU",
+      "matched_ingredient": "Hordeum vulgare Seed Extract",
+      "url": "https://www.nativeextracts.com/products/barley-cellular-extract"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-021",
+   "name": "Millet-derived beverage",
+   "group": "Plant milk",
+   "source": "Various millet species + water",
+   "composition": "No standard composition; depends on millet species and dilution",
+   "constituents": "Water, starch-derived carbohydrates, proteins and variable lipids",
+   "skin": "Research candidate, not an established topical active by itself",
+   "hair": "Potential grain-protein research with standardized ingredient",
+   "evidence": "Direct topical cosmetic evidence limited",
+   "safety": "Use preserved formulated products rather than stored homemade mixtures",
+   "regions": "Africa, South Asia and other millet-growing regions",
+   "confidence": "Composition: product-dependent; efficacy: limited",
+   "sources": "Ingredient specification required",
+   "record_type": "Plant milk",
+   "traditional_use_notes": "Millets have important food traditions in parts of Africa and Asia; this does not establish topical millet-milk use.",
+   "regions_research_context": "West Africa, Sahel, South Asia and other millet-producing regions as research leads only.",
+   "commercial_examples": "No millet-beverage cosmetic product verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Traditional topical use unverified.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 8,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 1,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 8
+    },
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [
+     {
+      "name": "Liftonin",
+      "source_id": "aromantic",
+      "country": "GB",
+      "matched_ingredient": "Panicum Miliaceum Seed Extract",
+      "url": "https://aromantic.co.uk/products/liftonin"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-022",
+   "name": "Yogurt",
+   "group": "Fermented dairy",
+   "source": "Fermented milk",
+   "composition": "Milk proteins, fat, lactose and fermentation products; varies by milk and culture",
+   "constituents": "Casein/whey proteins, lactic acid and other fermentation metabolites, water and variable lipids",
+   "skin": "Traditional masks and inspiration for formulated products",
+   "hair": "Occasional home-mask tradition; direct benefit evidence limited",
+   "evidence": "Food yogurt is not standardized for exfoliation or efficacy",
+   "safety": "Spoilage, irritation and contamination risk; avoid broken skin",
+   "regions": "Multiple global fermented-dairy traditions",
+   "confidence": "Composition: variable; topical evidence: limited",
+   "sources": "Fermented dairy composition; cosmetic formulation principles",
+   "record_type": "Fermented dairy",
+   "traditional_use_notes": "Yogurt appears in some home beauty-mask traditions and in commercial Greek-yogurt-themed skincare. Food yogurt is not standardized for skin use.",
+   "regions_research_context": "Practices vary; Mediterranean and South Asian traditions are potential research leads that require source-specific documentation.",
+   "commercial_examples": "KORRES Greek Yoghurt product range; official brand catalog lists yogurt-themed skincare products.",
+   "commercial_source_urls": "https://gr.korres.com/collections/skincare/serums",
+   "verification_status": "Official commercial category verified; specific formulations must be checked by market and product.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 19,
+    "products_related": 0,
+    "raw_materials_exact": 2,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 19
+    },
+    "by_category_group": {
+     "hair": 6,
+     "face": 5,
+     "body": 4,
+     "other": 3,
+     "sun_care": 1
+    },
+    "top_countries_sold": {
+     "united states": 7,
+     "france": 6,
+     "india": 2,
+     "bolivia": 1,
+     "ecuador": 1,
+     "mexico": 1,
+     "peru": 1,
+     "spain": 1
+    },
+    "example_products": [
+     {
+      "brand": "Henkel",
+      "name": "Yoghurt Coconut",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt",
+      "ingredient_position": 6,
+      "ingredient_count": 19,
+      "url": "https://world.openbeautyfacts.org/product/3178040619869"
+     },
+     {
+      "brand": "Johnson & Johnson",
+      "name": "Vita-Rich",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt Powder",
+      "ingredient_position": 8,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/3574661387314"
+     },
+     {
+      "brand": "Shea Moisture",
+      "name": "Manuka Honey & Yogurt",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt Powder",
+      "ingredient_position": 9,
+      "ingredient_count": 12,
+      "url": "https://world.openbeautyfacts.org/product/0764302231530"
+     },
+     {
+      "brand": "Pureen",
+      "name": "Pureen Kids Yogurt Head To Toe Wash",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt Powder",
+      "ingredient_position": 9,
+      "ingredient_count": 19,
+      "url": "https://world.openbeautyfacts.org/product/2000029158520"
+     },
+     {
+      "brand": "Cattier",
+      "name": "Gel moussant familial eau de bleuet lactosérum",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt Extract",
+      "ingredient_position": 9,
+      "ingredient_count": 15,
+      "url": "https://world.openbeautyfacts.org/product/3283950020121"
+     },
+     {
+      "brand": "Le Comptoir du Bain",
+      "name": "Shampooing extra-doux Mandarine",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "YOGURT POWDER",
+      "ingredient_position": 10,
+      "ingredient_count": 24,
+      "url": "https://world.openbeautyfacts.org/product/3511018826027"
+     },
+     {
+      "brand": "Toofruit",
+      "name": "Toofruit Sensibulle Gelée De Douche Haute Tolérance Framboise Fraise",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "YOGURT POWDER",
+      "ingredient_position": 10,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/3760210760121"
+     },
+     {
+      "brand": "Marina",
+      "name": "Marina UV White Hand&Body Lotion SPF 30 PA ++ Anti Pollution",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt",
+      "ingredient_position": 10,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8999908450906"
+     },
+     {
+      "brand": "Bio milk",
+      "name": "Crema Hidratante",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Yogurt Protein",
+      "ingredient_position": 12,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/00012114"
+     },
+     {
+      "brand": "Cattier",
+      "name": "Shampoing extra-doux Protéines de blé",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt Extract",
+      "ingredient_position": 15,
+      "ingredient_count": 26,
+      "url": "https://world.openbeautyfacts.org/product/3283950911924"
+     },
+     {
+      "brand": "Tula",
+      "name": "The Cult Classic Purifying Face Cleanser",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt Powder",
+      "ingredient_position": 16,
+      "ingredient_count": 42,
+      "url": "https://world.openbeautyfacts.org/product/0850003310312"
+     },
+     {
+      "brand": "Tula",
+      "name": "24-7 Moisture Hydrating Day &amp; Night Cream",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Yogurt Extract",
+      "ingredient_position": 16,
+      "ingredient_count": 57,
+      "url": "https://world.openbeautyfacts.org/product/0850014698355"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Yogurt Extract EF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Yogurt Extract",
+      "url": "https://formulatorsampleshop.com/products/fss-yogurt-extract-ef"
+     },
+     {
+      "name": "FSS Yogurt Hydrolysate SF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Yogurt Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-yogurt-hydrolysate-sf"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [
+     "TR-09"
+    ],
+    "commercial_register_ids": [
+     "PR-09"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-023",
+   "name": "Kefir",
+   "group": "Fermented dairy",
+   "source": "Fermented milk kefir culture",
+   "composition": "Milk constituents plus variable organic acids, microbes and fermentation metabolites",
+   "constituents": "Dairy proteins, lactose residues, lipids, organic acids and microorganisms/metabolites",
+   "skin": "Research inspiration for fermented cosmetic formulas",
+   "hair": "No established advantage of applying food kefir to hair",
+   "evidence": "Fermented food is not equivalent to a preserved cosmetic or probiotic claim",
+   "safety": "Microbial contamination and dairy allergy concerns",
+   "regions": "Caucasus and wider fermented-dairy traditions",
+   "confidence": "Composition: variable; topical evidence: limited",
+   "sources": "Fermented dairy and cosmetic preservation references",
+   "record_type": "Fermented dairy",
+   "traditional_use_notes": "Kefir is a fermented food; topical beauty use and probiotic claims require separate evidence. No specific tradition verified in this pass.",
+   "regions_research_context": "Caucasus and broader fermented-dairy food contexts; not proof of topical use.",
+   "commercial_examples": "No specific kefir cosmetic product verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Food fermentation does not equal preserved cosmetic ferment.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {},
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-024",
+   "name": "Buttermilk",
+   "group": "Fermented dairy",
+   "source": "Cultured or churn-derived dairy product (definitions vary)",
+   "composition": "Water, dairy proteins, variable fat and variable lactic acid",
+   "constituents": "Milk proteins, lactose, fat and organic acids",
+   "skin": "Traditional bathing/skin-softening practice",
+   "hair": "Occasional home-use tradition, not established therapy",
+   "evidence": "Acidity is not standardized; not equivalent to measured lactic acid",
+   "safety": "Can irritate and spoil; not for broken skin",
+   "regions": "Multiple dairy traditions",
+   "confidence": "Composition: product-dependent; efficacy: limited",
+   "sources": "Food composition and cosmetic acid formulation references",
+   "record_type": "Fermented dairy",
+   "traditional_use_notes": "Buttermilk appears in some historical bathing/skin-softening narratives, but any region-specific claim needs a reliable primary or ethnographic source.",
+   "regions_research_context": "Broad dairy cultures; no exclusive regional attribution.",
+   "commercial_examples": "No specific buttermilk cosmetic product verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Variable acidity; not equivalent to formulated lactic acid.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 2,
+    "products_related": 0,
+    "raw_materials_exact": 1,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 2
+    },
+    "by_category_group": {
+     "body": 2
+    },
+    "top_countries_sold": {
+     "united states": 1
+    },
+    "example_products": [
+     {
+      "brand": "",
+      "name": "Burts Bees Baby Sunflower Lotion",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "buttermilk powder",
+      "ingredient_position": 16,
+      "ingredient_count": 35,
+      "url": "https://world.openbeautyfacts.org/product/0792850014701"
+     },
+     {
+      "brand": "",
+      "name": "burt's bees baby nourishing lotion original",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "buttermilk powder",
+      "ingredient_position": 21,
+      "ingredient_count": 35,
+      "url": "https://world.openbeautyfacts.org/product/0792850010109"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Buttermilk Powder",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Buttermilk Powder",
+      "url": "https://formulatorsampleshop.com/products/fss-buttermilk-powder"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-025",
+   "name": "Fermented rice liquid",
+   "group": "Fermented plant preparation",
+   "source": "Rice + water + fermentation process",
+   "composition": "Not standardized; soluble starches/sugars, acids and fermentation metabolites vary",
+   "constituents": "Water-soluble rice components and process-dependent microbial metabolites",
+   "skin": "Research and traditional-use documentation",
+   "hair": "Used in some haircare traditions; formulated rice-derived ingredients also exist",
+   "evidence": "Not equivalent to hydrolyzed rice protein or standardized cosmetic ferment filtrate",
+   "safety": "Home fermentation can produce unwanted microbes or pH changes",
+   "regions": "East and Southeast Asian traditions; practices vary",
+   "confidence": "Traditional use: needs source-specific documentation; efficacy: limited",
+   "sources": "Process-specific studies and traditional-use sources needed",
+   "record_type": "Fermented plant preparation",
+   "traditional_use_notes": "Rice-water hair practices are documented in contemporary popular beauty discourse and regional traditions; exact preparation and attribution must be source-specific.",
+   "regions_research_context": "East and Southeast Asian communities are research leads; do not generalize across all communities.",
+   "commercial_examples": "Garnier Ultimate Blends Rice Water Smooth Shampoo lists Saccharomyces/Rice Ferment Filtrate; Kitsch Canada sells Rice Water Shampoo with rice-protein positioning.",
+   "commercial_source_urls": "https://www.garnier.co.uk/our-brands/hair-care/ultimate-blends/rice-water/shampoo | https://www.mykitsch.ca/products/rice-water-shampoo-for-hair-growth",
+   "verification_status": "Official commercial examples verified; formulas use ferment/protein derivatives rather than homemade rice water.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 10,
+    "products_related": 0,
+    "raw_materials_exact": 2,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 9,
+     "cosrx": 1
+    },
+    "by_category_group": {
+     "face": 6,
+     "other": 3,
+     "sun_care": 1
+    },
+    "top_countries_sold": {
+     "united states": 3,
+     "france": 2,
+     "india": 2,
+     "KR": 1,
+     "hong kong": 1,
+     "united kingdom": 1
+    },
+    "example_products": [
+     {
+      "brand": "COSRX",
+      "name": "Low pH Goodnight Soft Peeling Gel",
+      "source_id": "cosrx",
+      "matched_ingredient": "Lactobacillus/Rice Ferment",
+      "ingredient_position": 24,
+      "ingredient_count": 25,
+      "url": "https://www.cosrx.com/products/low-ph-goodnight-soft-peeling-gel"
+     },
+     {
+      "brand": "Plum",
+      "name": "Rice Water & Niacinamide 3% Toner",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Rice Ferment Filtrate (Sake)",
+      "ingredient_position": 5,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/8906118414215"
+     },
+     {
+      "brand": "RETINOL",
+      "name": "RETINOL SKIN CREAM",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "SACCHAROMYCES/RICE FERMENT FILTRATE",
+      "ingredient_position": 6,
+      "ingredient_count": 59,
+      "url": "https://world.openbeautyfacts.org/product/4550668265885"
+     },
+     {
+      "brand": "Fancl",
+      "name": "Core effector",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Saccharomyces/Rice Ferment Filtrate",
+      "ingredient_position": 6,
+      "ingredient_count": 33,
+      "url": "https://world.openbeautyfacts.org/product/4908049512477"
+     },
+     {
+      "brand": "Garnier",
+      "name": "Salicylique lotion exfoliante",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "SACCHAROMYCES/RICE FERMENT FILTRATE SODIUM HYDROXIDE",
+      "ingredient_position": 7,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/3600542628563"
+     },
+     {
+      "brand": "Glamfox",
+      "name": "Rice Niacinamide Mask",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Saccha - romyces/Rice Ferment Filtrate",
+      "ingredient_position": 7,
+      "ingredient_count": 27,
+      "url": "https://world.openbeautyfacts.org/product/8809109680913"
+     },
+     {
+      "brand": "Plum",
+      "name": "Rice water & Niacinamide Hybrid Sunscreen",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Rice Ferment Filtrate",
+      "ingredient_position": 11,
+      "ingredient_count": 23,
+      "url": "https://world.openbeautyfacts.org/product/8904430201070"
+     },
+     {
+      "brand": "Tatcha",
+      "name": "Cleanser",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "saccharomyces/ camellia sinensis leaf/cladosiphon okamuranus/rice ferment filtrate",
+      "ingredient_position": 15,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/0752830779389"
+     },
+     {
+      "brand": "Skinfood",
+      "name": "Black Sugar Perfect Cleansing Oil",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Rice Ferment Filtrate (Sake)",
+      "ingredient_position": 37,
+      "ingredient_count": 46,
+      "url": "https://world.openbeautyfacts.org/product/8809427864293"
+     },
+     {
+      "brand": "",
+      "name": "(unnamed)",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactobacillus/Rice Ferment",
+      "ingredient_position": 19,
+      "ingredient_count": 36,
+      "url": "https://world.openbeautyfacts.org/product/0850007468163"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Rice BioFerment PF",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Lactobacillus/Oryza Sativa (Rice) BioFerment",
+      "url": "https://formulatorsampleshop.com/products/fss-rice-bioferment-pf"
+     },
+     {
+      "name": "Brown Rice Ferment Filtrate",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Saccharomyces/Rice ferment filtrate",
+      "url": "https://lotioncrafter.com/products/brown-rice-ferment-filtrate"
+     }
+    ],
+    "evidence_ids": [
+     "EV-08"
+    ],
+    "tradition_ids": [
+     "TR-06"
+    ],
+    "commercial_register_ids": [
+     "PR-07",
+     "PR-08"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-026",
+   "name": "Lactic acid",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Produced by fermentation or chemical manufacturing",
+   "composition": "Defined alpha-hydroxy acid; commercial solution strength and pH vary",
+   "constituents": "Lactic acid in a specified solvent/base",
+   "skin": "Exfoliation, humectancy and pH adjustment depending on formula",
+   "hair": "Occasional pH adjustment in hair formulations",
+   "evidence": "Established cosmetic use; outcome depends on concentration, pH and product design",
+   "safety": "Irritation risk; strong or improvised acids can burn skin",
+   "regions": "Global cosmetic manufacturing",
+   "confidence": "Function established; product outcome formulation-dependent",
+   "sources": "Cosmetic chemistry and product-specific clinical evidence",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "Lactic acid is a defined cosmetic acid and may be produced by fermentation or other manufacturing routes; it is not necessarily milk-derived.",
+   "regions_research_context": "Global cosmetic manufacturing; no single traditional milk use assigned.",
+   "commercial_examples": "Common in formulated exfoliating products; a product-specific example should be added only after INCI, concentration/pH claims and market are verified.",
+   "commercial_source_urls": "",
+   "verification_status": "Function depends on concentration, pH and formulation; avoid DIY acid mixing.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 977,
+    "products_related": 0,
+    "raw_materials_exact": 6,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 972,
+     "cosrx": 5
+    },
+    "by_category_group": {
+     "other": 357,
+     "body": 226,
+     "hair": 198,
+     "face": 93,
+     "deodorant": 27,
+     "fragrance": 26,
+     "oral_care": 15,
+     "sun_care": 14,
+     "baby": 12,
+     "makeup": 9
+    },
+    "top_countries_sold": {
+     "france": 407,
+     "germany": 136,
+     "spain": 72,
+     "united states": 66,
+     "united kingdom": 40,
+     "norway": 39,
+     "italy": 37,
+     "switzerland": 31
+    },
+    "example_products": [
+     {
+      "brand": "COSRX",
+      "name": "The AHA BHA PHA LHA 35 Peel",
+      "source_id": "cosrx",
+      "matched_ingredient": "Lactic Acid",
+      "ingredient_position": 3,
+      "ingredient_count": 27,
+      "url": "https://www.cosrx.com/products/the-aha-bha-pha-lha-35-peel"
+     },
+     {
+      "brand": "COSRX",
+      "name": "COSRX PEPTIDE-132 Ultra Perfect Hair Bonding Treatment",
+      "source_id": "cosrx",
+      "matched_ingredient": "Lactic Acid",
+      "ingredient_position": 16,
+      "ingredient_count": 77,
+      "url": "https://www.cosrx.com/products/cosrx-peptide-132-ultra-perfect-hair-bonding-treatment-번들"
+     },
+     {
+      "brand": "COSRX",
+      "name": "5 Peptide B5 Sensitive Repair Salve Lip Balm",
+      "source_id": "cosrx",
+      "matched_ingredient": "LACTIC ACID",
+      "ingredient_position": 24,
+      "ingredient_count": 37,
+      "url": "https://www.cosrx.com/products/5-peptide-b5-sensitive-repair-salve-lip-balm"
+     },
+     {
+      "brand": "COSRX",
+      "name": "5 Peptide Ceramide Barrier Comfort Lip Mask",
+      "source_id": "cosrx",
+      "matched_ingredient": "LACTIC ACID",
+      "ingredient_position": 35,
+      "ingredient_count": 49,
+      "url": "https://www.cosrx.com/products/5-peptide-ceramide-barrier-comfort-lip-mask"
+     },
+     {
+      "brand": "COSRX",
+      "name": "The Hyaluronic Acid 3 Serum",
+      "source_id": "cosrx",
+      "matched_ingredient": "Lactic Acid",
+      "ingredient_position": 41,
+      "ingredient_count": 43,
+      "url": "https://www.cosrx.com/products/the-hyaluronic-acid-3-serum_new-bundle"
+     },
+     {
+      "brand": "The Ordinary",
+      "name": "Lactic Acid 10% + HA",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "LACTIC ACID",
+      "ingredient_position": 2,
+      "ingredient_count": 15,
+      "url": "https://world.openbeautyfacts.org/product/0769915190373"
+     },
+     {
+      "brand": "Auchan Baby",
+      "name": "Lingettes à l'eau",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "LACTIC ACID",
+      "ingredient_position": 2,
+      "ingredient_count": 6,
+      "url": "https://world.openbeautyfacts.org/product/3596710520565"
+     },
+     {
+      "brand": "Auchan Baby",
+      "name": "Lingettes à l'eau",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "LACTIC ACID",
+      "ingredient_position": 2,
+      "ingredient_count": 6,
+      "url": "https://world.openbeautyfacts.org/product/3596710532933"
+     },
+     {
+      "brand": "Carulla",
+      "name": "Jabón líquido para manos antibacterial avena",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactic Acid",
+      "ingredient_position": 2,
+      "ingredient_count": 11,
+      "url": "https://world.openbeautyfacts.org/product/7701001871875"
+     },
+     {
+      "brand": "palmolive",
+      "name": "Palmolive Hygiene-Plus Sensitive Handzeep",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactic Acid",
+      "ingredient_position": 2,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/8718951647619"
+     },
+     {
+      "brand": "mCaffeine",
+      "name": "Green Tea Body Wash",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactic Acid",
+      "ingredient_position": 2,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/8906129572201"
+     },
+     {
+      "brand": "Cetaphil",
+      "name": "Cetaphil",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "LACTIC ACID",
+      "ingredient_position": 3,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/0302994114009"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "Base Shampoo for Dry Hair",
+      "source_id": "aromantic",
+      "country": "GB",
+      "matched_ingredient": "Lactic acid",
+      "url": "https://aromantic.co.uk/products/base-shampoo-dry-hair"
+     },
+     {
+      "name": "Base Shampoo for Oily Hair",
+      "source_id": "aromantic",
+      "country": "GB",
+      "matched_ingredient": "Lactic Acid",
+      "url": "https://aromantic.co.uk/products/base-shampoo-oily-hair"
+     },
+     {
+      "name": "Liquid Base Soap",
+      "source_id": "aromantic",
+      "country": "GB",
+      "matched_ingredient": "Lactic Acid (Vegan)",
+      "url": "https://aromantic.co.uk/products/base-soap-liquid"
+     },
+     {
+      "name": "Lactic Acid 80%",
+      "source_id": "aromantic",
+      "country": "GB",
+      "matched_ingredient": "Lactic Acid",
+      "url": "https://aromantic.co.uk/products/lactic-acid-80-concentration"
+     },
+     {
+      "name": "FSS Apple AHA's",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Lactic Acid",
+      "url": "https://formulatorsampleshop.com/products/fss-apple-aha-s"
+     },
+     {
+      "name": "Lactic Acid 90%",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Lactic Acid",
+      "url": "https://lotioncrafter.com/products/lactic-acid-90"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-027",
+   "name": "Milk protein",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Milk protein fraction",
+   "composition": "Casein and/or whey proteins; exact profile depends on supplier and processing",
+   "constituents": "Protein fractions including caseins, whey proteins and peptides",
+   "skin": "Conditioning and film-forming applications",
+   "hair": "Conditioning and film-forming applications",
+   "evidence": "Evidence is ingredient- and formula-specific",
+   "safety": "Milk-protein allergy consideration",
+   "regions": "Global cosmetic ingredient supply chains",
+   "confidence": "Ingredient identity established; clinical benefit varies",
+   "sources": "Review: Milk Proteins—Biological Activities and Use in Cosmetics and Dermatology",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "Milk proteins are ingredients, not a traditional preparation. Commercial labels may use Milk Protein or other supplier-specific names; verify INCI exactly.",
+   "regions_research_context": "Global cosmetic ingredient supply chains.",
+   "commercial_examples": "OGX Coconut Milk Shampoo lists Hydrolyzed Milk Protein; KORRES donkey-milk products are separate whole-milk ingredient examples.",
+   "commercial_source_urls": "https://www.ogxbeauty.com/products/coconut-milk-shampoo",
+   "verification_status": "Official product INCI example verified; not evidence of a standalone protein benefit.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 29,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 29
+    },
+    "by_category_group": {
+     "body": 21,
+     "face": 4,
+     "deodorant": 2,
+     "other": 2
+    },
+    "top_countries_sold": {
+     "france": 23,
+     "united states": 4,
+     "germany": 1,
+     "australia": 1,
+     "new zealand": 1
+    },
+    "example_products": [
+     {
+      "brand": "BIO",
+      "name": "Monsavon BIO Déodorant Femme Spray Citron Touche de Verveine 75ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "MILK PROTEIN",
+      "ingredient_position": 7,
+      "ingredient_count": 9,
+      "url": "https://world.openbeautyfacts.org/product/59013648"
+     },
+     {
+      "brand": "BIO",
+      "name": "Monsavon BIO Déodorant Femme Spray Citron Touche de Verveine 2x75ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "MILK PROTEIN",
+      "ingredient_position": 7,
+      "ingredient_count": 9,
+      "url": "https://world.openbeautyfacts.org/product/8720181042591"
+     },
+     {
+      "brand": "BIO",
+      "name": "Msv pdt bio abricot 100g",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "MILK PROTEIN",
+      "ingredient_position": 9,
+      "ingredient_count": 10,
+      "url": "https://world.openbeautyfacts.org/product/8717163748374"
+     },
+     {
+      "brand": "Bubbly",
+      "name": "Bubble mask",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk protein",
+      "ingredient_position": 9,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/8719497834952"
+     },
+     {
+      "brand": "Auchan",
+      "name": "Gel douche extra-doux lait coco hydratant",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "MILK AMINO ACIDS",
+      "ingredient_position": 10,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/3596710306930"
+     },
+     {
+      "brand": "Manava",
+      "name": "Lait de douche hydratant Lait et Miel",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "MILK AMINO ACIDS",
+      "ingredient_position": 11,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/3564700746530"
+     },
+     {
+      "brand": "Monsavon",
+      "name": "Monsavon Gel Douche Femme Concentré Amande Très Douce Lot 2x100ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk protein",
+      "ingredient_position": 11,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/8710522707579"
+     },
+     {
+      "brand": "Monsavon",
+      "name": "Monsavon Gel Douche Femme Concentré Perle Patchouli lot 2x100ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk protein",
+      "ingredient_position": 11,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/8710522707593"
+     },
+     {
+      "brand": "Monsavon",
+      "name": "Monsavon Gel Douche Femme Concentré Vanille Lot 2x100ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk protein",
+      "ingredient_position": 11,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/8710522707616"
+     },
+     {
+      "brand": "Monsavon",
+      "name": "Monsavon Gel Douche Femme Concentré Fleur de Patchouli 100ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk protein",
+      "ingredient_position": 11,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/8710847998577"
+     },
+     {
+      "brand": "Monsavon",
+      "name": "Monsavon Gel Douche Femme Concentré Vanille 100ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk protein",
+      "ingredient_position": 11,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/8710847998584"
+     },
+     {
+      "brand": "Monsavon",
+      "name": "Monsavon Gel Douche Femme Concentré Amande 100ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "milk protein",
+      "ingredient_position": 11,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/8710847998591"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [
+     "EV-01",
+     "EV-02",
+     "EV-07"
+    ],
+    "tradition_ids": [
+     "TR-02"
+    ],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-028",
+   "name": "Hydrolyzed milk protein",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Enzymatic or other hydrolysis of milk proteins",
+   "composition": "Mixture of smaller protein fragments/peptides; molecular distribution varies",
+   "constituents": "Peptides and amino-acid-containing fragments",
+   "skin": "Conditioning and film formation",
+   "hair": "Hair conditioning and film formation; results depend on formulation",
+   "evidence": "Do not infer repair of living hair or hair growth from film-forming claims",
+   "safety": "Check dairy allergy and supplier specifications",
+   "regions": "Global cosmetic ingredient supply chains",
+   "confidence": "Cosmetic function plausible; exact performance needs evidence",
+   "sources": "Cosmetic ingredient reviews and supplier specifications",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "Industrial ingredient derived from milk proteins; no traditional-use attribution appropriate without evidence.",
+   "regions_research_context": "Global cosmetic ingredient supply chains.",
+   "commercial_examples": "OGX Coconut Milk Shampoo lists Hydrolyzed Milk Protein in the ingredient declaration.",
+   "commercial_source_urls": "https://www.ogxbeauty.com/products/coconut-milk-shampoo",
+   "verification_status": "Official INCI example verified.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 61,
+    "products_related": 0,
+    "raw_materials_exact": 2,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 61
+    },
+    "by_category_group": {
+     "deodorant": 24,
+     "other": 18,
+     "body": 10,
+     "hair": 6,
+     "face": 3
+    },
+    "top_countries_sold": {
+     "france": 34,
+     "spain": 8,
+     "brazil": 4,
+     "united kingdom": 2,
+     "united states": 2,
+     "netherlands": 2,
+     "lithuania": 2,
+     "canada": 1
+    },
+    "example_products": [
+     {
+      "brand": "Cosmia",
+      "name": "Lait de Douche Aux Protéines de Lait",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 5,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/3596710517138"
+     },
+     {
+      "brand": "Axe",
+      "name": "Anarchy Axe for her",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 5,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/8711700746861"
+     },
+     {
+      "brand": "Hoito",
+      "name": "Saç maskesi",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 6,
+      "ingredient_count": 33,
+      "url": "https://world.openbeautyfacts.org/product/8684093080433"
+     },
+     {
+      "brand": "Ogx",
+      "name": "Coconut milk shampoo",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Acrylates O Hydrolyzed Milk Protein",
+      "ingredient_position": 7,
+      "ingredient_count": 12,
+      "url": "https://world.openbeautyfacts.org/product/0022796910059"
+     },
+     {
+      "brand": "OGX",
+      "name": "Coconut milk",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 7,
+      "ingredient_count": 32,
+      "url": "https://world.openbeautyfacts.org/product/0022796970053"
+     },
+     {
+      "brand": "Irish Spring",
+      "name": "Irish Spring Aloe Mist",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 7,
+      "ingredient_count": 15,
+      "url": "https://world.openbeautyfacts.org/product/0035000141170"
+     },
+     {
+      "brand": "Lactovit",
+      "name": "Original",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 7,
+      "ingredient_count": 24,
+      "url": "https://world.openbeautyfacts.org/product/8410190244948"
+     },
+     {
+      "brand": "L'Oréal",
+      "name": "Kiehl's Facial Fuel Eye De-Puffer",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 8,
+      "ingredient_count": 23,
+      "url": "https://world.openbeautyfacts.org/product/0666674808627"
+     },
+     {
+      "brand": "OGX",
+      "name": "Coconut milk conditioner",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 9,
+      "ingredient_count": 24,
+      "url": "https://world.openbeautyfacts.org/product/0022796970060"
+     },
+     {
+      "brand": "Cosmia",
+      "name": "Crème lavante mains",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 9,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/3596710521531"
+     },
+     {
+      "brand": "Cosmia",
+      "name": "Recharge crème lavante mains",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 9,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/3596710521654"
+     },
+     {
+      "brand": "Monsavon",
+      "name": "Monsavon Déodorant Femme Spray Compressé Bergamote Très Pétillante 100ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 12,
+      "ingredient_count": 23,
+      "url": "https://world.openbeautyfacts.org/product/59081531"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Goat Milk Hydrolysate",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "url": "https://formulatorsampleshop.com/products/fss-goat-milk-hydrolysate"
+     },
+     {
+      "name": "Hydrolyzed Milk Protein",
+      "source_id": "lotioncrafter",
+      "country": "US",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "url": "https://lotioncrafter.com/products/hydrolyzed-milk-protein"
+     }
+    ],
+    "evidence_ids": [
+     "EV-01",
+     "EV-07"
+    ],
+    "tradition_ids": [],
+    "commercial_register_ids": [
+     "PR-05"
+    ],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-029",
+   "name": "Whey protein",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Whey fraction of milk",
+   "composition": "Mixture including beta-lactoglobulin and alpha-lactalbumin; processing changes profile",
+   "constituents": "Globular proteins and peptides",
+   "skin": "Specialty conditioning/formulation research",
+   "hair": "Potential conditioning ingredient",
+   "evidence": "Direct clinical cosmetic evidence varies",
+   "safety": "Dairy allergy concern",
+   "regions": "Global dairy ingredient supply chains",
+   "confidence": "Composition established; cosmetic outcomes formulation-dependent",
+   "sources": "Milk protein review",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "A milk fraction used in ingredient research; food-supplement claims should not be transferred to topical products.",
+   "regions_research_context": "Global dairy processing supply chains.",
+   "commercial_examples": "No specific finished cosmetic verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Product and supplier specifications needed.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 17,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 17
+    },
+    "by_category_group": {
+     "other": 9,
+     "body": 5,
+     "face": 2,
+     "deodorant": 1
+    },
+    "top_countries_sold": {
+     "norway": 4,
+     "united kingdom": 3,
+     "united states": 2,
+     "germany": 2,
+     "france": 2,
+     "india": 1,
+     "spain": 1,
+     "sweden": 1
+    },
+    "example_products": [
+     {
+      "brand": "Atom",
+      "name": "Atom whey protein",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "WHEY PROTEIN CONCENTRATE",
+      "ingredient_position": 1,
+      "ingredient_count": 5,
+      "url": "https://world.openbeautyfacts.org/product/8904221697259"
+     },
+     {
+      "brand": "Colgate-Palmolive",
+      "name": "Sanex Dermo Protect Sensitive",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Whey Protein",
+      "ingredient_position": 11,
+      "ingredient_count": 11,
+      "url": "https://world.openbeautyfacts.org/product/8718951563391"
+     },
+     {
+      "brand": "PALMOLIVE",
+      "name": "GEL DOUCHE CREME",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "WHEY PROTEIN",
+      "ingredient_position": 14,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/8714789999029"
+     },
+     {
+      "brand": "Palmolive",
+      "name": "Reinigende Tonerde",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "WHEY PROTEIN",
+      "ingredient_position": 16,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8718951242722"
+     },
+     {
+      "brand": "COLGATE PALMOLIVE NORGE AS",
+      "name": "Handseife mit Milch und Honig",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactis Serum Proteinum",
+      "ingredient_position": 17,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/8003520029157"
+     },
+     {
+      "brand": "palmolive",
+      "name": "Mild & Sensitive with Pure mIlk Proteins",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactis Serum Proteinum",
+      "ingredient_position": 17,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8714789732916"
+     },
+     {
+      "brand": "Palmolive",
+      "name": "Body Wash Shower Gel Naturals Milk & Honey 1L",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Whey Protein",
+      "ingredient_position": 19,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8850006533000"
+     },
+     {
+      "brand": "Palmolive",
+      "name": "Milk & Almond",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Whey Protein",
+      "ingredient_position": 20,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8003520013064"
+     },
+     {
+      "brand": "COLGATE PALMOLIVE NORGE AS",
+      "name": "Palmolive Dusjsåpe Milk & Honey Pumpe 750ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Whey Protein",
+      "ingredient_position": 20,
+      "ingredient_count": 26,
+      "url": "https://world.openbeautyfacts.org/product/8714789526508"
+     },
+     {
+      "brand": "COLGATE PALMOLIVE NORGE AS",
+      "name": "Palmolive Dusjsåpe Oliven 500ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Whey Protein",
+      "ingredient_position": 20,
+      "ingredient_count": 28,
+      "url": "https://world.openbeautyfacts.org/product/8714789733166"
+     },
+     {
+      "brand": "Palmolive",
+      "name": "Håndsåpe Milk & Honey Pumpe",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Whey Protein",
+      "ingredient_position": 20,
+      "ingredient_count": 26,
+      "url": "https://world.openbeautyfacts.org/product/8718951197060"
+     },
+     {
+      "brand": "Colgate-palmolive norge",
+      "name": "Palmolive Dusjsåpe Naturals Mix 250ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "whey protein",
+      "ingredient_position": 20,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8718951456808"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [
+     "EV-01"
+    ],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-030",
+   "name": "Casein",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Milk protein fraction",
+   "composition": "Family of phosphoproteins; subtype and mineral binding vary",
+   "constituents": "Alpha-, beta- and kappa-casein fractions",
+   "skin": "Film-forming and formulation research",
+   "hair": "Potential film-forming research ingredient",
+   "evidence": "Avoid broad benefit claims without product-specific evidence",
+   "safety": "Dairy allergy concern",
+   "regions": "Global ingredient supply chains",
+   "confidence": "Chemistry established; topical outcome limited/formulation-dependent",
+   "sources": "Milk composition and protein reviews",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "A defined dairy protein fraction; no traditional topical practice assigned.",
+   "regions_research_context": "Global dairy ingredient supply chains.",
+   "commercial_examples": "No specific finished cosmetic verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Check exact INCI and allergen specification.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 10,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 10
+    },
+    "by_category_group": {
+     "oral_care": 6,
+     "other": 4
+    },
+    "top_countries_sold": {
+     "france": 3,
+     "netherlands": 2,
+     "brazil": 1,
+     "germany": 1,
+     "switzerland": 1,
+     "lithuania": 1,
+     "norway": 1,
+     "austria": 1
+    },
+    "example_products": [
+     {
+      "brand": "Savoderm med",
+      "name": "Men Sensitive Pflege-Dusche",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sodium Caseinate",
+      "ingredient_position": 15,
+      "ingredient_count": 23,
+      "url": "https://world.openbeautyfacts.org/product/9005356021328"
+     },
+     {
+      "brand": "tetesept",
+      "name": "Wärme Pflege-Balsam",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sodium Caseinate",
+      "ingredient_position": 18,
+      "ingredient_count": 36,
+      "url": "https://world.openbeautyfacts.org/product/4008491133845"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Bain de Bouche Biogum",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sodium caseinate",
+      "ingredient_position": 18,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8710908700811"
+     },
+     {
+      "brand": "milk_shake",
+      "name": "milk_shake Incredible Milk Leave-In Treatment",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydroxypropyltrimonium Hydrolyzed Casein",
+      "ingredient_position": 21,
+      "ingredient_count": 26,
+      "url": "https://world.openbeautyfacts.org/product/0885743930438"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Junior 5+ years",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sodium Caseinate",
+      "ingredient_position": 21,
+      "ingredient_count": 24,
+      "url": "https://world.openbeautyfacts.org/product/2000000003439"
+     },
+     {
+      "brand": "Unilever",
+      "name": "ZENDIUM TOOTHPASTE Expert Gums",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sodium caseinate",
+      "ingredient_position": 21,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8710522366271"
+     },
+     {
+      "brand": "UNILEVER NORGE AS",
+      "name": "Zendium Tannkrem Junior 50ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sodium Caseinate",
+      "ingredient_position": 21,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8710604777155"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Junior 5+ years",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sodium Caseinate",
+      "ingredient_position": 21,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8712561924221"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Dentifrice Enfants +7ans",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Sodium caseinate",
+      "ingredient_position": 21,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8712561959117"
+     },
+     {
+      "brand": "",
+      "name": "(unnamed)",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydroxypropytrimonium Hydrolyzed Casein",
+      "ingredient_position": 28,
+      "ingredient_count": 40,
+      "url": "https://world.openbeautyfacts.org/product/8008277427447"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [
+     "EV-01"
+    ],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-031",
+   "name": "Lactoferrin",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Milk/whey protein fraction or manufactured ingredient",
+   "composition": "Iron-binding glycoprotein; purity and stability depend on source and process",
+   "constituents": "Protein with iron-binding sites",
+   "skin": "Investigated for antimicrobial and skin-related applications",
+   "hair": "No established general hair-growth claim",
+   "evidence": "Laboratory biological activity does not establish clinical efficacy in a finished product",
+   "safety": "Check exact ingredient, stability and allergen controls",
+   "regions": "Global cosmetic research and supply chains",
+   "confidence": "Mechanistic research exists; clinical claims need verification",
+   "sources": "Milk protein cosmetic/dermatology review",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "A bioactive milk protein investigated in laboratory and specialty ingredient research; clinical claims require product-specific evidence.",
+   "regions_research_context": "Global research and ingredient supply chains.",
+   "commercial_examples": "No specific finished cosmetic verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Laboratory mechanism is not proof of consumer benefit.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 18,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 18
+    },
+    "by_category_group": {
+     "oral_care": 18
+    },
+    "top_countries_sold": {
+     "france": 9,
+     "norway": 6,
+     "netherlands": 2,
+     "germany": 1,
+     "sweden": 1
+    },
+    "example_products": [
+     {
+      "brand": "Dr. White",
+      "name": "Biorepair",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 14,
+      "ingredient_count": 29,
+      "url": "https://world.openbeautyfacts.org/product/4008666860002"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Bain de Bouche Biogum",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 17,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8710908700811"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Dentifrice Protection Complete 75ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 20,
+      "ingredient_count": 22,
+      "url": "https://world.openbeautyfacts.org/product/8710447199558"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium toothpaste biogum",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 20,
+      "ingredient_count": 22,
+      "url": "https://world.openbeautyfacts.org/product/8710522366264"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium soin genciv75ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 20,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8710522605530"
+     },
+     {
+      "brand": "Zendium",
+      "name": "Classic",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 20,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8710908843044"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Dentifrice Protection Complète",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 20,
+      "ingredient_count": 22,
+      "url": "https://world.openbeautyfacts.org/product/8712561961196"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Dentifrice Extra Fraîcheur 75ml Lot de 2",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 22,
+      "ingredient_count": 24,
+      "url": "https://world.openbeautyfacts.org/product/8710447312841"
+     },
+     {
+      "brand": "Zendium",
+      "name": "Zendium Fresh + White",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 22,
+      "ingredient_count": 23,
+      "url": "https://world.openbeautyfacts.org/product/8710908842962"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Extra Fresh",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 22,
+      "ingredient_count": 24,
+      "url": "https://world.openbeautyfacts.org/product/87342949"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Junior 5+ years",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 23,
+      "ingredient_count": 24,
+      "url": "https://world.openbeautyfacts.org/product/2000000003439"
+     },
+     {
+      "brand": "Unilever",
+      "name": "ZENDIUM TOOTHPASTE Expert Gums",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 23,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/8710522366271"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-032",
+   "name": "Colostrum",
+   "group": "Animal milk / early lactation",
+   "source": "Early-lactation milk",
+   "composition": "Protein-rich early secretion; composition varies by species and time after birth",
+   "constituents": "Immunoglobulins, lactoferrin, other proteins, lipids and growth-related components",
+   "skin": "Specialty cosmetic research and products",
+   "hair": "No established general hair-growth benefit",
+   "evidence": "Not interchangeable with mature milk; clinical topical evidence limited",
+   "safety": "Allergy, sourcing, processing and stability require review",
+   "regions": "Global specialty product markets",
+   "confidence": "Composition varies; topical evidence limited",
+   "sources": "Milk protein and colostrum review",
+   "record_type": "Animal milk / early lactation",
+   "traditional_use_notes": "Early-lactation milk is discussed in specialty product marketing and research; no single traditional cosmetic practice is asserted here.",
+   "regions_research_context": "Global specialty product markets.",
+   "commercial_examples": "No specific product with a currently verified INCI and accessible official listing added in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Source, processing, allergen and stability controls need review.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 20,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 20
+    },
+    "by_category_group": {
+     "oral_care": 18,
+     "face": 1,
+     "body": 1
+    },
+    "top_countries_sold": {
+     "france": 10,
+     "norway": 6,
+     "netherlands": 3,
+     "united states": 1,
+     "sweden": 1
+    },
+    "example_products": [
+     {
+      "brand": "PhytoQuant",
+      "name": "Quantaderm crème fluide à base de colostrum, d'aloe vera et de plantes",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "colostrum",
+      "ingredient_position": 3,
+      "ingredient_count": 14,
+      "url": "https://world.openbeautyfacts.org/product/3608770000878"
+     },
+     {
+      "brand": "Sky & Sol",
+      "name": "Day & Night Moisturizer",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 6,
+      "ingredient_count": 6,
+      "url": "https://world.openbeautyfacts.org/product/0198168306239"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Bain de Bouche Biogum",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 16,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8710908700811"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Classic Tandpasta",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 17,
+      "ingredient_count": 19,
+      "url": "https://world.openbeautyfacts.org/product/8710604793568"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium soin genciv75ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 18,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8710522605530"
+     },
+     {
+      "brand": "Zendium",
+      "name": "Classic",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 18,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8710908843044"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Dentifrice Protection Complete 75ml",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 19,
+      "ingredient_count": 22,
+      "url": "https://world.openbeautyfacts.org/product/8710447199558"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium toothpaste biogum",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 19,
+      "ingredient_count": 22,
+      "url": "https://world.openbeautyfacts.org/product/8710522366264"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Dentifrice Protection Complète",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 19,
+      "ingredient_count": 22,
+      "url": "https://world.openbeautyfacts.org/product/8712561961196"
+     },
+     {
+      "brand": "Zendium",
+      "name": "Zendium Fresh + White",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 20,
+      "ingredient_count": 23,
+      "url": "https://world.openbeautyfacts.org/product/8710908842962"
+     },
+     {
+      "brand": "Unilever",
+      "name": "Zendium Dentifrice Extra Fraîcheur 75ml Lot de 2",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 21,
+      "ingredient_count": 24,
+      "url": "https://world.openbeautyfacts.org/product/8710447312841"
+     },
+     {
+      "brand": "Zendium",
+      "name": "Sensitive",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 21,
+      "ingredient_count": 28,
+      "url": "https://world.openbeautyfacts.org/product/8710908842528"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [
+     "EV-02"
+    ],
+    "tradition_ids": [
+     "TR-10"
+    ],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-033",
+   "name": "Milk fat / butterfat",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Separated dairy lipid fraction",
+   "composition": "Predominantly triglycerides; fatty-acid profile depends on species and processing",
+   "constituents": "Triglycerides and minor lipid-soluble components",
+   "skin": "Emollient in suitable formulations",
+   "hair": "May contribute to emollience in hair products",
+   "evidence": "Skin feel and water-loss effects depend on finished formulation",
+   "safety": "Potential dairy-associated impurities/allergens depend on processing; review product spec",
+   "regions": "Global ingredient supply chains",
+   "confidence": "Lipid function established; product performance formulation-dependent",
+   "sources": "Dairy lipid chemistry and cosmetic formulation references",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "Separated dairy lipid fraction; distinguish it from plant butters and whole milk.",
+   "regions_research_context": "Global cosmetic formulation supply chains.",
+   "commercial_examples": "No specific finished product verified in this pass; search exact INCI and confirm whether ingredient is milk-derived.",
+   "commercial_source_urls": "",
+   "verification_status": "Emollience is formula-dependent.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 6,
+    "products_related": 0,
+    "raw_materials_exact": 1,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 6
+    },
+    "by_category_group": {
+     "other": 3,
+     "body": 2,
+     "hair": 1
+    },
+    "top_countries_sold": {
+     "france": 4,
+     "united states": 1,
+     "bermuda": 1,
+     "world": 1
+    },
+    "example_products": [
+     {
+      "brand": "Cetaphil",
+      "name": "Baby Eczema Soothing Lotion",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "(Shea) Butter",
+      "ingredient_position": 4,
+      "ingredient_count": 32,
+      "url": "https://world.openbeautyfacts.org/product/0302994140053"
+     },
+     {
+      "brand": "Klorane",
+      "name": "Après shampooing fortifiant et stimulant",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "BUTTER (BUTYROSPERMUM PARKII BUTTER)",
+      "ingredient_position": 8,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/3282770073676"
+     },
+     {
+      "brand": "Bayer",
+      "name": "Bepanthen Sensicalm",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "butter",
+      "ingredient_position": 9,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/3401097676029"
+     },
+     {
+      "brand": "Oléanat",
+      "name": "Gel douche au lait d'anesse Immortelle",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "lactis lipida",
+      "ingredient_position": 12,
+      "ingredient_count": 23,
+      "url": "https://world.openbeautyfacts.org/product/3760087903874"
+     },
+     {
+      "brand": "Cosmia",
+      "name": "Soin des lèvres",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Milk Lipids",
+      "ingredient_position": 23,
+      "ingredient_count": 34,
+      "url": "https://world.openbeautyfacts.org/product/3245678091586"
+     },
+     {
+      "brand": "",
+      "name": "LaSource hand therapy",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "(shea) butter",
+      "ingredient_position": 5,
+      "ingredient_count": 37,
+      "url": "https://world.openbeautyfacts.org/product/0044936371919"
+     }
+    ],
+    "example_raw_materials": [
+     {
+      "name": "FSS Milk Lipids",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Milk Lipids",
+      "url": "https://formulatorsampleshop.com/products/fss-milk-lipids"
+     }
+    ],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-034",
+   "name": "Lactose",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Milk sugar fraction or manufactured ingredient",
+   "composition": "Disaccharide of glucose and galactose",
+   "constituents": "Lactose",
+   "skin": "Specialty formulation ingredient; role depends on product",
+   "hair": "No established standalone hair-growth role",
+   "evidence": "Presence alone does not establish moisturizing or brightening benefit",
+   "safety": "Check exact grade and formulation",
+   "regions": "Global ingredient supply chains",
+   "confidence": "Chemistry established; cosmetic benefit claim-specific",
+   "sources": "Ingredient specification and finished-product evidence",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "Milk sugar fraction or manufactured ingredient; no broad topical benefit should be assumed from its presence.",
+   "regions_research_context": "Global ingredient supply chains.",
+   "commercial_examples": "No specific finished cosmetic verified in this pass.",
+   "commercial_source_urls": "",
+   "verification_status": "Benefit claims need exact formulation evidence.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 51,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {
+     "open_beauty_facts": 51
+    },
+    "by_category_group": {
+     "other": 22,
+     "body": 11,
+     "face": 11,
+     "oral_care": 4,
+     "makeup": 2,
+     "deodorant": 1
+    },
+    "top_countries_sold": {
+     "france": 11,
+     "spain": 8,
+     "united states": 7,
+     "germany": 5,
+     "norway": 5,
+     "united kingdom": 3,
+     "australia": 3,
+     "netherlands": 3
+    },
+    "example_products": [
+     {
+      "brand": "Null",
+      "name": "pure collagène marin",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "lactose",
+      "ingredient_position": 3,
+      "ingredient_count": 10,
+      "url": "https://world.openbeautyfacts.org/product/00000511"
+     },
+     {
+      "brand": "Exialoe",
+      "name": "Aloe vera puro 100% retinol",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 5,
+      "ingredient_count": 31,
+      "url": "https://world.openbeautyfacts.org/product/8436014314567"
+     },
+     {
+      "brand": "Lehning Laboratoires",
+      "name": "Dentifrice Naturel Homeopathie Lehning",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 7,
+      "ingredient_count": 18,
+      "url": "https://world.openbeautyfacts.org/product/3401565560690"
+     },
+     {
+      "brand": "Weleda",
+      "name": "Bain de Bouche à la Myrrhe",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 8,
+      "ingredient_count": 11,
+      "url": "https://world.openbeautyfacts.org/product/3596204471700"
+     },
+     {
+      "brand": "Merci Handy",
+      "name": "Gel Main Nettoyant",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 9,
+      "ingredient_count": 25,
+      "url": "https://world.openbeautyfacts.org/product/3770004599172"
+     },
+     {
+      "brand": "Weleda",
+      "name": "Ratanhia Mondwater",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 9,
+      "ingredient_count": 12,
+      "url": "https://world.openbeautyfacts.org/product/4001638098069"
+     },
+     {
+      "brand": "Liz",
+      "name": "Sanitizador de Manos Neutro",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 9,
+      "ingredient_count": 11,
+      "url": "https://world.openbeautyfacts.org/product/7775000000949"
+     },
+     {
+      "brand": "Colgate-Palmolive",
+      "name": "Sanex Dermo Protect Sensitive",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 10,
+      "ingredient_count": 11,
+      "url": "https://world.openbeautyfacts.org/product/8718951563391"
+     },
+     {
+      "brand": "Merci Handy",
+      "name": "Flower power",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 11,
+      "ingredient_count": 31,
+      "url": "https://world.openbeautyfacts.org/product/3770004599530"
+     },
+     {
+      "brand": "Maesa",
+      "name": "Poudre compacte P03 beige doré",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "lactose",
+      "ingredient_position": 12,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/3700426220651"
+     },
+     {
+      "brand": "Tula",
+      "name": "24-7 Moisture Hydrating Day &amp; Night Cream",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 13,
+      "ingredient_count": 57,
+      "url": "https://world.openbeautyfacts.org/product/0850014698355"
+     },
+     {
+      "brand": "Nivea",
+      "name": "Gel de Limpeza Facial Nivea Controle do Brilho",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 13,
+      "ingredient_count": 26,
+      "url": "https://world.openbeautyfacts.org/product/4005808189625"
+     }
+    ],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  },
+  {
+   "atlas_id": "MILK-035",
+   "name": "Milk-derived peptides",
+   "group": "Purified/derived cosmetic ingredient",
+   "source": "Enzymatic or other processing of milk proteins",
+   "composition": "Short peptides; sequence, purity and concentration vary",
+   "constituents": "Defined or mixed peptide chains",
+   "skin": "Specialty research and targeted formulations",
+   "hair": "No general growth claim without clinical evidence",
+   "evidence": "Must evaluate the exact peptide, delivery, dose and clinical study",
+   "safety": "Allergen and stability assessment needed",
+   "regions": "Global cosmetic research/supply chains",
+   "confidence": "Peptide-specific; do not generalize across products",
+   "sources": "Milk peptide research reviews",
+   "record_type": "Purified/derived cosmetic ingredient",
+   "traditional_use_notes": "Defined or mixed peptides produced from milk proteins; sequence and manufacturing process determine identity.",
+   "regions_research_context": "Global cosmetic research and ingredient supply chains.",
+   "commercial_examples": "No specific peptide product verified in this pass; require peptide identity, INCI/supplier specification and clinical evidence.",
+   "commercial_source_urls": "",
+   "verification_status": "Do not generalize results between different peptides.",
+   "research_review_date": "2026-10-20",
+   "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
+   "hub_matches": {
+    "products_exact": 0,
+    "products_related": 0,
+    "raw_materials_exact": 0,
+    "raw_materials_related": 0,
+    "new_matches_today": 0,
+    "by_source": {},
+    "by_category_group": {},
+    "top_countries_sold": {},
+    "example_products": [],
+    "example_raw_materials": [],
+    "evidence_ids": [],
+    "tradition_ids": [],
+    "commercial_register_ids": [],
+    "record_status": "candidate",
+    "note": "Hub matches are ingredient-list leads (record_status=candidate), not verified product claims."
+   },
+   "record_status": "candidate"
+  }
+ ]
+}

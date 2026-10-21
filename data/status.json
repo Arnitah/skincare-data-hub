@@ -1,13 +1,19 @@
 {
- "generated_at": "2026-10-20T23:05:22+00:00",
- "run_id": "20261020T230522Z",
- "date": "2026-10-20",
+ "generated_at": "2026-10-21T05:22:11+00:00",
+ "run_id": "20261021T052211Z",
+ "date": "2026-10-21",
  "totals": {
   "raw_materials": 1887,
-  "products": 15382,
+  "products": 15279,
   "regulatory": 3032,
-  "ingredients": 7671,
-  "products_with_regulated_ingredients": 13497
+  "ingredients": 7586,
+  "products_with_regulated_ingredients": 13462,
+  "atlas_entries_with_product_matches": 20,
+  "atlas_product_matches_exact": 1375,
+  "excluded_non_cosmetic": 103,
+  "review_status": {
+   "candidate": 20199
+  }
  },
  "sources": [
   {
@@ -21,14 +27,14 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 178.8,
+   "duration_seconds": 178.7,
    "message": ""
   },
   {
@@ -42,12 +48,12 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 350,
    "records_added": 0,
-   "records_changed": 47,
+   "records_changed": 1,
    "records_removed": 0,
    "duration_seconds": 4.1,
    "message": ""
@@ -63,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 679,
    "records_added": 0,
-   "records_changed": 333,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1051.8,
+   "duration_seconds": 1050.5,
    "message": ""
   },
   {
@@ -84,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 272,
    "records_added": 0,
-   "records_changed": 7,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 9.2,
+   "duration_seconds": 9.1,
    "message": ""
   },
   {
@@ -105,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
    "records_changed": 1,
    "records_removed": 0,
-   "duration_seconds": 5.4,
+   "duration_seconds": 5.1,
    "message": ""
   },
   {
@@ -126,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
-   "records_active": 15230,
+   "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 9.5,
+   "duration_seconds": 11.7,
    "message": ""
   },
   {
@@ -147,8 +153,8 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 61,
    "records_added": 0,
@@ -168,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 91,
-   "records_added": 0,
+   "records_added": 1,
    "records_changed": 0,
-   "records_removed": 0,
-   "duration_seconds": 212.2,
+   "records_removed": 1,
+   "duration_seconds": 210.8,
    "message": ""
   },
   {
@@ -189,8 +195,8 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
@@ -210,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.1,
+   "duration_seconds": 5.1,
    "message": ""
   },
   {
@@ -231,14 +237,14 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-20T23:05:22+00:00",
-   "last_success_at": "2026-10-20T23:05:22+00:00",
+   "last_run_at": "2026-10-21T05:22:11+00:00",
+   "last_success_at": "2026-10-21T05:22:11+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1.2,
+   "duration_seconds": 0.6,
    "message": ""
   },
   {
@@ -461,6 +467,10 @@
    {
     "run_id": "20261020T230522Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
+    "status": "passed"
    }
   ],
   "lotioncrafter": [
@@ -470,6 +480,10 @@
    },
    {
     "run_id": "20261020T230522Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
     "status": "passed"
    }
   ],
@@ -481,6 +495,10 @@
    {
     "run_id": "20261020T230522Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -490,6 +508,10 @@
    },
    {
     "run_id": "20261020T230522Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
     "status": "passed"
    }
   ],
@@ -501,6 +523,10 @@
    {
     "run_id": "20261020T230522Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -510,6 +536,10 @@
    },
    {
     "run_id": "20261020T230522Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
     "status": "passed"
    }
   ],
@@ -521,6 +551,10 @@
    {
     "run_id": "20261020T230522Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -530,6 +564,10 @@
    },
    {
     "run_id": "20261020T230522Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
     "status": "passed"
    }
   ],
@@ -541,6 +579,10 @@
    {
     "run_id": "20261020T230522Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -550,6 +592,10 @@
    },
    {
     "run_id": "20261020T230522Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
     "status": "passed"
    }
   ],
@@ -561,10 +607,58 @@
    {
     "run_id": "20261020T230522Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T052211Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-10-21",
+   "run_id": "20261021T052211Z",
+   "source_id": "cosrx",
+   "table": "products",
+   "record_id": "cosrx:the-retinol-0-1-cream-1",
+   "name": "The Retinol 0.1 Cream",
+   "change": "removed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-21",
+   "run_id": "20261021T052211Z",
+   "source_id": "cosrx",
+   "table": "products",
+   "record_id": "cosrx:the-retinol-0-1-cream_new-bundle",
+   "name": "The Retinol 0.1 Cream",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-21",
+   "run_id": "20261021T052211Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:arctic-blackcurrant-seed-co2-extract",
+   "name": "Arctic Blackcurrant Seed CO2 Extract",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-10-21",
+   "run_id": "20261021T052211Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:kojic-acid-dipalmitate",
+   "name": "Kojic Acid Dipalmitate (KAD)",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
   {
    "date": "2026-10-20",
    "run_id": "20261020T230522Z",
@@ -2170,50 +2264,6 @@
    "change": "changed",
    "fields": "ph_max, ph_min",
    "details": "ph_max:  -> 6.5; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-pearl-hydrolysate-pf",
-   "name": "FSS Pearl Hydrolysate PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-quaternized-lemon-shine-pf",
-   "name": "FSS Quaternized Lemon Shine PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-rice-curl-complex-pf",
-   "name": "FSS Rice Curl Complex PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-foaming-amaranth-pet",
-   "name": "FSS Foaming Amaranth PET",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 8; ph_min:  -> 6.5"
   }
  ],
  "imports": [
@@ -2337,6 +2387,534 @@
    "change": "initial_import",
    "fields": "",
    "details": "252 records imported"
+  }
+ ],
+ "review_warnings": [],
+ "milk_atlas": [
+  {
+   "atlas_id": "MILK-001",
+   "name": "Cow's milk",
+   "group": "Animal milk",
+   "products_exact": 88,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "L'OREAL NORGE AS Maybelline Neglelakk Colorshow Clear Shine  | Dobeles dzirnavnieks Thick pancake mix | Grandis Grandis wafers family",
+   "atlas_commercial_examples": "No specific product example added in this pass; search by exact INCI and market.",
+   "atlas_verification_status": "Tradition requires source-level verification; composition well established.",
+   "evidence_ids": "",
+   "tradition_ids": "TR-02"
+  },
+  {
+   "atlas_id": "MILK-002",
+   "name": "Goat's milk",
+   "group": "Animal milk",
+   "products_exact": 20,
+   "products_related": 0,
+   "raw_materials_exact": 4,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "L'Autruche de Laurette Savon naturel artisanal | La Ferme du Bergognon Lait hydratant au lait de nos chèvres  | La savonnerie de Marcel Savon aux petits soins - Calendula &",
+   "atlas_commercial_examples": "Goat is GOAT Original Goat Milk Soap; product page lists goat milk and full ingredient list.",
+   "atlas_verification_status": "Commercial example verified from brand page; claims are brand claims, not independent efficacy evidence.",
+   "evidence_ids": "",
+   "tradition_ids": "TR-03"
+  },
+  {
+   "atlas_id": "MILK-003",
+   "name": "Sheep's milk",
+   "group": "Animal milk",
+   "products_exact": 1,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Les Savons d'Orély Milky Patchouli",
+   "atlas_commercial_examples": "No specific product example verified in this pass.",
+   "atlas_verification_status": "Product-market lead only; seek official label and source.",
+   "evidence_ids": "",
+   "tradition_ids": "TR-04"
+  },
+  {
+   "atlas_id": "MILK-004",
+   "name": "Buffalo milk",
+   "group": "Animal milk",
+   "products_exact": 0,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No specific product example verified in this pass.",
+   "atlas_verification_status": "Food use is not proof of cosmetic tradition or benefit.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-005",
+   "name": "Camel milk",
+   "group": "Animal milk",
+   "products_exact": 0,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "Cammellatte Camel Milk Face & Body Soap; ingredient list and product claims are published on the brand page.",
+   "atlas_verification_status": "Commercial product page found; listing showed out of stock and shipping charges at research time. Brand efficacy claims unverified independently.",
+   "evidence_ids": "",
+   "tradition_ids": "TR-05"
+  },
+  {
+   "atlas_id": "MILK-006",
+   "name": "Donkey's milk",
+   "group": "Animal milk",
+   "products_exact": 35,
+   "products_related": 0,
+   "raw_materials_exact": 1,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "LABORATOIRE PAYSANE Savon exfoliant | SARYANE savon liquide au lait d'ânesse bio et aloe vera | Cosmonaturel Crème de jour au lait d'ânesse bio",
+   "atlas_commercial_examples": "KORRES Mediterranean Donkey Milk Protein Strengthening Face Cream; official product page includes donkey milk in the INCI list.",
+   "atlas_verification_status": "Official product example verified; availability and formula may vary by market.",
+   "evidence_ids": "EV-03",
+   "tradition_ids": "TR-01"
+  },
+  {
+   "atlas_id": "MILK-007",
+   "name": "Mare's milk",
+   "group": "Animal milk",
+   "products_exact": 3,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Perle de Jument Crème réparatrice pour les mains au lait de  | La Soulane Savon fleuri au lait de jument Bio | Léa Nature Douche au lait de jument Crème de douche nourriss",
+   "atlas_commercial_examples": "No specific product example verified in this pass.",
+   "atlas_verification_status": "Tradition and commercial presence unverified.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-008",
+   "name": "Yak milk",
+   "group": "Animal milk",
+   "products_exact": 0,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No specific product example verified in this pass.",
+   "atlas_verification_status": "Tradition and commercial presence unverified.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-009",
+   "name": "Coconut milk",
+   "group": "Plant milk",
+   "products_exact": 2,
+   "products_related": 61,
+   "raw_materials_exact": 1,
+   "raw_materials_related": 4,
+   "new_matches_today": 0,
+   "example_products": "Stirling Soap Co. Bergamot Lavender | Parachute parachute body lotion coconut milk & honey 400ml",
+   "atlas_commercial_examples": "OGX Nourishing + Coconut Milk Shampoo; official page lists Cocos Nucifera fruit extract and hydrolyzed milk protein, so it is not a pure coconut-milk formula.",
+   "atlas_verification_status": "Official commercial example verified; note formula includes multiple actives and hydrolyzed milk protein.",
+   "evidence_ids": "EV-09",
+   "tradition_ids": "TR-07"
+  },
+  {
+   "atlas_id": "MILK-010",
+   "name": "Oat milk",
+   "group": "Plant milk",
+   "products_exact": 4,
+   "products_related": 226,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 10,
+   "new_matches_today": 0,
+   "example_products": "La savonnerie de Marcel Douceur d'hiver | Dr. Squatch Lavender Fields Forever | Doctor spa Leche avena",
+   "atlas_commercial_examples": "AVEENO Daily Moisturizing Body Wash; official ingredient list includes Avena Sativa (Oat) Kernel Flour/Oil/Extract, not oat milk beverage.",
+   "atlas_verification_status": "Official product example verifies oat-derived ingredients, not oat milk itself.",
+   "evidence_ids": "EV-04; EV-09",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-011",
+   "name": "Rice milk",
+   "group": "Plant milk",
+   "products_exact": 2,
+   "products_related": 68,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 11,
+   "new_matches_today": 0,
+   "example_products": "method body body wash | method body",
+   "atlas_commercial_examples": "Commercial examples are generally rice ferment or hydrolyzed rice protein rather than literal rice milk; see separate Fermented rice liquid record.",
+   "atlas_verification_status": "Official product illustrates rice ferment filtrate, not rice milk.",
+   "evidence_ids": "EV-08; EV-09",
+   "tradition_ids": "TR-06"
+  },
+  {
+   "atlas_id": "MILK-012",
+   "name": "Soy milk",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 153,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 18,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No soy-milk beverage product verified; search cosmetics by Glycine Soja (Soybean) Oil/Protein/Extract separately.",
+   "atlas_verification_status": "Food history is not topical-use evidence.",
+   "evidence_ids": "EV-09",
+   "tradition_ids": "TR-08"
+  },
+  {
+   "atlas_id": "MILK-013",
+   "name": "Almond milk",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 13,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No almond-milk product verified; almond oil is a separate ingredient category.",
+   "atlas_verification_status": "Ingredient identity must not be conflated.",
+   "evidence_ids": "EV-09",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-014",
+   "name": "Cashew milk",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No specific product example verified in this pass.",
+   "atlas_verification_status": "Commercial and traditional use unverified.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-015",
+   "name": "Hemp-seed milk",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 3,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 1,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No hemp-milk beverage product verified; track hemp seed oil/extract separately.",
+   "atlas_verification_status": "Do not infer beverage benefits from oil studies.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-016",
+   "name": "Pea milk / pea protein beverage",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 23,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 7,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No pea-milk beverage cosmetic verified; track Hydrolyzed Pea Protein as a separate INCI candidate.",
+   "atlas_verification_status": "Ingredient and beverage evidence differ.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-017",
+   "name": "Quinoa-derived milk / liquid",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 28,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 10,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No quinoa-milk beverage product verified in this pass.",
+   "atlas_verification_status": "Do not infer topical tradition from food heritage.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-018",
+   "name": "Sesame-seed milk",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 3,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 1,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No sesame-milk cosmetic product verified; track Sesamum Indicum (Sesame) Seed Oil separately.",
+   "atlas_verification_status": "Sesame is a known allergen; check exact ingredient.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-019",
+   "name": "Peanut milk",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No peanut-milk cosmetic product verified in this pass.",
+   "atlas_verification_status": "High allergen relevance; not a default DIY ingredient.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-020",
+   "name": "Barley-derived beverage",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 19,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 3,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No barley-beverage cosmetic product verified.",
+   "atlas_verification_status": "Gluten/cereal sensitivity assessment may be relevant to specific materials.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-021",
+   "name": "Millet-derived beverage",
+   "group": "Plant milk",
+   "products_exact": 0,
+   "products_related": 8,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 1,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No millet-beverage cosmetic product verified in this pass.",
+   "atlas_verification_status": "Traditional topical use unverified.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-022",
+   "name": "Yogurt",
+   "group": "Fermented dairy",
+   "products_exact": 19,
+   "products_related": 0,
+   "raw_materials_exact": 2,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Henkel Yoghurt Coconut | Johnson & Johnson Vita-Rich | Shea Moisture Manuka Honey & Yogurt",
+   "atlas_commercial_examples": "KORRES Greek Yoghurt product range; official brand catalog lists yogurt-themed skincare products.",
+   "atlas_verification_status": "Official commercial category verified; specific formulations must be checked by market and product.",
+   "evidence_ids": "",
+   "tradition_ids": "TR-09"
+  },
+  {
+   "atlas_id": "MILK-023",
+   "name": "Kefir",
+   "group": "Fermented dairy",
+   "products_exact": 0,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No specific kefir cosmetic product verified in this pass.",
+   "atlas_verification_status": "Food fermentation does not equal preserved cosmetic ferment.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-024",
+   "name": "Buttermilk",
+   "group": "Fermented dairy",
+   "products_exact": 2,
+   "products_related": 0,
+   "raw_materials_exact": 1,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Burts Bees Baby Sunflower Lotion | burt's bees baby nourishing lotion original",
+   "atlas_commercial_examples": "No specific buttermilk cosmetic product verified in this pass.",
+   "atlas_verification_status": "Variable acidity; not equivalent to formulated lactic acid.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-025",
+   "name": "Fermented rice liquid",
+   "group": "Fermented plant preparation",
+   "products_exact": 10,
+   "products_related": 0,
+   "raw_materials_exact": 2,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "COSRX Low pH Goodnight Soft Peeling Gel | Plum Rice Water & Niacinamide 3% Toner | RETINOL RETINOL SKIN CREAM",
+   "atlas_commercial_examples": "Garnier Ultimate Blends Rice Water Smooth Shampoo lists Saccharomyces/Rice Ferment Filtrate; Kitsch Canada sells Rice Water Shampoo with rice-protein positioning.",
+   "atlas_verification_status": "Official commercial examples verified; formulas use ferment/protein derivatives rather than homemade rice water.",
+   "evidence_ids": "EV-08",
+   "tradition_ids": "TR-06"
+  },
+  {
+   "atlas_id": "MILK-026",
+   "name": "Lactic acid",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 977,
+   "products_related": 0,
+   "raw_materials_exact": 6,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "COSRX The AHA BHA PHA LHA 35 Peel | COSRX COSRX PEPTIDE-132 Ultra Perfect Hair Bonding Treatment | COSRX 5 Peptide B5 Sensitive Repair Salve Lip Balm",
+   "atlas_commercial_examples": "Common in formulated exfoliating products; a product-specific example should be added only after INCI, concentration/pH claims and market are verified.",
+   "atlas_verification_status": "Function depends on concentration, pH and formulation; avoid DIY acid mixing.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-027",
+   "name": "Milk protein",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 29,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "BIO Monsavon BIO Déodorant Femme Spray Citron Touche de Verv | BIO Monsavon BIO Déodorant Femme Spray Citron Touche de Verv | BIO Msv pdt bio abricot 100g",
+   "atlas_commercial_examples": "OGX Coconut Milk Shampoo lists Hydrolyzed Milk Protein; KORRES donkey-milk products are separate whole-milk ingredient examples.",
+   "atlas_verification_status": "Official product INCI example verified; not evidence of a standalone protein benefit.",
+   "evidence_ids": "EV-01; EV-02; EV-07",
+   "tradition_ids": "TR-02"
+  },
+  {
+   "atlas_id": "MILK-028",
+   "name": "Hydrolyzed milk protein",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 61,
+   "products_related": 0,
+   "raw_materials_exact": 2,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Cosmia Lait de Douche Aux Protéines de Lait | Axe Anarchy Axe for her | Hoito Saç maskesi",
+   "atlas_commercial_examples": "OGX Coconut Milk Shampoo lists Hydrolyzed Milk Protein in the ingredient declaration.",
+   "atlas_verification_status": "Official INCI example verified.",
+   "evidence_ids": "EV-01; EV-07",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-029",
+   "name": "Whey protein",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 17,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Atom Atom whey protein | Colgate-Palmolive Sanex Dermo Protect Sensitive | PALMOLIVE GEL DOUCHE CREME",
+   "atlas_commercial_examples": "No specific finished cosmetic verified in this pass.",
+   "atlas_verification_status": "Product and supplier specifications needed.",
+   "evidence_ids": "EV-01",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-030",
+   "name": "Casein",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 10,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Savoderm med Men Sensitive Pflege-Dusche | tetesept Wärme Pflege-Balsam | Unilever Zendium Bain de Bouche Biogum",
+   "atlas_commercial_examples": "No specific finished cosmetic verified in this pass.",
+   "atlas_verification_status": "Check exact INCI and allergen specification.",
+   "evidence_ids": "EV-01",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-031",
+   "name": "Lactoferrin",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 18,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Dr. White Biorepair | Unilever Zendium Bain de Bouche Biogum | Unilever Zendium Dentifrice Protection Complete 75ml",
+   "atlas_commercial_examples": "No specific finished cosmetic verified in this pass.",
+   "atlas_verification_status": "Laboratory mechanism is not proof of consumer benefit.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-032",
+   "name": "Colostrum",
+   "group": "Animal milk / early lactation",
+   "products_exact": 20,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "PhytoQuant Quantaderm crème fluide à base de colostrum, d'al | Sky & Sol Day & Night Moisturizer | Unilever Zendium Bain de Bouche Biogum",
+   "atlas_commercial_examples": "No specific product with a currently verified INCI and accessible official listing added in this pass.",
+   "atlas_verification_status": "Source, processing, allergen and stability controls need review.",
+   "evidence_ids": "EV-02",
+   "tradition_ids": "TR-10"
+  },
+  {
+   "atlas_id": "MILK-033",
+   "name": "Milk fat / butterfat",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 6,
+   "products_related": 0,
+   "raw_materials_exact": 1,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Cetaphil Baby Eczema Soothing Lotion | Klorane Après shampooing fortifiant et stimulant | Bayer Bepanthen Sensicalm",
+   "atlas_commercial_examples": "No specific finished product verified in this pass; search exact INCI and confirm whether ingredient is milk-derived.",
+   "atlas_verification_status": "Emollience is formula-dependent.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-034",
+   "name": "Lactose",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 51,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "Null pure collagène marin | Exialoe Aloe vera puro 100% retinol | Lehning Laboratoires Dentifrice Naturel Homeopathie Lehning",
+   "atlas_commercial_examples": "No specific finished cosmetic verified in this pass.",
+   "atlas_verification_status": "Benefit claims need exact formulation evidence.",
+   "evidence_ids": "",
+   "tradition_ids": ""
+  },
+  {
+   "atlas_id": "MILK-035",
+   "name": "Milk-derived peptides",
+   "group": "Purified/derived cosmetic ingredient",
+   "products_exact": 0,
+   "products_related": 0,
+   "raw_materials_exact": 0,
+   "raw_materials_related": 0,
+   "new_matches_today": 0,
+   "example_products": "",
+   "atlas_commercial_examples": "No specific peptide product verified in this pass; require peptide identity, INCI/supplier specification and clinical evidence.",
+   "atlas_verification_status": "Do not generalize results between different peptides.",
+   "evidence_ids": "",
+   "tradition_ids": ""
   }
  ]
 }

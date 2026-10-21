@@ -1,4 +1,8 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-10-21,20261021T052211Z,cosrx,products,cosrx:the-retinol-0-1-cream-1,The Retinol 0.1 Cream,removed,,
+2026-10-21,20261021T052211Z,cosrx,products,cosrx:the-retinol-0-1-cream_new-bundle,The Retinol 0.1 Cream,added,,
+2026-10-21,20261021T052211Z,aromantic,raw_materials,aromantic:arctic-blackcurrant-seed-co2-extract,Arctic Blackcurrant Seed CO2 Extract,changed,in_stock,in_stock: true -> false
+2026-10-21,20261021T052211Z,lotioncrafter,raw_materials,lotioncrafter:kojic-acid-dipalmitate,Kojic Acid Dipalmitate (KAD),changed,in_stock,in_stock: true -> false
 2026-10-20,20261020T230522Z,aromantic,raw_materials,aromantic:organic-rose-hydrolat,Organic Rose Hydrolat,changed,"ph_max, ph_min",ph_max:  -> 5.5; ph_min:  -> 4
 2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:iselux-ultra-mild-surfactant-blend,Iselux Ultra Mild Surfactant Blend,changed,"ph_max, ph_min",ph_max:  -> 6.5; ph_min:  -> 6
 2026-10-20,20261020T230522Z,windy_point,raw_materials,windy_point:hydroxyethylcellulose-hec,Hydroxyethylcellulose (HEC),changed,"ph_max, ph_min",ph_max:  -> 6.6; ph_min:  -> 4.4
