@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T05:22:11+00:00",
- "run_id": "20261021T052211Z",
+ "generated_at": "2026-10-21T05:47:40+00:00",
+ "run_id": "20261021T054740Z",
  "date": "2026-10-21",
  "totals": {
   "raw_materials": 1887,
@@ -27,14 +27,14 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 178.7,
+   "duration_seconds": 178.8,
    "message": ""
   },
   {
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 350,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.1,
+   "duration_seconds": 4.0,
    "message": ""
   },
   {
@@ -69,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 679,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1050.5,
+   "duration_seconds": 1050.3,
    "message": ""
   },
   {
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 272,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 9.1,
+   "duration_seconds": 8.8,
    "message": ""
   },
   {
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 5.1,
+   "duration_seconds": 5.0,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 11.7,
+   "duration_seconds": 13.4,
    "message": ""
   },
   {
@@ -153,8 +153,8 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 61,
    "records_added": 0,
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 91,
-   "records_added": 1,
+   "records_added": 0,
    "records_changed": 0,
-   "records_removed": 1,
-   "duration_seconds": 210.8,
+   "records_removed": 0,
+   "duration_seconds": 210.3,
    "message": ""
   },
   {
@@ -195,8 +195,8 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
@@ -216,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 5.1,
+   "duration_seconds": 4.1,
    "message": ""
   },
   {
@@ -237,14 +237,14 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-21T05:22:11+00:00",
-   "last_success_at": "2026-10-21T05:22:11+00:00",
+   "last_run_at": "2026-10-21T05:47:40+00:00",
+   "last_success_at": "2026-10-21T05:47:40+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 0.6,
+   "duration_seconds": 1.2,
    "message": ""
   },
   {
@@ -471,6 +471,10 @@
    {
     "run_id": "20261021T052211Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
+    "status": "passed"
    }
   ],
   "lotioncrafter": [
@@ -484,6 +488,10 @@
    },
    {
     "run_id": "20261021T052211Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
     "status": "passed"
    }
   ],
@@ -499,6 +507,10 @@
    {
     "run_id": "20261021T052211Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -512,6 +524,10 @@
    },
    {
     "run_id": "20261021T052211Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
     "status": "passed"
    }
   ],
@@ -527,6 +543,10 @@
    {
     "run_id": "20261021T052211Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -540,6 +560,10 @@
    },
    {
     "run_id": "20261021T052211Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
     "status": "passed"
    }
   ],
@@ -555,6 +579,10 @@
    {
     "run_id": "20261021T052211Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -568,6 +596,10 @@
    },
    {
     "run_id": "20261021T052211Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
     "status": "passed"
    }
   ],
@@ -583,6 +615,10 @@
    {
     "run_id": "20261021T052211Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -597,6 +633,10 @@
    {
     "run_id": "20261021T052211Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
+    "status": "passed"
    }
   ],
   "reg_us": [
@@ -610,6 +650,10 @@
    },
    {
     "run_id": "20261021T052211Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261021T054740Z",
     "status": "passed"
    }
   ]
