@@ -1,4 +1,6 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-10-22,20261022T143200Z,aromantic,raw_materials,aromantic:cucumber-seed-oil,Cucumber Seed Oil,changed,in_stock,in_stock: true -> false
+2026-10-22,20261022T143200Z,lotioncrafter,raw_materials,lotioncrafter:ipm-mb-isopropyl-myristate,IPM MB (Isopropyl Myristate),changed,in_stock,in_stock: true -> false
 2026-10-21,20261021T192333Z,windy_point,raw_materials,windy_point:sodium-bicarbonate-baking-soda-bulk,Sodium Bicarbonate (Baking Soda) - Bulk,changed,in_stock,in_stock: true -> false
 2026-10-21,20261021T192333Z,lotioncrafter,raw_materials,lotioncrafter:polyquaternium-7,Polyquaternium 7,changed,in_stock,in_stock: false -> true
 2026-10-21,20261021T192333Z,lotioncrafter,raw_materials,lotioncrafter:tetrahexyldecyl-ascorbate-thda-deodorized,"Tetrahexyldecyl Ascorbate (THDA), Deodorized",changed,in_stock,in_stock: false -> true
