@@ -1994,7 +1994,7 @@ l-proline,L-Proline,candidate,,1,2,,,,U,,candidate,,,lotioncrafter; open_beauty_
 lac,lac,candidate,,0,4,,MILK-001:exact,,U,,candidate,,,open_beauty_facts
 lactamide mea,Lactamide Mea,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 lactate,lactate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-lactic acid,Lactic Acid,candidate,50-21-5,6,971,CA: restricted,MILK-026:exact,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
+lactic acid,Lactic Acid,candidate,50-21-5,7,971,CA: restricted,MILK-026:exact,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
 lactic aid,lactic aid,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 lacticacid,lacticacid,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 lactid acid,Lactid Acid,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -3791,7 +3791,7 @@ vp va copolymer,VP/VA Copolymer,candidate,,0,64,,,,U,,candidate,,,open_beauty_fa
 vpieicosene copolymer,VPIEicosene Copolymer,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 wanthan gum,Wanthan Gum,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 wasser,Wasser,candidate,,0,21,,,,U,,candidate,,,open_beauty_facts
-water,Aqua,candidate,,313,11004,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+water,Aqua,candidate,,314,11004,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 water . glycerin,Water (Aqua) (Eau). Glycerin,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 watet aqua eau,Watet / Aqua / Eau,candidate,,0,2,,,,U,,candidate,,,cosrx
 wear long-sleeved shirts,wear long-sleeved shirts,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts

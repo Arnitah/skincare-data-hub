@@ -1,7 +1,7 @@
 {
  "title": "Beauty Intelligence — Milk Ingredient Atlas",
  "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
- "generated": "2026-10-23",
+ "generated": "2026-10-24",
  "records": [
   {
    "atlas_id": "MILK-001",
@@ -2341,9 +2341,9 @@
    "hub_matches": {
     "products_exact": 977,
     "products_related": 0,
-    "raw_materials_exact": 6,
+    "raw_materials_exact": 7,
     "raw_materials_related": 0,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
      "open_beauty_facts": 972,
      "cosrx": 5
@@ -2522,6 +2522,13 @@
       "country": "US",
       "matched_ingredient": "Lactic Acid",
       "url": "https://lotioncrafter.com/products/lactic-acid-90"
+     },
+     {
+      "name": "FSS LACTIC ACID 88%",
+      "source_id": "formulator_sample_shop",
+      "country": "US",
+      "matched_ingredient": "Lactic Acid",
+      "url": "https://formulatorsampleshop.com/products/fss-lactic-acid-88"
      }
     ],
     "evidence_ids": [],

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-23T14:15:37+00:00",
- "run_id": "20261023T141537Z",
- "date": "2026-10-23",
+ "generated_at": "2026-10-24T13:20:53+00:00",
+ "run_id": "20261024T132053Z",
+ "date": "2026-10-24",
  "totals": {
-  "raw_materials": 1889,
+  "raw_materials": 1892,
   "products": 15281,
   "regulatory": 3032,
   "ingredients": 7590,
@@ -12,7 +12,7 @@
   "atlas_product_matches_exact": 1375,
   "excluded_non_cosmetic": 103,
   "review_status": {
-   "candidate": 20203
+   "candidate": 20206
   }
  },
  "sources": [
@@ -27,14 +27,14 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 178.7,
+   "duration_seconds": 178.8,
    "message": ""
   },
   {
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 350,
    "records_added": 0,
-   "records_changed": 10,
+   "records_changed": 6,
    "records_removed": 0,
-   "duration_seconds": 4.1,
+   "duration_seconds": 3.8,
    "message": ""
   },
   {
@@ -69,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
-   "records_active": 681,
-   "records_added": 1,
+   "records_active": 684,
+   "records_added": 3,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1053.5,
+   "duration_seconds": 1058.7,
    "message": ""
   },
   {
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 272,
    "records_added": 0,
-   "records_changed": 0,
+   "records_changed": 2,
    "records_removed": 0,
-   "duration_seconds": 10.5,
+   "duration_seconds": 9.2,
    "message": ""
   },
   {
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
-   "records_changed": 0,
+   "records_changed": 3,
    "records_removed": 0,
-   "duration_seconds": 5.1,
+   "duration_seconds": 4.3,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 11.4,
+   "duration_seconds": 9.9,
    "message": ""
   },
   {
@@ -153,14 +153,14 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 61,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 39,
    "records_removed": 0,
-   "duration_seconds": 1.3,
+   "duration_seconds": 1.2,
    "message": ""
   },
   {
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 93,
-   "records_added": 1,
+   "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 216.6,
+   "duration_seconds": 216.5,
    "message": ""
   },
   {
@@ -195,14 +195,14 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 14.7,
+   "duration_seconds": 14.5,
    "message": ""
   },
   {
@@ -216,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.2,
+   "duration_seconds": 4.1,
    "message": ""
   },
   {
@@ -237,8 +237,8 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-23T14:15:37+00:00",
-   "last_success_at": "2026-10-23T14:15:37+00:00",
+   "last_run_at": "2026-10-24T13:20:53+00:00",
+   "last_success_at": "2026-10-24T13:20:53+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
@@ -491,6 +491,10 @@
    {
     "run_id": "20261023T141537Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
+    "status": "passed"
    }
   ],
   "lotioncrafter": [
@@ -524,6 +528,10 @@
    },
    {
     "run_id": "20261023T141537Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
     "status": "passed"
    }
   ],
@@ -559,6 +567,10 @@
    {
     "run_id": "20261023T141537Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -592,6 +604,10 @@
    },
    {
     "run_id": "20261023T141537Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
     "status": "passed"
    }
   ],
@@ -627,6 +643,10 @@
    {
     "run_id": "20261023T141537Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -660,6 +680,10 @@
    },
    {
     "run_id": "20261023T141537Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
     "status": "passed"
    }
   ],
@@ -695,6 +719,10 @@
    {
     "run_id": "20261023T141537Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -728,6 +756,10 @@
    },
    {
     "run_id": "20261023T141537Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
     "status": "passed"
    }
   ],
@@ -763,6 +795,10 @@
    {
     "run_id": "20261023T141537Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -796,6 +832,10 @@
    },
    {
     "run_id": "20261023T141537Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
     "status": "passed"
    }
   ],
@@ -831,10 +871,597 @@
    {
     "run_id": "20261023T141537Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261024T132053Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-ampoule",
+   "name": "1025 Dokdo Ampoule",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 24.8 -> 31; price_min: 24.8 -> 31"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-cleansing-oil",
+   "name": "1025 Dokdo Cleansing Oil",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 20.8 -> 26; price_min: 20.8 -> 26"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-cream",
+   "name": "1025 Dokdo Cream",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 28.8 -> 36; price_min: 28.8 -> 36"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-lotion",
+   "name": "1025 Dokdo Lotion",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 17.6 -> 22; price_min: 17.6 -> 22"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-mud-pack",
+   "name": "1025 Dokdo Mud Pack",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 15.2 -> 19; price_min: 15.2 -> 19"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-toner",
+   "name": "1025 Dokdo Toner",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 27.2 -> 34; price_min: 4.8 -> 6"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-sleeping-pack",
+   "name": "1025 Dokdo Sleeping Pack",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 19.2 -> 24; price_min: 19.2 -> 24"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-moisturizing-sun-stick",
+   "name": "Birch Moisturizing Sun Stick SPF 50",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; birch; birch tree; dry; memorial; mom; singleproduct; singleprod... -> allproducts; birch; birch tree; dry; igg26_for_her; memorial; mom; singleprod..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-moisturizing-wash-off-mask",
+   "name": "Birch Moisturizing Wash Off Mask",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; birch; birch tree; cleanser; dry; facemask; hydrate; laborday; m... -> allproducts; birch; birch tree; cleanser; dry; facemask; hydrate; igg26_for_h..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-cleansing-gel",
+   "name": "1025 Dokdo Cleansing Gel",
+   "change": "changed",
+   "fields": "price_max, price_min, tags",
+   "details": "price_max: 20.8 -> 26; price_min: 20.8 -> 26; tags: 1025 dokdo; all skin types; allproducts; awardwinner; cleanse; cleanser; clea... -> 1025 dokdo; all skin types; allproducts; awardwinner; cleanse; cleanser; clea..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:pine-calming-cica-cleanser",
+   "name": "Pine Calming Cica Cleanser",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: acne-prone; allproducts; cleanse; cleanser; combination; gel; hydrate; labord... -> acne-prone; allproducts; cleanse; cleanser; combination; gel; hydrate; igg26_..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-peeling-gel",
+   "name": "1025 Dokdo Peeling Gel",
+   "change": "changed",
+   "fields": "price_max, price_min, tags",
+   "details": "price_max: 19.2 -> 24; price_min: 19.2 -> 24; tags: 1025 dokdo; allproducts; cleanse; cleanser; cleansing; dokdo; hydrate; mom; p... -> 1025 dokdo; allproducts; cleanse; cleanser; cleansing; dokdo; hydrate; igg26_..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-moisturizing-soothing-gel",
+   "name": "Birch Moisturizing Soothing Gel",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; birch; birch tree; cleanser; dry; gel; hydrate; moisture; moistu... -> allproducts; birch; birch tree; cleanser; dry; gel; hydrate; igg26_for_her; m..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:soybean-nourishing-cleansing-oil",
+   "name": "Soybean Nourishing Cleansing Oil",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; black soybean; cleanse; cleanser; cleansing; cleansing oil; comb... -> allproducts; black soybean; cleanse; cleanser; cleansing; cleansing oil; comb..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-pad",
+   "name": "1025 Dokdo Toner Pad",
+   "change": "changed",
+   "fields": "price_max, price_min, tags",
+   "details": "price_max: 21.6 -> 27; price_min: 21.6 -> 27; tags: 1025 dokdo; allproducts; laborday; Mask/Pad; mom; singleproduct; singleproducts -> 1025 dokdo; allproducts; igg26_for_her; laborday; Mask/Pad; mom; singleproduc..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:soybean-panthenol-ampoule",
+   "name": "Soybean Panthenol Ampoule",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: all skin types; allproducts; ampoule; anti-aging; calming; dry; dry skin; moi... -> all skin types; allproducts; ampoule; anti-aging; calming; dry; dry skin; igg..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:soybean-panthenol-cream",
+   "name": "Soybean Panthenol Cream",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: all skin types; allproducts; anti-aging; cream; dry; dry skin; moisture; mois... -> all skin types; allproducts; anti-aging; cream; dry; dry skin; igg26_for_her;..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:pine-calming-cica-lotion",
+   "name": "Pine Calming Cica Lotion",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; cream; laborday; mom; pine cica; Pine Tree; singleproduct; singl... -> allproducts; cream; igg26_for_her; laborday; mom; pine cica; Pine Tree; singl..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:soybean-panthenol-mask",
+   "name": "Soybean Panthenol Sheet Mask",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: all skin types; allproducts; anti-aging; black soybean; calming; dry; dry ski... -> all skin types; allproducts; anti-aging; black soybean; calming; dry; dry ski..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-juice-cleansing-pad",
+   "name": "Birch Juice Cleansing Pad",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: all skin types; allproducts; anti-aging; birch; birch tree; calming; cleanse;... -> all skin types; allproducts; anti-aging; birch; birch tree; calming; cleanse;..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:pine-cica-calming-body-wash",
+   "name": "Pine Calming Cica Body Wash",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: acne-prone; all skin types; allproducts; anti-aging; calming; cleanse; cleans... -> acne-prone; all skin types; allproducts; anti-aging; calming; cleanse; cleans..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:dokdo-cleansing-water",
+   "name": "Dokdo Cleansing Water",
+   "change": "changed",
+   "fields": "price_max, price_min, tags",
+   "details": "price_max: 22.4 -> 28; price_min: 22.4 -> 28; tags: 1025 dokdo; all skin types; allproducts; awardwinner; calming; cleanser; clea... -> 1025 dokdo; all skin types; allproducts; awardwinner; calming; cleanser; clea..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-juice-ampoule",
+   "name": "Birch Juice Moisturizing Ampoule",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: all skin types; allproducts; ampoule; birch; birch tree; calming; combination... -> all skin types; allproducts; ampoule; birch; birch tree; calming; combination..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:vita-niacinamide-dark-spot-mask",
+   "name": "Vita Niacinamide Dark Spot Serum Mask",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; brightening; facemask; laborday; mask; Mask/Pad; moisturize; mom... -> allproducts; brightening; facemask; igg26_for_her; laborday; mask; Mask/Pad; ..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:camellia-deep-collagen-firming-cream",
+   "name": "Camellia Deep Collagen Firming Cream",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; anti-aging; cream; dry; moisture; moisturize; mom; nourishing; s... -> allproducts; anti-aging; cream; dry; igg26_for_her; moisture; moisturize; mom..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:camellia-deep-collagen-firming-ampoule",
+   "name": "Camellia Deep Collagen Firming Ampoule",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; mom; singleproduct; singleproducts; tag__hot_NEW -> allproducts; igg26_for_her; mom; singleproduct; singleproducts; tag__hot_NEW"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-moisturizing-lip-balm",
+   "name": "Birch Moisturizing Lip Balm",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; singleproduct; singleproducts; tag__hot_NEW; tag__hot_Sold Out -> allproducts; igg26_for_her; singleproduct; singleproducts; tag__hot_NEW; tag_..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:1025-dokdo-mask-sheet",
+   "name": "1025 Dokdo Water Gel Mask Sheet",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 28.8 -> 36; price_min: 3.2 -> 4"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:round-lab-birch-juice-moisturizing-eye-balm-10g",
+   "name": "Birch Moisturizing Eye Balm",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; birch; birch tree; eyecare; singleproduct; singleproducts; tag__... -> allproducts; birch; birch tree; eyecare; igg26_for_her; singleproduct; single..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:pine-cica-calming-scalp-tonic",
+   "name": "Pine Cica Calming Scalp Tonic",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: acne-prone; allproducts; hair and body; pine; pine cica; Pine Tree; singlepro... -> acne-prone; allproducts; hair and body; igg26_for_her; pine; pine cica; Pine ..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:camellia-deep-collagen-milky-pdrn-toner-150ml",
+   "name": "Camellia Deep Collagen Milky PDRN Toner 150ml",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; anti-aging; camellia; dry; dry skin; singleproduct; singleproduc... -> allproducts; anti-aging; camellia; dry; dry skin; igg26_for_her; singleproduc..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:camellia-deep-collagen-eye-cream-30ml",
+   "name": "Camellia Deep Collagen Eye Cream 30ml",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; anti-aging; camellia; dry; dry skin; eye; singleproduct; singlep... -> allproducts; anti-aging; camellia; dry; dry skin; eye; igg26_for_her; singlep..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-juice-moisturizing-peeling-cleansing-oil",
+   "name": "Birch Juice Moisturizing Peeling Cleansing Oil",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; birch; birch tree; cleanse; cleansers; cleansing; cleansing oil;... -> allproducts; birch; birch tree; cleanse; cleansers; cleansing; cleansing oil;..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-moisturizing-hand-cream",
+   "name": "Birch Moisturizing Hand Cream",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; birch; birch tree; singleproduct; singleproducts; tag__hot_NEW -> allproducts; birch; birch tree; igg26_for_her; singleproduct; singleproducts;..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:pine-cica-deep-pore-clay-mask-cleanser",
+   "name": "Pine Cica Deep Pore Clay Mask Cleanser",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; cleanse; cleanser; cleansers; pine; pine cica; Pine Tree; single... -> allproducts; cleanse; cleanser; cleansers; igg26_for_her; pine; pine cica; Pi..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:pine-calming-cica-shampoo",
+   "name": "Pine Calming Cica Shampoo",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: acne-prone; allproducts; hair and body; pine; pine cica; Pine Tree; singlepro... -> acne-prone; allproducts; hair and body; igg26_for_her; pine; pine cica; Pine ..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:pine-cica-deep-pore-cleansing-oil-200ml",
+   "name": "Pine Cica Deep Pore Cleansing Oil 200ml",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; cleanser; cleansing; cleansing oil; pine; pine cica; Pine Tree; ... -> allproducts; cleanser; cleansing; cleansing oil; igg26_for_her; pine; pine ci..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-juice-moisturizing-sun-serum-spf50",
+   "name": "Birch Juice Moisturizing Sun Serum SPF 50",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: allproducts; birch; birch sunscreen; birch tree; sensitive; singleproduct; si... -> allproducts; birch; birch sunscreen; birch tree; igg26_for_her; sensitive; si..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:pine-calming-cica-primer-sunscreen-50ml",
+   "name": "Pine Calming Cica Primer Sunscreen 50ml",
+   "change": "changed",
+   "fields": "tags",
+   "details": "tags: acne-prone; allproducts; oily; pine; pine cica; Pine Tree; Sun Care; sun scre... -> acne-prone; allproducts; igg26_for_her; oily; pine; pine cica; Pine Tree; Sun..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:cucumber-seed-oil",
+   "name": "Cucumber Seed Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:vitamin-e",
+   "name": "Vitamin E Oil (100% Natural)",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-prickly-pear-seed-oil",
+   "name": "Organic Prickly Pear Seed Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:bentonite-clay",
+   "name": "Bentonite Clay",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents Useful on oily skin. Excellent oil absorbing pr... -> Description Details Documents Useful on oily skin. Excellent oil absorbing pr..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:sodium-bicarbonate-baking-soda-bulk",
+   "name": "Sodium Bicarbonate (Baking Soda) - Bulk",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-lactic-acid-88",
+   "name": "FSS LACTIC ACID 88%",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-salicylic-acid-usp",
+   "name": "FSS SALICYLIC ACID USP",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-gluconodeltalactone",
+   "name": "FSS GLUCONODELTALACTONE",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:magnesium-ascorbyl-phosphate-map",
+   "name": "Magnesium Ascorbyl Phosphate (MAP)",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: 02/13/2026 - We have switched vendors and have received an alternative supply... -> CAS No. 113170-55-1 Magnesium Ascorbyl Phosphate is a stable, water soluble d..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:sea-buckthorn-berry-oil",
+   "name": "Sea Buckthorn Berry Oil",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: 4/17/2026 - We have switched vendors and have received an alternative supply ... -> CAS No. 90106-68-6; 225234-03-7 Sea Buckthorn berries are harvested from fles..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:sorbitan-stearate",
+   "name": "Sorbitan Stearate",
+   "change": "changed",
+   "fields": "description, price_max",
+   "details": "description: CAS No. 1338-41-6 Sorbitan Stearate is a non-ionic low HLB emulsifier (4.7) t... -> 10/23/2026 - Our current supply of Sorbitan Stearate has a retest date of Mar...; price_max: 19.95 -> 17.95"
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:sodium-benzoate",
+   "name": "Sodium Benzoate",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: 3/10/2026 - We have switched vendors and have received an alternative supply ... -> CAS No.:  532-32-1 Sodium Benzoate is the inactive salt of benzoic acid. It i..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:tetrapeptide-21-solution",
+   "name": "Tetrapeptide-21 Solution",
+   "change": "changed",
+   "fields": "description, in_stock, inci, inci_components, ingredient_keys, price_max, price_min, sizes",
+   "details": "description: CAS#:  56-81-5, 107-88-0 Tetrapeptide-21 Solution is a novel bioactive and pu... -> 10/23/2026 - We have switched vendors and have received an alternative supply...; in_stock: false -> true; inci: Tetrapeptide-21; Glycerin; Butylene Glycol; Aqua -> Glycerin, Butylene Glycol, Water, Propanediol, Tetrapeptide-21, Ethylhexylgly...; inci_components: Tetrapeptide-21; Glycerin; Butylene Glycol; Aqua -> Glycerin; Butylene Glycol; Water; Propanediol; Tetrapeptide-21; Ethylhexylgly..."
+  },
+  {
+   "date": "2026-10-24",
+   "run_id": "20261024T132053Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:ipm-mb-isopropyl-myristate",
+   "name": "IPM MB (Isopropyl Myristate)",
+   "change": "changed",
+   "fields": "description, in_stock, price_max, price_min, sizes",
+   "details": "description: 8/5/2026 - We have switched vendors and have received an alternative supply o... -> 10/23/2026 - We have switched vendors and have received an alternative supply...; in_stock: false -> true; price_max: 309.27 -> 319.25; price_min: 8.65 -> 9.95"
+  },
   {
    "date": "2026-10-23",
    "run_id": "20261023T141537Z",
@@ -1901,589 +2528,6 @@
    "change": "changed",
    "fields": "ph_max, ph_min",
    "details": "ph_max:  -> 8.5; ph_min:  -> 6.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:phytofuse-renew",
-   "name": "PhytoFuse Renew®",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 3"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-phyto-biotics-acai",
-   "name": "FSS PHYTO-BIOTICS ACAI®",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-indian-gooseberry-extract-pf",
-   "name": "FSS Indian Gooseberry Extract PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-amethyst-extract-pf",
-   "name": "FSS Amethyst Extract PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-prorevive-blemish-balm-complex",
-   "name": "FSS ProRevive Blemish Balm Complex",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-probacillus-revive",
-   "name": "FSS Probacillus Revive",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-apricot-extract-g",
-   "name": "FSS Apricot Extract G",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-griffonia-lysate-advanced",
-   "name": "FSS Griffonia Lysate Advanced",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 8; ph_min:  -> 6"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-beer-extract",
-   "name": "FSS Beer Extract",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-walnut-extract-g",
-   "name": "FSS Walnut Extract G",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-hibiscus-extract-bg-butylene-glycol",
-   "name": "FSS Hibiscus Extract BG (Butylene Glycol)",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-modified-papaya-enzyme-pf",
-   "name": "FSS Modified Papaya Enzyme PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7.5; ph_min:  -> 4.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-eggplant-extract-pf",
-   "name": "FSS Eggplant Extract PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-honey-matte",
-   "name": "FSS Honey-Matte",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 8.5; ph_min:  -> 6.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-jackfruit-extract-pf",
-   "name": "FSS Jackfruit Extract PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-goat-milk-hydrolysate",
-   "name": "FSS Goat Milk Hydrolysate",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-kakadu-extract-pf",
-   "name": "FSS Kakadu Extract PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 3"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-tomato-bioferment-pf",
-   "name": "FSS Tomato BioFerment PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-turmeric-extract-g",
-   "name": "FSS Turmeric Extract G",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-skullcap-extract-pf",
-   "name": "FSS Skullcap Extract PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-orange-polyphenols-pbf",
-   "name": "FSS Orange Polyphenols PBF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 6"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-phyto-biotics-saffron",
-   "name": "FSS PHYTO-BIOTICS SAFFRON",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-yeast-extract",
-   "name": "FSS Yeast Extract",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-phyto-biotics-blueberry",
-   "name": "FSS Phyto-Biotics Blueberry",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-vegan-kerazyme-protect",
-   "name": "FSS Vegan Kerazyme® Protect",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 3"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-purslane-bioferment-pf",
-   "name": "FSS Purslane BioFerment PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 3"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-wakame-bioferment-advanced",
-   "name": "FSS WAKAME BIOFERMENT ADVANCED",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-kale-protein-blend",
-   "name": "FSS Kale Protein Blend",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-quinoa-protein",
-   "name": "FSS Quinoa Protein",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-botanical-sugar-complex",
-   "name": "FSS Botanical Sugar Complex",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-marine-collagen-powder",
-   "name": "FSS Marine Collagen Powder",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-yogurt-extract-ef",
-   "name": "FSS Yogurt Extract EF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 5.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-horsetail-extract-aq",
-   "name": "FSS Horsetail Extract AQ",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-red-clover-bioferment",
-   "name": "FSS Red Clover BioFerment",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7.5; ph_min:  -> 5.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-bull-kelp-bioferment-lv",
-   "name": "FSS BULL KELP BIOFERMENT LV",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7.5; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-bull-kelp-bioferment-pbf",
-   "name": "FSS BULL KELP BIOFERMENT PBF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-bull-kelp-bioferment-pd",
-   "name": "FSS BULL KELP BIOFERMENT PD",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7.5; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-bull-kelp-bioferment-pf-sf",
-   "name": "FSS BULL KELP BIOFERMENT PF SF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-willow-bark-extract-20",
-   "name": "FSS Willow Bark Extract (20%)",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-celluplex-pf",
-   "name": "FSS CelluPlex PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7.5; ph_min:  -> 5.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-dermal-respiratory-factor-powder",
-   "name": "FSS DERMAL RESPIRATORY FACTOR POWDER",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.2; ph_min:  -> 4.8"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-dermal-respiratory-factor-advanced-pf",
-   "name": "FSS Dermal Respiratory Factor Advanced PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 3"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-lycopene-bioferment-pf",
-   "name": "FSS Lycopene BioFerment PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-pumpkin-seed-extract-pf",
-   "name": "FSS Pumpkin Seed Extract PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-cocoa-bioferment-pf",
-   "name": "FSS COCOA BIOFERMENT PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 8; ph_min:  -> 6"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-oat-extract-beta-pf",
-   "name": "FSS Oat Extract Beta PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-quinoa-extract-pbf",
-   "name": "FSS Quinoa Extract PBF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:lemon-peel-bioferment",
-   "name": "Lemon Peel BioFerment",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-meadowsweet-extract-20",
-   "name": "FSS Meadowsweet Extract 20%",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-split-end-complex-msx",
-   "name": "FSS Split End Complex MSX",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 8.5; ph_min:  -> 6.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-watermelon-bioferment",
-   "name": "FSS Watermelon BioFerment",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-southernwood-plump-bg-pf",
-   "name": "FSS Southernwood Plump BG PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 4; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-bamboo-isoflavones-pf",
-   "name": "FSS Bamboo Isoflavones PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 3.5"
   }
  ],
  "imports": [
@@ -2992,9 +3036,9 @@
    "group": "Purified/derived cosmetic ingredient",
    "products_exact": 977,
    "products_related": 0,
-   "raw_materials_exact": 6,
+   "raw_materials_exact": 7,
    "raw_materials_related": 0,
-   "new_matches_today": 0,
+   "new_matches_today": 1,
    "example_products": "COSRX The AHA BHA PHA LHA 35 Peel | COSRX COSRX PEPTIDE-132 Ultra Perfect Hair Bonding Treatment | COSRX 5 Peptide B5 Sensitive Repair Salve Lip Balm",
    "atlas_commercial_examples": "Common in formulated exfoliating products; a product-specific example should be added only after INCI, concentration/pH claims and market are verified.",
    "atlas_verification_status": "Function depends on concentration, pH and formulation; avoid DIY acid mixing.",
