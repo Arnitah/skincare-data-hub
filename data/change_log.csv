@@ -477,3 +477,7 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-10-24,20261024T132053Z,round_lab,products,round_lab:1025-dokdo-cream,1025 Dokdo Cream,changed,"price_max, price_min",price_max: 28.8 -> 36; price_min: 28.8 -> 36
 2026-10-24,20261024T132053Z,round_lab,products,round_lab:1025-dokdo-cleansing-oil,1025 Dokdo Cleansing Oil,changed,"price_max, price_min",price_max: 20.8 -> 26; price_min: 20.8 -> 26
 2026-10-24,20261024T132053Z,round_lab,products,round_lab:1025-dokdo-ampoule,1025 Dokdo Ampoule,changed,"price_max, price_min",price_max: 24.8 -> 31; price_min: 24.8 -> 31
+2026-10-25,20261025T134331Z,lotioncrafter,raw_materials,lotioncrafter:hydrolyzed-rice-protein,Hydrolyzed Rice Protein,changed,in_stock,in_stock: true -> false
+2026-10-25,20261025T134331Z,windy_point,raw_materials,windy_point:colloidal-oatmeal,Colloidal Oatmeal,changed,in_stock,in_stock: false -> true
+2026-10-25,20261025T134331Z,aromantic,raw_materials,aromantic:scottish-highland-pine-essential-oil,Scottish Highland Pine Essential Oil,changed,in_stock,in_stock: true -> false
+2026-10-25,20261025T134331Z,cosrx,products,cosrx:two-in-one-poreless-power-liquid,Two in One Poreless Power Liquid,changed,in_stock,in_stock: true -> false
