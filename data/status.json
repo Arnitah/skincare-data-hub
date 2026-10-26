@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-25T13:43:31+00:00",
- "run_id": "20261025T134331Z",
- "date": "2026-10-25",
+ "generated_at": "2026-10-26T16:08:43+00:00",
+ "run_id": "20261026T160843Z",
+ "date": "2026-10-26",
  "totals": {
-  "raw_materials": 1892,
-  "products": 15281,
+  "raw_materials": 1896,
+  "products": 15280,
   "regulatory": 3032,
   "ingredients": 7590,
-  "products_with_regulated_ingredients": 13464,
+  "products_with_regulated_ingredients": 13463,
   "atlas_entries_with_product_matches": 20,
   "atlas_product_matches_exact": 1375,
   "excluded_non_cosmetic": 103,
   "review_status": {
-   "candidate": 20206
+   "candidate": 20210
   }
  },
  "sources": [
@@ -27,14 +27,14 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 178.7,
+   "duration_seconds": 178.8,
    "message": ""
   },
   {
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 350,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 3.7,
+   "duration_seconds": 5.5,
    "message": ""
   },
   {
@@ -69,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
-   "records_active": 684,
-   "records_added": 0,
-   "records_changed": 0,
+   "records_active": 688,
+   "records_added": 4,
+   "records_changed": 1,
    "records_removed": 0,
-   "duration_seconds": 1058.1,
+   "duration_seconds": 1063.9,
    "message": ""
   },
   {
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 272,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 10.1,
+   "duration_seconds": 8.5,
    "message": ""
   },
   {
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 2,
    "records_removed": 0,
-   "duration_seconds": 4.0,
+   "duration_seconds": 3.9,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 7.7,
+   "duration_seconds": 7.8,
    "message": ""
   },
   {
@@ -153,8 +153,8 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 61,
    "records_added": 0,
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
-   "records_active": 93,
+   "records_active": 92,
    "records_added": 0,
-   "records_changed": 1,
-   "records_removed": 0,
-   "duration_seconds": 216.5,
+   "records_changed": 0,
+   "records_removed": 1,
+   "duration_seconds": 214.9,
    "message": ""
   },
   {
@@ -195,8 +195,8 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
@@ -216,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.1,
+   "duration_seconds": 4.2,
    "message": ""
   },
   {
@@ -237,8 +237,8 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-25T13:43:31+00:00",
-   "last_success_at": "2026-10-25T13:43:31+00:00",
+   "last_run_at": "2026-10-26T16:08:43+00:00",
+   "last_success_at": "2026-10-26T16:08:43+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
@@ -499,6 +499,10 @@
    {
     "run_id": "20261025T134331Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
+    "status": "passed"
    }
   ],
   "lotioncrafter": [
@@ -540,6 +544,10 @@
    },
    {
     "run_id": "20261025T134331Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
     "status": "passed"
    }
   ],
@@ -583,6 +591,10 @@
    {
     "run_id": "20261025T134331Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -624,6 +636,10 @@
    },
    {
     "run_id": "20261025T134331Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
     "status": "passed"
    }
   ],
@@ -667,6 +683,10 @@
    {
     "run_id": "20261025T134331Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -708,6 +728,10 @@
    },
    {
     "run_id": "20261025T134331Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
     "status": "passed"
    }
   ],
@@ -751,6 +775,10 @@
    {
     "run_id": "20261025T134331Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -792,6 +820,10 @@
    },
    {
     "run_id": "20261025T134331Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
     "status": "passed"
    }
   ],
@@ -835,6 +867,10 @@
    {
     "run_id": "20261025T134331Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -876,6 +912,10 @@
    },
    {
     "run_id": "20261025T134331Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
     "status": "passed"
    }
   ],
@@ -919,10 +959,102 @@
    {
     "run_id": "20261025T134331Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261026T160843Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-10-26",
+   "run_id": "20261026T160843Z",
+   "source_id": "cosrx",
+   "table": "products",
+   "record_id": "cosrx:cosrx-5-pdrn-nad-multi-repair-cream",
+   "name": "COSRX 5 PDRN NAD+ Multi Repair Cream",
+   "change": "removed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-26",
+   "run_id": "20261026T160843Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-peppermint-essential-oil",
+   "name": "Organic Peppermint Essential Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-10-26",
+   "run_id": "20261026T160843Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:omega-fat-restoring-agent",
+   "name": "Omega Fat Restoring Agent",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-10-26",
+   "run_id": "20261026T160843Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-allantoin-powder",
+   "name": "FSS Allantoin Powder",
+   "change": "changed",
+   "fields": "description, tags",
+   "details": "description: FSS Allantoin Powder Allantoin Powder is a white to off-white, practically od... -> FSS Allantoin Powder Select items, including this product, are not eligible f...; tags: All Products; Conditioning; Hair Products; Moisturization; Powders Applicatio... -> All Products; Conditioning; Hair Products; Moisturization; Not eligible for p..."
+  },
+  {
+   "date": "2026-10-26",
+   "run_id": "20261026T160843Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-sunflower-wax",
+   "name": "FSS SUNFLOWER WAX",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-26",
+   "run_id": "20261026T160843Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-chaga-mushroom-extract-5-sno",
+   "name": "FSS CHAGA MUSHROOM EXTRACT 5 SNO",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-26",
+   "run_id": "20261026T160843Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-marshmallow-root-extract-sno",
+   "name": "FSS MARSHMALLOW ROOT EXTRACT SNO",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-10-26",
+   "run_id": "20261026T160843Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-lions-mane-extract-sno",
+   "name": "FSS LION'S MANE EXTRACT SNO",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
   {
    "date": "2026-10-25",
    "run_id": "20261025T134331Z",
@@ -2484,94 +2616,6 @@
    "change": "changed",
    "fields": "ph_max, ph_min",
    "details": "ph_max:  -> 7; ph_min:  -> 3"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-pineapple-enzyme-extract-pf",
-   "name": "FSS PINEAPPLE ENZYME EXTRACT PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 4.5; ph_min:  -> 3"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-cranberry-enzyme-pf",
-   "name": "FSS Cranberry Enzyme PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7.5; ph_min:  -> 5.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-bamboo-water",
-   "name": "FSS Bamboo Water",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 7; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-soybean-extract-g",
-   "name": "FSS Soybean Extract G",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6.5; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-maqui-berry-extract",
-   "name": "FSS Maqui Berry Extract",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 4"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-phyto-biotics-apple",
-   "name": "FSS Phyto-Biotics Apple",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 8; ph_min:  -> 5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-silk-amino-acids-pf",
-   "name": "FSS Silk Amino Acids PF",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 6; ph_min:  -> 3.5"
-  },
-  {
-   "date": "2026-10-20",
-   "run_id": "20261020T230522Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-glycolic-acid-solution",
-   "name": "FSS Glycolic Acid Solution",
-   "change": "changed",
-   "fields": "ph_max, ph_min",
-   "details": "ph_max:  -> 2.5; ph_min:  -> 1.5"
   }
  ],
  "imports": [

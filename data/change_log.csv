@@ -481,3 +481,11 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-10-25,20261025T134331Z,windy_point,raw_materials,windy_point:colloidal-oatmeal,Colloidal Oatmeal,changed,in_stock,in_stock: false -> true
 2026-10-25,20261025T134331Z,aromantic,raw_materials,aromantic:scottish-highland-pine-essential-oil,Scottish Highland Pine Essential Oil,changed,in_stock,in_stock: true -> false
 2026-10-25,20261025T134331Z,cosrx,products,cosrx:two-in-one-poreless-power-liquid,Two in One Poreless Power Liquid,changed,in_stock,in_stock: true -> false
+2026-10-26,20261026T160843Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lions-mane-extract-sno,FSS LION'S MANE EXTRACT SNO,added,,
+2026-10-26,20261026T160843Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-marshmallow-root-extract-sno,FSS MARSHMALLOW ROOT EXTRACT SNO,added,,
+2026-10-26,20261026T160843Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-chaga-mushroom-extract-5-sno,FSS CHAGA MUSHROOM EXTRACT 5 SNO,added,,
+2026-10-26,20261026T160843Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-sunflower-wax,FSS SUNFLOWER WAX,added,,
+2026-10-26,20261026T160843Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-allantoin-powder,FSS Allantoin Powder,changed,"description, tags","description: FSS Allantoin Powder Allantoin Powder is a white to off-white, practically od... -> FSS Allantoin Powder Select items, including this product, are not eligible f...; tags: All Products; Conditioning; Hair Products; Moisturization; Powders Applicatio... -> All Products; Conditioning; Hair Products; Moisturization; Not eligible for p..."
+2026-10-26,20261026T160843Z,aromantic,raw_materials,aromantic:omega-fat-restoring-agent,Omega Fat Restoring Agent,changed,in_stock,in_stock: true -> false
+2026-10-26,20261026T160843Z,aromantic,raw_materials,aromantic:organic-peppermint-essential-oil,Organic Peppermint Essential Oil,changed,in_stock,in_stock: true -> false
+2026-10-26,20261026T160843Z,cosrx,products,cosrx:cosrx-5-pdrn-nad-multi-repair-cream,COSRX 5 PDRN NAD+ Multi Repair Cream,removed,,
