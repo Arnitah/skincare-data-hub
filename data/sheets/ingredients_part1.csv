@@ -448,7 +448,7 @@ bifida ferment lysate,BIFIDA FERMENT LYSATE,candidate,,0,15,,,,U,,candidate,,,op
 bifidobacterium,Bifidobacterium,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 biosaccharide gum-1,Biosaccharide Gum-1,candidate,,0,82,,,,U,,candidate,,,open_beauty_facts; round_lab
 biosaccharide gum-2,Biosaccharide Gum-2,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-biotin,Biotin,candidate,,1,99,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+biotin,Biotin,candidate,,2,99,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 biotinoyl tripeptide-1,BIOTINOYL TRIPEPTIDE-1,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 bis,Bis,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 bis- dimonium methosulfate,BIS-(ISOSTEAROYL/OLEOYL ISOPROPYL) DIMONIUM METHOSULFATE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -518,7 +518,7 @@ butylated hydroxyanisole,butylated hydroxyanisole,candidate,,0,2,,,,U,,candidate
 butylated hydroxytoluene,Butylated Hydroxytoluene,candidate,128-37-0,0,9,"EU: restricted (max a) 0,001 %)",,,U,,candidate,,,open_beauty_facts
 butylene,Butylene,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 butylene ethylene styrene copolymer,Butylene/Ethylene/Styrene Copolymer,candidate,,1,13,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
-butylene glycol,Butylene Glycol,candidate,,43,934,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+butylene glycol,Butylene Glycol,candidate,,44,934,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 butylene glycol dicaprylate dicaprate,Butylene Glycol Dicaprylate/Dicaprate,candidate,,0,74,,,,U,,candidate,,,cosrx; open_beauty_facts
 butylene glycol glycerin,BUTYLENE GLYCOL GLYCERIN,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 butylene gycol,Butylene Gycol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -703,7 +703,7 @@ carnitine,carnitine,candidate,,0,16,,,,U,,candidate,,,open_beauty_facts
 carpylic capric triglyceride,CARPYLIC/CAPRIC TRIGLYCERIDE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 carraghenane,carraghénane,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 carthamus tinctorius,carthamus tinctorius (safflower seed oil/huile de graines de carthame),candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-carthamus tinctorius seed oil,Carthamus Tinctorius (Safflower) Seed Oil,candidate,,10,73,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts
+carthamus tinctorius seed oil,Carthamus Tinctorius (Safflower) Seed Oil,candidate,,11,73,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts
 carthamus tinctorius seed oil safflower seed oil,Carthamus Tinctorius Seed Oil / Safflower Seed Oil,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 cassia obtusifolia seed extract,Cassia Obtusifolia Seed Extract,candidate,,0,6,,,,U,,candidate,,,cosrx
 castor oil ipdi copolymer,Castor Oil/Ipdi Copolymer,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -1119,7 +1119,7 @@ cucumis melon fruit extract,Cucumis (Melo) Melon Fruit Extract,candidate,,1,0,,,
 cucumis sativus,Cucumis Sativus,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cucumis sativus distillate,Cucumis Sativus (Cucumber) Distillate,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
 cucumis sativus extract,Cucumis sativus Extract,candidate,89998-01-6,1,0,,,,U,,candidate,,,native_extracts
-cucumis sativus fruit extract,Cucumis Sativus (Cucumber) Fruit Extract,candidate,,3,71,,,,U,,candidate,,,aromantic; formulator_sample_shop; open_beauty_facts; windy_point
+cucumis sativus fruit extract,Cucumis Sativus (Cucumber) Fruit Extract,candidate,,4,71,,,,U,,candidate,,,aromantic; formulator_sample_shop; open_beauty_facts; windy_point
 cucumis sativus fruit extract cucumber fruit extract,CUCUMIS SATIVUS FRUIT EXTRACT/CUCUMBER FRUIT EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cucumis sativus fruit water,Cucumis Sativus Fruit Water (Cucumber),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cucurbita pepo fruit extract,Cucurbita Pepo (Pumpkin) Fruit Extract,candidate,,1,3,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
@@ -1303,7 +1303,7 @@ echinacea purpurea root extract,Echinacea purpurea Root Extract,candidate,90028-
 eclipta prostrata extract,eclipta prostrata extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 eclipta prostrata leaf extract,Eclipta Prostrata Leaf Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts; round_lab
 eco-harvest melaleuca alternifolia leaf oil,eco-harvest° melaleuca alternifolia (tea tree) leaf oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-ectoin,Ectoin,candidate,,1,25,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
+ectoin,Ectoin,candidate,,2,25,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
 edetato de sodio,EDETATO DE SÓDIO,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 edetato dissodico,EDETATO DISSÓDICO,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 edta disodico,EDTA disodico,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -1565,7 +1565,7 @@ glycereth-26,Glycereth-26,candidate,,0,28,,,,U,,candidate,,,open_beauty_facts; r
 glycereth-7 caprylate caprate,Glycereth-7 Caprylate/Caprate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glyceri,glyceri,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glyceril stearate,Glyceril Stearate,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
-glycerin,Glycerin,candidate,56-81-5,178,8442,CA: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+glycerin,Glycerin,candidate,56-81-5,179,8442,CA: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 glycerin .1217017-post color shampooaqua water,GLYCERIN(F.I.L. C202318/2).1217017-POST COLOR SHAMPOOAQUA / WATER,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 glycerin .1217043 a - shine protect efterbehandlingaqua water,GLYCERIN(F.I.L. C202318/2).1217043 A - SHINE PROTECT EFTERBEHANDLINGAQUA/WATER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glycerin cetearyl alcohol,Glycerin Cetearyl Alcohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3792,7 +3792,7 @@ vp va copolymer,VP/VA Copolymer,candidate,,0,64,,,,U,,candidate,,,open_beauty_fa
 vpieicosene copolymer,VPIEicosene Copolymer,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 wanthan gum,Wanthan Gum,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 wasser,Wasser,candidate,,0,21,,,,U,,candidate,,,open_beauty_facts
-water,Aqua,candidate,,314,11003,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+water,Aqua,candidate,,316,11003,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 water . glycerin,Water (Aqua) (Eau). Glycerin,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 watet aqua eau,Watet / Aqua / Eau,candidate,,0,2,,,,U,,candidate,,,cosrx
 wear long-sleeved shirts,wear long-sleeved shirts,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts

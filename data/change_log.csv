@@ -489,3 +489,34 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-10-26,20261026T160843Z,aromantic,raw_materials,aromantic:omega-fat-restoring-agent,Omega Fat Restoring Agent,changed,in_stock,in_stock: true -> false
 2026-10-26,20261026T160843Z,aromantic,raw_materials,aromantic:organic-peppermint-essential-oil,Organic Peppermint Essential Oil,changed,in_stock,in_stock: true -> false
 2026-10-26,20261026T160843Z,cosrx,products,cosrx:cosrx-5-pdrn-nad-multi-repair-cream,COSRX 5 PDRN NAD+ Multi Repair Cream,removed,,
+2026-10-27,20261027T152237Z,lotioncrafter,raw_materials,lotioncrafter:terracera™-renew-np,TerraCera™ Renew NP,changed,in_stock,in_stock: false -> true
+2026-10-27,20261027T152237Z,lotioncrafter,raw_materials,lotioncrafter:cucumber-seed-oil-virgin,"Cucumber Seed Oil, Virgin",changed,"price_max, price_min, sizes",price_max: 179.95 -> 193.95; price_min: 7.95 -> 8.45; sizes: 0.5 oz - $7.95; 1 oz - $10.95; 3.5 oz - $27.95; 7 oz - $53.95; 30 oz - $179.95 -> 0.5 oz - $8.45; 1 oz - $11.35; 3.5 oz - $29.45; 7 oz - $55.95; 30 oz - $193.95
+2026-10-27,20261027T152237Z,lotioncrafter,raw_materials,lotioncrafter:cct-60-40-mb,CCT 60/40 MB,changed,"price_max, price_min, sizes",price_max: 449.85 -> 476.85; price_min: 9.95 -> 10.95; sizes: 8 oz - $9.95; 1 lb - $16.25; 2 lbs - $26.95; 8 lbs - $99.55; 38 lbs - $449.85 -> 8 oz - $10.95; 1 lb - $18.45; 2 lbs - $30.95; 8 lbs - $109.85; 38 lbs - $476.85
+2026-10-27,20261027T152237Z,lotioncrafter,raw_materials,lotioncrafter:eumulgin-sg,Eumulgin® SG,changed,"price_max, price_min, sizes",price_max: 203.85 -> 243.85; price_min: 8.95 -> 9.95; sizes: 1 oz - $8.95; 4 oz - $19.95; 1 lb - $74.95; 3 lb - $203.85 -> 1 oz - $9.95; 4 oz - $21.95; 1 lb - $88.95; 3 lb - $243.85
+2026-10-27,20261027T152237Z,lotioncrafter,raw_materials,lotioncrafter:mango-butter,Mango Butter,changed,in_stock,in_stock: true -> false
+2026-10-27,20261027T152237Z,lotioncrafter,raw_materials,lotioncrafter:green-tea-extract,Green Tea Extract,changed,"price_max, price_min, sizes",price_max: 299.95 -> 306.95; price_min: 6.35 -> 6.65; sizes: 1 oz - $6.35; 2 oz - $8.55; 4 oz - $14.45; 8 oz - $22.95; 1 lb - $41.95; 8 lb... -> 1 oz - $6.65; 2 oz - $9.35; 4 oz - $14.75; 8 oz - $23.95; 1 lb - $41.95; 8 lb...
+2026-10-27,20261027T152237Z,lotioncrafter,raw_materials,lotioncrafter:mica-dusty-mauve-shine,"Mica, Dusty Mauve Shine",changed,in_stock,in_stock: true -> false
+2026-10-27,20261027T152237Z,lotioncrafter,raw_materials,lotioncrafter:fision-wrinklefix,Fision® WrinkleFix,changed,"price_min, sizes",price_min: 7.65 -> 8.35; sizes: 15g (0.52 oz) - $7.65; 30g (1.05 oz) - $11.95; 60g (2.11 oz) - $22.95; 120g (... -> 15g (0.52 oz) - $8.35; 30g (1.05 oz) - $12.95; 60g (2.11 oz) - $22.95; 120g (...
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ectoin,FSS ECTOIN,added,,
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-safflower-oil,FSS SAFFLOWER OIL,added,,
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:lemon-peel-bioferment-drk,FSS LEMON PEEL EXTRACT PBF DRK,added,,
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lemon-peel-extract-pbf,FSS LEMON PEEL EXTRACT PBF,added,,
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-kera-straightening-curl,FSS Kera Straightening & Curl,changed,category,category:  -> Raw Material
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-biotin-liposome,FSS BIOTIN LIPOSOME,added,,
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-coconut-water-pf,FSS Coconut Water PF,changed,category,category:  -> Raw Material
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-cucumber-extract-g-pf,FSS CUCUMBER EXTRACT G PF,added,,
+2026-10-27,20261027T152237Z,formulator_sample_shop,raw_materials,formulator_sample_shop:lemon-peel-bioferment,Lemon Peel BioFerment,removed,,
+2026-10-27,20261027T152237Z,windy_point,raw_materials,windy_point:ez-color-berry-blue,EZ Color - Berry Blue,changed,in_stock,in_stock: true -> false
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-mask-sheet,1025 Dokdo Water Gel Mask Sheet,changed,"price_max, price_min",price_max: 36 -> 28.8; price_min: 4 -> 3.2
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:dokdo-cleansing-water,Dokdo Cleansing Water,changed,"price_max, price_min",price_max: 28 -> 22.4; price_min: 28 -> 22.4
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-pad,1025 Dokdo Toner Pad,changed,"price_max, price_min",price_max: 27 -> 21.6; price_min: 27 -> 21.6
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-peeling-gel,1025 Dokdo Peeling Gel,changed,"price_max, price_min",price_max: 24 -> 19.2; price_min: 24 -> 19.2
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-cleansing-gel,1025 Dokdo Cleansing Gel,changed,"price_max, price_min",price_max: 26 -> 20.8; price_min: 26 -> 20.8
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-sleeping-pack,1025 Dokdo Sleeping Pack,changed,"price_max, price_min",price_max: 24 -> 19.2; price_min: 24 -> 19.2
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-toner,1025 Dokdo Toner,changed,"price_max, price_min",price_max: 34 -> 27.2; price_min: 6 -> 4.8
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-mud-pack,1025 Dokdo Mud Pack,changed,"price_max, price_min",price_max: 19 -> 15.2; price_min: 19 -> 15.2
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-lotion,1025 Dokdo Lotion,changed,"price_max, price_min",price_max: 22 -> 17.6; price_min: 22 -> 17.6
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-cream,1025 Dokdo Cream,changed,"price_max, price_min",price_max: 36 -> 28.8; price_min: 36 -> 28.8
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-cleansing-oil,1025 Dokdo Cleansing Oil,changed,"price_max, price_min",price_max: 26 -> 20.8; price_min: 26 -> 20.8
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-cleanser,1025 Dokdo Cleanser,changed,"price_max, price_min",price_max: 17 -> 13.6; price_min: 17 -> 13.6
+2026-10-27,20261027T152237Z,round_lab,products,round_lab:1025-dokdo-ampoule,1025 Dokdo Ampoule,changed,"price_max, price_min",price_max: 31 -> 24.8; price_min: 31 -> 24.8
