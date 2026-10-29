@@ -2,7 +2,7 @@ ingredient_key,inci_name,inci_name_status,cas,raw_material_count,product_count,r
 0-cymen-5-ol,0-Cymen-5-Ol,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 "1,2 - hexanediol","1,2 - HEXANEDIOL",candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 "1,2,4-trihydroxybenzene","1,2,4-Trihydroxybenzene",candidate,533-73-3,0,1,EU: prohibited,,,U,,candidate,,,open_beauty_facts
-"1,2-hexanediol","1,2-Hexanediol",candidate,,0,453,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+"1,2-hexanediol","1,2-Hexanediol",candidate,,0,452,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 1-2 hexanediol,1-2 Hexanediol,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 "1-hydroxyethyl 4,5-diamino pyrazole sulfate","1-Hydroxyethyl 4,5-Diamino Pyrazole Sulfate",candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 1-methylhydantoin - 2-imide,1-Methylhydantoin - 2-Imide,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -161,7 +161,7 @@ alginic acid,Alginic Acid,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 alkanna tinctoria root extract,Alkanna Tinctoria Root Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 alkohol,Alkohol,candidate,,0,20,,,,U,,candidate,,,open_beauty_facts
 alkohol denat,alkohol denat,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-allantoin,Allantoin,candidate,,4,702,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+allantoin,Allantoin,candidate,,4,701,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 allantoine,allantoine,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 alliaria officinalis extract,Alliaria officinalis extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 aloe barbadensis extract,Aloe Barbadensis Extract,candidate,,0,37,,,,U,,candidate,,,open_beauty_facts
@@ -436,7 +436,7 @@ beta - glucan,Beta - Glucan (Oat),candidate,,0,2,,,,U,,candidate,,,open_beauty_f
 beta-sitosterol,Beta-Sitosterol,candidate,,0,46,,,,U,,candidate,,,open_beauty_facts
 betain,Betain,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 betaine de cocamidopropyle,bétaïne de cocamidopropyle,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-betaine salicylate,Betaine Salicylate,candidate,,1,13,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+betaine salicylate,Betaine Salicylate,candidate,,1,12,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 betula alba juice,Betula Alba Juice,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 beurre de cacao,beurre de cacao,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 bht,BHT,candidate,,0,929,"EU: restricted (max a) 0,001 %)",,,U,,candidate,,,cosrx; open_beauty_facts
@@ -518,7 +518,7 @@ butylated hydroxyanisole,butylated hydroxyanisole,candidate,,0,2,,,,U,,candidate
 butylated hydroxytoluene,Butylated Hydroxytoluene,candidate,128-37-0,0,9,"EU: restricted (max a) 0,001 %)",,,U,,candidate,,,open_beauty_facts
 butylene,Butylene,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 butylene ethylene styrene copolymer,Butylene/Ethylene/Styrene Copolymer,candidate,,1,13,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
-butylene glycol,Butylene Glycol,candidate,,44,934,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+butylene glycol,Butylene Glycol,candidate,,44,933,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 butylene glycol dicaprylate dicaprate,Butylene Glycol Dicaprylate/Dicaprate,candidate,,0,74,,,,U,,candidate,,,cosrx; open_beauty_facts
 butylene glycol glycerin,BUTYLENE GLYCOL GLYCERIN,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 butylene gycol,Butylene Gycol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -1364,7 +1364,7 @@ ethyl - hexylglycerin,Ethyl - hexylglycerin,candidate,,0,7,,,,U,,candidate,,,ope
 ethyl acetate,ETHYL ACETATE,candidate,,0,81,,,,U,,candidate,,,open_beauty_facts
 ethyl alcohol,Ethyl Alcohol,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
 ethyl ferulate,ETHYL FERULATE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-ethyl hexanediol,Ethyl Hexanediol,candidate,,0,15,,,,U,,candidate,,,cosrx; open_beauty_facts
+ethyl hexanediol,Ethyl Hexanediol,candidate,,0,14,,,,U,,candidate,,,cosrx; open_beauty_facts
 ethyl lauroyl arginate hcl,ETHYL LAUROYL ARGINATE HCL,candidate,60372-77-2,0,5,"EU: restricted (max 0,8 %)",,,U,,candidate,,,open_beauty_facts
 ethyl linoleate,ETHYL LINOLEATE,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 ethyl linolenate,ETHYL LINOLENATE,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -1565,7 +1565,7 @@ glycereth-26,Glycereth-26,candidate,,0,28,,,,U,,candidate,,,open_beauty_facts; r
 glycereth-7 caprylate caprate,Glycereth-7 Caprylate/Caprate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glyceri,glyceri,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glyceril stearate,Glyceril Stearate,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
-glycerin,Glycerin,candidate,56-81-5,179,8442,CA: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+glycerin,Glycerin,candidate,56-81-5,180,8441,CA: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 glycerin .1217017-post color shampooaqua water,GLYCERIN(F.I.L. C202318/2).1217017-POST COLOR SHAMPOOAQUA / WATER,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 glycerin .1217043 a - shine protect efterbehandlingaqua water,GLYCERIN(F.I.L. C202318/2).1217043 A - SHINE PROTECT EFTERBEHANDLINGAQUA/WATER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glycerin cetearyl alcohol,Glycerin Cetearyl Alcohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2655,7 +2655,7 @@ peg-6 caprylic capric glycerides,PEG-6 CAPRYLIC/CAPRIC GLYCERIDES,candidate,,3,8
 peg-6 stearate,PEG-6 STEARATE,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 peg-60 almond glycerides,PEG-60 ALMOND GLYCERIDES,candidate,,0,37,,,,U,,candidate,,,open_beauty_facts
 peg-60 glyceryl isostearate,PEG-60 Glyceryl Isostearate,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-peg-60 hydrogenated castor oil,PEG-60 HYDROGENATED CASTOR OIL,candidate,,1,126,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+peg-60 hydrogenated castor oil,PEG-60 HYDROGENATED CASTOR OIL,candidate,,1,125,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 peg-60-hydrogenated castor oil,PEG-60-HYDROGENATED CASTOR OIL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 peg-7,PEG-7,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 peg-7 amodimethicone,peg-7 amodimethicone,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
@@ -3334,11 +3334,11 @@ sodium glutamate,Sodium Glutamate,candidate,,0,9,,,,U,,candidate,,,open_beauty_f
 sodium hempseedate,Sodium Hempseedate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 sodium hexametaphosphate,Sodium Hexametaphosphate,candidate,,0,25,,,,U,,candidate,,,open_beauty_facts
 sodium hyaluro - nate,SODIUM HYALURO - NATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-sodium hyaluronate,Sodium Hyaluronate,candidate,,19,681,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+sodium hyaluronate,Sodium Hyaluronate,candidate,,19,680,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 sodium hyaluronate dimethylsilanol,Sodium Hyaluronate Dimethylsilanol,candidate,,0,3,,,,U,,candidate,,,cosrx; open_beauty_facts
 sodium hydro - xide,SODIUM HYDRO - XIDE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium hydrolyzed potato starch dodecenylsuccinate,sodium hydrolyzed potato starch dodecenylsuccinate,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
-sodium hydroxide,Sodium Hydroxide,candidate,,4,3280,EU: restricted (max (a) 5%),,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; windy_point
+sodium hydroxide,Sodium Hydroxide,candidate,,4,3279,EU: restricted (max (a) 5%),,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; windy_point
 sodium hydroxide polysorbate 80,Sodium Hydroxide Polysorbate 80,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium hydroxide tetrasodium edta,SODIUM HYDROXIDE TETRASODIUM EDTA,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium hydroxide. ingredients issus de l agriculture biologique,Sodium Hydroxide. * ingrédients issus de l'agriculture biologique,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
@@ -3792,7 +3792,7 @@ vp va copolymer,VP/VA Copolymer,candidate,,0,64,,,,U,,candidate,,,open_beauty_fa
 vpieicosene copolymer,VPIEicosene Copolymer,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 wanthan gum,Wanthan Gum,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 wasser,Wasser,candidate,,0,21,,,,U,,candidate,,,open_beauty_facts
-water,Aqua,candidate,,316,11003,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+water,Aqua,candidate,,317,11003,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 water . glycerin,Water (Aqua) (Eau). Glycerin,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 watet aqua eau,Watet / Aqua / Eau,candidate,,0,2,,,,U,,candidate,,,cosrx
 wear long-sleeved shirts,wear long-sleeved shirts,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
