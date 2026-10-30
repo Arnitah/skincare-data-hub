@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T16:08:31+00:00",
- "run_id": "20261029T160831Z",
- "date": "2026-10-29",
+ "generated_at": "2026-10-30T15:56:58+00:00",
+ "run_id": "20261030T155658Z",
+ "date": "2026-10-30",
  "totals": {
   "raw_materials": 1902,
   "products": 15279,
@@ -27,8 +27,8 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 349,
    "records_added": 0,
-   "records_changed": 13,
+   "records_changed": 10,
    "records_removed": 0,
-   "duration_seconds": 3.7,
+   "duration_seconds": 3.8,
    "message": ""
   },
   {
@@ -69,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 694,
-   "records_added": 1,
-   "records_changed": 1,
+   "records_added": 0,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1072.7,
+   "duration_seconds": 1072.6,
    "message": ""
   },
   {
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 273,
-   "records_added": 1,
-   "records_changed": 1,
+   "records_added": 0,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 11.9,
+   "duration_seconds": 8.8,
    "message": ""
   },
   {
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 3.7,
+   "duration_seconds": 4.0,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 7.8,
+   "duration_seconds": 8.5,
    "message": ""
   },
   {
@@ -153,12 +153,12 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 61,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 0,
    "records_removed": 0,
    "duration_seconds": 1.2,
    "message": ""
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 91,
    "records_added": 0,
    "records_changed": 0,
-   "records_removed": 1,
-   "duration_seconds": 213.7,
+   "records_removed": 0,
+   "duration_seconds": 213.4,
    "message": ""
   },
   {
@@ -195,14 +195,14 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 14.7,
+   "duration_seconds": 14.5,
    "message": ""
   },
   {
@@ -216,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.2,
+   "duration_seconds": 4.1,
    "message": ""
   },
   {
@@ -237,8 +237,8 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-29T16:08:31+00:00",
-   "last_success_at": "2026-10-29T16:08:31+00:00",
+   "last_run_at": "2026-10-30T15:56:58+00:00",
+   "last_success_at": "2026-10-30T15:56:58+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
@@ -515,6 +515,10 @@
    {
     "run_id": "20261029T160831Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
+    "status": "passed"
    }
   ],
   "lotioncrafter": [
@@ -572,6 +576,10 @@
    },
    {
     "run_id": "20261029T160831Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
     "status": "passed"
    }
   ],
@@ -631,6 +639,10 @@
    {
     "run_id": "20261029T160831Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -688,6 +700,10 @@
    },
    {
     "run_id": "20261029T160831Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
     "status": "passed"
    }
   ],
@@ -747,6 +763,10 @@
    {
     "run_id": "20261029T160831Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -804,6 +824,10 @@
    },
    {
     "run_id": "20261029T160831Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
     "status": "passed"
    }
   ],
@@ -863,6 +887,10 @@
    {
     "run_id": "20261029T160831Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -920,6 +948,10 @@
    },
    {
     "run_id": "20261029T160831Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
     "status": "passed"
    }
   ],
@@ -979,6 +1011,10 @@
    {
     "run_id": "20261029T160831Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -1036,6 +1072,10 @@
    },
    {
     "run_id": "20261029T160831Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
     "status": "passed"
    }
   ],
@@ -1095,10 +1135,124 @@
    {
     "run_id": "20261029T160831Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261030T155658Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:argireline-np",
+   "name": "Argireline® peptide solution NP",
+   "change": "changed",
+   "fields": "price_min, sizes",
+   "details": "price_min: 8.95 -> 9.95; sizes: 8g (.25 oz)  - $8.95; 15g (0.52 oz) - $16.75; 30g (1.05 oz) - $29.85; 60g (2.... -> 8g (.25 oz)  - $9.95; 15g (0.52 oz) - $16.75; 30g (1.05 oz) - $29.85; 60g (2...."
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:olive-squalane",
+   "name": "Olive Squalane",
+   "change": "changed",
+   "fields": "price_max, sizes",
+   "details": "price_max: 375.75 -> 382.75; sizes: 1.7 oz - $9.95; 3.5 oz - $17.55; 7 oz - $30.75; 14 oz - $55.25; 28 oz - $104.... -> 1.7 oz - $9.95; 3.5 oz - $17.55; 7 oz - $30.75; 14 oz - $55.25; 28 oz - $104...."
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:vitamin-e-acetate",
+   "name": "Vitamin E Acetate",
+   "change": "changed",
+   "fields": "price_min, sizes",
+   "details": "price_min: 10.65 -> 11.65; sizes: 2 oz - $10.65; 4 oz - $19.95; 8 oz - $39.95; 1 lb - $69.75; 8 lbs - $421.95; ... -> 2 oz - $11.65; 4 oz - $19.95; 8 oz - $39.95; 1 lb - $69.75; 8 lbs - $421.95; ..."
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:candelilla-wax",
+   "name": "Candelilla Wax",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 101.95 -> 118.95; price_min: 7.95 -> 9.95; sizes: 4 oz - $7.95; 1 lb - $22.95; 5 lb - $101.95 -> 4 oz - $9.95; 1 lb - $27.95; 5 lb - $118.95"
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:lemon-peel-bioferment-g",
+   "name": "Lemon Peel Bioferment G",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 69.95 -> 74.95; price_min: 7.95 -> 8.95; sizes: 1 oz - $7.95; 4 oz - $21.55; 8 oz - $37.95; 1 lb - $69.95 -> 1 oz - $8.95; 4 oz - $22.85; 8 oz - $39.95; 1 lb - $74.95"
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:argireline-amplified",
+   "name": "Argireline® Amplified peptide solution",
+   "change": "changed",
+   "fields": "price_max, sizes",
+   "details": "price_max: 360.95 -> 386.95; sizes: 8g (.25 oz)  - $9.95; 15g (0.52 oz) - $17.75; 30g (1.05 oz) - $31.95; 60g (2.... -> 8g (.25 oz)  - $9.95; 15g (0.52 oz) - $17.75; 30g (1.05 oz) - $31.95; 60g (2...."
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:leucidal-liquid",
+   "name": "Leucidal® Liquid",
+   "change": "changed",
+   "fields": "price_max, sizes",
+   "details": "price_max: 579.95 -> 609.95; sizes: 1 oz - $6.95; 4 oz - $12.00; 8 oz - $21.95; 1 lb - $31.95; 8 lbs - $215.95; 1... -> 1 oz - $6.95; 4 oz - $13.30; 8 oz - $22.95; 1 lb - $35.95; 8 lbs - $239.95; 1..."
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:emulsifying-wax-nf",
+   "name": "Emulsifying Wax NF",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 450.75 -> 466.75; price_min: 8.95 -> 9.95; sizes: 8 oz - $8.95; 1 lb - $15.25; 2 lbs - $28.50; 5 lbs - $68.75; 35 lbs - $450.75 -> 8 oz - $9.95; 1 lb - $16.45; 2 lbs - $31.75; 5 lbs - $72.75; 35 lbs - $466.75"
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:tetrasodium-edta",
+   "name": "Tetrasodium EDTA",
+   "change": "changed",
+   "fields": "price_min, sizes",
+   "details": "price_min: 3.95 -> 4.95; sizes: 1 oz - $3.95; 8 oz - $10.95; 1 lb - $19.35; 8 lbs - $139.95; 55.12 lbs - $845.95 -> 1 oz - $4.95; 8 oz - $10.95; 1 lb - $19.35; 8 lbs - $139.95; 55.12 lbs - $845.95"
+  },
+  {
+   "date": "2026-10-30",
+   "run_id": "20261030T155658Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:cromollient-sce",
+   "name": "Cromollient™ SCE",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 1065.5 -> 1165.5; price_min: 9.95 -> 11.45; sizes: 4 oz - $9.95; 8 oz - $18.45; 1 lb - $33.95; 2 lb - $62.50; 8 lbs - $217.80; 4... -> 4 oz - $11.45; 8 oz - $19.35; 1 lb - $35.95; 2 lb - $64.50; 8 lbs - $244.95; ..."
+  },
   {
    "date": "2026-10-29",
    "run_id": "20261029T160831Z",
@@ -2638,116 +2792,6 @@
    "change": "changed",
    "fields": "description",
    "details": "description: 07/30/2026 - We have switched vendors and have received an alternative supply... -> 10/1/2026 - We have switched vendors and have received an alternative supply ..."
-  },
-  {
-   "date": "2026-10-23",
-   "run_id": "20261023T141537Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:barthix",
-   "name": "BarThix™",
-   "change": "changed",
-   "fields": "price_max, price_min, sizes",
-   "details": "price_max: 68.25 -> 75.25; price_min: 7.75 -> 8.95; sizes: 1 oz - $7.75; 4 oz - $19.95; 8 oz - $36.55; 1 lb - $68.25 -> 1 oz - $8.95; 4 oz - $23.45; 8 oz - $39.75; 1 lb - $75.25"
-  },
-  {
-   "date": "2026-10-22",
-   "run_id": "20261022T143200Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:cucumber-seed-oil",
-   "name": "Cucumber Seed Oil",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-22",
-   "run_id": "20261022T143200Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:ipm-mb-isopropyl-myristate",
-   "name": "IPM MB (Isopropyl Myristate)",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-21",
-   "run_id": "20261021T192333Z",
-   "source_id": "windy_point",
-   "table": "raw_materials",
-   "record_id": "windy_point:sodium-bicarbonate-baking-soda-bulk",
-   "name": "Sodium Bicarbonate (Baking Soda) - Bulk",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-21",
-   "run_id": "20261021T192333Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:polyquaternium-7",
-   "name": "Polyquaternium 7",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-10-21",
-   "run_id": "20261021T192333Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:tetrahexyldecyl-ascorbate-thda-deodorized",
-   "name": "Tetrahexyldecyl Ascorbate (THDA), Deodorized",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-10-21",
-   "run_id": "20261021T143019Z",
-   "source_id": "cosrx",
-   "table": "products",
-   "record_id": "cosrx:cosrx-5-pdrn-nad-multi-repair-cream",
-   "name": "COSRX 5 PDRN NAD+ Multi Repair Cream",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-21",
-   "run_id": "20261021T143019Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:organic-rosemary-camphor-essential-oil",
-   "name": "Organic Rosemary Camphor Essential Oil",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-21",
-   "run_id": "20261021T143019Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:eucalyptus-radiata-essential-oil",
-   "name": "Eucalyptus Radiata Essential Oil",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-21",
-   "run_id": "20261021T143019Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-bio-chelate-zinc-pf",
-   "name": "FSS BIO-CHELATE ZINC PF",
-   "change": "added",
-   "fields": "",
-   "details": ""
   }
  ],
  "imports": [
