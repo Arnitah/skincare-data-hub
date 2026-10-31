@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T15:56:58+00:00",
- "run_id": "20261030T155658Z",
- "date": "2026-10-30",
+ "generated_at": "2026-10-31T15:21:00+00:00",
+ "run_id": "20261031T152100Z",
+ "date": "2026-10-31",
  "totals": {
   "raw_materials": 1902,
   "products": 15279,
@@ -27,14 +27,14 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 178.7,
+   "duration_seconds": 178.8,
    "message": ""
   },
   {
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 349,
    "records_added": 0,
-   "records_changed": 10,
+   "records_changed": 3,
    "records_removed": 0,
-   "duration_seconds": 3.8,
+   "duration_seconds": 4.1,
    "message": ""
   },
   {
@@ -69,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 694,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1072.6,
+   "duration_seconds": 1073.8,
    "message": ""
   },
   {
@@ -90,8 +90,8 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 273,
    "records_added": 0,
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.0,
+   "duration_seconds": 5.1,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 8.5,
+   "duration_seconds": 13.0,
    "message": ""
   },
   {
@@ -153,14 +153,14 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 61,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1.2,
+   "duration_seconds": 1.4,
    "message": ""
   },
   {
@@ -174,8 +174,8 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 91,
    "records_added": 0,
@@ -195,14 +195,14 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 14.5,
+   "duration_seconds": 15.3,
    "message": ""
   },
   {
@@ -216,8 +216,8 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
@@ -237,14 +237,14 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-10-30T15:56:58+00:00",
-   "last_success_at": "2026-10-30T15:56:58+00:00",
+   "last_run_at": "2026-10-31T15:21:00+00:00",
+   "last_success_at": "2026-10-31T15:21:00+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1.2,
+   "duration_seconds": 1.3,
    "message": ""
   },
   {
@@ -519,6 +519,10 @@
    {
     "run_id": "20261030T155658Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
+    "status": "passed"
    }
   ],
   "lotioncrafter": [
@@ -580,6 +584,10 @@
    },
    {
     "run_id": "20261030T155658Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
     "status": "passed"
    }
   ],
@@ -643,6 +651,10 @@
    {
     "run_id": "20261030T155658Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -704,6 +716,10 @@
    },
    {
     "run_id": "20261030T155658Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
     "status": "passed"
    }
   ],
@@ -767,6 +783,10 @@
    {
     "run_id": "20261030T155658Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -828,6 +848,10 @@
    },
    {
     "run_id": "20261030T155658Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
     "status": "passed"
    }
   ],
@@ -891,6 +915,10 @@
    {
     "run_id": "20261030T155658Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -952,6 +980,10 @@
    },
    {
     "run_id": "20261030T155658Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
     "status": "passed"
    }
   ],
@@ -1015,6 +1047,10 @@
    {
     "run_id": "20261030T155658Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -1076,6 +1112,10 @@
    },
    {
     "run_id": "20261030T155658Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
     "status": "passed"
    }
   ],
@@ -1139,10 +1179,47 @@
    {
     "run_id": "20261030T155658Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261031T152100Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-10-31",
+   "run_id": "20261031T152100Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:mango-butter",
+   "name": "Mango Butter",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-10-31",
+   "run_id": "20261031T152100Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:meadowfoam-xpr-expeller-pressed",
+   "name": "Meadowfoam XPR (Expeller Pressed)",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-10-31",
+   "run_id": "20261031T152100Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:tetrahexyldecyl-ascorbate-thda-deodorized",
+   "name": "Tetrahexyldecyl Ascorbate (THDA), Deodorized",
+   "change": "changed",
+   "fields": "price_max, sizes",
+   "details": "price_max: 489.55 -> 499.55; sizes: 0.25 oz - $13.95; 0.5 oz - $23.25; 1 oz - $40.75; 3.5 oz - $133.85; 7 oz - $2... -> 0.25 oz - $13.95; 0.5 oz - $23.65; 1 oz - $41.75; 3.5 oz - $139.85; 7 oz - $2..."
+  },
   {
    "date": "2026-10-30",
    "run_id": "20261030T155658Z",
@@ -2759,39 +2836,6 @@
    "change": "changed",
    "fields": "price_max, price_min, sizes",
    "details": "price_max: 59.95 -> 65.95; price_min: 11.55 -> 12.95; sizes: 2 oz - $11.55; 4 oz - $18.95; 8 oz - $34.55; 1 lb - $59.95 -> 2 oz - $12.95; 4 oz - $20.95; 8 oz - $35.95; 1 lb - $65.95"
-  },
-  {
-   "date": "2026-10-23",
-   "run_id": "20261023T141537Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:actifcol",
-   "name": "Actifcol™ advanced botanical",
-   "change": "changed",
-   "fields": "price_max, price_min, sizes",
-   "details": "price_max: 124.95 -> 115.55; price_min: 7.95 -> 8.35; sizes: 8g (.25 oz) - $7.95; 15g (0.52 oz) - $11.75; 30g (1.05 oz) - $19.85; 120g (4.... -> 8g (.25 oz) - $8.35; 15g (0.52 oz) - $12.25; 30g (1.05 oz) - $18.95; 120g (4...."
-  },
-  {
-   "date": "2026-10-23",
-   "run_id": "20261023T141537Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:bamboo-exfoliator",
-   "name": "Bamboo Exfoliator",
-   "change": "changed",
-   "fields": "price_max, price_min, sizes",
-   "details": "price_max: 54.95 -> 57.95; price_min: 15.65 -> 17.95; sizes: 4 oz - $15.65; 8 oz - $29.95; 1 lb - $54.95 -> 4 oz - $17.95; 8 oz - $31.95; 1 lb - $57.95"
-  },
-  {
-   "date": "2026-10-23",
-   "run_id": "20261023T141537Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:lcpeptide-copper",
-   "name": "LCPeptide™ Copper",
-   "change": "changed",
-   "fields": "description",
-   "details": "description: 07/30/2026 - We have switched vendors and have received an alternative supply... -> 10/1/2026 - We have switched vendors and have received an alternative supply ..."
   }
  ],
  "imports": [
