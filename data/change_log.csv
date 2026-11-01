@@ -565,3 +565,18 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-10-31,20261031T152100Z,lotioncrafter,raw_materials,lotioncrafter:tetrahexyldecyl-ascorbate-thda-deodorized,"Tetrahexyldecyl Ascorbate (THDA), Deodorized",changed,"price_max, sizes",price_max: 489.55 -> 499.55; sizes: 0.25 oz - $13.95; 0.5 oz - $23.25; 1 oz - $40.75; 3.5 oz - $133.85; 7 oz - $2... -> 0.25 oz - $13.95; 0.5 oz - $23.65; 1 oz - $41.75; 3.5 oz - $139.85; 7 oz - $2...
 2026-10-31,20261031T152100Z,lotioncrafter,raw_materials,lotioncrafter:meadowfoam-xpr-expeller-pressed,Meadowfoam XPR (Expeller Pressed),changed,in_stock,in_stock: false -> true
 2026-10-31,20261031T152100Z,lotioncrafter,raw_materials,lotioncrafter:mango-butter,Mango Butter,changed,in_stock,in_stock: false -> true
+2026-11-01,20261101T160302Z,lotioncrafter,raw_materials,lotioncrafter:natrasil,NatraSil™,changed,in_stock,in_stock: true -> false
+2026-11-01,20261101T160302Z,windy_point,raw_materials,windy_point:detergent-free-baby-buttermilk-mp-soap,Detergent Free Baby Buttermilk MP Soap,changed,in_stock,in_stock: true -> false
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-mask-sheet,1025 Dokdo Water Gel Mask Sheet,changed,"price_max, price_min",price_max: 28.8 -> 36; price_min: 3.2 -> 4
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:dokdo-cleansing-water,Dokdo Cleansing Water,changed,"price_max, price_min",price_max: 22.4 -> 28; price_min: 22.4 -> 28
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-pad,1025 Dokdo Toner Pad,changed,"price_max, price_min",price_max: 21.6 -> 27; price_min: 21.6 -> 27
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-peeling-gel,1025 Dokdo Peeling Gel,changed,"price_max, price_min",price_max: 19.2 -> 24; price_min: 19.2 -> 24
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-cleansing-gel,1025 Dokdo Cleansing Gel,changed,"price_max, price_min",price_max: 20.8 -> 26; price_min: 20.8 -> 26
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-sleeping-pack,1025 Dokdo Sleeping Pack,changed,"price_max, price_min",price_max: 19.2 -> 24; price_min: 19.2 -> 24
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-toner,1025 Dokdo Toner,changed,"price_max, price_min",price_max: 27.2 -> 34; price_min: 4.8 -> 6
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-mud-pack,1025 Dokdo Mud Pack,changed,"price_max, price_min",price_max: 15.2 -> 19; price_min: 15.2 -> 19
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-lotion,1025 Dokdo Lotion,changed,"price_max, price_min",price_max: 17.6 -> 22; price_min: 17.6 -> 22
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-cream,1025 Dokdo Cream,changed,"price_max, price_min",price_max: 28.8 -> 36; price_min: 28.8 -> 36
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-cleansing-oil,1025 Dokdo Cleansing Oil,changed,"price_max, price_min",price_max: 20.8 -> 26; price_min: 20.8 -> 26
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-cleanser,1025 Dokdo Cleanser,changed,"price_max, price_min",price_max: 13.6 -> 17; price_min: 13.6 -> 17
+2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-ampoule,1025 Dokdo Ampoule,changed,"price_max, price_min",price_max: 24.8 -> 31; price_min: 24.8 -> 31
