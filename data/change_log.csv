@@ -580,3 +580,11 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-cleansing-oil,1025 Dokdo Cleansing Oil,changed,"price_max, price_min",price_max: 20.8 -> 26; price_min: 20.8 -> 26
 2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-cleanser,1025 Dokdo Cleanser,changed,"price_max, price_min",price_max: 13.6 -> 17; price_min: 13.6 -> 17
 2026-11-01,20261101T160302Z,round_lab,products,round_lab:1025-dokdo-ampoule,1025 Dokdo Ampoule,changed,"price_max, price_min",price_max: 24.8 -> 31; price_min: 24.8 -> 31
+2026-11-02,20261102T193016Z,lotioncrafter,raw_materials,lotioncrafter:bakuchiol-99,"Bakuchiol, 99%",changed,in_stock,in_stock: true -> false
+2026-11-02,20261102T193016Z,lotioncrafter,raw_materials,lotioncrafter:olivem-1000-mb,Olivem® 1000 MB,changed,in_stock,in_stock: true -> false
+2026-11-02,20261102T193016Z,lotioncrafter,raw_materials,lotioncrafter:lc3569-cyclomethicone-and-dimethicone,LC3569 Cyclomethicone (and) Dimethicone,changed,"price_max, price_min, sizes",price_max: 101.2 -> 105.95; price_min: 7.35 -> 8.45; sizes: 4 oz - $7.35; 8 oz - $10.55; 1 lb - $15.95; 2 lbs - $29.95; 8 lbs - $101.20 -> 4 oz - $8.45; 8 oz - $11.55; 1 lb - $16.95; 2 lbs - $31.95; 8 lbs - $105.95
+2026-11-02,20261102T193016Z,lotioncrafter,raw_materials,lotioncrafter:lc1684-cyclomethicone-and-dimethicone,LC1684 Cyclomethicone (and) Dimethicone,changed,"price_max, price_min, sizes",price_max: 365 -> 375; price_min: 9.95 -> 10.45; sizes: 8 oz - $9.95; 1 lb - $13.95; 2 lbs - $24.95; 8 lbs - $89.95; 38 lbs - $365.00 -> 8 oz - $10.45; 1 lb - $14.95; 2 lbs - $25.95; 8 lbs - $89.95; 38 lbs - $375.00
+2026-11-02,20261102T193016Z,lotioncrafter,raw_materials,lotioncrafter:argireline-amplified,Argireline® Amplified peptide solution,changed,in_stock,in_stock: false -> true
+2026-11-02,20261102T193016Z,windy_point,raw_materials,windy_point:copy-of-epsom-salt,Epsom Salt - bulk,changed,in_stock,in_stock: true -> false
+2026-11-02,20261102T193016Z,windy_point,raw_materials,windy_point:lanolin-butter,Lanolin Butter,changed,in_stock,in_stock: true -> false
+2026-11-02,20261102T193016Z,cosrx,products,cosrx:the-hyaluronic-acid-3-serum_new-bundle,The Hyaluronic Acid 3 Serum,changed,"price_max, price_min",price_max: 53 -> 64; price_min: 18 -> 25

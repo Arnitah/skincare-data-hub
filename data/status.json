@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-01T16:03:02+00:00",
- "run_id": "20261101T160302Z",
- "date": "2026-11-01",
+ "generated_at": "2026-11-02T19:30:16+00:00",
+ "run_id": "20261102T193016Z",
+ "date": "2026-11-02",
  "totals": {
   "raw_materials": 1902,
   "products": 15279,
@@ -27,8 +27,8 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 349,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 5,
    "records_removed": 0,
-   "duration_seconds": 4.1,
+   "duration_seconds": 3.8,
    "message": ""
   },
   {
@@ -69,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 694,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1074.2,
+   "duration_seconds": 1073.2,
    "message": ""
   },
   {
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 273,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 2,
    "records_removed": 0,
-   "duration_seconds": 8.9,
+   "duration_seconds": 8.6,
    "message": ""
   },
   {
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 5.1,
+   "duration_seconds": 4.2,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 13.2,
+   "duration_seconds": 10.3,
    "message": ""
   },
   {
@@ -153,12 +153,12 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 61,
    "records_added": 0,
-   "records_changed": 13,
+   "records_changed": 0,
    "records_removed": 0,
    "duration_seconds": 1.3,
    "message": ""
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 91,
    "records_added": 0,
-   "records_changed": 0,
+   "records_changed": 1,
    "records_removed": 0,
-   "duration_seconds": 213.5,
+   "duration_seconds": 213.3,
    "message": ""
   },
   {
@@ -195,14 +195,14 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 14.7,
+   "duration_seconds": 15.7,
    "message": ""
   },
   {
@@ -216,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.2,
+   "duration_seconds": 4.1,
    "message": ""
   },
   {
@@ -237,8 +237,8 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-01T16:03:02+00:00",
-   "last_success_at": "2026-11-01T16:03:02+00:00",
+   "last_run_at": "2026-11-02T19:30:16+00:00",
+   "last_success_at": "2026-11-02T19:30:16+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
@@ -527,6 +527,10 @@
    {
     "run_id": "20261101T160302Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
+    "status": "passed"
    }
   ],
   "lotioncrafter": [
@@ -596,6 +600,10 @@
    },
    {
     "run_id": "20261101T160302Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
     "status": "passed"
    }
   ],
@@ -667,6 +675,10 @@
    {
     "run_id": "20261101T160302Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -736,6 +748,10 @@
    },
    {
     "run_id": "20261101T160302Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
     "status": "passed"
    }
   ],
@@ -807,6 +823,10 @@
    {
     "run_id": "20261101T160302Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -876,6 +896,10 @@
    },
    {
     "run_id": "20261101T160302Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
     "status": "passed"
    }
   ],
@@ -947,6 +971,10 @@
    {
     "run_id": "20261101T160302Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -1016,6 +1044,10 @@
    },
    {
     "run_id": "20261101T160302Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
     "status": "passed"
    }
   ],
@@ -1087,6 +1119,10 @@
    {
     "run_id": "20261101T160302Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -1156,6 +1192,10 @@
    },
    {
     "run_id": "20261101T160302Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
     "status": "passed"
    }
   ],
@@ -1227,10 +1267,102 @@
    {
     "run_id": "20261101T160302Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261102T193016Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-11-02",
+   "run_id": "20261102T193016Z",
+   "source_id": "cosrx",
+   "table": "products",
+   "record_id": "cosrx:the-hyaluronic-acid-3-serum_new-bundle",
+   "name": "The Hyaluronic Acid 3 Serum",
+   "change": "changed",
+   "fields": "price_max, price_min",
+   "details": "price_max: 53 -> 64; price_min: 18 -> 25"
+  },
+  {
+   "date": "2026-11-02",
+   "run_id": "20261102T193016Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:lanolin-butter",
+   "name": "Lanolin Butter",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-02",
+   "run_id": "20261102T193016Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:copy-of-epsom-salt",
+   "name": "Epsom Salt - bulk",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-02",
+   "run_id": "20261102T193016Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:argireline-amplified",
+   "name": "Argireline® Amplified peptide solution",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-11-02",
+   "run_id": "20261102T193016Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:lc1684-cyclomethicone-and-dimethicone",
+   "name": "LC1684 Cyclomethicone (and) Dimethicone",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 365 -> 375; price_min: 9.95 -> 10.45; sizes: 8 oz - $9.95; 1 lb - $13.95; 2 lbs - $24.95; 8 lbs - $89.95; 38 lbs - $365.00 -> 8 oz - $10.45; 1 lb - $14.95; 2 lbs - $25.95; 8 lbs - $89.95; 38 lbs - $375.00"
+  },
+  {
+   "date": "2026-11-02",
+   "run_id": "20261102T193016Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:lc3569-cyclomethicone-and-dimethicone",
+   "name": "LC3569 Cyclomethicone (and) Dimethicone",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 101.2 -> 105.95; price_min: 7.35 -> 8.45; sizes: 4 oz - $7.35; 8 oz - $10.55; 1 lb - $15.95; 2 lbs - $29.95; 8 lbs - $101.20 -> 4 oz - $8.45; 8 oz - $11.55; 1 lb - $16.95; 2 lbs - $31.95; 8 lbs - $105.95"
+  },
+  {
+   "date": "2026-11-02",
+   "run_id": "20261102T193016Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:olivem-1000-mb",
+   "name": "Olivem® 1000 MB",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-02",
+   "run_id": "20261102T193016Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:bakuchiol-99",
+   "name": "Bakuchiol, 99%",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
   {
    "date": "2026-11-01",
    "run_id": "20261101T160302Z",
@@ -2792,94 +2924,6 @@
    "change": "changed",
    "fields": "tags",
    "details": "tags: acne-prone; allproducts; oily; pine; pine cica; Pine Tree; Sun Care; sun scre... -> acne-prone; allproducts; igg26_for_her; oily; pine; pine cica; Pine Tree; Sun..."
-  },
-  {
-   "date": "2026-10-24",
-   "run_id": "20261024T132053Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:cucumber-seed-oil",
-   "name": "Cucumber Seed Oil",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-10-24",
-   "run_id": "20261024T132053Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:vitamin-e",
-   "name": "Vitamin E Oil (100% Natural)",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-10-24",
-   "run_id": "20261024T132053Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:organic-prickly-pear-seed-oil",
-   "name": "Organic Prickly Pear Seed Oil",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-24",
-   "run_id": "20261024T132053Z",
-   "source_id": "windy_point",
-   "table": "raw_materials",
-   "record_id": "windy_point:bentonite-clay",
-   "name": "Bentonite Clay",
-   "change": "changed",
-   "fields": "description",
-   "details": "description: Description Details Documents Useful on oily skin. Excellent oil absorbing pr... -> Description Details Documents Useful on oily skin. Excellent oil absorbing pr..."
-  },
-  {
-   "date": "2026-10-24",
-   "run_id": "20261024T132053Z",
-   "source_id": "windy_point",
-   "table": "raw_materials",
-   "record_id": "windy_point:sodium-bicarbonate-baking-soda-bulk",
-   "name": "Sodium Bicarbonate (Baking Soda) - Bulk",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-10-24",
-   "run_id": "20261024T132053Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-lactic-acid-88",
-   "name": "FSS LACTIC ACID 88%",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-24",
-   "run_id": "20261024T132053Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-salicylic-acid-usp",
-   "name": "FSS SALICYLIC ACID USP",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-24",
-   "run_id": "20261024T132053Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-gluconodeltalactone",
-   "name": "FSS GLUCONODELTALACTONE",
-   "change": "added",
-   "fields": "",
-   "details": ""
   }
  ],
  "imports": [
