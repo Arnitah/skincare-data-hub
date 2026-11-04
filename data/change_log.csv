@@ -620,3 +620,19 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-03,20261103T170434Z,cosrx,products,cosrx:low-ph-niacinamide-micellar-cleansing-water,Low pH Niacinamide Micellar Cleansing Water,changed,price_max,price_max: 10.5 -> 15
 2026-11-03,20261103T170434Z,cosrx,products,cosrx:c_vitamin-e-vitalizing-sunscreen-spf-50,(Short-dated) COSRX Vitamin E Vitalizing Sunscreen SPF 50+,changed,"price_max, price_min",price_max: 13.8 -> 23; price_min: 13.8 -> 23
 2026-11-03,20261103T170434Z,cosrx,products,cosrx:cosrx-advanced-snail-mucin-power-sheet-mask-10-sheets,Advanced Snail Mucin Power Sheet Mask 10 Sheets,changed,"price_max, price_min",price_max: 17.5 -> 25; price_min: 17.5 -> 25
+2026-11-04,20261104T171707Z,lotioncrafter,raw_materials,lotioncrafter:bakuchiol-99,"Bakuchiol, 99%",changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,lotioncrafter,raw_materials,lotioncrafter:sodium-lactate-powder,Sodium Lactate Powder,changed,in_stock,in_stock: true -> false
+2026-11-04,20261104T171707Z,lotioncrafter,raw_materials,lotioncrafter:aloe-vera-juice-1x,Aloe Vera Juice 1X,changed,"price_max, sizes",price_max: 230.95 -> 56.95; sizes: 1 lb - $11.95; 2 lbs - $17.95; 8 lbs - $56.95; 40 lbs - $230.95 -> 1 lb - $11.95; 2 lbs - $17.95; 8 lbs - $56.95
+2026-11-04,20261104T171707Z,formulator_sample_shop,raw_materials,formulator_sample_shop:dicaprylyl-carbonate,DICAPRYLYL CARBONATE,added,,
+2026-11-04,20261104T171707Z,windy_point,raw_materials,windy_point:sodium-cocoyl-isethionate-sci-noodles-bulk,Sodium Cocoyl Isethionate (SCI) - Noodles (Bulk),changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-rose-geranium-essential-oil,Organic Rose Geranium Essential Oil,changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-broccoli-seed-oil,Organic Broccoli Seed Oil,changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-borage-oil,Organic Borage Oil,changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-apricot-kernel-oil,Organic Apricot Kernel Oil,changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-prickly-pear-seed-oil,Organic Prickly Pear Seed Oil,changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:chamomile-flowers-organic,Organic Chamomile Flowers,changed,in_stock,in_stock: true -> false
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:grapefruit-essential-oil,Grapefruit Essential Oil,changed,in_stock,in_stock: true -> false
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-neroli-essential-oil,Organic Neroli Essential Oil,changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-rosehip-seed-oil,Organic Rosehip Seed Oil,changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-evening-primrose-oil,Organic Evening Primrose Oil,changed,in_stock,in_stock: false -> true
+2026-11-04,20261104T171707Z,aromantic,raw_materials,aromantic:organic-castor-oil,Organic Castor Oil,changed,in_stock,in_stock: false -> true
