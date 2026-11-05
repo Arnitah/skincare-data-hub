@@ -1426,6 +1426,7 @@ centaurea,centaurea,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 centaurea cyanus flower,Centaurea Cyanus (Cornflower) Flower,candidate,,1,0,,,,U,,candidate,,,windy_point
 centaurea cyanus flower extract,Centaurea Cyanus Flower Extract,candidate,84012-18-0,1,24,,,,U,,candidate,,,native_extracts; open_beauty_facts
 centaurea cyanus flower water,CENTAUREA CYANUS FLOWER WATER,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
+centella asiatica callus culture,Centella Asiatica Callus Culture,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
 centella asiatica extract,Centella Asiatica Extract,candidate,84696-21-9 / 84776-24-9,6,92,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts; round_lab
 centella asiatica leaf extract,Centella Asiatica Leaf Extract,candidate,,1,24,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
 centella asiatica leaf water,Centella Asiatica Leaf Water,candidate,,0,3,,,,U,,candidate,,,cosrx
@@ -3113,7 +3114,7 @@ glycereth-8 esters,glycereth-8 esters,candidate,,0,2,,,,U,,candidate,,,open_beau
 glyceri,glyceri,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glycerides,Glycerides,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 glyceril stearate,Glyceril Stearate,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
-glycerin,Glycerin,candidate,56-81-5,180,8441,CA: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+glycerin,Glycerin,candidate,56-81-5,181,8441,CA: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 glycerin .1217017-post color shampooaqua water,GLYCERIN(F.I.L. C202318/2).1217017-POST COLOR SHAMPOOAQUA / WATER,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 glycerin .1217043 a - shine protect efterbehandlingaqua water,GLYCERIN(F.I.L. C202318/2).1217043 A - SHINE PROTECT EFTERBEHANDLINGAQUA/WATER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glycerin 1,glycerin 1 %,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -3581,6 +3582,7 @@ hydrolyzed dna,Hydrolyzed DNA,candidate,,1,5,,,,U,,candidate,,,cosrx; lotioncraf
 hydrolyzed elastin,Hydrolyzed Elastin,candidate,,2,18,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 hydrolyzed extensin,Hydrolyzed Extensin,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 hydrolyzed fucus vesiculosus protein,Hydrolyzed Fucus Vesiculosus Protein,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
+hydrolyzed ganoderma lucidum extract,Hydrolyzed Ganoderma Lucidum (Mushroom) Extract,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
 hydrolyzed ginseng saponins,HYDROLYZED GINSENG SAPONINS,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 hydrolyzed glycosaminoglycans,Hydrolyzed Glycosaminoglycans,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 hydrolyzed hazelnut protein,HYDROLYZED HAZELNUT PROTEIN,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -3877,7 +3879,7 @@ juramento 1775,Juramento 1775,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 jus de feuilles d aloe barbadensis,jus de feuilles d'Aloe Barbadensis,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 kalahari melon extract,Kalahari Melon Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 kalanchoe pinnata leaf extract,KALANCHOE PINNATA LEAF EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-kaolin,Kaolin,candidate,,7,231,EU: permitted colorant,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; round_lab; windy_point
+kaolin,Kaolin,candidate,,6,231,EU: permitted colorant,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab; windy_point
 kaolin clay,Kaolin Clay,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 kaolin or titanium dioxide,KAOLIN OR (OU) TITANIUM DIOXIDE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 kaolinite,kaolinite,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -4371,10 +4373,10 @@ maris aqua,MARIS AQUA,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
 maris aqua sea water eau de mer,Maris Aqua/Sea Water/Eau de mer,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 maris limus,maris limus,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 maris limus extract,Maris Limus Extract,candidate,,1,27,,,,U,,candidate,,,aromantic; open_beauty_facts
-maris sal,Maris Sal,candidate,,1,159,,,,U,,candidate,,,open_beauty_facts; windy_point
+maris sal,Maris Sal,candidate,,0,159,,,,U,,candidate,,,open_beauty_facts
 maris sal sea salt,MARIS SAL/SEA SALT,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 maris sal sea salt sel marin,MARIS SAL/SEA SALT/SEL MARIN,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-maris salt,Maris salt,candidate,,3,0,,,,U,,candidate,,,windy_point
+maris salt,Maris salt,candidate,,2,0,,,,U,,candidate,,,windy_point
 masking fragrance,masking fragrance,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 massage onto scalp,massage onto scalp,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 materials or surfaces inactive ingredients water,materials or surfaces inactive ingredients water,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -4605,7 +4607,7 @@ monoestearato de glicerilo,monoestearato de glicerilo,candidate,,0,3,,,,U,,candi
 monofluorophosphate de sodium,Monofluorophosphate de sodium,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 monosodium citrate,monosodium citrate,candidate,,0,20,,,,U,,candidate,,,open_beauty_facts
 monostearate de glycerol,monostéarate de glycérol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-montmorillonite,Montmorillonite,candidate,,2,33,,,,U,,candidate,,,aromantic; formulator_sample_shop; open_beauty_facts
+montmorillonite,Montmorillonite,candidate,,1,33,,,,U,,candidate,,,aromantic; open_beauty_facts
 morelos,MORELOS,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 morinda citrifolia fruit extract,Morinda Citrifolia Fruit Extract,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 moringa oil hydrogenated moringa oil esters,Moringa Oil/Hydrogenated Moringa Oil Esters,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts

@@ -1758,6 +1758,7 @@ hydrolyzed dna,Hydrolyzed DNA,candidate,,1,5,,,,U,,candidate,,,cosrx; lotioncraf
 hydrolyzed elastin,Hydrolyzed Elastin,candidate,,2,18,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 hydrolyzed extensin,Hydrolyzed Extensin,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 hydrolyzed fucus vesiculosus protein,Hydrolyzed Fucus Vesiculosus Protein,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
+hydrolyzed ganoderma lucidum extract,Hydrolyzed Ganoderma Lucidum (Mushroom) Extract,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
 hydrolyzed ginseng saponins,HYDROLYZED GINSENG SAPONINS,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 hydrolyzed hazelnut protein,HYDROLYZED HAZELNUT PROTEIN,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 hydrolyzed hibiscus esculentus extract,Hydrolyzed Hibiscus Esculentus Extract,candidate,,0,6,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
@@ -1902,7 +1903,7 @@ juniperus mexicana wood oil,Juniperus Mexicana Wood Oil,candidate,,0,5,,,,U,,can
 juniperus oxycedrus wood oil,Juniperus Oxycedrus Wood Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 juniperus virginiana wood oil,Juniperus Virginiana Wood Oil,candidate,,1,1,EU: restricted,,,U,,candidate,,,aromantic; open_beauty_facts
 kalanchoe pinnata leaf extract,KALANCHOE PINNATA LEAF EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-kaolin,Kaolin,candidate,,7,231,EU: permitted colorant,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; round_lab; windy_point
+kaolin,Kaolin,candidate,,6,231,EU: permitted colorant,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab; windy_point
 kaolinite,kaolinite,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 kappaphycus alvarezii extract,Kappaphycus Alvarezii Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 kennebunk,kennebunk,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2143,7 +2144,7 @@ mare milk,Mare Milk,candidate,,0,3,,MILK-007:exact,,U,,candidate,,,open_beauty_f
 margarita powder,Margarita Powder,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 maris aqua,MARIS AQUA,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
 maris limus,maris limus,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-maris sal,Maris Sal,candidate,,1,159,,,,U,,candidate,,,open_beauty_facts; windy_point
+maris sal,Maris Sal,candidate,,0,159,,,,U,,candidate,,,open_beauty_facts
 maris sal sea salt sel marin,MARIS SAL/SEA SALT/SEL MARIN,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 masking fragrance,masking fragrance,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 matricaria chamomilla flower powder,matricaria chamomilla flower powder,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2260,7 +2261,7 @@ modified corn starch,Modified Corn Starch,candidate,,0,3,,,,U,,candidate,,,open_
 modified food starch,MODIFIED FOOD STARCH,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 monoestearato de glicerila,MONOESTEARATO DE GLICERILA,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 monosodium citrate,monosodium citrate,candidate,,0,20,,,,U,,candidate,,,open_beauty_facts
-montmorillonite,Montmorillonite,candidate,,2,33,,,,U,,candidate,,,aromantic; formulator_sample_shop; open_beauty_facts
+montmorillonite,Montmorillonite,candidate,,1,33,,,,U,,candidate,,,aromantic; open_beauty_facts
 moringa oil hydrogenated moringa oil esters,Moringa Oil/Hydrogenated Moringa Oil Esters,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 moringa oleifera leaf extract,Moringa oleifera Leaf Extract,candidate,93165-54-9,1,3,,,,U,,candidate,,,native_extracts; open_beauty_facts
 msm,MSM,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts

@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-04T17:17:07+00:00",
- "run_id": "20261104T171707Z",
- "date": "2026-11-04",
+ "generated_at": "2026-11-05T17:25:17+00:00",
+ "run_id": "20261105T172517Z",
+ "date": "2026-11-05",
  "totals": {
-  "raw_materials": 1903,
+  "raw_materials": 1900,
   "products": 15280,
   "regulatory": 3032,
-  "ingredients": 7590,
+  "ingredients": 7592,
   "products_with_regulated_ingredients": 13463,
   "atlas_entries_with_product_matches": 20,
   "atlas_product_matches_exact": 1375,
   "excluded_non_cosmetic": 103,
   "review_status": {
-   "candidate": 20220
+   "candidate": 20221
   }
  },
  "sources": [
@@ -26,16 +26,16 @@
    "adapter": "native_extracts",
    "base_url": "https://www.nativeextracts.com",
    "active": true,
-   "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_status": "partial",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 178.8,
-   "message": ""
+   "duration_seconds": 235.0,
+   "message": "11 product page(s) failed to load; kept previous data for those"
   },
   {
    "source_id": "lotioncrafter",
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
-   "records_active": 349,
-   "records_added": 0,
-   "records_changed": 3,
+   "records_active": 350,
+   "records_added": 1,
+   "records_changed": 27,
    "records_removed": 0,
-   "duration_seconds": 3.7,
+   "duration_seconds": 3.6,
    "message": ""
   },
   {
@@ -68,16 +68,16 @@
    "adapter": "shopify",
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
-   "last_run_status": "partial",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_status": "passed",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
-   "records_active": 695,
-   "records_added": 1,
+   "records_active": 693,
+   "records_added": 0,
    "records_changed": 0,
-   "records_removed": 0,
-   "duration_seconds": 1087.7,
-   "message": "2 product page(s) failed to load; kept previous data for those"
+   "records_removed": 2,
+   "duration_seconds": 1070.8,
+   "message": ""
   },
   {
    "source_id": "windy_point",
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
-   "records_active": 273,
+   "records_active": 271,
    "records_added": 0,
-   "records_changed": 1,
-   "records_removed": 0,
-   "duration_seconds": 8.6,
+   "records_changed": 2,
+   "records_removed": 2,
+   "duration_seconds": 8.5,
    "message": ""
   },
   {
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
-   "records_changed": 11,
+   "records_changed": 2,
    "records_removed": 0,
-   "duration_seconds": 4.4,
+   "duration_seconds": 3.9,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
    "records_active": 15127,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 10.4,
+   "duration_seconds": 8.4,
    "message": ""
   },
   {
@@ -153,14 +153,14 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
    "records_active": 62,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1.3,
+   "duration_seconds": 1.2,
    "message": ""
   },
   {
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
    "records_active": 91,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 213.4,
+   "duration_seconds": 211.8,
    "message": ""
   },
   {
@@ -195,14 +195,14 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 16.6,
+   "duration_seconds": 14.7,
    "message": ""
   },
   {
@@ -216,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.1,
+   "duration_seconds": 4.2,
    "message": ""
   },
   {
@@ -237,14 +237,14 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-04T17:17:07+00:00",
-   "last_success_at": "2026-11-04T17:17:07+00:00",
+   "last_run_at": "2026-11-05T17:25:17+00:00",
+   "last_success_at": "2026-11-05T17:25:17+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1.9,
+   "duration_seconds": 1.3,
    "message": ""
   },
   {
@@ -539,6 +539,10 @@
    {
     "run_id": "20261104T171707Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
+    "status": "partial"
    }
   ],
   "lotioncrafter": [
@@ -620,6 +624,10 @@
    },
    {
     "run_id": "20261104T171707Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
     "status": "passed"
    }
   ],
@@ -703,6 +711,10 @@
    {
     "run_id": "20261104T171707Z",
     "status": "partial"
+   },
+   {
+    "run_id": "20261105T172517Z",
+    "status": "passed"
    }
   ],
   "windy_point": [
@@ -784,6 +796,10 @@
    },
    {
     "run_id": "20261104T171707Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
     "status": "passed"
    }
   ],
@@ -867,6 +883,10 @@
    {
     "run_id": "20261104T171707Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
+    "status": "passed"
    }
   ],
   "open_beauty_facts": [
@@ -948,6 +968,10 @@
    },
    {
     "run_id": "20261104T171707Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
     "status": "passed"
    }
   ],
@@ -1031,6 +1055,10 @@
    {
     "run_id": "20261104T171707Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
+    "status": "passed"
    }
   ],
   "cosrx": [
@@ -1112,6 +1140,10 @@
    },
    {
     "run_id": "20261104T171707Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
     "status": "passed"
    }
   ],
@@ -1195,6 +1227,10 @@
    {
     "run_id": "20261104T171707Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
+    "status": "passed"
    }
   ],
   "reg_ca": [
@@ -1276,6 +1312,10 @@
    },
    {
     "run_id": "20261104T171707Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
     "status": "passed"
    }
   ],
@@ -1359,10 +1399,410 @@
    {
     "run_id": "20261104T171707Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261105T172517Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-bulgarian-lavender-essential-oil",
+   "name": "Organic Bulgarian Lavender Essential Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:calendula-co2-extract-organic",
+   "name": "Organic Calendula CO2 Extract",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:dead-sea-mineral-salt-fine-bulk",
+   "name": "Dead Sea Mineral Salt - Fine - Bulk",
+   "change": "removed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:dead-sea-mineral-salt-coarse-bulk",
+   "name": "Dead Sea Mineral Salt - Coarse - Bulk",
+   "change": "removed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:dead-sea-mineral-salt-coarse",
+   "name": "Dead Sea Mineral Salt - Coarse",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents This mineral rich salt comes from the most sali... -> Description Details Documents This mineral rich salt comes from the most sali..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:dead-sea-mineral-salt-fine",
+   "name": "Dead Sea Mineral Salt - Fine",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents This mineral rich salt comes from the most sali... -> Description Details Documents This mineral rich salt comes from the most sali..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-white-kaolin-clay",
+   "name": "FSS White Kaolin Clay",
+   "change": "removed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-bentonite-clay",
+   "name": "FSS Bentonite Clay",
+   "change": "removed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:apple-fruit-essence",
+   "name": "Apple Fruit Essence",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 58.75 -> 72.75; price_min: 7.85 -> 8.85; sizes: 8 oz - $7.85; 1 lb - $10.95; 2 lbs - $17.75; 8 lbs - $58.75 -> 8 oz - $8.85; 1 lb - $12.95; 2 lbs - $20.75; 8 lbs - $72.75"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:fision-instant-lift",
+   "name": "Fision® Instant Lift",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 88.56 -> 94.56; price_min: 5.95 -> 6.95; sizes: 30g (1.05 oz) - $5.95; 60g (2.11 oz) - $9.95; 120g (4.23 oz) - $15.95; 240g (... -> 30g (1.05 oz) - $6.95; 60g (2.11 oz) - $9.95; 120g (4.23 oz) - $15.95; 240g (..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:hydrolyzed-quinoa",
+   "name": "Hydrolyzed Quinoa",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 289.95 -> 339.65; price_min: 5.95 -> 6.95; sizes: 1 oz - $5.95; 2 oz - $8.95; 4 oz - $12.95; 8 oz - $22.55; 1 lb - $39.95; 2 lb... -> 1 oz - $6.95; 2 oz - $10.25; 4 oz - $16.95; 8 oz - $28.55; 1 lb - $47.95; 2 l..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:laureth-23",
+   "name": "Laureth-23",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 79.95 -> 84.95; price_min: 6.45 -> 6.65; sizes: 1 oz - $6.45; 8 oz - $11.95; 1 lb - $20.65; 5 lbs - $79.95 -> 1 oz - $6.65; 8 oz - $12.95; 1 lb - $21.95; 5 lbs - $84.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:naturepep-sacha-inchi",
+   "name": "NaturePep® Sacha Inchi",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 92.65 -> 102.85; price_min: 6.55 -> 7.55; sizes: 30g (1.05 oz) - $6.55; 60g (2.11 oz) - $9.95; 120g (4.23 oz) - $16.95; 240g (... -> 30g (1.05 oz) - $7.55; 60g (2.11 oz) - $10.95; 120g (4.23 oz) - $17.85; 240g ..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:potassium-sorbate",
+   "name": "Potassium Sorbate",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 41.95 -> 42.95; price_min: 5.95 -> 5.45; sizes: 4 oz - $5.95; 8 oz - $6.75; 1 lb - $9.45; 5 lbs - $41.95 -> 4 oz - $5.45; 8 oz - $6.95; 1 lb - $9.85; 5 lbs - $42.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:witch-hazel-hydrosol",
+   "name": "Witch Hazel Hydrosol",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 92.95 -> 98.95; price_min: 5.85 -> 6.25; sizes: 2 oz - $5.85; 8 oz - $9.75; 1 lb - $16.95; 2 lb - $28.95; 8 lb - $92.95 -> 2 oz - $6.25; 8 oz - $10.35; 1 lb - $16.95; 2 lb - $29.95; 8 lb - $98.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:carnauba-wax",
+   "name": "Carnauba Wax",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 110.95 -> 125.95; price_min: 8.35 -> 9.65; sizes: 4 oz - $8.35; 1 lb - $27.95; 5 lb - $110.95 -> 4 oz - $9.65; 1 lb - $28.95; 5 lb - $125.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:shea-butter-ws",
+   "name": "Shea Butter WS",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 445 -> 598; price_min: 5.25 -> 6.35; sizes: 2 oz - $5.25; 4.5 oz - $8.25; 9 oz - $13.75; 18 oz $20.25; 36 oz - $32.50; 40... -> 2 oz - $6.35; 4.5 oz - $9.85; 9 oz - $15.35; 18 oz $25.25; 36 oz - $41.50; 40..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:helichrysum-extract",
+   "name": "Helichrysum Extract",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 46.99 -> 49.95; price_min: 6.85 -> 7.35; sizes: 1 oz - $6.85; 2 oz - $9.45; 4 oz - $14.85; 8 oz - $26.25; 1 lb - $46.99 -> 1 oz - $7.35; 2 oz - $9.95; 4 oz - $15.95; 8 oz - $28.45; 1 lb - $49.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:linefill",
+   "name": "Linefill™",
+   "change": "changed",
+   "fields": "price_max",
+   "details": "price_max: 409.75 -> 409.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:jeecide-cap-5",
+   "name": "Jeecide® CAP-5",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 236.75 -> 284.75; price_min: 7.95 -> 9.35; sizes: 2 oz - $7.95; 4 oz - $11.45; 8 oz - $18.95; 1 lb - $33.75; 2 lb - $63.95; 8 l... -> 2 oz - $9.35; 4 oz - $14.85; 8 oz - $24.95; 1 lb - $43.75; 2 lb - $78.95; 8 l..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:hydrolyzed-milk-protein",
+   "name": "Hydrolyzed Milk Protein",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 213.75 -> 223.75; price_min: 6.95 -> 7.95; sizes: 2 oz - $ 6.95; 4 oz - $10.95; 8 oz - $17.95; 1 lb - $33.65; 2 lb - $58.95; 8 ... -> 2 oz - $ 7.95; 4 oz - $11.95; 8 oz - $18.45; 1 lb - $33.95; 2 lb - $60.95; 8 ..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:lotioncrafter-el61",
+   "name": "Lotioncrafter® EL61",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 58.95 -> 66.95; price_min: 9.95 -> 11.95; sizes: 2 oz - $9.95; 8 oz - $31.75; 1 lb - $58.95 -> 2 oz - $11.95; 8 oz - $38.75; 1 lb - $66.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:castor-oil",
+   "name": "Castor Oil",
+   "change": "changed",
+   "fields": "price_min, sizes",
+   "details": "price_min: 6.95 -> 7.85; sizes: 4 oz - $6.95; 1 lb  - $14.75; 2 lbs - $27.95; 8 lbs - $98.95 -> 4 oz - $7.85; 1 lb  - $15.95; 2 lbs - $27.95; 8 lbs - $98.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:cationic-ha",
+   "name": "Cationic HA",
+   "change": "changed",
+   "fields": "price_min, sizes",
+   "details": "price_min: 9.85 -> 9.95; sizes: 2 oz - $9.85; 4 oz - $16.65; 8 oz - $29.85; 1 lb - $53.95; 4 lb - $195.55 -> 2 oz - $9.95; 4 oz - $16.65; 8 oz - $29.85; 1 lb - $53.95; 4 lb - $195.55"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:naturemuls",
+   "name": "NatureMuls",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 399 -> 409; price_min: 7.75 -> 8.95; sizes: 4 oz - $7.75; 1 lb - $24.85; 4 lbs - $89.85; 20 lbs - $399.00 -> 4 oz - $8.95; 1 lb - $26.85; 4 lbs - $92.85; 20 lbs - $409.00"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:fision-hydrate",
+   "name": "Fision® Hydrate",
+   "change": "changed",
+   "fields": "price_min, sizes",
+   "details": "price_min: 4.95 -> 6.95; sizes: 30g (1.05 oz) - $4.95; 60g (2.11 oz) - $7.55; 120g (4.23 oz) - $12.65; 240g (... -> 30g (1.05 oz) - $6.95; 60g (2.11 oz) - $8.85; 120g (4.23 oz) - $12.85; 240g (..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:argan-oil-virgin",
+   "name": "Argan Oil, Virgin",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 526.95 -> 576.95; price_min: 8.65 -> 9.65; sizes: 1 oz - $8.65; 4 oz - $21.95; 8 oz - $39.95; 1 lb - $73.80; 7.5 lbs - $526.95 -> 1 oz - $9.65; 4 oz - $25.95; 8 oz - $45.95; 1 lb - $85.80; 7.5 lbs - $576.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:lcpeptide-syn6",
+   "name": "LCPeptide™ Syn-6",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 176.55 -> 196.55; price_min: 6.35 -> 7.85; sizes: 8g (.25 oz)  - $6.35; 15g (0.52 oz) - $8.95; 30g (1.05 oz) - $14.55; 60g (2.1... -> 8g (.25 oz)  - $7.85; 15g (0.52 oz) - $10.65; 30g (1.05 oz) - $17.95; 60g (2...."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:ricematte-cosmetic-powder",
+   "name": "RiceMATTE™ Cosmetic Powder",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 58.95 -> 59.95; price_min: 6.65 -> 6.95; sizes: 1 oz - $6.65; 4 oz - $16.45; 8 oz - $29.95; 1 lb - $58.95 -> 1 oz - $6.95; 4 oz - $17.65; 8 oz - $31.95; 1 lb - $59.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:ginseng-extract",
+   "name": "Ginseng Extract",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 54.45 -> 58.45; price_min: 9.95 -> 10.55; sizes: 2 oz - $9.95; 4 oz - $16.85; 8 oz - $31.25; 1 lb - $54.45 -> 2 oz - $10.55; 4 oz - $17.85; 8 oz - $32.65; 1 lb - $58.45"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:horsetail-extract",
+   "name": "Horsetail Extract",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 36.45 -> 38.75; price_min: 8.65 -> 8.85; sizes: 2 oz - $8.65; 4 oz - $11.95; 8 oz - $20.85; 1 lb - $36.45 -> 2 oz - $8.85; 4 oz - $12.95; 8 oz - $21.85; 1 lb - $38.75"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:fision-hydratress",
+   "name": "Fision® HydraTress",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 34.75 -> 35.85; price_min: 6.55 -> 6.65; sizes: 30g (1.05 oz) - $6.55; 60g (2.11 oz) - $9.35; 120g (4.23 oz) - $12.65; 240g (... -> 30g (1.05 oz) - $6.65; 60g (2.11 oz) - $8.65; 120g (4.23 oz) - $12.65; 240g (..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:daikon-seed-extract",
+   "name": "Daikon Seed Extract",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 223.95 -> 496.95; price_min: 7.75 -> 13.75; sizes: 2 oz - $7.75; 4 oz - $12.35; 8 oz - $20.95; 1 lb - $37.95; 3.5 lbs - $115.95;... -> 2 oz - $13.75; 4 oz - $24.35; 8 oz - $42.95; 1 lb - $77.95; 3.5 lbs - $265.95..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:biolatum",
+   "name": "BioLatum™",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 71.95 -> 86.95; price_min: 6.75 -> 7.95; sizes: 4 oz - $6.75; 1 lb - $17.95; 5 lb - $71.95 -> 4 oz - $7.95; 1 lb - $19.95; 5 lb - $86.95"
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:brown-rice-ferment-filtrate",
+   "name": "Brown Rice Ferment Filtrate",
+   "change": "changed",
+   "fields": "price_max, price_min, sizes",
+   "details": "price_max: 289.75 -> 356.75; price_min: 8.45 -> 9.75; sizes: 15g (0.52 oz) - $8.45; 30g (1.05 oz) - $12.95; 60g (2.11 oz) - $21.85; 120g (... -> 15g (0.52 oz) - $9.75; 30g (1.05 oz) - $15.55; 60g (2.11 oz) - $27.85; 120g (..."
+  },
+  {
+   "date": "2026-11-05",
+   "run_id": "20261105T172517Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:neocolla™",
+   "name": "NeoColla™",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
   {
    "date": "2026-11-04",
    "run_id": "20261104T171707Z",
@@ -2616,402 +3056,6 @@
    "change": "changed",
    "fields": "price_max, price_min, sizes",
    "details": "price_max: 475.95 -> 555.95; price_min: 6.85 -> 8.45; sizes: 1 oz - $6.85; 2 oz - $11.95; 4 oz - $20.85; 8 oz - $37.75; 1 lb - $68.95; 2 l... -> 1 oz - $8.45; 2 oz - $12.95; 4 oz - $22.85; 8 oz - $40.95; 1 lb - $78.95; 2 l..."
-  },
-  {
-   "date": "2026-10-28",
-   "run_id": "20261028T160452Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:cct-60-40-mb",
-   "name": "CCT 60/40 MB",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-10-28",
-   "run_id": "20261028T160452Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:tromethamine-base",
-   "name": "Tromethamine (base)",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 101.61 -> 119.55; price_min: 10.15 -> 11.95"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-ampoule",
-   "name": "1025 Dokdo Ampoule",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 31 -> 24.8; price_min: 31 -> 24.8"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-cleanser",
-   "name": "1025 Dokdo Cleanser",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 17 -> 13.6; price_min: 17 -> 13.6"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-cleansing-oil",
-   "name": "1025 Dokdo Cleansing Oil",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 26 -> 20.8; price_min: 26 -> 20.8"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-cream",
-   "name": "1025 Dokdo Cream",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 36 -> 28.8; price_min: 36 -> 28.8"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-lotion",
-   "name": "1025 Dokdo Lotion",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 22 -> 17.6; price_min: 22 -> 17.6"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-mud-pack",
-   "name": "1025 Dokdo Mud Pack",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 19 -> 15.2; price_min: 19 -> 15.2"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-toner",
-   "name": "1025 Dokdo Toner",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 34 -> 27.2; price_min: 6 -> 4.8"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-sleeping-pack",
-   "name": "1025 Dokdo Sleeping Pack",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 24 -> 19.2; price_min: 24 -> 19.2"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-cleansing-gel",
-   "name": "1025 Dokdo Cleansing Gel",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 26 -> 20.8; price_min: 26 -> 20.8"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-peeling-gel",
-   "name": "1025 Dokdo Peeling Gel",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 24 -> 19.2; price_min: 24 -> 19.2"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-pad",
-   "name": "1025 Dokdo Toner Pad",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 27 -> 21.6; price_min: 27 -> 21.6"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:dokdo-cleansing-water",
-   "name": "Dokdo Cleansing Water",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 28 -> 22.4; price_min: 28 -> 22.4"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "round_lab",
-   "table": "products",
-   "record_id": "round_lab:1025-dokdo-mask-sheet",
-   "name": "1025 Dokdo Water Gel Mask Sheet",
-   "change": "changed",
-   "fields": "price_max, price_min",
-   "details": "price_max: 36 -> 28.8; price_min: 4 -> 3.2"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "windy_point",
-   "table": "raw_materials",
-   "record_id": "windy_point:ez-color-berry-blue",
-   "name": "EZ Color - Berry Blue",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:lemon-peel-bioferment",
-   "name": "Lemon Peel BioFerment",
-   "change": "removed",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-cucumber-extract-g-pf",
-   "name": "FSS CUCUMBER EXTRACT G PF",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-coconut-water-pf",
-   "name": "FSS Coconut Water PF",
-   "change": "changed",
-   "fields": "category",
-   "details": "category:  -> Raw Material"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-biotin-liposome",
-   "name": "FSS BIOTIN LIPOSOME",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-kera-straightening-curl",
-   "name": "FSS Kera Straightening & Curl",
-   "change": "changed",
-   "fields": "category",
-   "details": "category:  -> Raw Material"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-lemon-peel-extract-pbf",
-   "name": "FSS LEMON PEEL EXTRACT PBF",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:lemon-peel-bioferment-drk",
-   "name": "FSS LEMON PEEL EXTRACT PBF DRK",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-safflower-oil",
-   "name": "FSS SAFFLOWER OIL",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-ectoin",
-   "name": "FSS ECTOIN",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:fision-wrinklefix",
-   "name": "Fision® WrinkleFix",
-   "change": "changed",
-   "fields": "price_min, sizes",
-   "details": "price_min: 7.65 -> 8.35; sizes: 15g (0.52 oz) - $7.65; 30g (1.05 oz) - $11.95; 60g (2.11 oz) - $22.95; 120g (... -> 15g (0.52 oz) - $8.35; 30g (1.05 oz) - $12.95; 60g (2.11 oz) - $22.95; 120g (..."
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:mica-dusty-mauve-shine",
-   "name": "Mica, Dusty Mauve Shine",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:green-tea-extract",
-   "name": "Green Tea Extract",
-   "change": "changed",
-   "fields": "price_max, price_min, sizes",
-   "details": "price_max: 299.95 -> 306.95; price_min: 6.35 -> 6.65; sizes: 1 oz - $6.35; 2 oz - $8.55; 4 oz - $14.45; 8 oz - $22.95; 1 lb - $41.95; 8 lb... -> 1 oz - $6.65; 2 oz - $9.35; 4 oz - $14.75; 8 oz - $23.95; 1 lb - $41.95; 8 lb..."
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:mango-butter",
-   "name": "Mango Butter",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:eumulgin-sg",
-   "name": "Eumulgin® SG",
-   "change": "changed",
-   "fields": "price_max, price_min, sizes",
-   "details": "price_max: 203.85 -> 243.85; price_min: 8.95 -> 9.95; sizes: 1 oz - $8.95; 4 oz - $19.95; 1 lb - $74.95; 3 lb - $203.85 -> 1 oz - $9.95; 4 oz - $21.95; 1 lb - $88.95; 3 lb - $243.85"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:cct-60-40-mb",
-   "name": "CCT 60/40 MB",
-   "change": "changed",
-   "fields": "price_max, price_min, sizes",
-   "details": "price_max: 449.85 -> 476.85; price_min: 9.95 -> 10.95; sizes: 8 oz - $9.95; 1 lb - $16.25; 2 lbs - $26.95; 8 lbs - $99.55; 38 lbs - $449.85 -> 8 oz - $10.95; 1 lb - $18.45; 2 lbs - $30.95; 8 lbs - $109.85; 38 lbs - $476.85"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:cucumber-seed-oil-virgin",
-   "name": "Cucumber Seed Oil, Virgin",
-   "change": "changed",
-   "fields": "price_max, price_min, sizes",
-   "details": "price_max: 179.95 -> 193.95; price_min: 7.95 -> 8.45; sizes: 0.5 oz - $7.95; 1 oz - $10.95; 3.5 oz - $27.95; 7 oz - $53.95; 30 oz - $179.95 -> 0.5 oz - $8.45; 1 oz - $11.35; 3.5 oz - $29.45; 7 oz - $55.95; 30 oz - $193.95"
-  },
-  {
-   "date": "2026-10-27",
-   "run_id": "20261027T152237Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:terracera™-renew-np",
-   "name": "TerraCera™ Renew NP",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-10-26",
-   "run_id": "20261026T160843Z",
-   "source_id": "cosrx",
-   "table": "products",
-   "record_id": "cosrx:cosrx-5-pdrn-nad-multi-repair-cream",
-   "name": "COSRX 5 PDRN NAD+ Multi Repair Cream",
-   "change": "removed",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-10-26",
-   "run_id": "20261026T160843Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:organic-peppermint-essential-oil",
-   "name": "Organic Peppermint Essential Oil",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-10-26",
-   "run_id": "20261026T160843Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:omega-fat-restoring-agent",
-   "name": "Omega Fat Restoring Agent",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
   }
  ],
  "imports": [
