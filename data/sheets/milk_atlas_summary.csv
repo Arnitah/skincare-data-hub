@@ -15,7 +15,7 @@ MILK-013,Almond milk,Plant milk,0,13,0,0,0,,No almond-milk product verified; alm
 MILK-014,Cashew milk,Plant milk,0,0,0,0,0,,No specific product example verified in this pass.,Commercial and traditional use unverified.,,
 MILK-015,Hemp-seed milk,Plant milk,0,3,0,1,0,,No hemp-milk beverage product verified; track hemp seed oil/extract separately.,Do not infer beverage benefits from oil studies.,,
 MILK-016,Pea milk / pea protein beverage,Plant milk,0,23,0,7,0,,No pea-milk beverage cosmetic verified; track Hydrolyzed Pea Protein as a separate INCI candidate.,Ingredient and beverage evidence differ.,,
-MILK-017,Quinoa-derived milk / liquid,Plant milk,0,28,0,10,0,,No quinoa-milk beverage product verified in this pass.,Do not infer topical tradition from food heritage.,,
+MILK-017,Quinoa-derived milk / liquid,Plant milk,0,29,0,10,1,,No quinoa-milk beverage product verified in this pass.,Do not infer topical tradition from food heritage.,,
 MILK-018,Sesame-seed milk,Plant milk,0,3,0,1,0,,No sesame-milk cosmetic product verified; track Sesamum Indicum (Sesame) Seed Oil separately.,Sesame is a known allergen; check exact ingredient.,,
 MILK-019,Peanut milk,Plant milk,0,0,0,0,0,,No peanut-milk cosmetic product verified in this pass.,High allergen relevance; not a default DIY ingredient.,,
 MILK-020,Barley-derived beverage,Plant milk,0,19,0,3,0,,No barley-beverage cosmetic product verified.,Gluten/cereal sensitivity assessment may be relevant to specific materials.,,
