@@ -1,4 +1,111 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-11-08,20261108T155904Z,round_lab,products,round_lab:birch-moisturizing-hand-cream,Birch Moisturizing Hand Cream,changed,in_stock,in_stock: true -> false
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:9500102348556,Nail polish with hardner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:9300607379792,Oil-Free Acne Wash,changed,"ingredient_count, ingredients, ingredients_text, name","ingredient_count: 16 -> 14; ingredients_text: Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Salicylic Acid... -> Water, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Sodium Chlorid...; name: Neutrogena Oil Free Acne Wash Face Cleanser 175mL -> Oil-Free Acne Wash"
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8961014262674,Triple Vitamin Silky Smooth Skin Moisturising Lotion,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8939123041190,Fresh Natural Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8909106095731,Deep Moisture,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8909106019720,Damage Therapy Daily Shine 1 Minute Conditioner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8909106010772,Dreamflower Fragrant Talcum Powder,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8908028809655,Professional Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906170030057,Gentle Cleansing Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906157904500,Oil & Acne Control Face Wash,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906129575349,Summer Breeze Perfume Body Lotion,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906120589581,Hairfall Control Conditioner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906105614819,Coconut Milk Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906073149429,Anti-Dandruff Shampoo Special Edition Legend by CR7,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906073147319,Damage Therapy Hair Fall Rescue Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906034883447,Argan Oil,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906014767514,Gold Enriched Coconut Hair Oil,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8906007670289,Herbal Shea Butter Moisturiser,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8904451200014,Oil Control Highlighting Complexion Powder,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8904430206761,Clear Moisture Gel Cream,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8904418901602,Velvet Matte Touch Oil Free Foundation,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8904417307757,Rosemary Anti-Hair Fall Conditioner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8904355408493,Moisturiser,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8904355407069,Advanced Hair Care Conditioner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8904245755928,Wanderlust Dreaming of Paris Moisturizing Body Lotion,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8904091136056,Daily Anti Dandruff Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8902979015349,Shampoo Smooth & Shine with Rice Kanji & Aloe Vera,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901725928346,Shower Gel Blackcurrant & Bearberry Radiant Glow,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901526712250,Collagen Lifter Volumizing Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901526652501,Hyaluron Pure 72H Purifying Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901526641154,Elvive Extraordinary Oil Nourishing Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901526401222,Mega Smooth,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901248240642,Gold Anti-Hairfall Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901207037528,Vatika Health Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901138844028,Tan Removal Orange Peel-Off Mask,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901138011055,Hydrating Aloe Vera Face Wash,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901088736411,Protein Shampoo Coconut Milk & Aloe Vera,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901088713658,Shampoo Keratin Damage Repair,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901088711203,Hair Serum Keratin Ultra Glossy & Smooth,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901088001717,Naturale Anti Hair Fall Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901030970030,Health Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8901012185292,Ultra Sheer Dry-Touch Sunblock,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8809803548496,Perfect Serum Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8809803520331,Ryo beautiful aging Scalp & Hair Pack Hair Loss Care,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:8809669507187,Folligen Thickening Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:7898767822811,Mystic Girl,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:7791293048857,Leather & Cookies Deodorant Bodyspray,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:6952498285978,Repairing Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:6943552924681,Macadamia Nut Oil Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:5050456009442,Sweet kiss,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:5011321614161,Farb Booster,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4987176360052,Miracle Rescue Biotin Strength Conditioner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4987176358592,Miracle Rescue Bond Repair Conditioner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4987176073112,Anti-Dandruff Shampoo Anti-Hairfall,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4987176073105,Anti-Dandruff Shampoo Smooth & Silky,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4897110030357,Maca Power Conditioner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4894819704404,Organic Coffee Anti-Hair Fall Hair & Scalp Tonic,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4305615761152,Augenbrauen Enthaarungsstreifen,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4305615754277,Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4305615716244,Festes Shampoo Granatapfel,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4305615467511,Intim-Waschlotion Aloe Vera,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:43003723,Feuchtigkeitsspülung,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4104260041738,Trockenshampoo fresh,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4070765020373,Nagellackentferner acetonfrei,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4070765019063,Beauty Expert Nacht Creme,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4061459142969,Körperbutter,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4061458083195,Haarspray Volumen 4,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4061458051033,Cool Shower & Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4058172626074,Seidenglanz Spülung,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4047196056721,Anti-Dandruff Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4021457652327,Zahncreme Complete Care,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:4009900550833,Extra sugar free,changed,name,name: Extra Peppermint 46pcs -> Extra sugar free
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:3760016311503,Bougie de massage jasmin,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:3600542137355,SkinActive Micellar Cleansing MilkyWater All-in-1,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:3560070881253,Stick lèvres hydratant,changed,"category, ingredient_count, ingredients, ingredients_text, tags","category: open-beauty-facts -> Lip balms; ingredient_count: 10 -> 11; ingredients_text: INGREDIENTS / INGREDIENTE: PARAFFINUM LIQUIDUM, HYDROGENATED VEGETABLE OIL, S... -> PARAFFINUM LIQUIDUM, HYDROGENATED VEGETABLE OIL, SYNTHETIC WAX, CERA ALBA, PA..."
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:3378872247548,Blackhead Remover,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0946491210033,Neem Face Wash,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0941412116937,Baby Shampoo with Aloe & Vitamin B5,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0915625456029,Keratin+ Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0884400296016,Botanical Hair Cream,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0884400052421,Botanical Skin Cream,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0872768009256,Soft Body Lotion,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0850055841680,Firming Face & Neck Serum,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0850041154510,Naturals Aromatherapy Soothing Lavender,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0850036833116,Ultra Restore Body Butter,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0840216930445,Full Shampoo,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0816559010205,Aqua Moisturizing Body Wash,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0810208304677,Sugar Cookie Deodorant,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0810184482352,Soothing Facial Oil,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0810137685595,Taro Tea Ultra-Moisturizing Body Lotion,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0810016298021,Plumping & Brightening Face Serum,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0810005414579,SMOOTH + WHEAT PROTEIN Conditioner,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0761373009198,Magic Bar,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0731788110604,Daily Dissolve Ultra Light Oil Cleanser,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0309978992042,Photoready Candid Natural Finish Anti-Pollution Foundation,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0302993912200,Gentle Skin Cleanser,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0081555745004,Passionate Beauty,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0081555744953,Angelic Beauty,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0081555738471,Lipstick,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0077443702204,Aloe Vera Naturals Skin Lotion,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0074182260125,Soothing Clean Aloe Vera Fresh Scent,changed,"category, ingredient_count, ingredients, ingredients_text, name, tags","category: hand-soap-sanitizers -> Hand Soap & Sanitizers; ingredient_count: 17 -> 14; ingredients_text: Aqua/water/eau, sodium laureth sulfate, cocamidopropyl betaine, glycol steara... -> Water, Sodium C12-13 Pareth Sulfate, Cocamidopropyl Betaine, Sodium Chloride,..."
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0056012800350,(unnamed),added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0041167042700,Age Renew Tight & Firm Body & Face Lotion,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0030772276396,Surf Club Golden Sunset Body Wash,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0030772104347,Free & Gentle,added,,
+2026-11-08,20261108T155904Z,open_beauty_facts,products,open_beauty_facts:0009100007827,Nourish Oil-Free Antioxidant Facial Moisturizer,added,,
 2026-11-07,20261107T154028Z,cosrx,products,cosrx:mini-advanced-snail-92-all-in-one-cream,Advanced Snail 92 All in one Cream,changed,in_stock,in_stock: false -> true
 2026-11-07,20261107T154028Z,cosrx,products,cosrx:one-step-moisture-up-pad,One Step Moisture Up Pad,changed,in_stock,in_stock: false -> true
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96134696,DOVE Déodorant Femme Spray Compressé Pierre d'Alun et Beurre de Karité 100ml,removed,,
@@ -1892,110 +1999,3 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300710017819,Bosisto's Banksia Nerolina & Lavender Moisturising Body Wash 1L,added,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300710016911,Bosisto's Kakadu Plum & Lemon Myrtle Nourishing Body Wash 1L,added,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300701445577,Hand Sanitiser,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300701374006,Dettol Profresh Shower Gel Body Wash Milk &honey 950mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300701373979,Dettol Profresh Shower Gel Body Wash Lemon And Lime 950mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300701373955,Dettol Profresh Shower Gel Body Wash Peach And Raspberry 950mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300701267667,Dettol Antibacterial Liquid Hand Wash Soap Refill Refresh 950mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300701267636,Dettol Antibacterial Liquid Hand Wash Hand Soap Refill Aloe Vera 950mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300673902863,Expert Repair Deep Clean + Whitening,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300673887733,Deep Clean Daily Care Fluoride Toothpaste,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300666565891,Dove Women Whole Body Deodorant Spray Sea Mist & Peony 230mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300666565778,Dove Damage Therapy Intensive Repair + Ceramide Serum 95mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300666565730,Dove Damage Therapy Intensive Repair + Ceramide Mask 300mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300666564979,Lynx Lower Body Deodorant Spray Pear & Cedarwood 100ml,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300666564955,Lynx Lower Body Deodorant Spray Coconut & Sandalwood 100ml,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300663464227,sunilk shampoo,changed,category,category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300663462803,Intensive Care Cocoa Glow,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300641001246,Botanica Crystal roll on deodorant,changed,brand,brand: Body Crystal -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300633755454,Sunscreen SPF 50+,changed,brand,brand: Woolworths -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300633636784,Dental,changed,"brand, category",brand: All Smiles -> ; category: fr:dentifrice -> Toothpastes
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300633636760,total care,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300633587772,Fragrance Free Baby Wipes,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300632088638,Cuddly Collections Fabric Conditioner Limited Edition 900mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300632085477,Teeth Whitening Toothpaste Optic White Luminous Express,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300632083503,Colgate Teeth Whitening Toothpaste Optic White Enamel Care 140g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300632081301,Colgate Teeth Whitening Toothpaste Optic White Stain Fighter 140g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300632078431,Colgate,changed,size,size:  -> 110 g
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300632072675,Colegate Sensitive Pro relief,changed,category,category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300632066360,(unnamed),changed,category,category: Cosmetic-products -> cosmetic-products
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300632066025,Triple Action Toothpaste,changed,"brand, category",brand: Colgate -> ; category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300631893615,Instant Hand Sanitizer,changed,"brand, category",brand: Dettol -> ; category: Hand-sanitizers -> hand-sanitizers
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300627505973,Gillette Blue 11 Plus Razors 20 pack,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300618556519,Olay Moisturising Face Cream Sensitive Skin 100g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300618556502,Olay Moisturising Lotion For Sensitive Skin Care 150mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300618553105,Olay Moisturising Face Cream 100g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300618551774,Olay Moisturising Lotion 150mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607762075,Aveeno Skin Relief Moisturising Body Lotion Sensitive 532mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607761498,Aveeno Skin Relief Body Wash Sensitive 532mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607761436,Aveeno Skin Relief Moisturising Body Lotion Sensitive 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607761306,Aveeno Daily Moisturising Body Lotion Fragrance Free Sensitive Skin 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607761146,Aveeno Daily Moisturising Body Lotion Fragrance Free Sensitive Skin 532mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607761139,Aveeno Daily Moisturising Body Wash Light Fragrance Sensitive Skin 532mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607760057,Daily moisturising Lotion,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607760033,Aveeno Intense Relief Fragrance Free Hand Cream Dry Sensitive Skin 100g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563597,Neutrogena Visible Repair Retinol Regenerating Cream 50g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563542,Neutrogena Hydro Boost Niacinamide Serum 30mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563535,Neutrogena Deep Clean Hydrating Foaming Cleanser 150mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563528,Neutrogena Deep Clean Brightening Foaming Cleanser 150g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563511,Neutrogena Deep Clean Foaming Cleanser 150g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563412,Neutrogena Ultra Gentle Daily Face Moisturiser Sensitive 100mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563399,Neutrogena Ultra Gentle Foaming Face Cleanser 200mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563382,Neutrogena Ultra Gentle Creamy Face Cleanser 200mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563375,Neutrogena Deep Clean Invorating Foaming Scrub 150g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563368,Neutrogena Deep Clean Blackhead Eliminating Scrub 150mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563351,Neutrogena Deep Clean Facial Gel Cleanser 150mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563269,Neutrogena Hydro Boost Hyaluronic Acid Nourishing Cream Moisturiser 50g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563252,Neutrogena Hydro Boost Hyaluronic Acid Night Cream Face Moisturiser 50g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563245,Neutrogena Hydro Boost Hyaluronic Acid Water Gel Moisturiser Refill 50g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563238,Neutrogena Hydro Boost Hyaluronic Acid Water Gel,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607563115,Neutrogena Hydro Boost Hyaluronic Acid Face Serum 30mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607562873,Neutrogena Oil Free Eye Make Up Remover 200mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607562033,Neutrogena Hydro Boost Hydrogel Face Mask 30g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607561883,Neutrogena Hydro Boost Hyaluronic Acid Face Cleanser Water Gel 145mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607490275,Zyrtec Kids Chewable Grape 10 Pack,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607470017,Coconut Miracle Oil Shampoo,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607397925,Body Care Moisturising Body Wash,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607379792,Neutrogena Oil Free Acne Wash Face Cleanser 175mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607091267,Listerine Freshburst Zero Mouthwash 500mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607090895,listerine total care,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9300607090574,Listerine Zero Alcohol Antibacterial Mouthwash Less Intense Taste 500mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9288115636883,amalfi dermi care,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:91313441,Hakamilla,changed,brand,brand: Hakawerk -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9120130823360,Mon Paradis,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9120112221122,CHÉRIE DE FLEURS,changed,brand,brand: CALINE PARFUMS -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9120048832607,Kräuter Zahnpulver,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9120001946006,essential garden forbidden berries,changed,brand,brand: essential gardens -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9112223334445,Test Cream,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9100000984377,Zahncreme fresh,changed,brand,brand: denta kiss -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9100000897097,SHOWER-GEL SPORT,changed,"brand, category",brand: BEAUTY KISS -> ; category: de:duschgele -> Shower gels
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9100000706924,Zahncreme,changed,"brand, category",brand: BEAUTY KISS -> ; category: de:zahnpasten -> Toothpastes
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9100000157061,(unnamed),added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9088882463886,Hermal Badezusatz,changed,brand,brand: Balneum -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:90867587,(unnamed),changed,category,category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9078981370500099917,dove body wash,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9062835153826,Crème Solaire SPF 30,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9061900946677,Lait hydratant au lait de nos chèvres - fleur de genêt,changed,brand,brand: La Ferme du Bergognon -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9019404800711,Spray Solar,changed,brand,brand: Solar Sun Med Line -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9014200236443,MICRO GRANULI,changed,brand,brand: mentadent -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9011554700057,(unnamed),changed,category,category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9010405007451,(unnamed),added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9009827003233,Pflegeseife Zitronenmelisse,changed,brand,brand: bi good -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9009827000829,Mundspülung,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9009827000560,bigood Anti Schuppen Schampoo: Brennessel,changed,brand,brand: bigood -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9009695001324,Waschgel,changed,brand,brand: Babywell -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005835312671,Geschirrspülpulver,changed,brand,brand: claro -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800385587,(unnamed),added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800375519,Intensive,changed,brand,brand: Atrix -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800352220,(unnamed),added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800352206,BLACK&WHITE Invisible Original,changed,brand,brand: Nivea MEN -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800341644,Shower gel,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800333977,Morgenfrische Duschbad (Empfindliche Haut),changed,brand,brand: BASIS ph -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800330594,Duschöl (sensible & trockene Haut),changed,brand,brand: BASIS ph -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800329413,NIVEA Fresh Orange Anti-Perspirant Spray Deodorant,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800280707,Anti-Perspirant Deodorant,changed,brand,brand: NIVEA MEN -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800263601,Rose & Mandelöl,changed,"brand, category",brand: Nivea -> ; category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800261041,Baby sun protection cream,changed,brand,brand: Nivea -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800243306,(unnamed),changed,brand,brand: Nivea -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005800222950,Care & cashmere,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005356021656,Body Lotion Cherry Blossom Almond Oil,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9005356021328,Men Sensitive Pflege-Dusche,changed,brand,brand: Savoderm med -> 

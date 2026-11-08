@@ -1,7 +1,7 @@
 {
  "title": "Beauty Intelligence — Milk Ingredient Atlas",
  "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
- "generated": "2026-11-07",
+ "generated": "2026-11-08",
  "records": [
   {
    "atlas_id": "MILK-001",
@@ -30,7 +30,7 @@
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 19,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 102
     },
@@ -63,6 +63,15 @@
      },
      {
       "brand": "",
+      "name": "Hand wash",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Milk",
+      "ingredient_position": 2,
+      "ingredient_count": 2,
+      "url": "https://world.openbeautyfacts.org/product/4056489884378"
+     },
+     {
+      "brand": "",
       "name": "Thick pancake mix",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "skimmed milk powder",
@@ -87,15 +96,6 @@
       "ingredient_position": 2,
       "ingredient_count": 4,
       "url": "https://world.openbeautyfacts.org/product/8906019581245"
-     },
-     {
-      "brand": "",
-      "name": "Hand wash",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Milk",
-      "ingredient_position": 2,
-      "ingredient_count": 2,
-      "url": "https://world.openbeautyfacts.org/product/4056489884378"
      },
      {
       "brand": "",
@@ -199,15 +199,15 @@
     "products_related": 0,
     "raw_materials_exact": 4,
     "raw_materials_related": 0,
-    "new_matches_today": 10,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 30
     },
     "by_category_group": {
      "body": 20,
      "other": 4,
-     "fragrance": 3,
-     "hair": 3
+     "hair": 3,
+     "fragrance": 3
     },
     "top_countries_sold": {
      "france": 12,
@@ -217,7 +217,7 @@
      "germany": 1,
      "italy": 1,
      "switzerland": 1,
-     "croatia": 1
+     "united kingdom": 1
     },
     "example_products": [
      {
@@ -834,22 +834,22 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 5,
+    "products_exact": 6,
     "products_related": 84,
     "raw_materials_exact": 1,
     "raw_materials_related": 4,
-    "new_matches_today": 31,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 89
+     "open_beauty_facts": 90
     },
     "by_category_group": {
      "body": 3,
-     "hair": 2
+     "hair": 3
     },
     "top_countries_sold": {
-     "india": 3,
-     "germany": 1,
-     "united states": 1
+     "india": 4,
+     "united states": 1,
+     "germany": 1
     },
     "example_products": [
      {
@@ -878,6 +878,15 @@
       "ingredient_position": 10,
       "ingredient_count": 13,
       "url": "https://world.openbeautyfacts.org/product/8051739111545"
+     },
+     {
+      "brand": "",
+      "name": "Coconut Milk Shampoo",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Cocos Nucifera (Coconut) Milk Extract",
+      "ingredient_position": 10,
+      "ingredient_count": 19,
+      "url": "https://world.openbeautyfacts.org/product/8906105614819"
      },
      {
       "brand": "",
@@ -973,12 +982,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 4,
-    "products_related": 325,
+    "products_related": 326,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 107,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 324,
+     "open_beauty_facts": 325,
      "round_lab": 3,
      "cosrx": 2
     },
@@ -1128,7 +1137,7 @@
     "products_related": 126,
     "raw_materials_exact": 0,
     "raw_materials_related": 11,
-    "new_matches_today": 62,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 124,
      "cosrx": 5
@@ -1266,12 +1275,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 261,
+    "products_related": 268,
     "raw_materials_exact": 0,
     "raw_materials_related": 18,
-    "new_matches_today": 115,
+    "new_matches_today": 7,
     "by_source": {
-     "open_beauty_facts": 260,
+     "open_beauty_facts": 267,
      "round_lab": 1
     },
     "by_category_group": {},
@@ -1371,12 +1380,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 9,
+    "products_related": 10,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
     "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 9
+     "open_beauty_facts": 10
     },
     "by_category_group": {},
     "top_countries_sold": {},
@@ -1460,7 +1469,7 @@
     "products_related": 5,
     "raw_materials_exact": 0,
     "raw_materials_related": 1,
-    "new_matches_today": 2,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 5
     },
@@ -1508,12 +1517,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 48,
+    "products_related": 49,
     "raw_materials_exact": 0,
     "raw_materials_related": 7,
-    "new_matches_today": 27,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 48
+     "open_beauty_facts": 49
     },
     "by_category_group": {},
     "top_countries_sold": {},
@@ -1604,7 +1613,7 @@
     "products_related": 56,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 29,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 55,
      "cosrx": 1
@@ -1705,7 +1714,7 @@
     "products_related": 8,
     "raw_materials_exact": 0,
     "raw_materials_related": 1,
-    "new_matches_today": 5,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 8
     },
@@ -1797,7 +1806,7 @@
     "products_related": 22,
     "raw_materials_exact": 0,
     "raw_materials_related": 3,
-    "new_matches_today": 4,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 22
     },
@@ -1862,7 +1871,7 @@
     "products_related": 9,
     "raw_materials_exact": 0,
     "raw_materials_related": 1,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 9
     },
@@ -1913,7 +1922,7 @@
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 3,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 20
     },
@@ -2214,7 +2223,7 @@
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 15,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 24,
      "cosrx": 1
@@ -2222,8 +2231,8 @@
     "by_category_group": {
      "face": 12,
      "other": 9,
-     "sun_care": 2,
-     "body": 2
+     "body": 2,
+     "sun_care": 2
     },
     "top_countries_sold": {
      "germany": 6,
@@ -2233,7 +2242,7 @@
      "morocco": 2,
      "KR": 1,
      "hong kong": 1,
-     "united kingdom": 1
+     "poland": 1
     },
     "example_products": [
      {
@@ -2253,15 +2262,6 @@
       "ingredient_position": 2,
       "ingredient_count": 23,
       "url": "https://world.openbeautyfacts.org/product/4003573023144"
-     },
-     {
-      "brand": "",
-      "name": "Plum Rice Water & Niacinamide 3% Toner",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Rice Ferment Filtrate (Sake)",
-      "ingredient_position": 5,
-      "ingredient_count": 20,
-      "url": "https://world.openbeautyfacts.org/product/8906118414215"
      },
      {
       "brand": "",
@@ -2292,6 +2292,24 @@
      },
      {
       "brand": "",
+      "name": "Plum Rice Water & Niacinamide 3% Toner",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Rice Ferment Filtrate (Sake)",
+      "ingredient_position": 5,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/8906118414215"
+     },
+     {
+      "brand": "",
+      "name": "Garnier Ultra DOUX",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "SACCHAROMYCES/RICE FERMENT FILTRATE",
+      "ingredient_position": 6,
+      "ingredient_count": 17,
+      "url": "https://world.openbeautyfacts.org/product/3610340670947"
+     },
+     {
+      "brand": "",
       "name": "RETINOL SKIN CREAM",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "SACCHAROMYCES/RICE FERMENT FILTRATE",
@@ -2310,15 +2328,6 @@
      },
      {
       "brand": "",
-      "name": "Garnier Ultra DOUX",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "SACCHAROMYCES/RICE FERMENT FILTRATE",
-      "ingredient_position": 6,
-      "ingredient_count": 17,
-      "url": "https://world.openbeautyfacts.org/product/3610340670947"
-     },
-     {
-      "brand": "",
       "name": "Salicylique lotion exfoliante",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "SACCHAROMYCES/RICE FERMENT FILTRATE SODIUM HYDROXIDE",
@@ -2328,21 +2337,21 @@
      },
      {
       "brand": "",
-      "name": "Rice Niacinamide Mask",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Saccha - romyces/Rice Ferment Filtrate",
-      "ingredient_position": 7,
-      "ingredient_count": 27,
-      "url": "https://world.openbeautyfacts.org/product/8809109680913"
-     },
-     {
-      "brand": "",
       "name": "Gesichtsmaske Reiswasser Biozellulose",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "Saccharomyces/Rice Ferment Filtrate",
       "ingredient_position": 7,
       "ingredient_count": 19,
       "url": "https://world.openbeautyfacts.org/product/4070765058482"
+     },
+     {
+      "brand": "",
+      "name": "Rice Milky Essence, korean skincare",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactobacillus/Rice Ferment Filtrate",
+      "ingredient_position": 7,
+      "ingredient_count": 31,
+      "url": "https://world.openbeautyfacts.org/product/4070765061666"
      }
     ],
     "example_raw_materials": [
@@ -2399,20 +2408,20 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 1320,
+    "products_exact": 1329,
     "products_related": 0,
     "raw_materials_exact": 7,
     "raw_materials_related": 0,
-    "new_matches_today": 424,
+    "new_matches_today": 9,
     "by_source": {
-     "open_beauty_facts": 1315,
+     "open_beauty_facts": 1324,
      "cosrx": 5
     },
     "by_category_group": {
      "other": 466,
-     "hair": 320,
-     "body": 281,
-     "face": 122,
+     "hair": 327,
+     "body": 282,
+     "face": 123,
      "deodorant": 33,
      "oral_care": 24,
      "fragrance": 24,
@@ -2422,8 +2431,8 @@
     },
     "top_countries_sold": {
      "france": 368,
-     "germany": 287,
-     "united states": 86,
+     "germany": 290,
+     "united states": 88,
      "spain": 85,
      "australia": 61,
      "italy": 53,
@@ -2626,7 +2635,7 @@
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 2,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 27
     },
@@ -2640,10 +2649,10 @@
      "france": 19,
      "united states": 4,
      "germany": 2,
-     "australia": 1,
-     "new zealand": 1,
      "turkey": 1,
-     "Türkiye": 1
+     "Türkiye": 1,
+     "australia": 1,
+     "new zealand": 1
     },
     "example_products": [
      {
@@ -2666,6 +2675,15 @@
      },
      {
       "brand": "",
+      "name": "Seifenstück, Cremeseife Milch & Honig",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactis Proteinum",
+      "ingredient_position": 9,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/4070765017304"
+     },
+     {
+      "brand": "",
       "name": "Msv pdt bio abricot 100g",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "MILK PROTEIN",
@@ -2681,15 +2699,6 @@
       "ingredient_position": 9,
       "ingredient_count": 17,
       "url": "https://world.openbeautyfacts.org/product/8719497834952"
-     },
-     {
-      "brand": "",
-      "name": "Seifenstück, Cremeseife Milch & Honig",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Lactis Proteinum",
-      "ingredient_position": 9,
-      "ingredient_count": 20,
-      "url": "https://world.openbeautyfacts.org/product/4070765017304"
      },
      {
       "brand": "",
@@ -2797,7 +2806,7 @@
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 17,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 73
     },
@@ -2821,6 +2830,15 @@
     "example_products": [
      {
       "brand": "",
+      "name": "Kid's 3-IN-1 Shampoo, Conditioner & Body Wash",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Hydrolyzed Milk Protein",
+      "ingredient_position": 5,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/0840074307625"
+     },
+     {
+      "brand": "",
       "name": "Lait de Douche Aux Protéines de Lait",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "Hydrolyzed Milk Protein",
@@ -2836,15 +2854,6 @@
       "ingredient_position": 5,
       "ingredient_count": 20,
       "url": "https://world.openbeautyfacts.org/product/8711700746861"
-     },
-     {
-      "brand": "",
-      "name": "Kid's 3-IN-1 Shampoo, Conditioner & Body Wash",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Hydrolyzed Milk Protein",
-      "ingredient_position": 5,
-      "ingredient_count": 21,
-      "url": "https://world.openbeautyfacts.org/product/0840074307625"
      },
      {
       "brand": "",
@@ -2980,24 +2989,24 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 18,
+    "products_exact": 19,
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
     "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 18
+     "open_beauty_facts": 19
     },
     "by_category_group": {
      "other": 9,
      "body": 6,
-     "face": 2,
+     "face": 3,
      "deodorant": 1
     },
     "top_countries_sold": {
      "norway": 4,
+     "united states": 3,
      "united kingdom": 3,
-     "united states": 2,
      "germany": 2,
      "france": 2,
      "india": 1,
@@ -3031,6 +3040,15 @@
       "ingredient_position": 11,
       "ingredient_count": 11,
       "url": "https://world.openbeautyfacts.org/product/8718951563391"
+     },
+     {
+      "brand": "",
+      "name": "Age Renew Tight & Firm Body & Face Lotion",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "whey protein",
+      "ingredient_position": 13,
+      "ingredient_count": 44,
+      "url": "https://world.openbeautyfacts.org/product/0041167042700"
      },
      {
       "brand": "",
@@ -3103,15 +3121,6 @@
       "ingredient_position": 20,
       "ingredient_count": 25,
       "url": "https://world.openbeautyfacts.org/product/8003520013064"
-     },
-     {
-      "brand": "",
-      "name": "Palmolive Dusjsåpe Milk & Honey Pumpe 750ml",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Whey Protein",
-      "ingredient_position": 20,
-      "ingredient_count": 26,
-      "url": "https://world.openbeautyfacts.org/product/8714789526508"
      }
     ],
     "example_raw_materials": [],
@@ -3152,7 +3161,7 @@
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 10
     },
@@ -3167,9 +3176,9 @@
      "germany": 1,
      "switzerland": 1,
      "lithuania": 1,
-     "norway": 1,
-     "netherlands": 1,
-     "austria": 1
+     "turkey": 1,
+     "Türkiye": 1,
+     "norway": 1
     },
     "example_products": [
      {
@@ -3301,7 +3310,7 @@
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 3,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 20
     },
@@ -3313,10 +3322,10 @@
      "norway": 6,
      "turkey": 2,
      "germany": 1,
-     "sweden": 1,
-     "netherlands": 1,
      "Türkiye": 1,
-     "denmark": 1
+     "denmark": 1,
+     "sweden": 1,
+     "netherlands": 1
     },
     "example_products": [
      {
@@ -3375,6 +3384,15 @@
      },
      {
       "brand": "",
+      "name": "Zendium classic",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactoferrin",
+      "ingredient_position": 20,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/8710604777094"
+     },
+     {
+      "brand": "",
       "name": "Classic",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "Lactoferrin",
@@ -3390,15 +3408,6 @@
       "ingredient_position": 20,
       "ingredient_count": 22,
       "url": "https://world.openbeautyfacts.org/product/8712561961196"
-     },
-     {
-      "brand": "",
-      "name": "Zendium classic",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Lactoferrin",
-      "ingredient_position": 20,
-      "ingredient_count": 20,
-      "url": "https://world.openbeautyfacts.org/product/8710604777094"
      },
      {
       "brand": "",
@@ -3464,7 +3473,7 @@
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 19
     },
@@ -3528,21 +3537,21 @@
      },
      {
       "brand": "",
-      "name": "Classic",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Colostrum",
-      "ingredient_position": 18,
-      "ingredient_count": 21,
-      "url": "https://world.openbeautyfacts.org/product/8710908843044"
-     },
-     {
-      "brand": "",
       "name": "Zendium classic",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "Colostrum",
       "ingredient_position": 18,
       "ingredient_count": 20,
       "url": "https://world.openbeautyfacts.org/product/8710604777094"
+     },
+     {
+      "brand": "",
+      "name": "Classic",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Colostrum",
+      "ingredient_position": 18,
+      "ingredient_count": 21,
+      "url": "https://world.openbeautyfacts.org/product/8710908843044"
      },
      {
       "brand": "",
@@ -3630,7 +3639,7 @@
     "products_related": 0,
     "raw_materials_exact": 1,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 7
     },
@@ -3754,7 +3763,7 @@
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 11,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 58
     },
@@ -3816,15 +3825,6 @@
      },
      {
       "brand": "",
-      "name": "Aloe vera puro 100% retinol",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Lactose",
-      "ingredient_position": 5,
-      "ingredient_count": 31,
-      "url": "https://world.openbeautyfacts.org/product/8436014314567"
-     },
-     {
-      "brand": "",
       "name": "Pure Epsom Salt Calm & Serenity with Rose & Milk",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "Lactose",
@@ -3840,6 +3840,15 @@
       "ingredient_position": 5,
       "ingredient_count": 10,
       "url": "https://world.openbeautyfacts.org/product/7891010009250"
+     },
+     {
+      "brand": "",
+      "name": "Aloe vera puro 100% retinol",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Lactose",
+      "ingredient_position": 5,
+      "ingredient_count": 31,
+      "url": "https://world.openbeautyfacts.org/product/8436014314567"
      },
      {
       "brand": "",
@@ -3879,12 +3888,12 @@
      },
      {
       "brand": "",
-      "name": "Sanex Dermo Protect Sensitive",
+      "name": "Shea & Cocoa Butters Moisturizing Hand Soap",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "Lactose",
       "ingredient_position": 10,
-      "ingredient_count": 11,
-      "url": "https://world.openbeautyfacts.org/product/8718951563391"
+      "ingredient_count": 27,
+      "url": "https://world.openbeautyfacts.org/product/0057800201526"
      }
     ],
     "example_raw_materials": [],
