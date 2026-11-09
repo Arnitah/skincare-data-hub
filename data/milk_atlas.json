@@ -1,7 +1,7 @@
 {
  "title": "Beauty Intelligence — Milk Ingredient Atlas",
  "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "records": [
   {
    "atlas_id": "MILK-001",
@@ -834,20 +834,20 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 6,
-    "products_related": 84,
+    "products_exact": 7,
+    "products_related": 86,
     "raw_materials_exact": 1,
     "raw_materials_related": 4,
-    "new_matches_today": 1,
+    "new_matches_today": 3,
     "by_source": {
-     "open_beauty_facts": 90
+     "open_beauty_facts": 93
     },
     "by_category_group": {
-     "body": 3,
-     "hair": 3
+     "hair": 4,
+     "body": 3
     },
     "top_countries_sold": {
-     "india": 4,
+     "india": 5,
      "united states": 1,
      "germany": 1
     },
@@ -860,6 +860,15 @@
       "ingredient_position": 5,
       "ingredient_count": 9,
       "url": "https://world.openbeautyfacts.org/product/0851817007672"
+     },
+     {
+      "brand": "",
+      "name": "Coconut Milk & Peptides Strength & Shine Shampoo",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Cocos Nucifera (Coconut) Milk Extract",
+      "ingredient_position": 5,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/8904430205979"
      },
      {
       "brand": "",
@@ -982,12 +991,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 4,
-    "products_related": 326,
+    "products_related": 329,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 1,
+    "new_matches_today": 3,
     "by_source": {
-     "open_beauty_facts": 325,
+     "open_beauty_facts": 328,
      "round_lab": 3,
      "cosrx": 2
     },
@@ -1134,12 +1143,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 3,
-    "products_related": 126,
+    "products_related": 127,
     "raw_materials_exact": 0,
     "raw_materials_related": 11,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 124,
+     "open_beauty_facts": 125,
      "cosrx": 5
     },
     "by_category_group": {
@@ -1275,12 +1284,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 268,
+    "products_related": 271,
     "raw_materials_exact": 0,
     "raw_materials_related": 18,
-    "new_matches_today": 7,
+    "new_matches_today": 3,
     "by_source": {
-     "open_beauty_facts": 267,
+     "open_beauty_facts": 270,
      "round_lab": 1
     },
     "by_category_group": {},
@@ -1383,7 +1392,7 @@
     "products_related": 10,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 10
     },
@@ -1517,12 +1526,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 49,
+    "products_related": 50,
     "raw_materials_exact": 0,
     "raw_materials_related": 7,
     "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 49
+     "open_beauty_facts": 50
     },
     "by_category_group": {},
     "top_countries_sold": {},
@@ -1610,12 +1619,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 56,
+    "products_related": 59,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 0,
+    "new_matches_today": 3,
     "by_source": {
-     "open_beauty_facts": 55,
+     "open_beauty_facts": 58,
      "cosrx": 1
     },
     "by_category_group": {},
@@ -1803,12 +1812,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 22,
+    "products_related": 23,
     "raw_materials_exact": 0,
     "raw_materials_related": 3,
     "new_matches_today": 0,
     "by_source": {
-     "open_beauty_facts": 22
+     "open_beauty_facts": 23
     },
     "by_category_group": {},
     "top_countries_sold": {},
@@ -1918,18 +1927,18 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 20,
+    "products_exact": 21,
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 20
+     "open_beauty_facts": 21
     },
     "by_category_group": {
      "body": 6,
+     "hair": 6,
      "face": 5,
-     "hair": 5,
      "other": 3,
      "sun_care": 1
     },
@@ -1937,11 +1946,11 @@
      "united states": 7,
      "france": 4,
      "india": 2,
+     "singapore": 2,
      "greece": 2,
      "bolivia": 1,
      "ecuador": 1,
-     "mexico": 1,
-     "peru": 1
+     "mexico": 1
     },
     "example_products": [
      {
@@ -2219,24 +2228,25 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 25,
+    "products_exact": 26,
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 24,
+     "open_beauty_facts": 25,
      "cosrx": 1
     },
     "by_category_group": {
      "face": 12,
      "other": 9,
      "body": 2,
-     "sun_care": 2
+     "sun_care": 2,
+     "hair": 1
     },
     "top_countries_sold": {
+     "united states": 6,
      "germany": 6,
-     "united states": 5,
      "india": 4,
      "france": 3,
      "morocco": 2,
@@ -2408,20 +2418,20 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 1329,
+    "products_exact": 1334,
     "products_related": 0,
     "raw_materials_exact": 7,
     "raw_materials_related": 0,
-    "new_matches_today": 9,
+    "new_matches_today": 6,
     "by_source": {
-     "open_beauty_facts": 1324,
+     "open_beauty_facts": 1329,
      "cosrx": 5
     },
     "by_category_group": {
      "other": 466,
-     "hair": 327,
-     "body": 282,
-     "face": 123,
+     "hair": 330,
+     "body": 283,
+     "face": 124,
      "deodorant": 33,
      "oral_care": 24,
      "fragrance": 24,
@@ -2431,8 +2441,8 @@
     },
     "top_countries_sold": {
      "france": 368,
-     "germany": 290,
-     "united states": 88,
+     "germany": 291,
+     "united states": 89,
      "spain": 85,
      "australia": 61,
      "italy": 53,
@@ -2802,26 +2812,26 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 73,
+    "products_exact": 74,
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 73
+     "open_beauty_facts": 74
     },
     "by_category_group": {
      "deodorant": 21,
      "hair": 18,
      "other": 18,
-     "body": 13,
+     "body": 14,
      "face": 3
     },
     "top_countries_sold": {
      "france": 31,
      "spain": 10,
+     "united states": 6,
      "india": 6,
-     "united states": 5,
      "brazil": 4,
      "turkey": 4,
      "netherlands": 3,
@@ -2993,7 +3003,7 @@
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 19
     },
