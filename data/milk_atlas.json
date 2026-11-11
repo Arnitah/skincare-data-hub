@@ -1,7 +1,7 @@
 {
  "title": "Beauty Intelligence — Milk Ingredient Atlas",
  "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
- "generated": "2026-11-10",
+ "generated": "2026-11-11",
  "records": [
   {
    "atlas_id": "MILK-001",
@@ -195,16 +195,16 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 31,
+    "products_exact": 32,
     "products_related": 0,
     "raw_materials_exact": 4,
     "raw_materials_related": 0,
     "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 31
+     "open_beauty_facts": 32
     },
     "by_category_group": {
-     "body": 20,
+     "body": 21,
      "other": 4,
      "hair": 3,
      "fragrance": 3,
@@ -212,8 +212,8 @@
     },
     "top_countries_sold": {
      "france": 12,
+     "united states": 6,
      "canada": 5,
-     "united states": 5,
      "spain": 2,
      "germany": 1,
      "italy": 1,
@@ -304,6 +304,15 @@
      },
      {
       "brand": "",
+      "name": "Goat Milk Hand Cream",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Caprae Lac (Goat Milk)",
+      "ingredient_position": 4,
+      "ingredient_count": 31,
+      "url": "https://world.openbeautyfacts.org/product/8052211972227"
+     },
+     {
+      "brand": "",
       "name": "Gel Douche / Body Wash",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "Caprae Lac/Goat Milk/Lait de Chèvre",
@@ -319,15 +328,6 @@
       "ingredient_position": 5,
       "ingredient_count": 13,
       "url": "https://world.openbeautyfacts.org/product/0704001686460"
-     },
-     {
-      "brand": "",
-      "name": "Fresh Goat's Milk Soap",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "caprae lac/goat milk/lait de chèvre",
-      "ingredient_position": 5,
-      "ingredient_count": 17,
-      "url": "https://world.openbeautyfacts.org/product/0779242069990"
      }
     ],
     "example_raw_materials": [
@@ -499,7 +499,7 @@
     "products_related": 0,
     "raw_materials_exact": 0,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 1
     },
@@ -852,12 +852,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 7,
-    "products_related": 86,
+    "products_related": 88,
     "raw_materials_exact": 1,
     "raw_materials_related": 4,
-    "new_matches_today": 0,
+    "new_matches_today": 2,
     "by_source": {
-     "open_beauty_facts": 93
+     "open_beauty_facts": 95
     },
     "by_category_group": {
      "hair": 4,
@@ -1008,12 +1008,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 4,
-    "products_related": 331,
+    "products_related": 333,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
     "new_matches_today": 2,
     "by_source": {
-     "open_beauty_facts": 330,
+     "open_beauty_facts": 332,
      "round_lab": 3,
      "cosrx": 2
     },
@@ -1160,12 +1160,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 3,
-    "products_related": 129,
+    "products_related": 131,
     "raw_materials_exact": 0,
     "raw_materials_related": 11,
     "new_matches_today": 2,
     "by_source": {
-     "open_beauty_facts": 127,
+     "open_beauty_facts": 129,
      "cosrx": 5
     },
     "by_category_group": {
@@ -1301,12 +1301,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 272,
+    "products_related": 274,
     "raw_materials_exact": 0,
     "raw_materials_related": 18,
-    "new_matches_today": 1,
+    "new_matches_today": 2,
     "by_source": {
-     "open_beauty_facts": 271,
+     "open_beauty_facts": 273,
      "round_lab": 1
     },
     "by_category_group": {},
@@ -1492,12 +1492,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 5,
+    "products_related": 6,
     "raw_materials_exact": 0,
     "raw_materials_related": 1,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 5
+     "open_beauty_facts": 6
     },
     "by_category_group": {},
     "top_countries_sold": {},
@@ -1546,7 +1546,7 @@
     "products_related": 51,
     "raw_materials_exact": 0,
     "raw_materials_related": 7,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 51
     },
@@ -1636,12 +1636,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 59,
+    "products_related": 60,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 58,
+     "open_beauty_facts": 59,
      "cosrx": 1
     },
     "by_category_group": {},
@@ -1944,23 +1944,23 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 21,
+    "products_exact": 22,
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 21
+     "open_beauty_facts": 22
     },
     "by_category_group": {
-     "body": 6,
+     "body": 7,
      "hair": 6,
      "face": 5,
      "other": 3,
      "sun_care": 1
     },
     "top_countries_sold": {
-     "united states": 7,
+     "united states": 8,
      "france": 4,
      "india": 2,
      "singapore": 2,
@@ -2071,12 +2071,12 @@
      },
      {
       "brand": "",
-      "name": "dandruff shampoo",
+      "name": "Daily Moisturizing Body Yogurt Vanilla and Oats Lotion",
       "source_id": "open_beauty_facts",
-      "matched_ingredient": "Yoghurt extract",
-      "ingredient_position": 15,
-      "ingredient_count": 34,
-      "url": "https://world.openbeautyfacts.org/product/5022496103466"
+      "matched_ingredient": "yogurt powder",
+      "ingredient_position": 12,
+      "ingredient_count": 16,
+      "url": "https://world.openbeautyfacts.org/product/0381371168231"
      }
     ],
     "example_raw_materials": [
@@ -2435,19 +2435,19 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 1339,
+    "products_exact": 1342,
     "products_related": 0,
     "raw_materials_exact": 7,
     "raw_materials_related": 0,
-    "new_matches_today": 5,
+    "new_matches_today": 3,
     "by_source": {
-     "open_beauty_facts": 1334,
+     "open_beauty_facts": 1337,
      "cosrx": 5
     },
     "by_category_group": {
      "other": 467,
-     "hair": 332,
-     "body": 283,
+     "hair": 333,
+     "body": 285,
      "face": 125,
      "deodorant": 33,
      "oral_care": 24,
@@ -2458,8 +2458,8 @@
     },
     "top_countries_sold": {
      "france": 368,
-     "germany": 292,
-     "united states": 92,
+     "germany": 293,
+     "united states": 94,
      "spain": 85,
      "australia": 61,
      "italy": 53,

@@ -1,4 +1,106 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-11-11,20261111T170859Z,cosrx,products,cosrx:aha-7-whitehead-power-liquid-copy,AHA 7 Whitehead Power Liquid,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:9326123008596,Scalp Remedy Conditioner,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8999777004354,Black & White Invisible Clear,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8909106081963,Keratin Smooth Shampoo with Keratin + Argan Oil,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8908018846103,Postbiotic Face Cream,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8906147702710,Blueberry Hydrate Barrier Repair Milky Toner Essence,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8906145979060,KeshaVarnah Hair Darkening Serum,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8906033132874,Cream,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8904390200830,Apple Cider Vinegar Shampoo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8901030868719,Conditioner,changed,"ingredients, ingredients_text, name","ingredients_text: Water, Cetearyl Alcohol, Behentrimonium Chloride (and) Dipropylene Glycol, Di... -> Water, Cetearyl Alcohol^, Behentrimonium Chloride^ (and) Dipropylene Glycol, ...; name: Argan Oil & Lavender Smooth and Serene Conditioner -> Conditioner"
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8886304600465,Blemish Care Creamy Scrub,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8851932429177,Hair Boost Nourishment Shampoo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8809643538664,Mint scalp hair vinegar,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8809640737190,Azelaic Acid 10+ Hyaluron,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8809581441224,Raspberry hair vinegar,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8718951166127,Zahnpasta,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8430351066035,Cetaphil Loción Limpiadora para Piel Sensible,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8414807555151,Anticaspa Fresh,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8062831055255,Trocken Shampoo Schaum,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8052211972227,Goat Milk Hand Cream,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:8001841041360,Pampers fresh clean,changed,"category, tags",category: non-open-products-facts -> Baby wipes; tags: non open products facts -> accessories; moist wipes; baby wipes
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:7899572814701,Moisturizing Shampoo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:7702031927310,"Lubriderm Men 3 usos en 1, crema humectante corporal, cuerpo, cara y después de afeitar, con aloe y pro-ceramidas",added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:7501056330309,"Pond’s Clarant B3 Crema Antimanchas, piel normal a grasa",added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:7501056330293,"Pond’s Clarant B3 Crema Antimanchas, piel normal a grasa",added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:7501035911376,Colgate Total Active Prevention Toothpaste,changed,size,size: 50ml -> 150 ml
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:7501007528427,"Lubriderm Reparación Intensiva, crema humectante corporal, piel áspera y extra seca, con pro-ceramidas",added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:6975004480544,Turmeric Super Whitening Oil,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:6972523535489,Hydrating H&B Lumi Eye Spa,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:6942349722677,Minoxidil Shampoo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:6902395706113,Super Stay Matte Ink,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:6111024008898,(unnamed),added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:4806525284132,Shampoo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:4580632114703,Perfect Beauty Extra Hair Fall Control Shampoo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:4310224015794,Augen Make-up Entferner,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:4305615834696,Duschgel Relax 3in1,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:4026085018279,Teufelskralle Gel mit Hanfsamenöl,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:4015400636649,Sensitive Wipes,changed,"category, name, size, tags",category: ar:كل-شيئ -> Baby wipes; name: (unnamed) -> Sensitive Wipes; size: 56 Lingettes 5m -> 56 pcs; tags: كل شيئ -> accessories; moist wipes; baby wipes
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:4015100815511,Fresh it Up!,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3701129812129,Sensibio H2O 500ml pp,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3616302735587,Clean Fresh Skincare Priming Glow Mist,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3606000620841,Intensive Moisturizing Lotion,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3600542520294,(unnamed),changed,"brand, listing_status",brand: L'Oréal -> ; listing_status: removed -> active
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3372290000266,Volumize,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3337875598996,moisturising cream,changed,category,category: fr:baume-hydratant -> fr:baume hydratant
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3337875597388,CeraVe Hydraterende Crème,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3337875545822,Toleriane Purifying Foaming Cleanser,changed,"ingredient_count, ingredients, ingredients_text","ingredient_count: 23 -> 24; ingredients_text: AQUA/WATER/EAU, GLYCERIN, COCO-BETAINE, PROPANEDIOL, SODIUM, COCOYL GLYCINATE... -> WATER, GLYCERIN, COCO-BETAINE, PROPANEDIOL, SODIUM, COCOYL GLYCINATE, PEG-120..."
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:3261415300100,Savon végétal à l'huile d'olive,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:20057060,Crème de Soin Corps,changed,"ingredient_count, ingredients, ingredients_text, name, tags","ingredient_count: 23 -> 22; ingredients_text: Aqua, Isopropyl Palmitate, Glycerin, Glycine Soja Oil, Polyglyceryl-3 Polyric... -> Aqua, Ethylhexyl Stearate, Isopropyl Palmitate, Glycerin, Dissostearoyl Polyg...; name: Crème pour la peau Classic -> Crème de Soin Corps"
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0891038001011,Skincare Oil,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0850074689942,Whole Body Deodorant Spiced Sandalwood,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0850012507611,Volumizing Conditioner,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0827854007081,Complete Protection Aluminum-Free Deodorant Sandalwood & Vanilla,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0816494025517,Living Crystal Toothpaste,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0812154036206,Hair Volumizing Conditioner,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0812154033953,Hair Volumizing Conditioner Cucumber & Mint,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0810131233716,Smokey Delight,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0810051088557,Anti-Sore Oral Rinse,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0764302314325,Coconut & Hibiscus Curl & Shine Shampoo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0764302291367,Coconut & Hibiscus Curl Enhancing Smoothie,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0764302270881,African Black Soap Soothing Body Mask,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0764302028215,Virgin Coconut Oil Daily Hydration Body Oil,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0742797764542,Hypoallergenic Shampoo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0714924294055,"Cool Scalp Braid, Twist & Loc Gel",added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0667888149810,Skin Relief Oatmeal,changed,"ingredients, ingredients_text, name","ingredients_text: Water, Petrolatum, Dimethicone, Stearyl alcohol, Isopropyl Myristate, Glyceri... -> Water/Eau, Petrolatum, Dimethicone, Stearyl alcohol, Isopropyl Myristate, Gly...; name: skin relief oatmeal -> Skin Relief Oatmeal"
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0663903738014,Glaze Gel Polish Light Peachy Nude,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0645095006317,Lavish 4 in 1,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0640986309263,Triple Butter Soap Base,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0607203042693,Batana Oil,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0381371168231,Daily Moisturizing Body Yogurt Vanilla and Oats Lotion,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0198217000866,Advanced Hand Sanitizer with Aloe,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0075371251535,Pumpkin Roll Foaming Gel Wash,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0074704274005,Edgewax Caffeine,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0071249663165,Beauty Sleep In A Box Midnight Duo,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0057521282200,Triple Action Daily Facial Cleanser,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0041507051706,Hydrating Milky Toner Snow Mushroom,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0041100005069,Sport Sunscreen Spray,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0032023015075,Super Gro Conditioner,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0030772251799,Body Lotion,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0030772112267,Buildup Remover Cooling Mint + Rosemary,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0030772073315,Sensitive,changed,tags,tags: baby wipes -> accessories; moist wipes; baby wipes
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0011111192942,Limited Edition Winter Care,added,,
+2026-11-11,20261111T170859Z,open_beauty_facts,products,open_beauty_facts:0005146000075,Pumpkin Body Butter,added,,
+2026-11-11,20261111T170859Z,aromantic,raw_materials,aromantic:d-panthenol,D Panthenol,changed,in_stock,in_stock: false -> true
+2026-11-11,20261111T170859Z,aromantic,raw_materials,aromantic:organic-argan-oil,Organic Argan Oil,changed,in_stock,in_stock: false -> true
+2026-11-11,20261111T170859Z,windy_point,raw_materials,windy_point:ceramide-complex,Ceramide Complex,changed,description,"description: Description Details Documents Ceramides are essential components of the skin ... -> Discontinued:  Unfortunately, new tariffs taking effect September 8, 2026 hav..."
+2026-11-11,20261111T170859Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-indian-gooseberry-extract-pf,FSS Indian Gooseberry Extract PF,removed,,
+2026-11-11,20261111T170859Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-nanovesicular-system-p3,FSS NANOVESICULAR SYSTEM P3,changed,category,category:  -> Raw Material
+2026-11-11,20261111T170859Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-lemon-peel-extract-g-drk,FSS Lemon Peel Extract G DRK,changed,category,category:  -> Raw Material
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:illite-clay-olive-green,"Illite Clay, Olive Green",changed,"price_max, price_min, sizes",price_max: 22.95 -> 26.95; price_min: 3.95 -> 4.95; sizes: 1 oz - $3.95; 4 oz - $7.95; 1 lb - $22.95 -> 1 oz - $4.95; 4 oz - $8.95; 1 lb - $26.95
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:surfthix-doe,SurfThix™ DOE,changed,"price_max, price_min, sizes",price_max: 59.95 -> 69.95; price_min: 7.75 -> 8.75; sizes: 4 oz - $7.75; 8 oz - $12.95; 1 lb - $20.25; 4 lbs - $59.95 -> 4 oz - $8.75; 8 oz - $12.95; 1 lb - $20.85; 4 lbs - $69.95
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:telangyn-peptide-solution,TELANGYN™ peptide solution,changed,"price_min, sizes",price_min: 7.95 -> 8.95; sizes: 8g (.25 oz) - $7.95; 15g (0.52 oz) - $13.45; 30g (1.05 oz) - $22.85; 60g (2.1... -> 8g (.25 oz) - $8.95; 15g (0.52 oz) - $13.45; 30g (1.05 oz) - $22.85; 60g (2.1...
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:uplevity-peptide-solution,UPLEVITY™ peptide solution,changed,"price_max, price_min, sizes",price_max: 354.95 -> 374.95; price_min: 9.95 -> 11.35; sizes: 8g (.25 oz)  - $9.95; 15g (0.52 oz) - $16.45; 30g (1.05 oz) - $29.95; 60g (2.... -> 8g (.25 oz)  - $11.35; 15g (0.52 oz) - $18.65; 30g (1.05 oz) - $31.95; 60g (2...
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:urea,Urea,changed,"price_min, sizes",price_min: 3.95 -> 4.55; sizes: 1 oz - $3.95; 4 oz - $7.55; 1 lb - $17.95; 5 lb - $71.75 -> 1 oz - $4.55; 4 oz - $7.55; 1 lb - $17.95; 5 lb - $71.75
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:turmeric-hydrosol,Turmeric Hydrosol,changed,"price_max, sizes",price_max: 59.55 -> 63.55; sizes: 2 oz - $8.75; 8 oz - $19.95; 1 lb - $33.95; 2 lb - $59.55 -> 2 oz - $8.75; 8 oz - $19.95; 1 lb - $35.95; 2 lb - $63.55
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:surfpro-cf,SurfPro™ CF,changed,"price_max, price_min, sizes",price_max: 315.75 -> 338.75; price_min: 15.65 -> 16.65; sizes: 4 oz - $15.65; 8 oz - $26.85; 1 lb - $46.95; 8 lbs - $315.75 -> 4 oz - $16.65; 8 oz - $27.85; 1 lb - $49.95; 8 lbs - $338.75
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:sweetgrass-hydrosol,Sweetgrass Hydrosol,changed,"price_max, price_min, sizes",price_max: 219.95 -> 264.95; price_min: 6.75 -> 8.95; sizes: 2 oz - $6.75; 8 oz - $18.95; 1 lb - $34.95; 8 lb - $219.95 -> 2 oz - $8.95; 8 oz - $22.95; 1 lb - $39.95; 8 lb - $264.95
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:surfpro-sci,SurfPro™ SCI,changed,"price_max, price_min, sizes",price_max: 78.95 -> 81.95; price_min: 10.45 -> 11.65; sizes: 8 oz - $10.45; 1 lb - $19.65; 5 lb - $78.95 -> 8 oz - $11.65; 1 lb - $19.65; 5 lb - $81.95
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:surfpro-surfactin,SurfPro™ Surfactin,changed,"price_max, price_min, sizes",price_max: 996.5 -> 1026.5; price_min: 7.35 -> 9.95; sizes: 5g (0.17 oz) - $7.35; 25g (0.88 oz) - $31.95; 100g (3.52 oz) - $113.95; 500g ... -> 5g (0.17 oz) - $9.95; 25g (0.88 oz) - $32.95; 100g (3.52 oz) - $119.95; 500g ...
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:sweet-almond-oil-virgin-unrefined,"Sweet Almond Oil, Virgin, Unrefined",changed,"price_max, price_min, sizes",price_max: 89.75 -> 99.75; price_min: 5.75 -> 7.75; sizes: 3.5 oz - $5.75; 7.5 oz - $8.95; 15 oz - $15.95; 30 oz - $26.75; 7.5 lbs - $89.75 -> 3.5 oz - $7.75; 7.5 oz - $10.35; 15 oz - $17.45; 30 oz - $29.95; 7.5 lbs - $9...
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:surfpro-cc-6,SurfPro™ CC-6,changed,"price_max, price_min, sizes",price_max: 468.45 -> 528.45; price_min: 4.95 -> 5.95; sizes: 2 oz - $4.95; 8 oz - $9.45; 1 lb - $16.95; 4 lbs - $59.95; 40 lbs - $468.45 -> 2 oz - $5.95; 8 oz - $11.65; 1 lb - $18.45; 4 lbs - $69.95; 40 lbs - $528.45
+2026-11-11,20261111T170859Z,lotioncrafter,raw_materials,lotioncrafter:willow-bark-extract,Willow Bark Extract,changed,"price_max, price_min, sizes",price_max: 275.45 -> 298.45; price_min: 5.35 -> 6.85; sizes: 1 oz - $5.35; 2 oz - $7.65; 4 oz - $12.75; 8 oz - $19.85; 1 lb - $36.95; 8 lb... -> 1 oz - $6.85; 2 oz - $8.65; 4 oz - $13.75; 8 oz - $21.85; 1 lb - $39.95; 8 lb...
 2026-11-10,20261110T170401Z,cosrx,products,cosrx:one-step-moisture-up-pad,One Step Moisture Up Pad,removed,,
 2026-11-10,20261110T170401Z,cosrx,products,cosrx:cosrx-advanced-snail-mucin-glass-glow-hydrogel-mask_3ea,Advanced Snail Mucin Glass Glow Hydrogel Mask,changed,price_min,price_min: 6.99 -> 6
 2026-11-10,20261110T170401Z,open_beauty_facts,products,open_beauty_facts:9356126007586,Nourish Hair Oil,added,,
@@ -1897,105 +1999,3 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359407002553,Hismile Toothpaste Strawberry 100g,added,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359407002546,Hismile Fluoride & Toothpaste Grape Bubblegum 100g,added,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359407002539,Hismile Fluoride & Toothpaste Watermelon 100g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359407002416,COLOUR CORRECTION TECHNOLOGY TEETH WHITENING 34 wh,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359157000144,Kings Domain Melbourne Beach Curl Cream 140g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359157000090,Kings Domain Melbourne Volume Powder 6g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359157000083,Kings Domain Melbourne Sea Salt Texture Spray 200mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359157000045,Kings Domain Melbourne Texture Paste 85g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359157000014,Kings Domain Melbourne Hair Crafting Clay 85g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9359130000147,Natural Clear Zinc Sunscreen SPF 50,changed,brand,brand: Little Urchin -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9358801000240,All Natural Anti Odourant,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9358801000011,Cool lavender deodorant,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9358741475252,CENTAUREA,changed,brand,brand: svc -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9358437000621,Woodsman Skincare Burnt Rose Body Wash 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9358437000447,Body Wash,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9358131000811,Sundae Whipped Shower Foam Birthday Cake 265mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9358131000798,Sundae Whipped Shower Foam Strawberry & Cream 265mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93576703,Dove Advanced 72hr Roll On Original 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93576697,Dove Women Advanced Deodorant Roll On 72hr Antiperspirant Pomegranate 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93576680,Dove Women Advanced Deodorant Roll On 72hr Antiperspirant Invisible Dry 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93576635,Dove Men Advanced Deodorant Roll On 72hr Antiperspirant Invisible Dry 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93576628,Dove Men +care Fresh Roll-on Deodorant,changed,brand,brand: Dove -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93575485,Hismile The Simpsons purple squishee toothpaste,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93575300,Men + Care Zero 48Hrs,changed,"brand, category",brand: Dove -> ; category: Personal-care -> personal-care
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9357424000682,Wanderlust Turmeric 90mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93571074,red velvet toothpaste,changed,brand,brand: hismile -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93569590,Rexona Women Advanced 72hr Deodorant Roll On Bright Bouquet 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93569453,Rexona Men Advanced 72hr Deodorant Roll On Invisible Fresh 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93569439,Rexona Women Advanced 72hr Deodorant Roll On Invisible Pure 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93569316,Rexona Men Advanced 72hr Deodorant Roll On Invisible Dry 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93569309,Rexona Men Advanced 72hr Deodorant Roll On Sport 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002525,Gem Sport-loving Roll On Deodorant Millionaire 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002488,Gem Sport-loving Deodorant Midnight Oud 127g 207mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002471,Gem Sport-loving Deodorant Millionaire 127g 207mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002419,Gem Sport-loving Deodorant Tobacco Vanilla 127g 207mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002402,Gem Sport-loving Deodorant Sandalwood & Cedar 127g 207mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002396,Gem Sport-loving Deodorant Freshly Showered 127g 207mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002389,Gem Sport-loving Deodorant Original Clean 127g 207mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002358,Gem Sport-loving Roll On Deodorant Freshly Showered 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892002341,Gem Sport-loving Roll On Deodorant Original Clean 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892001924,Coconut Vanilla Antiperspirant Deodorant,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892001276,Gem Skin-loving Roll On Deodorant Vanilla Sugar 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892001207,Gem Fragrance Mist Santal 90mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356892000316,Gem Skin Loving Deodorant Summer Spritz 127g 207mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93568609,"Anticavity Toothpaste, Watermelon Flavor",changed,"brand, tags",brand: HiSmile -> ; tags: hygiene; toothpastes -> incorrect product type; non food products; open beauty facts; toothpastes
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356419000331,Growth Bomb Super Charge Conditioner 300mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9356407000602,Clear-Wash Clarifying Detox Shampoo,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9355449000588,Bunjie Baby Daily Sensitive Moisturising Lotion 500mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9355449000571,Bunjie Baby Tear-free Gentle Shampoo 500mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9355449000069,Bunjie Baby Top To Toe Wash 500mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9355449000021,Moisture Lotion,changed,"brand, category",brand: Bunjie -> ; category: Moisturiser -> moisturiser
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93549882,Norsca Aluminium Free Anti-Perspirant Roll On Deodorant 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9352218000473,Sea Spray,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9351134001793,Coconut Coffee Scrub,changed,"brand, category",brand: Frank Body -> ; category: Cosmetic-products -> cosmetic-products
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9351134000222,Sweet Cheeks Kit,changed,brand,brand: frank body -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9349580007742,Coco Health Powder Super Greens Daily 360g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9349580007438,Coco Health Triple Action Vitamin C D & Zinc 90mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9349580007414,Coco Health Magnesium 55mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9349580007384,Coco Health Maca Root Oil 55mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9349580007100,Coco Earth Triple Action Turmeric Ginger Black Pepper 55mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:93494816,Norsca Forest Fresh Antiperspirant Roll On Deodorant 50mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9349254006033,Byron Body Restore Bath Salts 500g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9349254006026,Byron Body Rejuvenate Bath Salts 500g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9348918009410,Soothing Castile Hand Wash,changed,"brand, category",brand: freshwater -> ; category: Hand-soap -> hand-soap
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9348918008604,Freshwater Farm Australia Lemon Myrtle Oil & Manuka Honey Body Wash 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9348918008598,Cleansing Body Wash,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9348918004507,Beach Rd Naturals Body Wash Mango & Pomegranate 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9348918003708,Beach Road Naturals Organic Rosewater Natural Body Wash 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9348918003692,Beach Road Naturals Organic Coconut Oil & Lime Natural Body Wash 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9348918000912,Freshwater Farm Rosewater+Pink Clay Hand Wash,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9348918000677,Freshwater Farm Australia Body Wash Manuka Honey & Vanilla Bean 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9347774002412,Hunny Bunny Soap with Manuka Honey and Shea Butter,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9347346004721,Urbane Mess Pomade 85g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9347346004714,Urbane Mess Pliable Putty 85g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9347346004707,Urbane Mess Grooming Wax 85g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9347346004691,Urbane Mess Defining Paste 85g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9347346004684,Urbane Mess Styling Fiber 85g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9347346003052,Crayola Bath Time Fun Activity Set each,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9347108004884,B.Clean Antibakterielle Tücher,changed,brand,brand: B.Clean -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9346720008959,Urbane Mess Texture Clay 85g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9346720003145,Grow Longer Stronger Shampoo 250mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9346720003107,Grow Thicker Fuller 250mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9346627007093,Keep My Curl Moisture Shampoo,changed,"brand, category",brand: ELEVEN -> ; category: Shampoo -> Shampoos
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9346627000209,shampoo,changed,category,category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9346368000063,Dymista 125/50,changed,"brand, category",brand: Viatris -> ; category: Nasal-sprays -> nasal-sprays
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344960002522,Thankyou. Hand & Body Wash Refill Geranium Rose & Wood 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344960002515,Thankyou. Hand & Body Wash Refill Sweet Orange & Almond 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344960002508,Thankyou. Body Wash Botanical Mint & Spring Flowers 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344960002485,Thankyou. Body Wash Botanical Lemon Myrtle & Oat Milk Pump 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344960002478,Thankyou. Body Wash Botanical Geranium Rose & Wood Pump 1L,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329282787,L'Oreal Paris Extensionist Mascara Washable 9.9mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329272115,L'Oreal Paris Panorama All Night Black Mascara 9.9mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329271477,Maybelline Colossal Bubble Mascara each,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329271460,Maybelline Colossal Bubble Mascara each,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329270326,Maybelline Poreless Jelly Primer 30mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329267685,Maybelline Superfluff Brow Mousse Deep Brown 5mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329264929,Maybelline Super Lock Brow Glue each,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329264882,Maybelline Superstay Lumi 30H Matte Foundation 119 each,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329264875,Maybelline Superstay Lumi 30H Matte Foundation 115 each,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329264868,Maybelline Superstay Lumi 30H Matte Foundation 98 each,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329259147,L'Oreal Paris Lumi Glotion Deep Tinted Moisturiser 40mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329259130,L'Oreal Paris Lumi Glotion Medium Tinted Moisturiser 40mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329259123,L'Oreal Paris Lumi Glotion Light Tinted Moisturiser 40mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329256146,Maybelline The Falsies Surreal Mascara Meta Black 10mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9344329255897,L'oreal Paris Million Lashes Panorama Black 9.9mL,added,,
