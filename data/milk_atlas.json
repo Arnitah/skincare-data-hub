@@ -1,7 +1,7 @@
 {
  "title": "Beauty Intelligence — Milk Ingredient Atlas",
  "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "records": [
   {
    "atlas_id": "MILK-001",
@@ -199,7 +199,7 @@
     "products_related": 0,
     "raw_materials_exact": 4,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 32
     },
@@ -855,7 +855,7 @@
     "products_related": 88,
     "raw_materials_exact": 1,
     "raw_materials_related": 4,
-    "new_matches_today": 2,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 95
     },
@@ -1011,7 +1011,7 @@
     "products_related": 333,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 2,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 332,
      "round_lab": 3,
@@ -1163,7 +1163,7 @@
     "products_related": 131,
     "raw_materials_exact": 0,
     "raw_materials_related": 11,
-    "new_matches_today": 2,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 129,
      "cosrx": 5
@@ -1301,12 +1301,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 274,
+    "products_related": 275,
     "raw_materials_exact": 0,
     "raw_materials_related": 18,
-    "new_matches_today": 2,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 273,
+     "open_beauty_facts": 274,
      "round_lab": 1
     },
     "by_category_group": {},
@@ -1495,7 +1495,7 @@
     "products_related": 6,
     "raw_materials_exact": 0,
     "raw_materials_related": 1,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 6
     },
@@ -1543,12 +1543,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 51,
+    "products_related": 52,
     "raw_materials_exact": 0,
     "raw_materials_related": 7,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 51
+     "open_beauty_facts": 52
     },
     "by_category_group": {},
     "top_countries_sold": {},
@@ -1639,7 +1639,7 @@
     "products_related": 60,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 59,
      "cosrx": 1
@@ -1948,7 +1948,7 @@
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 22
     },
@@ -2435,36 +2435,36 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 1342,
+    "products_exact": 1348,
     "products_related": 0,
     "raw_materials_exact": 7,
     "raw_materials_related": 0,
-    "new_matches_today": 3,
+    "new_matches_today": 6,
     "by_source": {
-     "open_beauty_facts": 1337,
+     "open_beauty_facts": 1343,
      "cosrx": 5
     },
     "by_category_group": {
-     "other": 467,
-     "hair": 333,
+     "other": 469,
+     "hair": 334,
      "body": 285,
-     "face": 125,
+     "face": 127,
      "deodorant": 33,
      "oral_care": 24,
      "fragrance": 24,
-     "sun_care": 21,
+     "sun_care": 22,
      "makeup": 19,
      "baby": 11
     },
     "top_countries_sold": {
      "france": 368,
-     "germany": 293,
+     "germany": 295,
      "united states": 94,
      "spain": 85,
      "australia": 61,
      "italy": 53,
      "united kingdom": 53,
-     "switzerland": 42
+     "switzerland": 44
     },
     "example_products": [
      {
