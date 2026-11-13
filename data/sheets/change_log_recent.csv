@@ -1,4 +1,83 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-11-13,20261113T171358Z,round_lab,products,round_lab:azelaic-acid-serum,Azelaic Acid Serum,changed,tags,tags: igg26_for_her; singleproduct; singleproducts; tag__hot_NEW -> allproducts; igg26_for_her; singleproduct; singleproducts; tag__hot_NEW
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8414227073204,(unnamed),removed,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8992222057264,Fiber Clay,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8906087771791,Aloe Turmeric Gel,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8903855091747,Aha Glow Face Wash Gel,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8902979054027,Naturals Anti Hairfall Shampoo,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8857101157926,Skin Lightening & Glycerin,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8850006959527,Visible White Purple,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8809874685823,Azelaic Acid Peptide Body Lotion,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8809700321697,Choc Choc Bubble Beam Toner,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8720181589713,Jungle Fresh Deodorant Bodyspray,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8720181471568,Petal Soft Shower Gel,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8719934029736,Care Gleitgel,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8719179167491,Mint 0% Fluor Toothpaste,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8056284453300,YES NOURISH Hyper Nutri Mask,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:8053629622469,Coffee Absolut,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:7709222839568,"Elixir by La Maga Desodorante Natural, Piedra Alumbre y Concha de Nácar",added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:7702354961411,Alma de Romero Shampoo Anticaída y Crecimiento (Romero y Argán),added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:7702123013570,"Acid Mantle ProB5 Hidratante Restaurador, Loción Corporal Uso Diario, Piel Seca",added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:6414505197150,Deep Moisturizing Conditioner,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:6414505197129,Moisturizing Shampoo,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:6001374035562,Fresh Morning Body Powder,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4902430540858,Pro-V Advanced Hairfall Solution 2 in 1,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4897147693402,AHA BHA PHA,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4335619497757,Hand Soap Rosemary & Ginger,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4300123820100,7 Jours Cream,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4070765020472,Nagelreiniger,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4070765020434,Nagellackentferner acetonfrei,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4070765006520,Antibakterielle Zahnpasta,changed,"ingredient_count, ingredients, ingredients_text, name","ingredient_count: 12 -> 10; ingredients_text: Аqua, Sorbitol, Hydrated Silica, Cellulose Gum, Sodium C14-16 Olefin Sulfonat... -> Sorbitol, Aqua, Hydrated Silica, Cellulose Gum, Sodium C14-16 Olefin Sulfonat...; name: (unnamed) -> Antibakterielle Zahnpasta"
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4068134081742,Leave-In Conditioner Arganöl & Pflege,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4066447919349,Shampoo Ultra Sensitivity,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4066447888829,Ultra Sensitive Waschbalsam,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4066447888782,Waschgel sensitive,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4059729586803,Hyper liner,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4059729484444,Juicy bomb pineapple paradise,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4006000181981,Eucerin DermoPure Clinical Triple Action Serum Corrector,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4005808890576,Soft Moisturising Cream,changed,"ingredient_count, ingredients, ingredients_text, name","ingredient_count: 33 -> 37; ingredients_text: Aqua, Glycerin, Myristyl Alcohol, Alcoh Denat., Myristyl Myristate, Cetearyl ... -> Aqua, Glycerin, Myristyl Alcohol, Alcohol Denat., Myristyl Myristate, Ceteary...; name: Nivea soft -> Soft Moisturising Cream"
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4002448189350,Naturals Extra Sensitive,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:4001669090124,BIO Gleitgel,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:3574661608341,Intense Cream,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:3337875917407,La Roche-Posay Anthelios UVMune 400 Fluido Antimanchas SPF 50+,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:3337875543248,Vichy Minéral 89 Concentrado Fortificante y Reconstituyente,changed,"category, name, tags",category:  -> Skin care; name: Mineral 89 -> Vichy Minéral 89 Concentrado Fortificante y Reconstituyente; tags:  -> Face serums; Hyaluronic acid serums; Skin care
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0860000320337,Refresh & Detangle Spray,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0842107023007,Hand Sanitizer Cherry Vanilla,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0840044714095,eos body wash,changed,"name, size",name: Cashmere Body Wash -> eos body wash; size:  -> 473
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0810210626675,Odor Squatching Deodorant Fresh Falls,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0810029480222,Slip Tint Tinted Moisturizer,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0805106842918,Personal Care Hand Sanitizer Gel,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0792850009424,Body Lotion Cocoa & Cupuaçu Butter,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0697029974285,Healthy Gums Oral Rinse,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0667888594870,Hydra Sensation Smooth Hair Shampoo,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0199284368231,Skin Revival Spray,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0099482551568,Sea Salt & Water Lily Scented Hand Soap,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0041520088970,Kids Children's Fluoride Toothpaste Strawberry,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0036000511253,Fresh Protection Large,added,,
+2026-11-13,20261113T171358Z,open_beauty_facts,products,open_beauty_facts:0030772153710,Downy Ultimate Fusions in-wash scent booster,added,,
+2026-11-13,20261113T171358Z,aromantic,raw_materials,aromantic:organic-sweet-almond-oil,Organic Sweet Almond Oil,changed,in_stock,in_stock: true -> false
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:sea-buckthorn-liquid-extract,Sea Buckthorn Liquid Extract,removed,,
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:ez-color-sexy-pink-slippers,EZ Color - Sexy Pink Slippers,removed,,
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:ez-color-pink-watermelon-infusion,EZ Color - Pink Watermelon Infusion,removed,,
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:ez-color-candy-orange-1,EZ Color - Candy Orange,removed,,
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:ez-color-berry-blue,EZ Color - Berry Blue,removed,,
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:witch-hazel-distillate,Witch Hazel Distillate - non alcoholic,changed,description,"description: Description Details Documents A natural astringent, Witch Hazel is an extract... -> Description Details Documents A natural astringent, Witch Hazel is an extract..."
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:dl-panthenol-pro-vitamin-b5,DL-Panthenol,changed,description,"description: Description Details Documents Yes, this is the very same Pro-Vitamin B5 featu... -> Description Details Documents Yes, this is the very same Pro-Vitamin B5 featu..."
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:slsa-lathanal-lal-surfactant-powder,SLSa - Surfactant Powder,changed,"description, in_stock","description: Description Details Documents  This gentle, high foaming powdered anionic sur... -> Description Details Documents  This gentle, high foaming powdered anionic sur...; in_stock: true -> false"
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:jeesperse-ice-t-cpcs-conditioning-cold-process-emulsifier,Jeesperse ICE-T CPCS Conditioning Cold Process Emulsifier,changed,in_stock,in_stock: false -> true
+2026-11-13,20261113T171358Z,windy_point,raw_materials,windy_point:slsa-surfactant-powder-bulk,SLSa - Surfactant Powder - Bulk,changed,description,"description: Description Details Documents  This gentle, high foaming powdered anionic sur... -> Description Details Documents  This gentle, high foaming powdered anionic sur..."
+2026-11-13,20261113T171358Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ectoin,FSS ECTOIN,removed,,
+2026-11-13,20261113T171358Z,formulator_sample_shop,raw_materials,formulator_sample_shop:sodium-lauroamphoacetate,Sodium Lauroamphoacetate,changed,tags,tags: All Products; Surfactants -> All Products; Not eligible for promotional discounts; Surfactants
+2026-11-13,20261113T171358Z,formulator_sample_shop,raw_materials,formulator_sample_shop:1-3-propanediol,"1,3-propanediol",changed,category,category:  -> Raw Material
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:allantoin,Allantoin,changed,"price_max, sizes",price_max: 93.95 -> 95.95; sizes: 2 oz - $5.85; 4 oz - $8.95; 8 oz - $14.95; 1 lb - $21.95; 5 lb - $93.95 -> 2 oz - $5.85; 4 oz - $8.95; 8 oz - $14.95; 1 lb - $22.95; 5 lb - $95.95
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:aromafix,AromaFix™ Fragrance Fixative,changed,"price_max, price_min, sizes",price_max: 248.85 -> 268.85; price_min: 10.95 -> 13.95; sizes: 4.5 oz - $10.95; 9 oz - $18.95; 18 oz - $34.95; 36 oz - $67.95; 9 lbs - $248.85 -> 4.5 oz - $13.95; 9 oz - $22.95; 18 oz - $41.95; 36 oz - $77.95; 9 lbs - $268.85
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:abyssinian-oil,Abyssinian Oil,changed,"price_max, sizes",price_max: 149.5 -> 159.5; sizes: 2 oz -  $6.95; 4 oz - $9.85; 8 oz - $13.95; 1 lb - $22.75; 2 lbs - $39.55; 8 ... -> 2 oz -  $6.95; 4 oz - $9.85; 8 oz - $13.95; 1 lb - $24.75; 2 lbs - $41.75; 8 ...
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:arnica-infused-sunflower-oil,Arnica Infused Sunflower Oil,changed,"price_max, price_min, sizes",price_max: 189.95 -> 198.95; price_min: 9.95 -> 11.45; sizes: 4 oz - $9.95; 8 oz - $16.85; 1 lb - $28.95; 2 lb - $54.75; 8 lb - $189.95 -> 4 oz - $11.45; 8 oz - $17.85; 1 lb - $30.95; 2 lb - $56.75; 8 lb - $198.95
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:fruit-acid-complex,Fruit Acid Complex,changed,"price_max, price_min, sizes",price_max: 309.9 -> 359.9; price_min: 8.95 -> 9.95; sizes: 2.5 oz - $8.95; 5 oz - $14.95; 10 oz - $27.75; 20 oz - $49.25; 10 lb - $309.90 -> 2.5 oz - $9.95; 5 oz - $15.95; 10 oz - $28.75; 20 oz - $52.85; 10 lb - $359.90
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:chamomile-extract,Chamomile Extract,changed,"price_max, price_min, sizes",price_max: 278.85 -> 288.85; price_min: 7.95 -> 8.95; sizes: 2 oz - $7.95; 4 oz - $13.45; 8 oz - $22.95; 1 lb - $39.95; 8 lbs - $278.85 -> 2 oz - $8.95; 4 oz - $13.95; 8 oz - $23.95; 1 lb - $40.95; 8 lbs - $288.85
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:propanediol-13,"Propanediol 1,3",changed,in_stock,in_stock: false -> true
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:co2llageneer,CO2LLAGENEER®,changed,"price_max, sizes",price_max: 395.95 -> 415.95; sizes: 8g (.25 oz) - $10.95; 15g (0.52 oz) - $17.95; 25g (.88 oz) - $29.95; 50g (1.7... -> 8g (.25 oz) - $10.95; 15g (0.52 oz) - $17.95; 25g (.88 oz) - $29.95; 50g (1.7...
+2026-11-13,20261113T171358Z,lotioncrafter,raw_materials,lotioncrafter:argirelox™-peptide-solution,Argirelox™ peptide solution,changed,"price_max, sizes",price_max: 199.95 -> 215.95; sizes: 8g (.25 oz)  - $11.95; 15g (0.52 oz) - $18.55; 30g (1.05 oz) - $31.85; 60g (2... -> 8g (.25 oz)  - $11.95; 15g (0.52 oz) - $18.55; 30g (1.05 oz) - $31.85; 60g (2...
 2026-11-12,20261112T173648Z,cosrx,products,cosrx:hydrium-moisture-power-enriched-cream,Hydrium Moisture Power Enriched Cream,changed,in_stock,in_stock: false -> true
 2026-11-12,20261112T173648Z,cosrx,products,cosrx:ultra-light-invisible-sunscreen-spf50-pa,Ultra-Light Invisible Sunscreen SPF50 PA++++,added,,
 2026-11-12,20261112T173648Z,round_lab,products,round_lab:pine-cica-deep-pore-clay-mask-cleanser,Pine Cica Deep Pore Clay Mask Cleanser,changed,in_stock,in_stock: true -> false
@@ -1920,82 +1999,3 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9836763040011,Fragrance Free Conditioner,changed,"brand, category",brand: HAIRITAGE by Mindy McKnight -> ; category: Hair-conditioner -> Hair conditioners
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9823218010507,(unnamed),changed,brand,brand: Oral b -> 
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9806984692283,Abib PDRN retinal eye patch Glow jelly,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9782253122111,Doliprane bebe,changed,brand,brand: Sanofi -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9774418167900099919,dove body wash,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9680150153491,nutri-extrême richesse,changed,brand,brand: Dessange -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96214329,Face the day SPF 30,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96206645,Cotton Touch Anti-Perspirant Deodorant,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96190807,Clay Pomade,changed,brand,brand: Slick Gorilla -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96148402,Monsavon Déodorant Femme Spray Compressé Vanille Toute Délicate 100ml,changed,brand,brand: Jx F -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96132289,Axe Déodorant Anti Bactérien You Spray 100ml,changed,brand,brand: Axe -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96125694,REXONA Déodorant Homme Bille Anti Transpirant Defense Active,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96121214,Powder soft anti perspirant,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96113318,Rexona Déodorant Femme Bille Antibactérien Fraicheur Continue 50ml,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96111741,AXE Black Déodorant Homme Spray Parfum Frais Protection Anti Odeur 35ml,changed,brand,brand: Axe -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96111734,Black,changed,brand,brand: Axe -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96111307,Déodorant Talc Soft,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96109670,Axe bs provocation 100ml,changed,brand,brand: Axe -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96106617,REXONA Men Anti-Transpirant Invisible Black & White 100ml,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96097335,REXONA MEN Stick Anti-Transpirant Invisible Black & White 50ml,changed,"brand, category",brand: unilever -> ; category: fr:deodorants-sticks -> Deodorants sticks
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96097328,Men Rexona MotionSense,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96094938,Rfw ap100ml cotton dry,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96085752,Rexona Déodorant Femme Spray Anti-Transpirant Compressé Invisible Pure 100ml,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96082416,AXE Gel Cheveux Gomme Style Naturel Peace Pot 130ml,changed,"brand, category",brand: Axe -> ; category: fr:Coiffants -> Hair styling products
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96081754,Men+Care Clean,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96080900,Monsavon Anti-Transpirant Femme Spray Compressé Fleur de Coton Toute Légère 100ml,changed,"brand, category, tags",brand: Unilever -> ; category: fr:deodorant-femme-spray-antibacterien -> fr:Déodorant Femme Spray Antibactérien; tags: hygiene; deodorants; anti perspirants; deodorant femme spray antibacterien -> hygiene; deodorants; anti perspirants; Déodorant Femme Spray Antibactérien
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96078273,Shower Fresh,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96048054,Dove Déodorant Femme Bille Anti Transpirant Pure,changed,brand,brand: unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:96033234,Adventure anti-perspirant/anti-transpirant,changed,brand,brand: Unilever -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9556772305191,Protein Goat's Milk Shampoo,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9556589003303,Balinese Shower Scrub Lemongrass & Frangipani,changed,"brand, category",brand: Ginvera -> ; category: Body-wash -> body-wash
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9556285012661,Natural Protection Hand Wash,changed,brand,brand: Shokubutsu -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9556171000086,Dandruff control shampoo,changed,brand,brand: Follow Me -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9556163101197,Premium Baby Wipes,changed,brand,brand: Joybaby -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9556126667845,Aloe Soothing Gelly,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9556031089886,Cashmere Bouquet Lavender Soap 4 Pack 400g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9556019301498,Polident,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9555669204142,premium Whitening Lotion,changed,"brand, category",brand: Null -> ; category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9555603003091,Hair Conditioner,changed,"brand, category",brand: Asianic -> ; category: Conditioner -> conditioner
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9555469710003,Aroma Body Shower Pear & Freesia,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9555047004456,(unnamed),changed,category,category: Beauty -> beauty
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9554100394756,Breathe Deep Ayurveda Shower Gel Stress Relief - Peppermint Oil & Pink Salt,changed,brand,brand: K & K SIGNATURE BEAUTY -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9551026381020,Shower oil refill Zen,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9551025311004,Motó Bet Aging,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9518174877218,Cold cream,changed,brand,brand: Avène -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9508628292285,Whipped Body Butter,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9502930975287,Original Toothpaste,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9501101376380,Paw paw,changed,category,category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9501101374768,fres,changed,"brand, category",brand: fres -> ; category: fr:savon -> Soaps
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9501101374102,aqualis,changed,"brand, category",brand: palmco -> ; category: fr:savon -> Soaps
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9433230176558,Evertrace eyeliner,changed,"brand, category",brand: Wycon -> ; category: it:occhi -> Eyes
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421908519141,Miracle Manuka Daily Defence Cream 100g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421908519059,Manuka Kiss Gentle Barrier Body Wash,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421908519011,Miracle Manuka Daily Defence Cream 250g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421908105597,Fig + Feijoa Repair & Nourish Conditioner,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421906696868,Anihana Feel Good Soap Mango & Passionfruit 120g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421906696844,Anihana Feel Good Soap Berry Vanilla 120g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421906696356,Anihana Shower Steamer Mint Refresher With Peppermint & Eucalyptus 50g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421906696349,Anihana Shower Steamer Lavender Love 50g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421903982032,grin toothpaste,changed,category,category: Open-beauty-facts -> open-beauty-facts
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421903034120,Brite Semi Permanent Colour Purple 75mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:94210989,Dosetheory Moisture Infuse Hair Mask 250g,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421035736794,Dosetheory Ultra Gloss Spray 135mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421035736763,Dosetheory Moisture Infuse Conditioner 330mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421035736756,Dosetheory Lush Growth Conditioner 330mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421035736732,Dosetheory Ultra Gloss Conditioner 330mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421035736701,Dosetheory Moisture Infuse Shampoo 330mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421035736695,Dosetheory Lush Growth Shampoo 330mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421035736671,Dosetheory Ultra Gloss Shampoo 330mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421029551945,Brite Semi Permanent Turquoise Hair Colour 75mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421029551051,Brite Organix Vegan Bleach Kit 1 pack,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027316461,Glow Lab Smoothing Hair Mask Coconut & Vanilla 390mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027316430,Glow Lab Hydrating Hair Mask Aloe Vera & Cucumber 390mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027314979,Glow Lab Oat Milk Body Wash Tonka Bean & Vanilla 900mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027314245,Glow Lab Lemongrass & Lime Refill Anti-bacterial Hand Wash 900mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027314221,Glow Lab Amber & Sage Refill Hand Wash 900mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027314214,Glow Lab Coconut & Spiced Fig Refill Hand Wash 900mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027314207,Glow Lab Body Wash Man 900mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027313736,Glow Lab Active Body Wash Exfoliating AHA 900mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027313712,Glow Lab Body Wash Vanilla Bean & Coconut 900mL,added,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027313637,Glow Lab Hydra gel moisturiser,changed,brand,brand: Glow Lab -> 
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:9421027313262,Glow Lab Lemongrass & Lime Hand Wash Anitbacterial 300mL,added,,
