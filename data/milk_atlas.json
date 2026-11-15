@@ -1,7 +1,7 @@
 {
  "title": "Beauty Intelligence — Milk Ingredient Atlas",
  "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
- "generated": "2026-11-14",
+ "generated": "2026-11-15",
  "records": [
   {
    "atlas_id": "MILK-001",
@@ -1017,12 +1017,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 4,
-    "products_related": 333,
+    "products_related": 334,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 332,
+     "open_beauty_facts": 333,
      "round_lab": 3,
      "cosrx": 2
     },
@@ -1169,12 +1169,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 3,
-    "products_related": 131,
+    "products_related": 132,
     "raw_materials_exact": 0,
     "raw_materials_related": 11,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 129,
+     "open_beauty_facts": 130,
      "cosrx": 5
     },
     "by_category_group": {
@@ -1310,12 +1310,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 275,
+    "products_related": 276,
     "raw_materials_exact": 0,
     "raw_materials_related": 18,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 274,
+     "open_beauty_facts": 275,
      "round_lab": 1
     },
     "by_category_group": {},
@@ -1555,7 +1555,7 @@
     "products_related": 53,
     "raw_materials_exact": 0,
     "raw_materials_related": 7,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 53
     },
@@ -1746,12 +1746,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 8,
+    "products_related": 9,
     "raw_materials_exact": 0,
     "raw_materials_related": 1,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 8
+     "open_beauty_facts": 9
     },
     "by_category_group": {},
     "top_countries_sold": {},
@@ -2254,17 +2254,17 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 26,
+    "products_exact": 27,
     "products_related": 0,
     "raw_materials_exact": 2,
     "raw_materials_related": 0,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 25,
+     "open_beauty_facts": 26,
      "cosrx": 1
     },
     "by_category_group": {
-     "face": 12,
+     "face": 13,
      "other": 9,
      "body": 2,
      "sun_care": 2,
@@ -2273,7 +2273,7 @@
     "top_countries_sold": {
      "united states": 6,
      "germany": 6,
-     "india": 4,
+     "india": 5,
      "france": 3,
      "morocco": 2,
      "KR": 1,
@@ -2298,6 +2298,15 @@
       "ingredient_position": 2,
       "ingredient_count": 23,
       "url": "https://world.openbeautyfacts.org/product/4003573023144"
+     },
+     {
+      "brand": "",
+      "name": "Rice Dewy Bright Face Wash",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "Fermented Rice Water",
+      "ingredient_position": 3,
+      "ingredient_count": 20,
+      "url": "https://world.openbeautyfacts.org/product/8906087779032"
      },
      {
       "brand": "",
@@ -2379,15 +2388,6 @@
       "ingredient_position": 7,
       "ingredient_count": 19,
       "url": "https://world.openbeautyfacts.org/product/4070765058482"
-     },
-     {
-      "brand": "",
-      "name": "Rice Milky Essence, korean skincare",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "Lactobacillus/Rice Ferment Filtrate",
-      "ingredient_position": 7,
-      "ingredient_count": 31,
-      "url": "https://world.openbeautyfacts.org/product/4070765061666"
      }
     ],
     "example_raw_materials": [
@@ -2444,18 +2444,18 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 1356,
+    "products_exact": 1358,
     "products_related": 0,
     "raw_materials_exact": 7,
     "raw_materials_related": 0,
     "new_matches_today": 2,
     "by_source": {
-     "open_beauty_facts": 1351,
+     "open_beauty_facts": 1353,
      "cosrx": 5
     },
     "by_category_group": {
-     "other": 474,
-     "hair": 335,
+     "other": 475,
+     "hair": 336,
      "body": 287,
      "face": 127,
      "deodorant": 33,
@@ -2467,7 +2467,7 @@
     },
     "top_countries_sold": {
      "france": 368,
-     "germany": 299,
+     "germany": 300,
      "united states": 95,
      "spain": 85,
      "australia": 61,
