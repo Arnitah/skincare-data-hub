@@ -1,7 +1,7 @@
 {
  "title": "Beauty Intelligence — Milk Ingredient Atlas",
  "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "records": [
   {
    "atlas_id": "MILK-001",
@@ -45,7 +45,7 @@
      "france": 49,
      "germany": 13,
      "norway": 8,
-     "morocco": 6,
+     "morocco": 7,
      "united states": 4,
      "australia": 4,
      "united kingdom": 4,
@@ -852,12 +852,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 8,
-    "products_related": 92,
+    "products_related": 94,
     "raw_materials_exact": 1,
     "raw_materials_related": 4,
-    "new_matches_today": 0,
+    "new_matches_today": 2,
     "by_source": {
-     "open_beauty_facts": 100
+     "open_beauty_facts": 102
     },
     "by_category_group": {
      "hair": 5,
@@ -1172,7 +1172,7 @@
     "products_related": 135,
     "raw_materials_exact": 0,
     "raw_materials_related": 11,
-    "new_matches_today": 2,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 133,
      "cosrx": 5
@@ -1555,7 +1555,7 @@
     "products_related": 54,
     "raw_materials_exact": 0,
     "raw_materials_related": 7,
-    "new_matches_today": 1,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 54
     },
@@ -1648,7 +1648,7 @@
     "products_related": 64,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
-    "new_matches_today": 4,
+    "new_matches_today": 0,
     "by_source": {
      "open_beauty_facts": 63,
      "cosrx": 1
@@ -2444,22 +2444,22 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 1374,
+    "products_exact": 1380,
     "products_related": 0,
     "raw_materials_exact": 7,
     "raw_materials_related": 0,
-    "new_matches_today": 8,
+    "new_matches_today": 6,
     "by_source": {
-     "open_beauty_facts": 1369,
+     "open_beauty_facts": 1375,
      "cosrx": 5
     },
     "by_category_group": {
-     "other": 479,
+     "other": 483,
      "hair": 344,
      "body": 288,
-     "face": 130,
+     "face": 131,
      "deodorant": 33,
-     "oral_care": 24,
+     "oral_care": 25,
      "fragrance": 24,
      "sun_care": 22,
      "makeup": 19,
@@ -2471,9 +2471,9 @@
      "united states": 98,
      "spain": 85,
      "australia": 61,
-     "italy": 54,
+     "italy": 55,
      "united kingdom": 54,
-     "switzerland": 44
+     "switzerland": 48
     },
     "example_products": [
      {

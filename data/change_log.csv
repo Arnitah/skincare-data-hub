@@ -21972,3 +21972,66 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-17,20261117T183557Z,round_lab,products,round_lab:birch-moisturizing-serum,Birch Moisturizing Serum,changed,in_stock,in_stock: false -> true
 2026-11-17,20261117T183557Z,cosrx,products,cosrx:c_vitamin-e-vitalizing-sunscreen-spf-50,(Short-dated) COSRX Vitamin E Vitalizing Sunscreen SPF 50+,changed,in_stock,in_stock: true -> false
 2026-11-17,20261117T183557Z,cosrx,products,cosrx:the-aha-2-bha-2-blemish-treatment-serum,The AHA 2 BHA 2 Blemish Treatment Serum,changed,in_stock,in_stock: true -> false
+2026-11-18,20261118T180537Z,lotioncrafter,raw_materials,lotioncrafter:lcpeptide-tighten,LCPeptide™ Tighten,changed,in_stock,in_stock: false -> true
+2026-11-18,20261118T180537Z,lotioncrafter,raw_materials,lotioncrafter:montanov-202,Montanov™ 202,changed,"price_max, price_min, sizes",price_max: 169.5 -> 194.5; price_min: 11.95 -> 13.95; sizes: 4 oz - $11.95; 8 oz - $20.45; 1 lb - $38.95; 5 lb - $169.50 -> 4 oz - $13.95; 8 oz - $24.45; 1 lb - $44.95; 5 lb - $194.50
+2026-11-18,20261118T180537Z,lotioncrafter,raw_materials,lotioncrafter:surfpro-slsa,SurfPro™ SLSa,changed,in_stock,in_stock: true -> false
+2026-11-18,20261118T180537Z,lotioncrafter,raw_materials,lotioncrafter:montanov-68mb,Montanov™ 68 MB,changed,"price_max, sizes",price_max: 189.95 -> 199.95; sizes: 4 oz - $13.95; 8 oz - $23.75; 1 lb - $42.85; 5 lb - $189.95 -> 4 oz - $13.95; 8 oz - $23.95; 1 lb - $44.85; 5 lb - $199.95
+2026-11-18,20261118T180537Z,lotioncrafter,raw_materials,lotioncrafter:decorinyl,Decorinyl® functional ingredient,changed,in_stock,in_stock: true -> false
+2026-11-18,20261118T180537Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-water-kefir-pha,FSS WATER KEFIR PHA,added,,
+2026-11-18,20261118T180537Z,windy_point,raw_materials,windy_point:slsa-lathanol-surfactant-powder,SLSa - Lathanol - Surfactant Powder,added,,
+2026-11-18,20261118T180537Z,windy_point,raw_materials,windy_point:slsa-surfactant-powder-bulk,SLSa - Surfactant Powder - Bulk,changed,"description, in_stock","description: Description Details Documents  This gentle, high foaming powdered anionic sur... -> Description Details Documents This gentle, high foaming powdered anionic surf...; in_stock: false -> true"
+2026-11-18,20261118T180537Z,windy_point,raw_materials,windy_point:hemisqualane,Hemisqualane,changed,description,"description: Description Details Documents Hemisqualane is a sustainable, naturally-derive... -> Description Details Documents Hemisqualane is a sustainable, naturally-derive..."
+2026-11-18,20261118T180537Z,windy_point,raw_materials,windy_point:slsa-lathanal-lal-surfactant-powder,SLSa - Surfactant Powder,changed,"description, in_stock","description: Description Details Documents  This gentle, high foaming powdered anionic sur... -> Description Details Documents This gentle, high foaming powdered anionic surf...; in_stock: false -> true"
+2026-11-18,20261118T180537Z,windy_point,raw_materials,windy_point:hemisqualane-bulk,Hemisqualane - Bulk,removed,,
+2026-11-18,20261118T180537Z,aromantic,raw_materials,aromantic:saccharide-isomerate-plus,Saccharide Isomerate Plus,changed,in_stock,in_stock: true -> false
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0030772250204,Swaddlers Ultra Day-Night,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0033200190202,Desodorante,changed,"countries_sold, tags",countries_sold: ecuador; morocco; saudi arabia -> ecuador; morocco; saudi arabia; united states; tags: non food products; open beauty facts -> incorrect product type; non food products; open beauty facts
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0055086003261,Body Wash Coconut Water & Mimosa Flower,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0072140031503,Body Lotion Essentially Enriched,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0850042203040,Sport Edition Original All-Day Scent,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0850060281006,Crème Caramel Perfume Mist,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0850060281143,Crème Caramel Golden Body Oil,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0872428001293,Face and Body Scrub,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:0888670208526,Diapers Size 6,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:3337875597388,CeraVe Hydraterende Crème,changed,countries_sold,countries_sold: france; morocco; netherlands; spain; united kingdom -> france; italy; morocco; netherlands; spain; united kingdom
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:3560071176174,Dentalyss herbal,changed,"brand, category, countries_sold, listing_status, tags",brand: Carrefour -> ; category: Open-beauty-facts -> Toothpastes; countries_sold: france -> france; morocco; listing_status: removed -> active
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:3564700743461,Natïis Après shampooing extra doux huile d'argan camélia,changed,tags,tags: non food products; open beauty facts; apres shampoing -> Après shampoing
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:3574661761923,Soin Express Hydratation Légère Eau de Coco Bio,changed,countries_sold,countries_sold: france -> france; morocco
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:4021457665518,Basis Sensitive Lip Balm,changed,countries_sold,countries_sold: united kingdom -> france; united kingdom
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:4056489857297,Dentifricio,changed,countries_sold,countries_sold: france; germany; greece -> france; germany; greece; italy
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:4059729447371,Baby Got Blush,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:4070765001327,Ultra Sensitive Panthenol Handcreme,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:4901301464545,Men’s body sheets Extreme Cool,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:5060373524133,Antioxidant Duo (Antioxidant Face Gel + Antioxidant Face Serum),added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:5060373524249,The Organic Pharmacy Vitamin C Serum,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:5410091729745,Energising Pink Passion,changed,"ingredient_count, ingredients, ingredients_text, name","ingredient_count: 17 -> 39; ingredients_text: Butane,Alcohol denat.,Propane,Isobutane,Parfum (Fragrance),Propylene Glycol,T... -> Butane, Alcohol denat., Propane, Isobutane, Parfum (Fragrance), Ethylhexylgly...; name: Fa Pink passion deodorant spray -> Energising Pink Passion"
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:5901698578206,Lush Satin Multivitamin Brightening Foundation,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:6001087005654,(unnamed),changed,countries_sold,countries_sold:  -> south africa
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:6281006408685,Cocoa Butter Moisturizing Jelly,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:6923595148152,Detergente MINA,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:6931611300255,Color Bloom Liquid Blush,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:6945573601039,toothpaste,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:7501007528434,Lubriderm Reparación Intensiva,changed,"category, countries_sold, tags",category: es:cremas-humectantes -> es:Cremas humectantes; countries_sold:  -> colombia; tags: cremas humectantes -> Cremas humectantes
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:7506306249172,Shampoo Brillo y Suavidad,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:7709870200864,Seboprit Anti-Imperfecciones Serum,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8002410100402,Nutriente Maschera Trattante,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8003170094833,Essentiae 3 in 1 Nutriente Mask,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8009150115604,(unnamed),changed,countries_sold,countries_sold: france -> france; italy
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8009740904359,Thai Coco Coconut Scrub,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8029241135793,Keratin Strengthening Heat-Protection Spray,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8053288573294,Be Curl Cream,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8436542361149,Power Hyaluronic Intensive Moisturising Cream (Crema Hidratante Intensiva),added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8480017283986,Dentífrico carbón,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8710908778230,Restoring ritual body lotion,changed,countries_sold,countries_sold: united kingdom -> morocco; united kingdom
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8712561479806,Vaseline Intensive Care Essential Healing Bodylotion,changed,countries_sold,countries_sold: netherlands -> morocco; netherlands
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8712561481663,Aloe Soothe,changed,countries_sold,countries_sold: greece; netherlands -> greece; morocco; netherlands
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8719134207286,Crème fouettée pour le corps,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8719189416466,Orange & Jasmine Handzeep,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8720182264664,Beauty Cream Bar,changed,"ingredient_count, ingredients, ingredients_text, name, tags","ingredient_count: 22 -> 21; ingredients_text: Sodium Lauroyl Isethionate, Stearic Acid, Sodium Stearate, Sodium Palmate, Aq... -> Sodium Lauroyl Isethionate, Sodium Palmate, Cocamidopropyl Betaine, Parfum, S...; name: Beauty cream bar -> Beauty Cream Bar"
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8809651745962,Cica Vegan Ampoule Sheet Mask,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8906058357467,Moisture Surge Face Wash,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:8906065543839,Alvena Night Cream,added,,
+2026-11-18,20261118T180537Z,open_beauty_facts,products,open_beauty_facts:4066447970173,Fußcreme mit Urea,removed,,
+2026-11-18,20261118T180537Z,round_lab,products,round_lab:pine-calming-cica-primer-sunscreen-50ml,Pine Calming Cica Primer Sunscreen 50ml,changed,tags,tags: acne-prone; allproducts; igg26_for_her; oily; pine; pine cica; Pine Tree; Sun... -> acne-prone; allproducts; igg26_for_her; oily; pine; pine cica; Pine Tree; Sun...
+2026-11-18,20261118T180537Z,round_lab,products,round_lab:birch-juice-moisturizing-sun-serum-spf50,Birch Juice Moisturizing Sun Serum SPF 50,changed,tags,tags: allproducts; birch; birch sunscreen; birch tree; igg26_for_her; sensitive; si... -> allproducts; birch; birch sunscreen; birch tree; igg26_for_her; sensitive; si...
+2026-11-18,20261118T180537Z,round_lab,products,round_lab:birch-moisturizing-sun-stick,Birch Moisturizing Sun Stick SPF 50,changed,tags,tags: allproducts; birch; birch tree; dry; igg26_for_her; memorial; mom; singleprod... -> allproducts; birch; birch tree; dry; igg26_for_her; memorial; mom; singleprod...
