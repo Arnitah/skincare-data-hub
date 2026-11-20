@@ -1,7 +1,7 @@
 {
  "title": "Beauty Intelligence — Milk Ingredient Atlas",
  "imported_from": "beauty_intelligence_stage_8_52B_global_milk_inventory_v1_1.html (Nitah, research review 2026-10-20)",
- "generated": "2026-11-19",
+ "generated": "2026-11-20",
  "records": [
   {
    "atlas_id": "MILK-001",
@@ -1017,12 +1017,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 4,
-    "products_related": 335,
+    "products_related": 336,
     "raw_materials_exact": 0,
     "raw_materials_related": 10,
     "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 334,
+     "open_beauty_facts": 335,
      "round_lab": 3,
      "cosrx": 2
     },
@@ -1169,12 +1169,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 3,
-    "products_related": 135,
+    "products_related": 139,
     "raw_materials_exact": 0,
     "raw_materials_related": 11,
-    "new_matches_today": 0,
+    "new_matches_today": 4,
     "by_source": {
-     "open_beauty_facts": 133,
+     "open_beauty_facts": 137,
      "cosrx": 5
     },
     "by_category_group": {
@@ -1310,12 +1310,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 279,
+    "products_related": 282,
     "raw_materials_exact": 0,
     "raw_materials_related": 18,
-    "new_matches_today": 1,
+    "new_matches_today": 3,
     "by_source": {
-     "open_beauty_facts": 278,
+     "open_beauty_facts": 281,
      "round_lab": 1
     },
     "by_category_group": {},
@@ -1501,12 +1501,12 @@
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
     "products_exact": 0,
-    "products_related": 6,
+    "products_related": 7,
     "raw_materials_exact": 0,
     "raw_materials_related": 1,
-    "new_matches_today": 0,
+    "new_matches_today": 1,
     "by_source": {
-     "open_beauty_facts": 6
+     "open_beauty_facts": 7
     },
     "by_category_group": {},
     "top_countries_sold": {},
@@ -2444,20 +2444,20 @@
    "research_review_date": "2026-10-20",
    "source_status": "Mixed: core composition/ingredient identity varies by record; regional tradition and commercial availability require the per-record notes above.",
    "hub_matches": {
-    "products_exact": 1381,
+    "products_exact": 1387,
     "products_related": 0,
     "raw_materials_exact": 7,
     "raw_materials_related": 0,
-    "new_matches_today": 1,
+    "new_matches_today": 6,
     "by_source": {
-     "open_beauty_facts": 1376,
+     "open_beauty_facts": 1382,
      "cosrx": 5
     },
     "by_category_group": {
-     "other": 483,
+     "other": 485,
      "hair": 344,
-     "body": 288,
-     "face": 132,
+     "body": 290,
+     "face": 134,
      "deodorant": 33,
      "oral_care": 25,
      "fragrance": 24,
@@ -2467,8 +2467,8 @@
     },
     "top_countries_sold": {
      "france": 371,
-     "germany": 301,
-     "united states": 98,
+     "germany": 302,
+     "united states": 100,
      "spain": 85,
      "australia": 61,
      "italy": 55,
@@ -2559,6 +2559,15 @@
      },
      {
       "brand": "",
+      "name": "Lactic Acid 10% + HA",
+      "source_id": "open_beauty_facts",
+      "matched_ingredient": "LACTIC ACID",
+      "ingredient_position": 2,
+      "ingredient_count": 15,
+      "url": "https://world.openbeautyfacts.org/product/0769915195835"
+     },
+     {
+      "brand": "",
       "name": "Lingettes à l'eau",
       "source_id": "open_beauty_facts",
       "matched_ingredient": "LACTIC ACID",
@@ -2574,15 +2583,6 @@
       "ingredient_position": 2,
       "ingredient_count": 6,
       "url": "https://world.openbeautyfacts.org/product/3596710532933"
-     },
-     {
-      "brand": "",
-      "name": "j",
-      "source_id": "open_beauty_facts",
-      "matched_ingredient": "lactic acid",
-      "ingredient_position": 2,
-      "ingredient_count": 7,
-      "url": "https://world.openbeautyfacts.org/product/3600523609611"
      }
     ],
     "example_raw_materials": [
