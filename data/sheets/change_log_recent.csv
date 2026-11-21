@@ -1,4 +1,68 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-11-21,20261121T164823Z,cosrx,products,cosrx:hydrium-moisture-power-enriched-cream,Hydrium Moisture Power Enriched Cream,changed,in_stock,in_stock: true -> false
+2026-11-21,20261121T164823Z,cosrx,products,cosrx:comfort-ceramide-soft-cream-sheet-mask,Balancium Comfort Ceramide Soft Cream Sheet Mask,changed,in_stock,in_stock: true -> false
+2026-11-21,20261121T164823Z,cosrx,products,cosrx:5-peptide-ceramide-barrier-comfort-lip-mask,5 Peptide Ceramide Barrier Comfort Lip Mask,changed,in_stock,in_stock: true -> false
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:9344960003017,"Hand & Body Lotion Botanical Geranium, Rose & Wood",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:8720181548383,AXE &quot;provocation&quot;,changed,"category, size, tags",category:  -> Deodorants; size:  -> 200 ml; tags:  -> hygiene; deodorants
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:8718951665422,Invisible Dry Antiperspirant-Deodorant,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:8410436236270,Ultimate Repair Acondicionador ultra reparador,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:8029408173910,(unnamed),added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:8006530034791,Head & shoulders Citrus Fresh,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7891150103474,"UV repair & glow + ferúlico Acondicionador, tecnología Bio-Protein",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7702678703988,"Skin Art Pro-Aging Protector solar antiedad SPF 50+, con SKINectura, Energinius y vitamina E",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7702678686588,"Agua micelar dual purificante, infusión de aceites naturales y arroz morado",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7702678120105,"Tónico astringente herbal, loción facial, extracto natural de arrayán, romero y hamamelis",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7702678101098,Protector solar crema gel SPF 50+,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7702678066892,"Peptide Intensive Shot Epidermosil, serum reafirmante",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7702277569343,"Acondicionador Reparación, Infusiones Botánicas",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7610108056446,Kinder-Zahnpasta,changed,"category, size, tags",category: Toothpastes -> open-beauty-facts; size: 1 -> 75 ml; tags: toothpaste -> hygiene; toothpastes; open beauty facts
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7509552876499,"Adiós Esponjado Shampoo disciplinante, óleo de argán + keratina líquida",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7500435259026,Reconstrucción Molecular Mascarilla intensiva diaria,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7500435247634,"Dragonblast Antitranspirante en spray, aroma a cedro",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7500435231275,"Shampoo control caspa Anti-Comezón, sensación extra refrescante, menta extra refrescante",changed,"name, size","name: Head & Shoulders Anti-Comezón, Menta Extra Refrescante shampoo -> Shampoo control caspa Anti-Comezón, sensación extra refrescante, menta extra ...; size:  -> 1L"
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7500435226042,"Crema para peinar, óleos reales certificados de pequi y aguacate",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7500435191425,Colágeno Nutre & Revitaliza Shampoo nutritivo sin sal,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:7500435155847,Bambú Nutre & Crece Shampoo control caída,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:6958914546326,Sun Block Cream,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4806541040828,Whitening Body Lotion,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4260457770710,(unnamed),added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4260123740306,Sandelholz-Duft,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4066447985306,كريم وجه بفيتامين C، عامل حماية 15,changed,name,"name: Gesichtscreme Vitamin C, LSF 15 -> كريم وجه بفيتامين C، عامل حماية 15"
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4065477737787,Anti Acne Facewash,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4056489868538,Baby Powder,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4015000145503,Shampoo Intense Repair,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4006000270821,Cocoa Nourish Body Cream,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4005900661371,Q10 Anti-Wrinkle Extra Nourish,changed,name,name: Nivea Q10 Anti Wrinkle Mature Night Cream Face Moisturiser 50mL -> Q10 Anti-Wrinkle Extra Nourish
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4005900661364,Q10 Anti-Wrinkle Extra Nourish,changed,"ingredients, ingredients_text, name","ingredients_text: Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Methylpropanedi... -> Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Methylpropanedi...; name: Nivea Q10 Anti Wrinkle Deep Restore Day Cream SPF 15 50mL -> Q10 Anti-Wrinkle Extra Nourish"
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4005900034847,Invisible for black and white,changed,"brand, listing_status, size",brand: Nivéa -> ; listing_status: removed -> active; size:  -> 200 ml
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:4000196901415,Glycerin Cream,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:3770044595004,Dentifrice KeraSmile,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:3662217007066,Creme anti âge,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:3616305714831,Multi Tasker Wake Me Up Concealer & Foundation,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:3499320013024,Moisturising Cream,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:3337875923613,Vitamin C Brightening Cleanser,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:3256228974662,Shampooing familial oeuf & vanille,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:3250391649051,Lingettes bébé,changed,"category, tags",category:  -> Baby wipes; tags:  -> accessories; moist wipes; baby wipes
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0850068951505,Lip Therapy Pink Bubbly,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0849607060174,Long Lasting Fragrance,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0818938025749,the kure Strength Repair Conditioner,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0650240081767,"Shampoo Anti-caída Efecto Anti-Canas, jalea real y henna, fórmula avanzada",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0650240035166,"Shampoo Anti-caída Engrosador, jalea real + extracto de ortiga",changed,"category, countries_sold, ingredient_count, ingredients, ingredients_text, name, tags",category: Shampoos -> Anti-hair loss shampoos; countries_sold: united states -> colombia; united states; ingredient_count: 43 -> 45
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0650240011832,"Shampoo Anti-caída Aclarante, jalea real + manzanilla",added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0381519180736,Shampoo Herbal Essences Rose Hips,changed,"category, countries_sold, ingredient_count, ingredients, ingredients_text, size, tags",category: open-beauty-facts -> Shampoos; countries_sold: spain -> colombia; spain; ingredient_count: 20 -> 23
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0079400052926,Clinical Classic Antitranspirante en crema,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0071249317891,Total Repair 5 Repairing Shampoo,added,,
+2026-11-21,20261121T164823Z,open_beauty_facts,products,open_beauty_facts:0062400291068,Oil-Infused Hydrating Coconut,added,,
+2026-11-21,20261121T164823Z,aromantic,raw_materials,aromantic:organic-rose-hydrolat,Organic Rose Hydrolat,changed,in_stock,in_stock: false -> true
+2026-11-21,20261121T164823Z,windy_point,raw_materials,windy_point:kokum-butter-1,Kokum Butter,changed,in_stock,in_stock: false -> true
+2026-11-21,20261121T164823Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phytomulse-amaranth,FSS Phytomulse® Amaranth,changed,category,category:  -> Raw Material
+2026-11-21,20261121T164823Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phytomulse-chlorella,FSS Phytomulse® Chlorella,changed,category,category:  -> Raw Material
+2026-11-21,20261121T164823Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phytomulse-coconut,FSS Phytomulse® Coconut,changed,category,category:  -> Raw Material
+2026-11-21,20261121T164823Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-phytomulse-almond,FSS Phytomulse® Almond,changed,category,category:  -> Raw Material
+2026-11-21,20261121T164823Z,formulator_sample_shop,raw_materials,formulator_sample_shop:cera-bellina,Cera Bellina,changed,category,category:  -> Raw Material
+2026-11-21,20261121T164823Z,lotioncrafter,raw_materials,lotioncrafter:sodium-lactate-powder,Sodium Lactate Powder,changed,in_stock,in_stock: false -> true
+2026-11-21,20261121T164823Z,lotioncrafter,raw_materials,lotioncrafter:natrasil,NatraSil™,changed,in_stock,in_stock: false -> true
+2026-11-21,20261121T164823Z,lotioncrafter,raw_materials,lotioncrafter:l-pdrn-first™,L-PDRN First™,changed,in_stock,in_stock: false -> true
 2026-11-20,20261120T174944Z,open_beauty_facts,products,open_beauty_facts:9321299600131,(unnamed),added,,
 2026-11-20,20261120T174944Z,open_beauty_facts,products,open_beauty_facts:8961102067068,Natural Rose Water Spray,added,,
 2026-11-20,20261120T174944Z,open_beauty_facts,products,open_beauty_facts:8909106061781,Refreshing Facial Wash,changed,size,size:  -> 150ml
@@ -1935,67 +1999,3 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3440817245718,Pierre d'Alun du Panama,removed,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3433425052922,Anthelios XL,removed,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3433422408593,Lipikar surgras Douche-crème concentrée Anti-Dessèchement,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3433422408586,Lipikar surgras Douche-crème concentrée Anti-Dessèchement,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3433422408067,CICAPLAST Accélérateur de réparation épidermique,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3433422407350,Lipikar Syndet Gel crème nettoyant anti-irritations,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3433422402461,Lipikar Lait,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3414094185685,Lait de toilette douceur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401579165584,Lingettes Crealine H2O,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401578379715,ABCDerm H2O Solution Micellaire,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401575645790,Créaline H2O,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401571155163,Gel douche surgras,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401565560690,Dentifrice Naturel Homeopathie Lehning,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401565359201,Atoderm,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401564695546,Cicabio spf 50+,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401399372926,Bioderma - Atoderm Gel douche,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401399372346,Atoderm lèvres,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401399277382,Soin Intime et Corporel,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401397163618,Bioderma Gel Moussant ABCDerm,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401361810371,Soin lavant doux toilette intime et corporelle,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401360227026,Huile de massage Arnica,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401360153912,Stick lèvre SPF 15,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401360114739,Etiaxil DeStick Anti transpirant 48H,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401360094369,Babysoin Liniment Oléo-Calcaire,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401354308342,Weleda Bébé Derma Lait corporel à la Mauve blanche,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401354308113,Weleda Bébé Derma Crème protectrice visage Mauve blanche,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401354212328,Liniment Oléo-Calcaire Saforelle Bébé,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401353690004,Bioderma  Photoderm Après soleil,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401346422216,Créaline Deo,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401344340666,Lotion nettoyante haute tolérance,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401340799840,Gel Douche Surgras Sans Savon,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3401340652619,Atoderm PP baume,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3400934044595,Dexeryl,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3400932231720,Gingivites,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3400930617694,pommade au calendula LHF boiron,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3400927835841,(unnamed),removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3389181130759,(unnamed),removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3383482301283,Fleur de savon: Iris & Pamplemousse,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3383482298149,Savon de Marseille à l'huile d'olive,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3380390901284,La savonnette d'Alep,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3380390900706,savon de marseille,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3380380072710,Shampooing crème nourrissant cheveux secs et abîmées au karité bio & jojoba bio,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3380380072703,Shampooings doux lavage fréquent cheveux normaux bleuet bio & aloe vera bio,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3380380058578,Fleur de shampooing écologique cheveux secs,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3380380050770,Liquide Vaisselle Douceur écologique Bio - 1 L,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3378872095002,Velouté Corps nourrissant Pivoine,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3378872092070,Ombre à paupières délipsable Sir yes sir! n°275,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3378872073208,Vernis à ongles,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3355312146166,Mon shampoing pour enfants,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3355312106542,Mon shampooing anti-pelliculaire à l'argile blanche naturelle,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3355312106535,Shampoing Cheveux Gras Solide,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3350033437791,Crème mains réparatrice peaux très sèches,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3350033088337,Gel douche homme Tonus Corps et cheveux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3350031940583,Déodorant efficacité 24h,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3350031909801,Eau coiffante à l'extrait de pamplemousse,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3350031820076,Lingettes,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3348901333061,Dior Homme Sport - Eau de Toilette,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3346029401808,Apaise & Renforce Gencives,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337875597340,Gel Moussant Cerave,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337875550611,Lait solaire anthelios XL 50+,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337875485128,DERCOS Technique - shampooing ultra apaisant cheveux normaux à gras - Vichy - 200ml,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337872419522,Tolériane Ultra Contours Yeux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337872418815,Lipikar Gel Lavant apaisant protecteur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337872414084,Effaclar duo  (+),removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337872413902,Lipikar Fluide 400ml,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337872413414,Dermo-pediatrics spray application facile SPF 50+,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3337872413049,LIPIKAR Huile Lavante,removed,,
