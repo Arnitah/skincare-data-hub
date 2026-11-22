@@ -5,14 +5,14 @@ ingredient_key,inci_name,inci_name_status,cas,raw_material_count,product_count,r
 "1,2 - hexanediol","1,2 - HEXANEDIOL",candidate,,0,22,,,,U,,candidate,,,open_beauty_facts
 "1,2,4-trihydroxybenzene","1,2,4-Trihydroxybenzene",candidate,533-73-3,0,2,EU: prohibited,,,U,,candidate,,,open_beauty_facts
 "1,2-dihydrolinalool","1,2-Dihydrolinalool",candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-"1,2-hexanediol","1,2-Hexanediol",candidate,,0,828,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+"1,2-hexanediol","1,2-Hexanediol",candidate,,0,829,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 "1,2-propanediol","1,2-Propanediol",candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 "1,3 butylene glycol","1,3 Butylene Glycol",candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 1-2 hexanediol,1-2 Hexanediol,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 1-hexadecanol,1-Hexadecanol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 "1-hydroxyethyl 4,5-diamino pyrazole sulfate","1-Hydroxyethyl 4,5-Diamino Pyrazole Sulfate",candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 1-methylhydantoin - 2-imide,1-Methylhydantoin - 2-Imide,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-1-methylhydantoin-2-imide,1-Methylhydantoin-2-Imide,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
+1-methylhydantoin-2-imide,1-Methylhydantoin-2-Imide,candidate,,0,28,,,,U,,candidate,,,open_beauty_facts
 1.2 hexanediol,1.2 Hexanediol,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 10-hydroxydecenoic acid,10-HYDROXYDECENOIC ACID,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 10th of ramadan city,10th of Ramadan City,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -87,7 +87,7 @@ aceite de almendras,Aceite de Almendras (Prunus Dulcis),candidate,,0,3,,,,U,,can
 aceite de coco,aceite de coco,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 acer saccharum sap extract,ACER SACCHARUM (SUGAR MAPLE) SAP EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 acesulfame potassium,acesulfame potassium,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-acetamide mea,ACETAMIDE MEA,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
+acetamide mea,Acetamide MEA,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 acetato de tocoferilo,ACETATO DE TOCOFERILO (VITAMINA E),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 acetic acid,Acetic Acid,candidate,,1,129,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 acetone,Acetone,candidate,,0,22,,,,U,,candidate,,,open_beauty_facts
@@ -140,7 +140,7 @@ acrylates beheneth-25 methacrylate copolymer,Acrylates/Beheneth-25 Methacrylate 
 acrylates c10-30 alky acrylate crosspolymer,acrylates/c10-30 alky acrylate crosspolymer,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 acrylates c10-30 alkyl,ACRYLATES/C10-30 ALKYL,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 acrylates c10-30 alkyl acrylate cross - polymer,acrylates/c10-30 alkyl acrylate cross - polymer,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-acrylates c10-30 alkyl acrylate crosspolymer,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,candidate,,1,748,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
+acrylates c10-30 alkyl acrylate crosspolymer,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,candidate,,1,751,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
 acrylates c10-30 alkyl acrylatecrosspolymer,Acrylates/C10-30 Alkyl AcrylateCrosspolymer,candidate,,0,3,,,,U,,candidate,,,cosrx; open_beauty_facts
 acrylates c10-30 alkyl acrylates,Acrylates/C10-30 Alkyl Acrylates,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
 acrylates c10-30 alkyl acrylates crosspolymer,acrylates/C10-30 alkyl/acrylates crosspolymer,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -178,7 +178,7 @@ agents de conservation,Agents de conservation,candidate,,0,2,,,,U,,candidate,,,o
 agents de surface non-ioniques,Agents de surface non-ioniques,candidate,,0,20,,,,U,,candidate,,,open_beauty_facts
 agua,Agua,candidate,,0,40,,,,U,,candidate,,,open_beauty_facts
 aka pro-vitamin b5,aka Pro-Vitamin B5,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
-alanine,Alanine,candidate,,1,119,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
+alanine,Alanine,candidate,,1,121,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
 alantoina,ALANTOÍNA,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 albatrellus confluens extract,Albatrellus Confluens (Mushroom) Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 albizia julibrissin bark extract,Albizia Julibrissin Bark Extract,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
@@ -212,22 +212,22 @@ alginic acid,Alginic Acid,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 alkanna tinctoria root extract,ALKANNA TINCTORIA ROOT EXTRACT,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 alkohol,Alkohol,candidate,,0,19,,,,U,,candidate,,,open_beauty_facts
 alkohol denat,alkohol denat,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-allantoin,Allantoin,candidate,,4,1029,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+allantoin,Allantoin,candidate,,4,1031,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 allantoine,allantoine,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 alliaria officinalis extract,Alliaria officinalis extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 allyl stearate va copolymer,ALLYL STEARATE/VA COPOLYMER,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 aloe barbadensis extract,Aloe Barbadensis Extract,candidate,,0,62,,,,U,,candidate,,,open_beauty_facts
 aloe barbadensis flower extract,Aloe Barbadensis Flower Extract,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts; round_lab
 aloe barbadensis gel,aloe barbadensis gel,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
-aloe barbadensis leaf extract,Aloe Barbadensis Leaf Extract,candidate,,9,451,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; round_lab; windy_point
+aloe barbadensis leaf extract,Aloe Barbadensis Leaf Extract,candidate,,9,456,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; round_lab; windy_point
 aloe barbadensis leaf extract quot,aloe barbadensis leaf extract&quot,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 aloe barbadensis leaf fruit extract,ALOE BARBADENSIS LEAF (RASPBERRY) FRUIT EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 aloe barbadensis leaf gel,Aloe Barbadensis Leaf Gel,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 aloe barbadensis leaf juice powde,aloe barbadensis leaf juice powde,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-aloe barbadensis leaf juice powder,Aloe Barbadensis Leaf Juice Powder,candidate,,3,433,,,,U,,candidate,,,aromantic; open_beauty_facts
+aloe barbadensis leaf juice powder,Aloe Barbadensis Leaf Juice Powder,candidate,,3,434,,,,U,,candidate,,,aromantic; open_beauty_facts
 aloe barbadensis leaf juice powder quot,ALOE BARBADENSIS LEAF JUICE POWDER&quot,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 aloe barbadensis leaf juice powdert,Aloe barbadensis leaf juice powdert,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-aloe barbadensis leaf powder,ALOE BARBADENSIS LEAF POWDER,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
+aloe barbadensis leaf powder,ALOE BARBADENSIS LEAF POWDER,candidate,,0,28,,,,U,,candidate,,,open_beauty_facts
 aloe barbadensis leaf water,Aloe Barbadensis Leaf Water,candidate,,0,16,,,,U,,candidate,,,cosrx; open_beauty_facts
 aloe vera extract,Aloe Vera Extract,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
 aloe vera juice,Aloe Vera Juice,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -283,7 +283,7 @@ amino acid mix,Amino Acid Mix,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 amino bispropyl dimethicone,Amino Bispropyl Dimethicone,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 aminomethy propanol,aminomethy propanol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 aminomethyl,Aminomethyl,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-aminomethyl propanol,Aminomethyl Propanol,candidate,,0,249,,,,U,,candidate,,,open_beauty_facts; round_lab
+aminomethyl propanol,Aminomethyl Propanol,candidate,,0,250,,,,U,,candidate,,,open_beauty_facts; round_lab
 aminopropanediol esters,Aminopropanediol Esters,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 aminopropyl triethoxysilane,AMINOPROPYL TRIETHOXYSILANE,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 aminosaureester,Aminosäureester,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -292,7 +292,7 @@ ammonia,Ammonia,candidate,1336-21-6; 7664-41-7,0,22,EU: restricted (max 6% (as N
 ammonium,ammonium,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ammonium acetate,AMMONIUM ACETATE,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 ammonium acryloyldimethyltaurate steareth-25 methacrylate crosspolymer,AMMONIUM ACRYLOYLDIMETHYLTAURATE/STEARETH-25 METHACRYLATE CROSSPOLYMER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-ammonium acryloyldimethyltaurate vp copolymer,Ammonium Acryloyldimethyltaurate/VP Copolymer,candidate,,2,152,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
+ammonium acryloyldimethyltaurate vp copolymer,Ammonium Acryloyldimethyltaurate/VP Copolymer,candidate,,2,153,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
 ammonium chloride,Ammonium Chloride,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
 ammonium coco-sulfate,Ammonium Coco-Sulfate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ammonium glycyrrhizate,Ammonium Glycyrrhizate,candidate,,0,16,,,,U,,candidate,,,open_beauty_facts
@@ -304,7 +304,7 @@ ammonium sulfate,Ammonium Sulfate,candidate,,1,34,,,,U,,candidate,,,lotioncrafte
 ammonium thiolactate,Ammonium Thiolactate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ammonium xylenesulfonate,ammonium xylenesulfonate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ammoniumpolyacryloyldimethyl taurate,AMMONIUMPOLYACRYLOYLDIMETHYL TAURATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-amodimethicone,Amodimethicone,candidate,,0,427,,,,U,,candidate,,,cosrx; open_beauty_facts
+amodimethicone,Amodimethicone,candidate,,0,428,,,,U,,candidate,,,cosrx; open_beauty_facts
 amodimethicone and cetrimonium chloride and trideceth-12,AMODIMETHICONE AND CETRIMONIUM CHLORIDE AND TRIDECETH-12,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 amonium sulfate,Amonium Sulfate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 amorphophallus konjac root powder,Amorphophallus Konjac Root Powder,candidate,,1,6,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
@@ -364,12 +364,12 @@ arachidyl alcohol,Arachidyl Alcohol,candidate,,8,90,,,,U,,candidate,,,aromantic;
 arachidyl behenyl alcohol,ARACHIDYL/BEHENYL ALCOHOL,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 arachidyl behenyl betainate esylate,ARACHIDYL/BEHENYL BETAINATE ESYLATE,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 arbutine,arbutine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-arctium lappa fruit extract,Arctium Lappa Fruit Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
+arctium lappa fruit extract,Arctium Lappa Fruit Extract,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 arctium lappa root extract,Arctium Lappa Root Extract,candidate,84012-13-5,1,31,,,,U,,candidate,,,native_extracts; open_beauty_facts
 arctostaphylos uva ursi leaf extract,Arctostaphylos Uva Ursi Leaf Extract,candidate,84776-10-3,1,4,,,,U,,candidate,,,native_extracts; open_beauty_facts
 argan oil,Argan Oil,candidate,,0,15,,,,U,,candidate,,,open_beauty_facts
 argania spinosa extract,argania spinosa extract,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-argania spinosa kernel oil,Argania Spinosa Kernel Oil,candidate,,3,645,,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab; windy_point
+argania spinosa kernel oil,Argania Spinosa Kernel Oil,candidate,,3,650,,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab; windy_point
 argania spinosa leaf extract,argania spinosa leaf extract,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 argania spinosa shell powder,ARGANIA SPINOSA SHELL POWDER,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 argania spinsosa oil,Argania Spinsosa (Argan) Oil,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
@@ -419,7 +419,7 @@ australian honey,Australian Honey (Manuka),candidate,,0,3,,,,U,,candidate,,,open
 avena sativa kemel extract,Avena Sativa Kemel Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 avena sativa kernel meal,Avena Sativa (Oat) Kernel Meal,candidate,,1,3,,MILK-010:related,,U,,candidate,,,open_beauty_facts; windy_point
 avena sativa leaf stem extract,avena sativa (oat) leaf/stem extract (avena sativa leaf/stem extract),candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-avena sativa meal extract,Avena Sativa (Oat) Meal Extract,candidate,84012-26-0,1,25,,MILK-010:related,,U,,candidate,,,native_extracts; open_beauty_facts
+avena sativa meal extract,Avena Sativa (Oat) Meal Extract,candidate,84012-26-0,1,26,,MILK-010:related,,U,,candidate,,,native_extracts; open_beauty_facts
 avena sativa milk,Avena Sativa Milk,candidate,,0,2,,MILK-010:exact,,U,,candidate,,,open_beauty_facts
 avena sativa peptide,Avena Sativa (Oat) Peptide,candidate,,0,11,,MILK-010:related,,U,,candidate,,,cosrx; open_beauty_facts
 avena strigosa seed extract,AVENA STRIGOSA SEED EXTRACT,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
@@ -472,7 +472,7 @@ behenetrimonium methosulfate,Behenetrimonium Methosulfate,candidate,,0,2,,,,U,,c
 behenic acid,Behenic Acid,candidate,,0,22,,,,U,,candidate,,,cosrx; open_beauty_facts
 behentrimonium chioride,Behentrimonium Chioride,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 behentrimonium clorid,Behentrimonium Clorid,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-behentrimonium methosulfate,Behentrimonium Methosulfate,candidate,,8,169,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
+behentrimonium methosulfate,Behentrimonium Methosulfate,candidate,,8,172,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
 behentrimonium methosulfate and cetearyl alcohol,Behentrimonium Methosulfate and Cetearyl Alcohol,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 behentrimoniumchloride,BEHENTRIMONIUMCHLORIDE,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 behentrimonum chloride,BEHENTRIMONUM CHLORIDE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -500,13 +500,13 @@ benzoato de sodio,BENZOATO DE SÓDIO,candidate,,0,19,,,,U,,candidate,,,open_beau
 benzoato di sodio,Benzoato di sodio,candidate,,0,23,,,,U,,candidate,,,open_beauty_facts
 benzophenone - 3,Benzophenone - 3,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 benzophenone 3,BENZOPHENONE 3,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-benzophenone-4,Benzophenone-4,candidate,,0,233,EU: permitted UV filter (limits apply) (max 5%(as acid)),,,U,,candidate,,,open_beauty_facts
+benzophenone-4,Benzophenone-4,candidate,,0,235,EU: permitted UV filter (limits apply) (max 5%(as acid)),,,U,,candidate,,,open_beauty_facts
 benzophenone-5,Benzophenone-5,candidate,,0,2,EU: permitted UV filter (limits apply) (max 5%(as acid)),,,U,,candidate,,,open_beauty_facts
 benzotriazolyl,Benzotriazolyl,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 benzoyl peroxide,Benzoyl Peroxide (10.0%),candidate,94-36-0,0,1,CA: restricted; EU: restricted (max 0.7% (after mixing for use)),,,U,,candidate,,,open_beauty_facts
 benzyl acetate,Benzyl Acetate,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 benzyl acohol,Benzyl Acohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-benzyl alcohol,Benzyl Alcohol,candidate,100-51-6,13,3361,EU: restricted; EU: permitted preservative (limits apply) (max 1.0%),,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
+benzyl alcohol,Benzyl Alcohol,candidate,100-51-6,13,3364,EU: restricted; EU: permitted preservative (limits apply) (max 1.0%),,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
 benzyl alcohol benzyl salicylate,BENZYL ALCOHOL BENZYL SALICYLATE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 benzyl alcohol citronellol,BENZYL ALCOHOL CITRONELLOL,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 benzyl alcohol linalool,BENZYL ALCOHOL LINALOOL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -515,7 +515,7 @@ benzyl alcohol quot,BENZYL ALCOHOL &quot,candidate,,0,6,,,,U,,candidate,,,open_b
 benzyl alcool,BENZYL ALCOOL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 benzyl benzoate,Benzyl Benzoate,candidate,120-51-4,0,781,EU: restricted,,,U,,candidate,,,cosrx; open_beauty_facts
 benzyl cinnamate,Benzyl Cinnamate,candidate,103-41-3,0,69,EU: restricted,,,U,,candidate,,,open_beauty_facts
-benzyl glycol,Benzyl Glycol,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
+benzyl glycol,Benzyl Glycol,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 benzyl sali - cylate,Benzyl Sali - cylate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 benzyl salicilate,benzyl salicilate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 benzyl salicylate,Benzyl Salicylate,candidate,118-58-1,0,1880,EU: restricted,,,U,,candidate,,,cosrx; open_beauty_facts
@@ -539,7 +539,7 @@ betula alba juice,Betula Alba Juice,candidate,,0,7,,,,U,,candidate,,,open_beauty
 betula platyphylla japonica bark extract,Betula Platyphylla Japonica Bark Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 beurre de cacao,beurre de cacao,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 bhringraj,Bhringraj,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-bht,BHT,candidate,,0,1214,"EU: restricted (max a) 0,001 %)",,,U,,candidate,,,cosrx; open_beauty_facts
+bht,BHT,candidate,,0,1216,"EU: restricted (max a) 0,001 %)",,,U,,candidate,,,cosrx; open_beauty_facts
 bicarbonate,bicarbonate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 bicarbonate de sodium,bicarbonate de sodium,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 bicarbonate de soude,bicarbonate de soude,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -547,7 +547,7 @@ bidens pilosa extract,Bidens Pilosa Extract,candidate,,0,3,,,,U,,candidate,,,ope
 bienenwachs,Bienenwachs,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 bifida ferment lysate,Bifida Ferment Lysate,candidate,,0,25,,,,U,,candidate,,,open_beauty_facts
 bifidobacterium,Bifidobacterium,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-biosaccharide gum-1,Biosaccharide Gum-1,candidate,,0,104,,,,U,,candidate,,,open_beauty_facts; round_lab
+biosaccharide gum-1,Biosaccharide Gum-1,candidate,,0,105,,,,U,,candidate,,,open_beauty_facts; round_lab
 biosaccharide gum-2,Biosaccharide Gum-2,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 biotin,Biotin,candidate,,2,210,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 biotinoyl tripeptide-1,Biotinoyl Tripeptide-1,candidate,,0,16,,,,U,,candidate,,,open_beauty_facts
@@ -561,20 +561,20 @@ bis-diisopropanolamino-pg-propyl dimethicone bis-isobutyl peg-14 copolymer,Bis-D
 "bis-ethoxydiglycol cyclohexane 1,4-dicarboxylate","Bis-Ethoxydiglycol Cyclohexane 1,4-Dicarboxylate",candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 bis-ethyl hexyloxyphenol methoxyphenyl triazine,Bis-Ethyl hexyloxyphenol Methoxyphenyl Triazine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 bis-ethylhexyloxyphenol methoxy - phenyl triazine,Bis-Ethylhexyloxyphenol Methoxy - phenyl Triazine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-bis-ethylhexyloxyphenol methoxyphenyl triazine,Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine,candidate,187393-00-6,0,367,EU: permitted UV filter (limits apply) (max 10%),,,U,,candidate,,,cosrx; open_beauty_facts
+bis-ethylhexyloxyphenol methoxyphenyl triazine,Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine,candidate,187393-00-6,0,369,EU: permitted UV filter (limits apply) (max 10%),,,U,,candidate,,,cosrx; open_beauty_facts
 bis-ethylheyxloexyphenol methophenyl triazine,Bis-Ethylheyxloexyphenol Methophenyl Triazine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 bis-hema poly -9 ipdi copolymer,"BIS-HEMA POLY(1,4-BUTANEDIOL)-9/IPDI COPOLYMER",candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 bis-hydroxy methoxy amodimethicone,Bis-Hydroxy/Methoxy Amodimethicone,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
 bis-peg ppg-14 14 dimethicone,Bis-PEG/PPG-14/14 Dimethicone,candidate,,0,46,,,,U,,candidate,,,open_beauty_facts
 bis-stearyl dimethicone,Bis-Stearyl Dimethicone,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-bisabolol,Bisabolol,candidate,,3,412,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
+bisabolol,Bisabolol,candidate,,3,413,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
 bisamino peg ppg-41 3 aminoethyl pg-propyl dimethicone,Bisamino PEG/PPG-41/3 Aminoethyl PG-Propyl Dimethicone,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 bisethylhexyloxyphenol methoxyphenyl triazine,BISETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 bitterorange,Bitterorange* (Petit Grain),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 bixa orellana seed extract,Bixa Orellana Seed Extract,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 bixa orellana seed oil,BIXA ORELLANA SEED OIL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 bixa orellana seed powder,Bixa Orellana (Annatto) Seed Powder,candidate,,1,0,,,,U,,candidate,,,windy_point
-black iron oxide,black iron oxide,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
+black iron oxide,Black iron oxide,candidate,,1,2,,,,U,,candidate,,,open_beauty_facts; windy_point
 black pepper oil,Black Pepper Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 blackcurrant extract,Blackcurrant Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 bleichmittel auf sauerstoffbasis,Bleichmittel auf Sauerstoffbasis,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -634,8 +634,8 @@ butylated hydroxyanisole,butylated hydroxyanisole,candidate,,0,3,,,,U,,candidate
 butylated hydroxytoluene,Butylated Hydroxytoluene,candidate,128-37-0,0,29,"EU: restricted (max a) 0,001 %)",,,U,,candidate,,,open_beauty_facts
 butylene,Butylene,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 butylene ethylene styrene copolymer,Butylene/Ethylene/Styrene Copolymer,candidate,,1,26,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
-butylene glycol,Butylene Glycol,candidate,,44,1605,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
-butylene glycol dicaprylate dicaprate,Butylene Glycol Dicaprylate/Dicaprate,candidate,,0,87,,,,U,,candidate,,,cosrx; open_beauty_facts
+butylene glycol,Butylene Glycol,candidate,,44,1612,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+butylene glycol dicaprylate dicaprate,Butylene Glycol Dicaprylate/Dicaprate,candidate,,0,89,,,,U,,candidate,,,cosrx; open_beauty_facts
 butylene glycol glycerin,BUTYLENE GLYCOL GLYCERIN,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 butylene gycol,Butylene Gycol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 butylhydroxytoluene,butylhydroxytoluène,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -662,13 +662,13 @@ butyrospermum park butter extract,butyrospermum park|| (SHEA) BUTTER EXTRACT,can
 butyrospermum parki,butyrospermum parki (shea butter),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 butyrospermum parki butter,butyrospermum parki (shea) butter,candidate,,0,43,,,,U,,candidate,,,open_beauty_facts
 butyrospermum parki shea butter,BUTYROSPERMUM PARKI SHEA BUTTER,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-butyrospermum parkii,Butyrospermum Parkii (Shea Butter),candidate,,2,99,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; open_beauty_facts
-butyrospermum parkii butter,Butyrospermum Parkii Butter,candidate,,7,1705,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
+butyrospermum parkii,Butyrospermum Parkii (Shea Butter),candidate,,2,101,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; open_beauty_facts
+butyrospermum parkii butter,Butyrospermum Parkii Butter,candidate,,7,1717,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
 butyrospermum parkii butter butter,Butyrospermum Parkii Butter (Butyrospermum Parkii (Shea) Butter),candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 butyrospermum parkii butter butyrospermum parkii butter,Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 butyrospermum parkii butter extract,BUTYROSPERMUM PARKII (SHEA) BUTTER EXTRACT,candidate,,1,79,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 butyrospermum parkii butter quot,Butyrospermum Parkii Butter&quot,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
-butyrospermum parkii butter shea butter,BUTYROSPERMUM PARKII BUTTER / SHEA BUTTER,candidate,,0,149,,,,U,,candidate,,,open_beauty_facts
+butyrospermum parkii butter shea butter,BUTYROSPERMUM PARKII BUTTER / SHEA BUTTER,candidate,,0,150,,,,U,,candidate,,,open_beauty_facts
 butyrospermum parkii butter2,Butyrospermum Parkii Butter²,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 butyrospermum parkii butter3,Butyrospermum Parkii (Shea) Butter3,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 butyrospermum parkii nut extract,butyrospermum parkii nut extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -690,9 +690,9 @@ c10-40 isoalkylamidopropylethyldimonium ethosulfate,C10-40 Isoalkylamidopropylet
 c11-13 isoalkane,C11-13 Isoalkane,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 c12-15 alcohols,C12-15 Alcohols,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 c12-15 alcohols ethoxylated,C12-15 Alcohols Ethoxylated,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-c12-15 alkyl benzoate,C12-15 Alkyl Benzoate,candidate,,5,794,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
+c12-15 alkyl benzoate,C12-15 Alkyl Benzoate,candidate,,5,797,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
 c12-16 alkyl glucoside,C12-16 Alkyl Glucoside,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-c12-20 alkyl glucoside,C12-20 Alkyl Glucoside,candidate,,1,57,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
+c12-20 alkyl glucoside,C12-20 Alkyl Glucoside,candidate,,1,58,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
 c12-20 alkyl glycoside,C12-20 Alkyl Glycoside,candidate,,1,1,,,,U,,candidate,,,aromantic; open_beauty_facts
 c12-c15 alkyl benzoate,C12-C15 Alkyl Benzoate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 c13-14 isoalkane,C13-14 Isoalkane,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
@@ -739,7 +739,7 @@ calciumaluminum borosilicate,CALCIUMALUMINUM BOROSILICATE,candidate,,0,4,,,,U,,c
 calendula,calendula,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 calendula o cinalis,calendula o cinalis (calendula oil*),candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 calendula offcinalis flower extract,Calendula Offcinalis Flower Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-calendula officinalis extract,Calendula Officinalis Extract,candidate,,0,32,,,,U,,candidate,,,open_beauty_facts
+calendula officinalis extract,Calendula Officinalis Extract,candidate,,0,33,,,,U,,candidate,,,open_beauty_facts
 calendula officinalis flower,Calendula Officinalis Flower,candidate,,2,13,,,,U,,candidate,,,aromantic; open_beauty_facts; windy_point
 calendula officinalis flower ext - ract,Calendula Officinalis Flower Ext - ract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 calendula officinalis flower extract,Calendula Officinalis Flower Extract,candidate,84776-23-8,12,290,,,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts; windy_point
@@ -751,7 +751,7 @@ calle 21 este no.1,CALLE 21 ESTE NO.1,candidate,,0,2,,,,U,,candidate,,,open_beau
 callitris columellaris leaf extract,Callitris columellaris Leaf Extract,candidate,180287-44-9,1,0,,,,U,,candidate,,,native_extracts
 callitris glaucophylia leaf extract,Callitris glaucophylia Leaf Extract,candidate,1174327-51-5,1,0,,,,U,,candidate,,,native_extracts
 calluna vulgaris extract,CALLUNA VULGARIS EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-calophyllum inophyllum seed oil,Calophyllum Inophyllum Seed Oil,candidate,,1,13,,,,U,,candidate,,,aromantic; open_beauty_facts
+calophyllum inophyllum seed oil,Calophyllum Inophyllum Seed Oil,candidate,,1,15,,,,U,,candidate,,,aromantic; open_beauty_facts
 calophyllum tacamahaca seed oil,Calophyllum Tacamahaca (Tamanu) Seed Oil,candidate,,2,0,,,,U,,candidate,,,formulator_sample_shop
 camelia sinensis leaf extract,Camelia Sinensis Leaf Extract,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 camelina sativa oil camelina sativa seed oil,CAMELINA SATIVA OIL / CAMELINA SATIVA SEED OIL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -790,7 +790,7 @@ caprae lac goat milk lait de chevre,Caprae Lac/Goat Milk/Lait de Chèvre,candida
 capric caprylic acid,CAPRIC/CAPRYLIC ACID,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 capric triglyceride,Capric Triglyceride,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
 caprilil glicol,Caprilil glicol,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-caprililglicol,CAPRILILGLICOL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
+caprililglicol,CAPRILILGLICOL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 caprlyl glycol,CAPRLYL GLYCOL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 caprooyl phytosphingosine,Caprooyl Phytosphingosine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 capryl- caprinsauretriglycerid,Capryl-/Caprinsäuretriglycerid,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -799,18 +799,18 @@ caprylic,CAPRYLIC,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 caprylic capric aqua,caprylic/capric Aqua (water),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 caprylic capric glyceride,caprylic/capric glyceride (coconut oil),candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 caprylic capric trigly - ceride,Caprylic/Capric Trigly - ceride,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-caprylic capric triglyceride,Caprylic/Capric Triglyceride,candidate,,18,1815,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+caprylic capric triglyceride,Caprylic/Capric Triglyceride,candidate,,18,1829,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 caprylic capric triglyceride. butyrospermum parkii butter,Caprylic/Capric Triglyceride. Butyrospermum Parkii (Shea) Butter,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 caprylic capric tryglyceride,Caprylic/Capric Tryglyceride,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 caprylic capril triglyceride,Caprylic/Capril triglyceride°,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 caprylic triglyceride,Caprylic Triglyceride,candidate,,0,16,,,,U,,candidate,,,open_beauty_facts
 capryloyl caproyl anhydro methyl glucamide,Capryloyl/ Caproyl Anhydro Methyl Glucamide,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 capryloyl caproyl methyl glucamide,Capryloyl/Caproyl Methyl Glucamide,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-capryloyl glycine,Capryloyl Glycine,candidate,,1,87,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
-capryloyl salicylic acid,Capryloyl Salicylic Acid,candidate,,0,73,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+capryloyl glycine,Capryloyl Glycine,candidate,,1,88,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
+capryloyl salicylic acid,Capryloyl Salicylic Acid,candidate,,0,74,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 capryly capryl glucoside,Capryly/Capryl Glucoside,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 caprylyl,CAPRYLYL,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
-caprylyl capryl glucoside,Caprylyl/Capryl Glucoside,candidate,,4,255,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
+caprylyl capryl glucoside,Caprylyl/Capryl Glucoside,candidate,,4,256,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
 caprylyl gly - col,CAPRYLYL GLY - COL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 caprylyl glycol glyceryl behenate,CAPRYLYL GLYCOL GLYCERYL BEHENATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 caprylyl trimethicone,CAPRYLYL TRIMETHICONE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts; round_lab
@@ -839,7 +839,7 @@ carica papaya leaf extract,Carica Papaya (Papaya) Leaf Extract,candidate,,0,2,,,
 carica papaya seed oil,Carica Papaya Seed Oil,candidate,,2,10,,,,U,,candidate,,,aromantic; formulator_sample_shop; open_beauty_facts
 carl-friedrich-gauss-str. 2,Carl-Friedrich-Gauss-Str. 2,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 carnauba wax,Carnauba Wax,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
-carnitine,Carnitine,candidate,,0,18,,,,U,,candidate,,,open_beauty_facts
+carnitine,Carnitine,candidate,,0,20,,,,U,,candidate,,,open_beauty_facts
 carota sativa seed oil,CAROTA SATIVA SEED OIL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 carraghenane,carraghénane,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 carrot seed oil,Carrot Seed Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -887,13 +887,13 @@ cera de abelha,Cera de abelha,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 cera microcristallina microcrystalline wax,CERA MICROCRISTALLINA / MICROCRYSTALLINE WAX,candidate,,0,28,,,,U,,candidate,,,open_beauty_facts
 cera microcrystallina,Cera Microcrystallina,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cera vegetal,cera vegetal,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-ceramida np,CERAMIDA NP,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
+ceramida np,CERAMIDA NP,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 ceramide 4,Ceramide 4,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 ceramide 6-11,Ceramide 6-11,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ceramide 6-ii,Ceramide 6-II,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-ceramide ap,Ceramide AP,candidate,,3,144,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
-ceramide as,Ceramide AS,candidate,,0,18,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
-ceramide ng,Ceramide NG,candidate,,1,40,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
+ceramide ap,Ceramide AP,candidate,,3,149,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+ceramide as,Ceramide AS,candidate,,0,19,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+ceramide ng,Ceramide NG,candidate,,1,41,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 ceramides,Ceramides,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ceratonia siliqua fruit extract,Ceratonia Siliqua (Carob) Fruit Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ceresin wax,Ceresin Wax,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -919,26 +919,26 @@ cetearyl alcohol sodium cetearyl sulfate,CETEARYL ALCOHOL (AND) SODIUM CETEARYL 
 cetearyl behenate,CETEARYL BEHENATE,candidate,,0,22,,,,U,,candidate,,,open_beauty_facts
 cetearyl ethylhexanoate,CETEARYL ETHYLHEXANOATE,candidate,,0,104,,,,U,,candidate,,,open_beauty_facts
 cetearyl glucoside cetearyl alcohol,CETEARYL GLUCOSIDE (AND) CETEARYL ALCOHOL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-cetearyl isononanoate,Cetearyl Isononanoate,candidate,,0,99,,,,U,,candidate,,,open_beauty_facts
+cetearyl isononanoate,Cetearyl Isononanoate,candidate,,0,102,,,,U,,candidate,,,open_beauty_facts
 cetearyl methicone,Cetearyl Methicone,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cetearyl nonanoate,Cetearyl Nonanoate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 cetearylalkohol,Cetearylalkohol,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 ceteth-15,Ceteth-15,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-ceteth-20,CETETH-20,candidate,,1,57,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
+ceteth-20,CETETH-20,candidate,,1,58,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 ceto stearyl alcohol,Ceto Stearyl Alcohol,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-cetomacrogol 1000,CETOMACROGOL 1000,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
+cetomacrogol 1000,CETOMACROGOL 1000,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cetostearyl alcohol,Cetostearyl Alcohol,candidate,,0,15,,,,U,,candidate,,,open_beauty_facts
 cetosteryl alcohol,cetosteryl alcohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cetrimonium chioride,Cetrimonium Chioride,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cetrimonium methosulfate,Cetrimonium Methosulfate,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 cetyalcohol,cetyalcohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cetyl acetate,Cetyl Acetate,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
-cetyl alcohol,Cetyl Alcohol,candidate,,11,1688,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
+cetyl alcohol,Cetyl Alcohol,candidate,,11,1691,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
 cetyl behenate,Cetyl Behenate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cetyl betaine,Cetyl Betaine,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 cetyl dimethicone,Cetyl Dimethicone,candidate,,0,39,,,,U,,candidate,,,open_beauty_facts
 cetyl ethylhexanoate,Cetyl Ethylhexanoate,candidate,,1,82,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
-cetyl hydroxyethylcellulose,CETYL HYDROXYETHYLCELLULOSE,candidate,,0,35,,,,U,,candidate,,,open_beauty_facts
+cetyl hydroxyethylcellulose,CETYL HYDROXYETHYLCELLULOSE,candidate,,0,36,,,,U,,candidate,,,open_beauty_facts
 cetyl pal - mitate,Cetyl Pal - mitate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cetyl palmitat,CETYL PALMITAT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cetyl phosphate,CETYL PHOSPHATE,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
@@ -954,9 +954,9 @@ chamaecyparis obtusa leaf extract,Chamaecyparis Obtusa Leaf Extract,candidate,,0
 chamomile body cream,CHAMOMILE BODY CREAM,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 chamomilla,Chamomilla,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 chamomilla recutita,chamomilla recutita,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
-chamomilla recutita extract,Chamomilla Recutita Extract,candidate,,0,37,,,,U,,candidate,,,open_beauty_facts
+chamomilla recutita extract,Chamomilla Recutita Extract,candidate,,0,38,,,,U,,candidate,,,open_beauty_facts
 chamomilla recutita flower,Chamomilla Recutita (Matricaria) Flower,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-chamomilla recutita flower extract,Chamomilla Recutita Flower Extract,candidate,84082-60-0 / 8002-66-2,5,439,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts
+chamomilla recutita flower extract,Chamomilla Recutita Flower Extract,candidate,84082-60-0 / 8002-66-2,5,441,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts
 chamomilla recutita flower extract flower extract,Chamomilla Recutita Flower Extract (Chamomilla Recutita Matricaria) Flower Extract),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 chamomilla recutita flower extract matricaria flower extract,CHAMOMILLA RECUTITA FLOWER EXTRACT / MATRICARIA FLOWER EXTRACT,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 chamomilla recutita flower leaf stem water,Chamomilla Recutita (Matricaria) Flower/Leaf/Stem Water,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -978,7 +978,7 @@ chlorhexidine digluconate,CHLORHEXIDINE DIGLUCONATE,candidate,,0,127,EU: permitt
 chlorhexidinedigluconate,CHLORHEXIDINEDIGLUCONATE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 chloride,Chloride,candidate,,0,28,,,,U,,candidate,,,open_beauty_facts
 chlorophyllin-copper complex,Chlorophyllin-Copper Complex (CI 75810),candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-cholesterol,Cholesterol,candidate,,3,192,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+cholesterol,Cholesterol,candidate,,3,197,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 choleth-24,Choleth-24,candidate,,1,1,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 chondrus crispus powder,Chondrus Crispus Powder,candidate,,0,58,,,,U,,candidate,,,cosrx; open_beauty_facts
 chromium hydroxide green,chromium hydroxide green (cl 77289),candidate,,0,3,US: permitted with conditions,,,U,,candidate,,,open_beauty_facts
@@ -1010,7 +1010,7 @@ ci 47000,CI 47000,candidate,8003-22-3,0,11,EU: permitted colorant (max Not to be
 ci 51319,CI 51319,candidate,6358-30-1,0,1,EU: permitted colorant (max Rinse-off products),,,U,,candidate,,,open_beauty_facts
 ci 61565,CI 61565,candidate,128-80-3,0,24,EU: prohibited; EU: permitted colorant,,,U,,candidate,,,open_beauty_facts
 ci 61570,CI 61570,candidate,4403-90-1,0,40,EU: permitted colorant,,,U,,candidate,,,open_beauty_facts
-ci 73360,CI 73360,candidate,2379-74-0,0,102,EU: prohibited; EU: permitted colorant,,,U,,candidate,,,open_beauty_facts
+ci 73360,CI 73360,candidate,2379-74-0,0,103,EU: prohibited; EU: permitted colorant,,,U,,candidate,,,open_beauty_facts
 ci 73900,CI 73900,candidate,1047-16-1,0,1,EU: prohibited; EU: permitted colorant (max Rinse-off products),,,U,,candidate,,,open_beauty_facts
 ci 73915,CI 73915,candidate,16043-40-6; 980-26-7,0,1,EU: permitted colorant (max Rinse-off products),,,U,,candidate,,,open_beauty_facts
 ci 74260,CI 74260,candidate,1328-53-6,0,115,EU: prohibited; EU: permitted colorant (max Not to be used in eye products),,,U,,candidate,,,open_beauty_facts
@@ -1035,7 +1035,7 @@ ci 77510 ferric ferrocyanide,CI 77510 Ferric Ferrocyanide,candidate,,0,2,,,,U,,c
 ci 77820,CI 77820 (SILVER),candidate,7440-22-4,0,2,"EU: permitted colorant (max For (a) and (b): 0,2 %’)",,,U,,candidate,,,open_beauty_facts
 ci 77861,CI 77861,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ci 77891 titanium dioxide,CI 77891 / TITANIUM DIOXIDE,candidate,,0,126,,,,U,,candidate,,,open_beauty_facts
-ci 77947,CI 77947,candidate,,0,48,EU: permitted colorant,,,U,,candidate,,,open_beauty_facts
+ci 77947,CI 77947,candidate,,0,49,EU: permitted colorant,,,U,,candidate,,,open_beauty_facts
 ci16255,CI16255,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 ci42090,CI42090,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 ci47005,CI47005,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -1097,7 +1097,7 @@ citroellol,Citroellol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 citroenzuur,Citroenzuur,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 citronellal,Citronellal,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 citronello,Citronello,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
-citronellol,Citronellol,candidate,106-22-9; 1117-61-9; 26489-01-0; 7540-51-4,1,2911,EU: restricted,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab
+citronellol,Citronellol,candidate,106-22-9; 1117-61-9; 26489-01-0; 7540-51-4,1,2914,EU: restricted,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab
 citronellol alpha-isomethyl ionone,Citronellol Alpha-Isomethyl Ionone,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 citronellol coumarin,CITRONELLOL COUMARIN,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 citronellol geraniol,CITRONELLOL GERANIOL,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -1225,9 +1225,9 @@ coco glucoside,Coco Glucoside,candidate,,1,84,,,,U,,candidate,,,open_beauty_fact
 coco nucifera oil,Coco nucifera (Coconut) oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 coco-ca - prylate,coco-ca - prylate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 coco-caprilato,Coco-caprilato,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-coco-caprylate,Coco-Caprylate,candidate,,0,121,,,,U,,candidate,,,open_beauty_facts
+coco-caprylate,Coco-Caprylate,candidate,,0,123,,,,U,,candidate,,,open_beauty_facts
 coco-caprylate caprate,Coco-Caprylate/Caprate,candidate,,1,263,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
-coco-glucoside,Coco-Glucoside,candidate,,4,1198,,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
+coco-glucoside,Coco-Glucoside,candidate,,4,1199,,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
 coco-glucoside and glyceryl oleate,Coco-Glucoside and Glyceryl Oleate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 coco-glucoside glyceryl oleate,Coco-Glucoside (and) Glyceryl Oleate,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
 coco-octanoate decanoate,coco-octanoate/decanoate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -1249,7 +1249,7 @@ cocos nucifera fruit extract coconut fruit extract,COCOS NUCIFERA FRUIT EXTRACT 
 cocos nucifera fruit oil,Cocos Nucifera (Coconut) Fruit Oil,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 cocos nucifera fruit powder,Cocos Nucifera (Coconut) Fruit Powder,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 cocos nucifera fruit water,Cocos Nucifera (Coconut) Fruit Water,candidate,,0,3,,MILK-009:related,,U,,candidate,,,open_beauty_facts
-cocos nucifera oil,Cocos Nucifera (Coconut) Oil,candidate,,6,1071,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; round_lab; windy_point
+cocos nucifera oil,Cocos Nucifera (Coconut) Oil,candidate,,6,1072,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; round_lab; windy_point
 cocos nucifera oil coconut oil,COCOS NUCIFERA OIL / COCONUT OIL,candidate,,0,90,,,,U,,candidate,,,open_beauty_facts
 cocos nucifera oil coconut oil persea gratissima oil avocado oil,COCOS NUCIFERA OIL/COCONUT OIL PERSEA GRATISSIMA OIL/AVOCADO OIL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cocos nucifera oil cocos nucifera oil,Cocos Nucifera Oil/Cocos Nucifera (Coconut) Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -1271,12 +1271,12 @@ coffee extract,Coffee Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 coix lacryma-jobi ma-yuen seed extract,coix lacryma-jobi ma-yuen seed extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 col,Col,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 cola acuminata seed extract,Cola Acuminata Seed Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
-colesterol,COLESTEROL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
+colesterol,COLESTEROL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 colina,Colina,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-collagen,Collagen,candidate,,0,35,,,,U,,candidate,,,cosrx; open_beauty_facts
+collagen,Collagen,candidate,,0,36,,,,U,,candidate,,,cosrx; open_beauty_facts
 collagen amino acids,Collagen Amino Acids,candidate,,2,18,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 collagene,collagène,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-colloidal gold,COLLOIDAL GOLD,candidate,1360157-34-1; 7440-57-5,0,4,EU: prohibited,,,U,,candidate,,,open_beauty_facts
+colloidal gold,COLLOIDAL GOLD,candidate,1360157-34-1; 7440-57-5,0,6,EU: prohibited,,,U,,candidate,,,open_beauty_facts
 colloidal oatmeal extract,Colloidal Oatmeal Extract,candidate,,0,9,,MILK-010:related,EV-04,U,,candidate,,,open_beauty_facts
 colloidal silver,Colloidal Silver,candidate,7440-22-4,0,5,EU: prohibited,,,U,,candidate,,,open_beauty_facts
 colophonium,Colophonium (Resina),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -1312,7 +1312,7 @@ copernicia cerifera cera alba,Copernicia cerifera (carnauba wax) cera alba (bees
 copernicia cerifera cera wax,Copernicia Cerifera Cera (Copernicia Cerifera (Carnauba) Wax),candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 copernicia cerifera wax,Copernicia Cerifera (Carnauba) Wax,candidate,,6,87,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
 copolimero stirene acrilati,Copolimero stirene/acrilati,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-copper gluconate,Copper Gluconate,candidate,,0,54,,,,U,,candidate,,,open_beauty_facts
+copper gluconate,Copper Gluconate,candidate,,0,55,,,,U,,candidate,,,open_beauty_facts
 copper powder,Copper Powder,candidate,,0,1,US: permitted with conditions,,,U,,candidate,,,open_beauty_facts
 copper tripeptide-1,Copper Tripeptide-1,candidate,,1,27,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
 coptis japonica root extract,Coptis Japonica Root Extract,candidate,,0,10,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
@@ -1325,13 +1325,13 @@ corn starch modified,Corn Starch Modified,candidate,,0,19,,,,U,,candidate,,,open
 corpo,Corpo,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 corylus avellana seed extract,CORYLUS AVELLANA (HAZELNUT) SEED EXTRACT,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 couche d acquisition,"couche d'acquisition (polyester, co-polyester)",candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
-coumarin,Coumarin,candidate,91-64-5,0,1745,EU: restricted,,,U,,candidate,,,open_beauty_facts
+coumarin,Coumarin,candidate,91-64-5,0,1747,EU: restricted,,,U,,candidate,,,open_beauty_facts
 crambe abyssinica seed oil,Crambe Abyssinica Seed Oil,candidate,,2,19,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; open_beauty_facts
 crataegus monogyna fruit extract,Crataegus monogyna Fruit Extract,candidate,90045-52-6 / 8057-51-0,1,1,,,,U,,candidate,,,native_extracts; open_beauty_facts
 crataegus oxyacantha stem extract,Crataegus Oxyacantha Stem Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 crepis sibirica extract,Crepis Sibirica Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-crithmum maritimum extract,CRITHMUM MARITIMUM EXTRACT,candidate,89997-98-8,1,9,,,,U,,candidate,,,native_extracts; open_beauty_facts
-crocus sativus flower extract,Crocus Sativus Flower Extract,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
+crithmum maritimum extract,CRITHMUM MARITIMUM EXTRACT,candidate,89997-98-8,1,11,,,,U,,candidate,,,native_extracts; open_beauty_facts
+crocus sativus flower extract,Crocus Sativus Flower Extract,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
 crocus sativus meristem cell extract,Crocus Sativus Meristem Cell Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 crospovidona,Crospovidona,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 crosspolymer,CROSSPOLYMER,candidate,,0,16,,,,U,,candidate,,,open_beauty_facts
@@ -1351,7 +1351,7 @@ cumin,Cumin,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 cupressus sempervirens bark extract,Cupressus Sempervirens (Cypress) Bark Extract,candidate,,1,0,EU: restricted,,,U,,candidate,,,formulator_sample_shop
 cupressus sempervirens leaf extract,Cupressus Sempervirens Leaf Extract,candidate,,0,1,EU: restricted,,,U,,candidate,,,open_beauty_facts
 cupressus sempervirens leaf oil,Cupressus Sempervirens Leaf Oil,candidate,,1,1,,,,U,,candidate,,,aromantic; open_beauty_facts
-cupressus sempervirens oil,Cupressus Sempervirens Oil,candidate,,0,4,,,,U,,candidate,,,cosrx; open_beauty_facts
+cupressus sempervirens oil,Cupressus Sempervirens Oil,candidate,,0,6,,,,U,,candidate,,,cosrx; open_beauty_facts
 curcuma aromatica root oil,Curcuma Aromatica Root Oil,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 curcuma longa root powder,curcuma longa root powder,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 curcuma longa water,Curcuma longa (Turmeric) Water,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
@@ -1361,8 +1361,8 @@ cyamopsis tetragonoloba gum,Cyamopsis Tetragonoloba (Guar) Gum,candidate,,1,38,,
 cyamopsis tetragonoloba gum cyamopsis tetragonoloba gum,Cyamopsis tetragonoloba gum/Cyamopsis tetragonoloba (Guar) gum,candidate,,1,0,,,,U,,candidate,,,aromantic
 cyanocobalamin,Cyanocobalamin,candidate,,0,44,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 cyanus flower water,cyanus flower water,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-cyclodextrin,Cyclodextrin,candidate,,0,111,,,,U,,candidate,,,open_beauty_facts
-cyclohexasiloxane,Cyclohexasiloxane,candidate,,1,110,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
+cyclodextrin,Cyclodextrin,candidate,,0,112,,,,U,,candidate,,,open_beauty_facts
+cyclohexasiloxane,Cyclohexasiloxane,candidate,,1,111,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
 cyclohexylamine,cyclohexylamine,candidate,108-91-8,0,1,EU: prohibited,,,U,,candidate,,,open_beauty_facts
 cyclomethicone,Cyclomethicone,candidate,556-67-2,5,118,EU: prohibited,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
 cyclopentasiioxane,CyclopentasiIoxane,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -1411,7 +1411,7 @@ decyl glucose,Decyl Glucose,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 decyl glucoside c8-14 fatty alcohol glycoside,Decyl Glucoside / C8-14 Fatty Alcohol Glycoside,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 decyl isostearate,decyl isostearate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 decylen glycol,Decylen Glycol,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-decylene glycol,Decylene Glycol,candidate,,0,110,,,,U,,candidate,,,open_beauty_facts
+decylene glycol,Decylene Glycol,candidate,,0,111,,,,U,,candidate,,,open_beauty_facts
 decylglucoside,Decylglucoside,candidate,,1,1,,,,U,,candidate,,,aromantic; open_beauty_facts
 dehydro-acetic acid,dehydro-acetic acid,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 dehydroacetic acid,Dehydroacetic Acid,candidate,,2,510,EU: permitted preservative (limits apply) (max 0.6% (as acid)),,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
@@ -1434,12 +1434,12 @@ diaminopyrimidine oxide,Diaminopyrimidine Oxide,candidate,74638-76-9,0,4,EU: res
 diammonium citrate,Diammonium Citrate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 diammonium phosphate,DIAMMONIUM PHOSPHATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 diatomaceous earth,Diatomaceous Earth,candidate,,1,41,,,,U,,candidate,,,aromantic; open_beauty_facts
-diazolidinyl urea,Diazolidinyl Urea,candidate,78491-02-8,2,117,EU: permitted preservative (limits apply) (max 0.5%),,,U,,candidate,,,formulator_sample_shop; open_beauty_facts; windy_point
+diazolidinyl urea,Diazolidinyl Urea,candidate,78491-02-8,2,118,EU: permitted preservative (limits apply) (max 0.5%),,,U,,candidate,,,formulator_sample_shop; open_beauty_facts; windy_point
 dibutyl ethylhexanoyl glutamide,DIBUTYL ETHYLHEXANOYL GLUTAMIDE,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 dibutyladipate,DIBUTYLADIPATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 dicaprylyl,dicaprylyl,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 dicaprylyl car - bonate,dicaprylyl car - bonate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-dicaprylyl carbonate,Dicaprylyl Carbonate,candidate,,1,387,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+dicaprylyl carbonate,Dicaprylyl Carbonate,candidate,,1,389,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 dicaprylyl ether,Dicaprylyl Ether,candidate,,0,337,,,,U,,candidate,,,cosrx; open_beauty_facts
 dicaprylylether,Dicaprylylether,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 dicetyl phosphate,Dicetyl Phosphate,candidate,,0,38,,,,U,,candidate,,,open_beauty_facts
@@ -1451,7 +1451,7 @@ diethoxyethyl succinate,Diethoxyethyl Succinate,candidate,,0,8,,,,U,,candidate,,
 diethyl phthalate,Diethyl Phthalate,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 diethyl succinate,DIETHYL SUCCINATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 diethylamino hydroxyben zoyl hexyl benzoate,Diethylamino Hydroxyben zoyl Hexyl Benzoate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-diethylamino hydroxybenzoyl hexyl benzoate,Diethylamino Hydroxybenzoyl Hexyl Benzoate,candidate,302776-68-7,0,274,EU: permitted UV filter (limits apply) (max 10%),,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+diethylamino hydroxybenzoyl hexyl benzoate,Diethylamino Hydroxybenzoyl Hexyl Benzoate,candidate,302776-68-7,0,276,EU: permitted UV filter (limits apply) (max 10%),,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 diethylenetriamine,diethylenetriamine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 diethylhexyl adipate,Diethylhexyl adipate,candidate,103-23-1,0,9,CA: restricted,,,U,,candidate,,,open_beauty_facts
 diethylhexyl carbonate,DIETHYLHEXYL CARBONATE,candidate,,0,20,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
@@ -1535,7 +1535,7 @@ disopropyl adipate,DISOPROPYL ADIPATE,candidate,,0,6,,,,U,,candidate,,,open_beau
 disopropyl sebacate,disopropyl sebacate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 disostearyl malate,DISOSTEARYL MALATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 dissulfonato de distirilbifenil dissodico,DISSULFONATO DE DISTIRILBIFENIL DISSÓDICO,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-distarch phosphate,Distarch Phosphate,candidate,,0,78,,,,U,,candidate,,,open_beauty_facts
+distarch phosphate,Distarch Phosphate,candidate,,0,80,,,,U,,candidate,,,open_beauty_facts
 disteardimonium,DISTEARDIMONIUM,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 distearomonium hectorite,distearomonium hectorite,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 distearyl ether,DISTEARYL ETHER,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
@@ -1565,7 +1565,7 @@ eclipta prostrata leaf extract,Eclipta Prostrata Leaf Extract,candidate,,0,4,,,,
 eco-harvest melaleuca alternifolia leaf oil,eco-harvest° melaleuca alternifolia (tea tree) leaf oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ectoin,Ectoin,candidate,,2,42,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
 edetato de sodio,EDETATO DE SÓDIO,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
-edetato dissodico,EDETATO DISSÓDICO,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
+edetato dissodico,EDETATO DISSÓDICO,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 edta disodico,EDTA disodico,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 edta disodique,EDTA disodique,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 edta dissodium,EDTA dissodium,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
@@ -1636,9 +1636,9 @@ ethyl alcohol,Ethyl Alcohol,candidate,,0,19,,,,U,,candidate,,,open_beauty_facts
 ethyl cyanoacrylate,Ethyl Cyanoacrylate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 ethyl ether,ethyl ether,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ethyl ferulate,ETHYL FERULATE,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-ethyl hexanediol,Ethyl Hexanediol,candidate,,0,19,,,,U,,candidate,,,cosrx; open_beauty_facts
+ethyl hexanediol,Ethyl Hexanediol,candidate,,0,20,,,,U,,candidate,,,cosrx; open_beauty_facts
 ethyl hexyl salicylate,ETHYL HEXYL SALICYLATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-ethyl lauroyl arginate hcl,Ethyl Lauroyl Arginate HCl,candidate,60372-77-2,0,6,"EU: restricted (max 0,8 %)",,,U,,candidate,,,open_beauty_facts
+ethyl lauroyl arginate hcl,ETHYL LAUROYL ARGINATE HCL,candidate,60372-77-2,0,7,"EU: restricted (max 0,8 %)",,,U,,candidate,,,open_beauty_facts
 ethyl linalool,ETHYL LINALOOL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 ethyl linoleate,Ethyl Linoleate,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
 ethyl linolenate,Ethyl Linolenate,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
@@ -1671,7 +1671,7 @@ ethylhexyl dimethyl paba,Ethylhexyl Dimethyl PABA,candidate,21245-02-3,0,1,EU: p
 ethylhexyl isopalmitate,Ethylhexyl Isopalmitate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ethylhexyl salicylate butyl methoxydibenzoylmethane,ETHYLHEXYL SALICYLATE BUTYL METHOXYDIBENZOYLMETHANE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 ethylhexyl stearate,Ethylhexyl Stearate,candidate,,0,290,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
-ethylhexyl triazone,Ethylhexyl Triazone,candidate,88122-99-0,0,395,EU: permitted UV filter (limits apply) (max 5%),,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+ethylhexyl triazone,Ethylhexyl Triazone,candidate,88122-99-0,0,397,EU: permitted UV filter (limits apply) (max 5%),,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 ethylhexyl-glycerin,ETHYLHEXYL-GLYCERIN,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 ethylhexylglyce rin,ETHYLHEXYLGLYCE RIN,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ethylhexylglycerin phenoxyethanol,Ethylhexylglycerin / Phenoxyethanol,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -1682,7 +1682,7 @@ ethylhexylmethoxycinnamate,EthylhexylMethoxycinnamate,candidate,,0,2,,,,U,,candi
 ethylheyxyl salicylate,Ethylheyxyl Salicylate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ethylparaben,Ethylparaben,candidate,,1,188,"EU: permitted preservative (limits apply) (max 0,4% (as acid) for single ester)",,,U,,candidate,,,lotioncrafter; open_beauty_facts
 etilesilglicerina,Etilesilglicerina,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-etilexilglicerina,Etilexilglicerina,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
+etilexilglicerina,Etilexilglicerina,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 etilhexilglicerina,ETILHEXILGLICERINA,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 etocrylene,ETOCRYLENE,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
 eucalyptus citriodora oil,EUCALYPTUS CITRIODORA OIL,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
@@ -1740,7 +1740,7 @@ filtrato di fermento di radice di ravanello leuconostoc,Filtrato di fermento di 
 fine chalk,Fine Chalk (a gentle cleanser),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 fiscus carica fruit extract,Fiscus Carica (Fig) Fruit Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 flaking,flaking,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-flavor,Aroma,candidate,,0,1604,,,,U,,candidate,,,open_beauty_facts
+flavor,Aroma,candidate,,0,1606,,,,U,,candidate,,,open_beauty_facts
 flavors,flavors,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 flavour saveur,flavour/saveur,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 flavours,flavours,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -1751,7 +1751,6 @@ foeniculum vulgare oil,foeniculum vulgare (fennel) oil,candidate,,0,12,,,,U,,can
 folic acid,Folic Acid,candidate,,0,18,,,,U,,candidate,,,open_beauty_facts; round_lab
 for burt s bees,for burt's bees,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 formica acid,Formica acid,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-fosfato de potassio dibasico,FOSFATO DE POTÁSSIO DIBÁSICO,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 fractionated coconut oil,Fractionated Coconut Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 fragance,fragance,candidate,,0,17,,,,U,,candidate,,,open_beauty_facts
 fragancia,Fragancia,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
@@ -1759,14 +1758,14 @@ fraganda,fraganda,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 fragaria ananassa fruit extract,fragaria ananassa fruit extract,candidate,1175540-74-5,1,16,,,,U,,candidate,,,native_extracts; open_beauty_facts
 fragaria ananassa seed oil,fragaria ananassa (strawberry) seed oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 fragaria vesca fruit,Fragaria Vesca (Strawberry) Fruit,candidate,,1,1,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
-fragrance,Parfum,candidate,,33,12202,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; windy_point
+fragrance,Parfum,candidate,,33,12237,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; windy_point
 fragrance quot,fragrance (parfum)&quot,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 fragrance-free,Fragrance-free,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 fragrances,fragrances,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 fragrances parfums,fragrances/parfums,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 fragrancia,Fragrância,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 fructan,FRUCTAN,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-fructose,Fructose,candidate,,0,92,,,,U,,candidate,,,open_beauty_facts; round_lab
+fructose,Fructose,candidate,,0,93,,,,U,,candidate,,,open_beauty_facts; round_lab
 fructosyl cocoate olivate,fructosyl cocoate/olivate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 fruit extract,Fruit Extract,candidate,,0,15,,,,U,,candidate,,,open_beauty_facts
 fruit juice,fruit juice (for color),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -1823,7 +1822,7 @@ gentiana lutea root extract,Gentiana Lutea Root Extract,candidate,72968-42-4 / 9
 gentiana scabra root extract,gentiana scabra root extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 geogard,geogard (ecocert),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 geranio,geranio,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-geraniol,Geraniol,candidate,106-24-1,2,2492,EU: restricted,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab
+geraniol,Geraniol,candidate,106-24-1,2,2494,EU: restricted,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab
 geraniol limonene,geraniol limonene,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 geraniol quot,Geraniol&quot,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 geranium extract,Geranium extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -1852,7 +1851,7 @@ glucose oxidase,Glucose Oxidase,candidate,,0,27,,,,U,,candidate,,,open_beauty_fa
 glucose pentaacetate,Glucose Pentaacetate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glucoside,GLUCOSIDE,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
 glucosyl ceramide,Glucosyl Ceramide,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-glucosylrutin,Glucosylrutin,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
+glucosylrutin,Glucosylrutin,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 glutamates de graisse de coco,glutamates de graisse de coco,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glutamine,GLUTAMINE,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 glutaral,Glutaral,candidate,111-30-8,0,7,EU: permitted preservative (limits apply) (max 0.1%),,,U,,candidate,,,open_beauty_facts
@@ -1867,10 +1866,10 @@ glycer stearate,GLYCER STEARATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_fac
 glycereth-18,glycereth-18,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glycereth-2-cocoate,Glycereth-2-Cocoate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 glycereth-25 pca isostearate,Glycereth-25 PCA Isostearate,candidate,,0,4,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
-glycereth-26,Glycereth-26,candidate,,0,50,,,,U,,candidate,,,open_beauty_facts; round_lab
+glycereth-26,Glycereth-26,candidate,,0,51,,,,U,,candidate,,,open_beauty_facts; round_lab
 glycereth-7 caprylate caprate,Glycereth-7 Caprylate/Caprate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glyceril stearate,Glyceril Stearate,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
-glycerin,Glycerin,candidate,56-81-5,180,11475,CA: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+glycerin,Glycerin,candidate,56-81-5,180,11508,CA: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 glycerin .1217017-post color shampooaqua water,GLYCERIN(F.I.L. C202318/2).1217017-POST COLOR SHAMPOOAQUA / WATER,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 glycerin .1217043 a - shine protect efterbehandlingaqua water,GLYCERIN(F.I.L. C202318/2).1217043 A - SHINE PROTECT EFTERBEHANDLINGAQUA/WATER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glycerin cetearyl alcohol,glycerin cetearyl alcohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -1897,7 +1896,7 @@ glyceryl dibehenate,Glyceryl Dibehenate,candidate,,0,28,,,,U,,candidate,,,open_b
 glyceryl dilaurate,glyceryl dilaurate,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
 glyceryl dioleate,Glyceryl Dioleate,candidate,,1,5,,,,U,,candidate,,,aromantic; open_beauty_facts
 glyceryl distearate,Glyceryl Distearate,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
-glyceryl glucoside,Glyceryl Glucoside,candidate,,0,97,,,,U,,candidate,,,open_beauty_facts; round_lab
+glyceryl glucoside,Glyceryl Glucoside,candidate,,0,98,,,,U,,candidate,,,open_beauty_facts; round_lab
 glyceryl hydroxystearate,glyceryl hydroxystearate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glyceryl isostearate,Glyceryl Isostearate,candidate,,0,31,,,,U,,candidate,,,open_beauty_facts
 glyceryl linoleate,GLYCERYL LINOLEATE,candidate,,0,48,,,,U,,candidate,,,open_beauty_facts
@@ -1909,15 +1908,15 @@ glyceryl polymethacrylate,Glyceryl Polymethacrylate,candidate,,0,16,,,,U,,candid
 glyceryl ricinoleate,Glyceryl Ricinoleate,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 glyceryl searate,glyceryl searate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 glyceryl stearat,Glyceryl Stearat,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-glyceryl stearate citrate,Glyceryl Stearate Citrate,candidate,,0,444,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+glyceryl stearate citrate,Glyceryl Stearate Citrate,candidate,,0,447,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 glyceryl stearate peg-100 stearate,Glyceryl Stearate (and) PEG-100 Stearate,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
-glyceryl stearate se,Glyceryl Stearate SE,candidate,,2,395,,,,U,,candidate,,,open_beauty_facts; round_lab; windy_point
+glyceryl stearate se,Glyceryl Stearate SE,candidate,,2,397,,,,U,,candidate,,,open_beauty_facts; round_lab; windy_point
 glyceryl stearate triethanolamine,glyceryl stearate triethanolamine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glyceryl stearates,Glyceryl Stearates,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 glyceryl stearte,Glyceryl Stearte,candidate,,1,0,,,,U,,candidate,,,windy_point
 glyceryl undecylenate,Glyceryl Undecylenate,candidate,,2,54,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 glyceryloleate,GLYCERYLOLEATE,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-glycine,Glycine,candidate,,4,320,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+glycine,Glycine,candidate,,4,323,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 glycine soja glycine soja sterols,Glycine Soja/Glycine Soja (Soybean) Sterols,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 glycine soja lipids,Glycine Soja (Soybean) Lipids,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 glycine soja oil glycine soja oil,Glycine Soja Oil/Glycine Soja (Soybean) Oil,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -1930,7 +1929,7 @@ glycine soja sprout extract,Glycine Soja (Soybean) Sprout Extract,candidate,,0,2
 glycine soja sterols,Glycine Soja (Soybean) Sterols,candidate,,0,35,,,,U,,candidate,,,cosrx; open_beauty_facts
 glycine soja wax,glycine soja (non gmm soybean) wax,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 glycine soya oil,Glycine Soya (Soybean) Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-glycol distearate,Glycol Distearate,candidate,,0,1414,,,,U,,candidate,,,cosrx; open_beauty_facts
+glycol distearate,Glycol Distearate,candidate,,0,1416,,,,U,,candidate,,,cosrx; open_beauty_facts
 glycol distearate .1177657-harmaskeaqua water,GLYCOL DISTEARATE(F.I.L. C226772/1).1177657-HÅRMASKEAQUA / WATER,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 glycol distearate and cocamide mea,GLYCOL DISTEARATE AND COCAMIDE MEA,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 glycol distearate cocamide mea,GLYCOL DISTEARATE COCAMIDE MEA,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2010,7 +2009,7 @@ helianthus annuus seed,Helianthus Annuus (Sunflower) Seed,candidate,,0,2,,,,U,,c
 helianthus annuus seed butter,Helianthus Annuus (Sunflower) seed butter,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 helianthus annuus seed cera,Helianthus Annuus Seed Cera,candidate,,0,66,,,,U,,candidate,,,open_beauty_facts
 helianthus annuus seed extract,Helianthus Annuus (Sunflower) Seed Extract,candidate,,1,23,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
-helianthus annuus seed oil,Helianthus Annuus Seed Oil,candidate,,101,1647,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
+helianthus annuus seed oil,Helianthus Annuus Seed Oil,candidate,,101,1654,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
 helianthus annuus seed oil helianthus annuus seed oil,Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 helianthus annuus seed oil sunflower seed oil,HELIANTHUS ANNUUS SEED OIL / SUNFLOWER SEED OIL,candidate,,0,117,,,,U,,candidate,,,open_beauty_facts
 helianthus annuus seed oil tocopherol,HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL TOCOPHEROL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -2045,7 +2044,7 @@ hexapeptide-4,Hexapeptide-4,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 hexy cinnamal,Hexy Cinnamal,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 hexyl,HEXYL,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 hexyl acetate,Hexyl Acetate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-hexyl cinnamal,Hexyl Cinnamal,candidate,101-86-0,0,2713,EU: restricted,,,U,,candidate,,,cosrx; open_beauty_facts
+hexyl cinnamal,Hexyl Cinnamal,candidate,101-86-0,0,2715,EU: restricted,,,U,,candidate,,,cosrx; open_beauty_facts
 hexyl cinnamal linalool,HEXYL CINNAMAL LINALOOL,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 hexyl cinnamalamyl cinnamal,HEXYL CINNAMALAMYL CINNAMAL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 hexyl cinnamaldehyde,Hexyl Cinnamaldehyde,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
@@ -2055,7 +2054,7 @@ hexyl glucoside,Hexyl Glucoside,candidate,,0,2,,,,U,,candidate,,,open_beauty_fac
 hexyldecanol,Hexyldecanol,candidate,,0,37,,,,U,,candidate,,,cosrx; open_beauty_facts
 hexyldecyl stearate,Hexyldecyl Stearate,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 hexylresorcinol,Hexylresorcinol,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-hialuronato de sodio,HIALURONATO DE SÓDIO,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
+hialuronato de sodio,HIALURONATO DE SÓDIO,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 hibbertia scandens leaf extract,Hibbertia scandens Leaf Extract,candidate,1415551-91-5,1,0,,,,U,,candidate,,,native_extracts
 hibiscus,hibiscus,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 hibiscus abelmoschus extract,Hibiscus Abelmoschus Extract,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -2075,9 +2074,9 @@ hippophae rhamnoides kernel extract,hippophae rhamnoides kernel extract,candidat
 hippophae rhamnoides oil,Hippophae Rhamnoides Oil,candidate,,0,22,,,,U,,candidate,,,open_beauty_facts
 hippophae rhamnoides water,Hippophae Rhamnoides Water,candidate,,0,3,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 hirabol,hirabol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-histidine,Histidine,candidate,,1,253,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+histidine,Histidine,candidate,,1,255,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 histidine hcl,histidine hcl,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-homosalate,Homosalate,candidate,118-56-9,0,126,"EU: permitted UV filter (limits apply) (max 7,34 %)",,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+homosalate,Homosalate,candidate,118-56-9,0,127,"EU: permitted UV filter (limits apply) (max 7,34 %)",,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 homosalate 15,Homosalate 15%,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 homosalate 8,Homosalate 8%,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 homosalate 9 w w,Homosalate 9% w/w,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2104,15 +2103,15 @@ huile dolive,Huile d’Olive,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 huile essentielle de citron,Huile Essentielle de Citron,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 huile vegetale,huile végétale (Cocos nucifera L.),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 humulus lupulus cone extract,Humulus Lupulus Cone Extract,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-humulus lupulus extract,Humulus Lupulus Extract,candidate,8060-28-4 / 8016-25-9,2,31,,,,U,,candidate,,,formulator_sample_shop; native_extracts; open_beauty_facts
+humulus lupulus extract,Humulus Lupulus Extract,candidate,8060-28-4 / 8016-25-9,2,32,,,,U,,candidate,,,formulator_sample_shop; native_extracts; open_beauty_facts
 humulus lupulus flower extract,Humulus Lupulus Flower Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 humulus lupus flower extract,Humulus Lupus (Hops) Flower Extract,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
 hy - drogenated rapeseed oil,Hy - drogenated Rapeseed Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 hyaluronate,Hyaluronate,candidate,,0,8,,,,U,,candidate,,,cosrx; open_beauty_facts
-hyaluronic acid,Hyaluronic Acid,candidate,,5,213,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
+hyaluronic acid,Hyaluronic Acid,candidate,,5,216,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
 hydrastis canadensis extract,Hydrastis Canadensis (Goldenseal) Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 hydrate silica,Hydrate Silica,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-hydrated silica,Hydrated Silica,candidate,,0,1209,,,,U,,candidate,,,cosrx; open_beauty_facts
+hydrated silica,Hydrated Silica,candidate,,0,1210,,,,U,,candidate,,,cosrx; open_beauty_facts
 hydrated silica glycerin,HYDRATED SILICA GLYCERIN,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 hydrated silica nano,hydrated silica [nano],candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
 hydrated slica,Hydrated Slica,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2124,21 +2123,21 @@ hydrogen dimethicone,Hydrogen Dimethicone,candidate,,0,27,,,,U,,candidate,,,open
 hydrogen peroxide,Hydrogen Peroxide,candidate,7722-84-1,0,160,"CA: restricted; EU: restricted (max (a) 12 % of H2O2 (40 volumes), present o)",,,U,,candidate,,,open_beauty_facts
 hydrogenated,Hydrogenated,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 hydrogenated apricot kernel oil,Hydrogenated Apricot Kernel Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-hydrogenated castor oil,Hydrogenated Castor Oil,candidate,,4,408,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; open_beauty_facts
+hydrogenated castor oil,Hydrogenated Castor Oil,candidate,,4,409,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; open_beauty_facts
 hydrogenated castor oil dimer dilinoleate,HYDROGENATED CASTOR OIL DIMER DILINOLEATE,candidate,,0,15,,,,U,,candidate,,,open_beauty_facts
 hydrogenated castor oil sebacic acid copolymer,HYDROGENATED CASTOR OIL/SEBACIC ACID COPOLYMER,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 hydrogenated castor ol,hydrogenated castor ol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-hydrogenated coco-glycerides,Hydrogenated Coco-Glycerides,candidate,,0,141,,,,U,,candidate,,,open_beauty_facts; round_lab
+hydrogenated coco-glycerides,Hydrogenated Coco-Glycerides,candidate,,0,143,,,,U,,candidate,,,open_beauty_facts; round_lab
 hydrogenated coconut acid,Hydrogenated Coconut Acid,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts; round_lab
 hydrogenated dimer dilinoleyl dimethylcarbonate copolymer,Hydrogenated Dimer Dilinoleyl/Dimethylcarbonate Copolymer,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
 hydrogenated farnesene,Hydrogenated Farnesene,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 hydrogenated jojoba oil,HYDROGENATED JOJOBA OIL,candidate,,1,95,,,,U,,candidate,,,aromantic; open_beauty_facts
-hydrogenated lecithin,Hydrogenated Lecithin,candidate,,0,186,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+hydrogenated lecithin,Hydrogenated Lecithin,candidate,,0,188,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 hydrogenated microcristalline wax,hydrogenated microcristalline wax,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 hydrogenated microcrystalline cera,HYDROGENATED MICROCRYSTALLINE CERA,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 hydrogenated microcrystalline wax,hydrogenated microcrystalline wax,candidate,,0,17,,,,U,,candidate,,,open_beauty_facts
 hydrogenated olive oil unsaponifiables,HYDROGENATED OLIVE OIL UNSAPONIFIABLES,candidate,,1,41,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
-hydrogenated palm glycerides citrate,Hydrogenated Palm Glycerides Citrate,candidate,,0,411,,,,U,,candidate,,,open_beauty_facts
+hydrogenated palm glycerides citrate,Hydrogenated Palm Glycerides Citrate,candidate,,0,412,,,,U,,candidate,,,open_beauty_facts
 hydrogenated palm kernel glycerides,HYDROGENATED PALM KERNEL GLYCERIDES,candidate,,0,15,,,,U,,candidate,,,open_beauty_facts
 hydrogenated palm kernel oil,HYDROGENATED PALM KERNEL OIL,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 hydrogenated palm oil,Hydrogenated Palm Oil,candidate,,0,47,,,,U,,candidate,,,open_beauty_facts
@@ -2202,7 +2201,7 @@ hydroxy - acetophenone,Hydroxy - acetophenone,candidate,,0,4,,,,U,,candidate,,,o
 hydroxyace - tophenone,Hydroxyace - tophenone,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 hydroxyacetophe none,hydroxyacetophe none,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 hydroxyanthraquinoneaminopropyl methyl morpholinium methosulfate,HYDROXYANTHRAQUINONEAMINOPROPYL METHYL MORPHOLINIUM METHOSULFATE,candidate,110-91-8,0,3,EU: prohibited,,,U,,candidate,,,open_beauty_facts
-hydroxyapatite,Hydroxyapatite,candidate,1306-06-5,0,64,EU: restricted (max (a) 10 %),,,U,,candidate,,,open_beauty_facts
+hydroxyapatite,Hydroxyapatite,candidate,1306-06-5,0,65,EU: restricted (max (a) 10 %),,,U,,candidate,,,open_beauty_facts
 hydroxybenzoates,Hydroxybenzoates,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 hydroxycitro - nellal,HYDROXYCITRO - NELLAL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 hydroxycitronelal,HYDROXYCITRONELAL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -2234,9 +2233,9 @@ hydroxypropyl guar hydroxypropyltrimonium chloride,Hydroxypropyl Guar Hydroxypro
 hydroxypropyl guar hydroxypropyltrimoniumchloride,HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUMCHLORIDE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 hydroxypropyl methyl cellulose,Hydroxypropyl Methyl Cellulose,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 hydroxypropyl methylcel - lulose,Hydroxypropyl Methylcel - lulose,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-hydroxypropyl methylcellulose,Hydroxypropyl Methylcellulose,candidate,,1,178,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
+hydroxypropyl methylcellulose,Hydroxypropyl Methylcellulose,candidate,,1,182,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 hydroxypropyl oxidized starch pg-trimonium chloride,Hydroxypropyl Oxidized Starch PG-Trimonium Chloride,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
-hydroxypropyl starch phosphate,Hydroxypropyl Starch Phosphate,candidate,,0,136,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+hydroxypropyl starch phosphate,Hydroxypropyl Starch Phosphate,candidate,,0,138,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 hydroxypropylammonium gluconate,Hydroxypropylammonium Gluconate,candidate,,0,15,,,,U,,candidate,,,open_beauty_facts
 hydroxypropylcellulose,Hydroxypropylcellulose,candidate,,0,19,,,,U,,candidate,,,open_beauty_facts
 hydroxypropylguar hydroxypropyltrimonium chloride,Hydroxypropylguar Hydroxypropyltrimonium Chloride,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2250,7 +2249,7 @@ hydroxypropyltrimonium lemon protein,HYDROXYPROPYLTRIMONIUM LEMON PROTEIN,candid
 hydroxypropyltrimonium rice protein,Hydroxypropyltrimonium Rice Protein,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 hydroxypropyltrimoniumhydrolyzed wheat protein,HYDROXYPROPYLTRIMONIUMHYDROLYZED WHEAT PROTEIN,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 hydroxypropyltrimoniumhydrolyzedwheat protein,HYDROXYPROPYLTRIMONIUMHYDROLYZEDWHEAT PROTEIN,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-hydroxystearic acid,Hydroxystearic Acid,candidate,,0,58,,,,U,,candidate,,,open_beauty_facts
+hydroxystearic acid,Hydroxystearic Acid,candidate,,0,59,,,,U,,candidate,,,open_beauty_facts
 hydroxystearic linolenic oleic polyglycerides,HYDROXYSTEARIC/LINOLENIC/OLEIC POLYGLYCERIDES,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 hydroxystearyl cetyl ether,HYDROXYSTEARYL CETYL ETHER,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 hylocereus undatus fruit extract,Hylocereus Undatus Fruit Extract,candidate,,1,20,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
@@ -2266,7 +2265,7 @@ if product gets into eyes,if product gets into eyes,candidate,,0,2,,,,U,,candida
 if you are allergic to any of the above ingredients,if you are allergic to any of the above ingredients,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 if you choose,if you choose,candidate,,1,0,,,,U,,candidate,,,lotioncrafter
 if you do,if you do,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-ifra certified fragrance,IFRA Certified Fragrance,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
+ifra certified fragrance,IFRA Certified Fragrance,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 ilex paraguariensis leaf extract,Ilex Paraguariensis Leaf Extract,candidate,73296-98-7 / 84082-59-7,2,4,,,,U,,candidate,,,formulator_sample_shop; native_extracts; open_beauty_facts
 illicium verum fruit seed oil,Illicium verum (Anise) fruit/seed oil,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 illite,Illite,candidate,,8,58,,,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
@@ -2287,7 +2286,7 @@ ipomoea batatas extract,Ipomoea Batatas (sweet potatoes) extract,candidate,,0,2,
 iris florentina root powder,Iris Florentina (Orris) Root Powder,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 iris germanica root extract,Iris Germanica Root Extract,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 iris pallida root extract,Iris Pallida (Orris) Root Extract,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-iron oxide,Iron Oxide,candidate,,25,15,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
+iron oxide,Iron Oxide,candidate,,24,15,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
 iron oxides,Iron Oxides,candidate,,0,33,US: permitted with conditions,,,U,,candidate,,,open_beauty_facts
 iron oxides ci 77491,IRON OXIDES/CI 77491,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 iron oxides ci 77492,IRON OXIDES/CI 77492,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2299,7 +2298,7 @@ iso - amyl laurate,Iso - amyl Laurate,candidate,,0,2,,,,U,,candidate,,,open_beau
 iso propyl myristate,Iso Propyl Myristate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 isoamyl laurate,Isoamyl Laurate,candidate,,2,94,,,,U,,candidate,,,aromantic; formulator_sample_shop; open_beauty_facts; round_lab
 isoamyl p-methoxycinnamate,Isoamyl p-Methoxycinnamate,candidate,71617-10-2,0,16,EU: permitted UV filter (limits apply) (max 10%),,,U,,candidate,,,cosrx; open_beauty_facts
-isobutane,Isobutane,candidate,75-28-5,0,787,CA: restricted,,,U,,candidate,,,open_beauty_facts
+isobutane,Isobutane,candidate,75-28-5,0,788,CA: restricted,,,U,,candidate,,,open_beauty_facts
 isobutano,isobutano,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 isobutyl paraben,Isobutyl Paraben,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 isobutylparaben,Isobutylparaben,candidate,,0,18,,,,U,,candidate,,,open_beauty_facts
@@ -2312,27 +2311,27 @@ isodecyl oleate,isodecyl oleate,candidate,,0,2,,,,U,,candidate,,,open_beauty_fac
 isodecyl salicylate,ISODECYL SALICYLATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 isoeugenol,Isoeugenol,candidate,5912-86-7; 5932-68-3; 97-54-1,0,160,"EU: restricted (max b) 0,02 %)",,,U,,candidate,,,open_beauty_facts
 isoeugonol,Isoeugonol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-isohexadecane,Isohexadecane,candidate,,3,271,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
-isoleucine,Isoleucine,candidate,,1,67,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+isohexadecane,Isohexadecane,candidate,,3,272,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
+isoleucine,Isoleucine,candidate,,1,69,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 isomalt,Isomalt,candidate,,0,22,,,,U,,candidate,,,open_beauty_facts
 isomerized linoleic acid,Isomerized Linoleic Acid,candidate,,0,18,,,,U,,candidate,,,open_beauty_facts
 isoniacinamide,Isoniacinamide,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 isopropanol,Isopropanol,candidate,,1,2,,,,U,,candidate,,,aromantic; open_beauty_facts
 isopropanolamine,Isopropanolamine,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-isopropyl alcohol,Isopropyl Alcohol,candidate,,0,738,,,,U,,candidate,,,cosrx; open_beauty_facts
+isopropyl alcohol,Isopropyl Alcohol,candidate,,0,739,,,,U,,candidate,,,cosrx; open_beauty_facts
 isopropyl isostearate,Isopropyl Isostearate,candidate,,0,51,,,,U,,candidate,,,open_beauty_facts
 isopropyl lanolate,Isopropyl Lanolate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-isopropyl myristate,Isopropyl Myristate,candidate,,3,623,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
-isopropyl palmitate,Isopropyl Palmitate,candidate,,0,715,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+isopropyl myristate,Isopropyl Myristate,candidate,,3,627,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
+isopropyl palmitate,Isopropyl Palmitate,candidate,,0,719,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 isopropyl stearate,Isopropyl Stearate,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
-isopropyl titanium triisostearate,Isopropyl Titanium Triisostearate,candidate,,0,20,,,,U,,candidate,,,open_beauty_facts
+isopropyl titanium triisostearate,Isopropyl Titanium Triisostearate,candidate,,0,21,,,,U,,candidate,,,open_beauty_facts
 isopropyl titanium trisostearate,ISOPROPYL TITANIUM TRISOSTEARATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 isopropylalcohol,ISOPROPYLALCOHOL,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 isosorbide dicaprylate,Isosorbide Dicaprylate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 isostearamide mipa,Isostearamide MIPA,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 isostearamidopropyl ethyldimonium ethosulfate,ISOSTEARAMIDOPROPYL ETHYLDIMONIUM ETHOSULFATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 isostearoyl hydrolyzed silk,isostearoyl hydrolyzed silk,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-isostearyl alcohol,ISOSTEARYL ALCOHOL,candidate,,0,15,,,,U,,candidate,,,open_beauty_facts
+isostearyl alcohol,ISOSTEARYL ALCOHOL,candidate,,0,16,,,,U,,candidate,,,open_beauty_facts
 isostearyl hydroxystearate,Isostearyl Hydroxystearate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 isostearyl palmitate,Isostearyl Palmitate,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 isotridecyl isononanoate,ISOTRIDECYL ISONONANOATE,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
@@ -2353,7 +2352,7 @@ juglans regia seed oil,Juglans Regia Seed Oil,candidate,,1,8,,,,U,,candidate,,,a
 juglans regia shell extract,JUGLANS REGIA SHELL EXTRACT,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 juniperus communis wood oil,JUNIPERUS COMMUNIS WOOD OIL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 juniperus mexicana oil,Juniperus Mexicana Oil,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts; round_lab
-juniperus virginiana oil,Juniperus Virginiana Oil,candidate,,0,71,EU: restricted,,,U,,candidate,,,open_beauty_facts
+juniperus virginiana oil,Juniperus Virginiana Oil,candidate,,0,72,EU: restricted,,,U,,candidate,,,open_beauty_facts
 juramento 1775,Juramento 1775,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 jus de feuilles d aloe barbadensis,jus de feuilles d'Aloe Barbadensis,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 kaempferia galanga root extract,Kaempferia Galanga Root Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -2384,9 +2383,9 @@ l-panthenol,L-Panthenol,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 l-proline,L-Proline,candidate,,1,2,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 l-pyrrolidonecarboxylic acid,L-Pyrrolidonecarboxylic Acid,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 lac,Lac (Milk),candidate,,0,3,,MILK-001:exact,,U,,candidate,,,open_beauty_facts
-lactamide mea,LACTAMIDE MEA,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
+lactamide mea,LACTAMIDE MEA,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 lactate,lactate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-lactic acid,Lactic Acid,candidate,50-21-5,7,1391,CA: restricted,MILK-026:exact,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
+lactic acid,Lactic Acid,candidate,50-21-5,7,1395,CA: restricted,MILK-026:exact,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
 lactic aid,lactic aid,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 lacticacid,lacticacid,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 lactid acid,Lactid Acid,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -2404,8 +2403,8 @@ lactobacillus papaya fruit ferment extract,Lactobacillus/Papaya Fruit Ferment Ex
 lactobacillus quinoa ferment extract filtrate,Lactobacillus/Quinoa Ferment Extract Filtrate,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 lactobacillus rice ferment,Lactobacillus/Rice Ferment,candidate,,0,6,,MILK-011:related; MILK-025:exact,,U,,candidate,,,cosrx; open_beauty_facts
 lactobacillus salix alba bark ferment filtrate,Lactobacillus/Salix Alba Bark Ferment Filtrate,candidate,,2,0,,,,U,,candidate,,,formulator_sample_shop
-lactobacillus soybean ferment extract,Lactobacillus/Soybean Ferment Extract,candidate,,0,4,,,,U,,candidate,,,cosrx; open_beauty_facts
-lactobacillus soymilk ferment filtrate,Lactobacillus/Soymilk Ferment Filtrate,candidate,,0,3,,MILK-012:related,,U,,candidate,,,open_beauty_facts; round_lab
+lactobacillus soybean ferment extract,Lactobacillus/Soybean Ferment Extract,candidate,,0,5,,,,U,,candidate,,,cosrx; open_beauty_facts
+lactobacillus soymilk ferment filtrate,Lactobacillus/Soymilk Ferment Filtrate,candidate,,0,4,,MILK-012:related,,U,,candidate,,,open_beauty_facts; round_lab
 lactobacillus tomato fruit ferment extract,Lactobacillus/Tomato Fruit Ferment Extract,candidate,,2,2,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 lactobacillus wasabia japonica root ferment extract,lactobacillus/wasabia japonica root ferment extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 lactoferrin,Lactoferrin,candidate,,0,20,,MILK-031:exact,EV-02,U,,candidate,,,open_beauty_facts
@@ -2420,7 +2419,7 @@ laminaria saccharina extract,Laminaria Saccharina Extract,candidate,,0,9,,,,U,,c
 lamium album flower extract,Lamium Album Flower Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 lamium album flower leaf stem extract,LAMIUM ALBUM FLOWER/LEAF/STEM EXTRACT,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 laneth-5,Laneth-5,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-lanolin,Lanolin,candidate,,2,140,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
+lanolin,Lanolin,candidate,,2,141,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
 lanolin alcohol,Lanolin Alcohol,candidate,,0,86,,,,U,,candidate,,,open_beauty_facts
 lanolin anhydrous,Lanolin Anhydrous,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 lanolin cera,"Lanolin Cera (Lanolin Wax, Cire de Lanoline)",candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -2451,11 +2450,11 @@ laureth-5 carboxylic acid,LAURETH-5 CARBOXYLIC ACID,candidate,,0,15,,,,U,,candid
 laureth-8,LAURETH-8,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 laureth-9,Laureth-9,candidate,3055-99-0,0,28,"EU: restricted (max (a) 3,0 %)",,,U,,candidate,,,open_beauty_facts
 laureth4,LAURETH4,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-lauric acid,Lauric Acid,candidate,,0,343,,,,U,,candidate,,,cosrx; open_beauty_facts
+lauric acid,Lauric Acid,candidate,,0,344,,,,U,,candidate,,,cosrx; open_beauty_facts
 lauril glucoside,lauril glucoside,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 lauriletersulfato de sodio,LAURILETERSULFATO DE SÓDIO,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 laurilsulfato de sodio sodium lauryl sulfate,Laurilsulfato de Sodio/ Sodium Lauryl Sulfate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-lauroil lactilato de sodio,LAUROIL LACTILATO DE SÓDIO,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
+lauroil lactilato de sodio,LAUROIL LACTILATO DE SÓDIO,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 lauroil sarcosinato de sodio,LAUROIL SARCOSINATO DE SÓDIO,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 lauroyl myristoyl methyl glucamide,Lauroyl/Myristoyl Methyl Glucamide,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
 lauroyl sarcosine,Lauroyl Sarcosine,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -2471,7 +2470,7 @@ lauryl methacrylate glycol dimethacrylate crosspolymer,LAURYL METHACRYLATE/GLYCO
 lauryl methyl gluceth-10 hydroxypropyldimonium chloride,Lauryl Methyl Gluceth-10 Hydroxypropyldimonium Chloride,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 lauryl oleate,LAURYL OLEATE,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 lauryl pca,Lauryl PCA,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
-lauryl peg ppg-18 18 methicone,LAURYL PEG/PPG-18/18 METHICONE,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
+lauryl peg ppg-18 18 methicone,LAURYL PEG/PPG-18/18 METHICONE,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 lauryl peg-10 tris silylethyl dimethicone,Lauryl PEG-10 Tris(trimethylsiloxy)silylethyl Dimethicone,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 lauryl polyglucose,Lauryl Polyglucose,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 lauryl polyglyceryl-3 polydimethylsiloxyethyl dimethicone,LAURYL POLYGLYCERYL-3 POLYDIMETHYLSILOXYETHYL DIMETHICONE,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
@@ -2483,7 +2482,7 @@ lavandula angustifolia flower extracti,LAVANDULA ANGUSTIFOLIA FLOWER EXTRACTI,ca
 lavandula angustifolia flowers,lavandula angustifolia (lavender) flowers,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 lavandula angustifolia herb oil,Lavandula Angustifolia Herb Oil,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 lavandula angustifolia leaf extract,Lavandula Angustifolia (Lavender) Leaf Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-lavandula angustifolia oil,Lavandula Angustifolia (Lavender) Oil,candidate,,8,163,EU: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; round_lab
+lavandula angustifolia oil,Lavandula Angustifolia (Lavender) Oil,candidate,,8,164,EU: restricted,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts; round_lab
 lavandula angustifolia water,Lavandula angustifolia (Lavender) water,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 lavandula hybrida extract,Lavandula Hybrida Extract,candidate,,0,2,EU: restricted,,,U,,candidate,,,open_beauty_facts
 lavandula hybrida grosso herb oil,LAVANDULA HYBRIDA GROSSO HERB OIL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -2524,7 +2523,7 @@ limnanthes alba seed oil meadowfoam seed oil,LIMNANTHES ALBA SEED OIL / MEADOWFO
 limo - nene,Limo - nene,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 limomene,LIMOMENE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 limonane,Limonane,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-limonene,Limonene,candidate,138-86-3; 5989-27-5; 5989-54-8; 7705-14-8,2,5802,EU: restricted,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab
+limonene,Limonene,candidate,138-86-3; 5989-27-5; 5989-54-8; 7705-14-8,2,5808,EU: restricted,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab
 limonene - linalool,Limonene - Linalool,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 limonene hydroxycitronellal,limonene hydroxycitronellal,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 limonene linalool,LIMONENE LINALOOL,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
@@ -2554,7 +2553,7 @@ linalool2,Linalool²,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 linalool3,Linalool³,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 linaloolbiologique,LINALOOL*biologique,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 linaly acetate,Linaly Acetate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-linalyl acetate,Linalyl Acetate,candidate,115-95-7,0,504,EU: restricted,,,U,,candidate,,,open_beauty_facts
+linalyl acetate,Linalyl Acetate,candidate,115-95-7,0,510,EU: restricted,,,U,,candidate,,,open_beauty_facts
 lindera strychnifolia root extract,Lindera Strychnifolia Root Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 lindlyl acetate,Lindlyl Acetate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 linnaea borealis extract,Linnaea Borealis Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
@@ -2573,7 +2572,7 @@ liquid paraffin,liquid paraffin,candidate,,0,10,,,,U,,candidate,,,cosrx; open_be
 liquorice extract,Liquorice extract,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 lithospermum erythrorhizon root extract,LITHOSPERMUM ERYTHRORHIZON ROOT EXTRACT,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 lithothamnion calcareum extract,LITHOTHAMNION CALCAREUM EXTRACT,candidate,,0,17,,,,U,,candidate,,,open_beauty_facts
-litsea cubeba fruit oil,Litsea Cubeba Fruit Oil,candidate,,1,25,,,,U,,candidate,,,aromantic; open_beauty_facts
+litsea cubeba fruit oil,Litsea Cubeba Fruit Oil,candidate,,1,26,,,,U,,candidate,,,aromantic; open_beauty_facts
 lmonene,LMONENE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 lodhar,lodhar,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 lodhra,Lodhra,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2633,7 +2632,7 @@ malpighia glabra fruit extract,Malpighia Glabra Fruit Extract,candidate,,0,7,,,,
 malt extract,Malt Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts; round_lab
 maltitol,Maltitol,candidate,,1,17,,,,U,,candidate,,,cosrx; open_beauty_facts; windy_point
 malto - dextrin,MALTO - DEXTRIN,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-maltodextrin,Maltodextrin,candidate,,8,482,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
+maltodextrin,Maltodextrin,candidate,,8,484,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
 maltol,MALTOL,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
 maltooligosyl glucoside,Maltooligosyl Glucoside,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 maltose,Maltose,candidate,,0,33,,,,U,,candidate,,,open_beauty_facts
@@ -2646,7 +2645,7 @@ manganese pca,Manganese PCA,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 manganese sulfate,Manganese Sulfate,candidate,,0,6,,,,U,,candidate,,,cosrx; open_beauty_facts
 mangifera indica,MANGIFERA INDICA,candidate,,1,2,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 mangifera indica flower extract,Mangifera Indica (Mango) Flower Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
-mangifera indica fruit extract,Mangifera Indica (Mango) Fruit Extract,candidate,90063-86-8,4,60,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts
+mangifera indica fruit extract,Mangifera Indica (Mango) Fruit Extract,candidate,90063-86-8,4,61,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts
 mangifera indica fruit extracti,MANGIFERA INDICA FRUIT EXTRACTI,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 mangifera indica juice,Mangifera Indica Juice,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 mangifera indica seed butter,Mangifera Indica (Mango) Seed Butter,candidate,,7,81,,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; windy_point
@@ -2681,7 +2680,7 @@ melaluca alternifolia leaf extract,Melaluca alternifolia Leaf Extract,candidate,
 melange d huiles essentielles,mélange d'huiles essentielles,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 melia azadirachta seed extract,melia azadirachta seed extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 melia azadirachta seed oil,Melia Azadirachta Seed Oil,candidate,,1,30,,,,U,,candidate,,,aromantic; open_beauty_facts
-melilotus officinalis extract,Melilotus Officinalis Extract,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
+melilotus officinalis extract,Melilotus Officinalis Extract,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 melissa officinalis leaf extract,Melissa Officinalis Leaf Extract,candidate,84082-61-1,4,54,,,,U,,candidate,,,aromantic; formulator_sample_shop; native_extracts; open_beauty_facts
 melissa officinalis leaf oil,Melissa Officinalis Leaf Oil,candidate,,1,1,,,,U,,candidate,,,aromantic; open_beauty_facts
 melisse,Melisse,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2704,7 +2703,7 @@ mentha piperita leaf,mentha piperita (peppermint) leaf,candidate,,0,2,,,,U,,cand
 mentha piperita leaf extract,Mentha Piperita (Peppermint) Leaf Extract,candidate,,4,67,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts
 mentha piperita leaf stem oil,Mentha Piperita (Peppermint) Leaf/Stem Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 mentha piperita leaf water,Mentha Piperita Leaf Water,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
-mentha piperita oil,Mentha Piperita Oil,candidate,8006-90-4; 84082-70-2,1,304,EU: restricted,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts; round_lab
+mentha piperita oil,Mentha Piperita Oil,candidate,8006-90-4; 84082-70-2,1,305,EU: restricted,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts; round_lab
 mentha piperita oil quot,mentha piperita (peppermint) oil&quot,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 mentha piperita water,Mentha Piperita Water,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 mentha rotundifolia leaf extract,Mentha Rotundifolia Leaf Extract,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
@@ -2712,14 +2711,14 @@ mentha spicata flower leaf stem oil,Mentha Spicata Flower/Leaf/Stem Oil,candidat
 mentha spicata leaf oil,Mentha Spicata (Spearmint) Leaf Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 mentha suaveolens leaf extract,Mentha Suaveolens Leaf Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 mentha viridis leaf extract,Mentha Viridis (Spearmint) Leaf Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-mentha viridis leaf oil,Mentha Viridis Leaf Oil,candidate,8008-79-5; 84696-51-5,0,133,EU: restricted,,,U,,candidate,,,open_beauty_facts
+mentha viridis leaf oil,Mentha Viridis Leaf Oil,candidate,8008-79-5; 84696-51-5,0,134,EU: restricted,,,U,,candidate,,,open_beauty_facts
 mentho,MENTHO,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-menthol,Menthol,candidate,1490-04-6; 15356-60-2; 2216-51-5; 89-78-1,4,892,EU: restricted,,,U,,candidate,,,aromantic; lotioncrafter; open_beauty_facts; windy_point
-menthyl lactate,Menthyl Lactate,candidate,,0,79,,,,U,,candidate,,,cosrx; open_beauty_facts
+menthol,Menthol,candidate,1490-04-6; 15356-60-2; 2216-51-5; 89-78-1,4,894,EU: restricted,,,U,,candidate,,,aromantic; lotioncrafter; open_beauty_facts; windy_point
+menthyl lactate,Menthyl Lactate,candidate,,0,80,,,,U,,candidate,,,cosrx; open_beauty_facts
 menthyl pca,menthyl pca,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 mentolo,Mentolo,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 menyanthes trifoliata leaf extract,menyanthes trifoliata leaf extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-methionine,Methionine,candidate,,0,10,,,,U,,candidate,,,cosrx; open_beauty_facts
+methionine,Methionine,candidate,,0,11,,,,U,,candidate,,,cosrx; open_beauty_facts
 methoxy peg ppg-7 3 aminopropyl dimethicone,Methoxy PEG/PPG-7/3 Aminopropyl Dimethicone,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 methoxy peg-114 polyepsilon caprolactone,METHOXY PEG-114/POLYEPSILON CAPROLACTONE,candidate,,0,1,EU: restricted (max 0.1%),,,U,,candidate,,,open_beauty_facts
 methoxy peg-22 dodecyl glycol copolymer,Methoxy PEG-22/Dodecyl Glycol Copolymer,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2744,7 +2743,7 @@ methylchlorisothiazolinone,Methylchlorisothiazolinone,candidate,,0,2,,,,U,,candi
 methylchloroisohiazolinone,methylchloroisohiazolinone,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 methylchloroisothiazoli - none,METHYLCHLOROISOTHIAZOLI - NONE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 methylchloroisothiazolinone and methylisothiazolinone,Methylchloroisothiazolinone and Methylisothiazolinone,candidate,26172-55-4; 2682-20-4; 55965-84-9,0,9,EU: permitted preservative (limits apply) (max 0.0015% (of a mixture in the ratio 3:1 o),,,U,,candidate,,,open_beauty_facts
-methylchloroisothiazolinone methylisothiazolinone,Methylchloroisothiazolinone (and) Methylisothiazolinone,candidate,,0,34,,,,U,,candidate,,,open_beauty_facts
+methylchloroisothiazolinone methylisothiazolinone,Methylchloroisothiazolinone (and) Methylisothiazolinone,candidate,,0,35,,,,U,,candidate,,,open_beauty_facts
 methyldihydrojasmonate,Methyldihydrojasmonate,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 methyle salicylate,méthyle salicylate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 methylene bis-benzotriazolyl tetramethylbutylphenol nano,METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [NANO],candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
@@ -2752,10 +2751,10 @@ methylglucose distearate,methylglucose distearate,candidate,,0,2,,,,U,,candidate
 methylheptyl isostearate,methylheptyl isostearate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 methylichloroisothiazolinone,Methylichloroisothiazolinone,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 methylisothiazoline,Methylisothiazoline,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-methylisothiazolinone,Methylisothiazolinone,candidate,2682-20-4,0,930,"CA: restricted; EU: permitted preservative (limits apply) (max 0.0015% (of a mixture in the ratio 3:1 o); EU: permitted preservative (limits apply) (max 0,0015 % Rinse-off products)",,,U,,candidate,,,open_beauty_facts
+methylisothiazolinone,Methylisothiazolinone,candidate,2682-20-4,0,931,"CA: restricted; EU: permitted preservative (limits apply) (max 0.0015% (of a mixture in the ratio 3:1 o); EU: permitted preservative (limits apply) (max 0,0015 % Rinse-off products)",,,U,,candidate,,,open_beauty_facts
 methylisothlazolinone,methylisothlazolinone,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 methylparabe propylparaben,METHYLPARABE PROPYLPARABEN,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-methylpropanediol,Methylpropanediol,candidate,,0,220,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+methylpropanediol,Methylpropanediol,candidate,,0,222,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 methylsilanol hydroxyproline aspartate,methylsilanol hydroxyproline aspartate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 methylsilanol mannuronate,METHYLSILANOL MANNURONATE,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 methylthiopropylamido acetyl methionine,METHYLTHIOPROPYLAMIDO ACETYL METHIONINE,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -2768,7 +2767,7 @@ microcristallina cera,Microcristallina Cera,candidate,,0,4,,,,U,,candidate,,,ope
 microcristalline cellulose,Microcristalline Cellulose,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 microcristalline wax,MICROCRISTALLINE WAX,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 microcrystalline cel - lulose,Microcrystalline Cel - lulose,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-microcrystalline cellulose,Microcrystalline Cellulose,candidate,,0,209,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+microcrystalline cellulose,Microcrystalline Cellulose,candidate,,0,210,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 microcrystalline wax,Microcrystalline Wax,candidate,,0,91,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 midrand,midrand,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 miel,miel,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -2797,8 +2796,9 @@ morelos,MORELOS,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 morinda citrifolia extract,Morinda Citrifolia Extract (Noni),candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 morinda citrifolia fruit extract,Morinda Citrifolia Fruit Extract,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 moringa,moringa,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-moringa oleifera seed extract,Moringa Oleifera Seed Extract,candidate,,1,21,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
-moringa oleifera seed oil,Moringa Oleifera Seed Oil,candidate,,1,36,,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts
+moringa oleifera,Moringa oleifera (Óleo de semente de Moringa),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
+moringa oleifera seed extract,Moringa Oleifera Seed Extract,candidate,,1,22,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
+moringa oleifera seed oil,Moringa Oleifera Seed Oil,candidate,,1,37,,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts
 moringa pterygosperma seed extract,Moringa Pterygosperma Seed Extract,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
 moringa pterygosperma seed oil,Moringa Pterygosperma Seed Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 moroccan lava clay,Moroccan Lava Clay,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
@@ -2821,7 +2821,7 @@ myristate,myristate,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 myristoyl nonapeptide-3,MYRISTOYL NONAPEPTIDE-3,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 myristoyl pentapeptide-17,Myristoyl Pentapeptide-17,candidate,,1,5,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 myristoyl sarcosine,Myristoyl Sarcosine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-myristyl alcohol,Myristyl Alcohol,candidate,,0,188,,,,U,,candidate,,,open_beauty_facts
+myristyl alcohol,Myristyl Alcohol,candidate,,0,189,,,,U,,candidate,,,open_beauty_facts
 myristyl glucoside,Myristyl Glucoside,candidate,,1,18,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 myristyl malate phosphonic acid,myristyl malate phosphonic acid,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 myristyl my - ristate,Myristyl My - ristate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2831,6 +2831,7 @@ myroxylon pereirae oil extract,Myroxylon Pereirae Oil/Extract,candidate,,0,3,,,,
 n-bis -p-phenylenediamine sulfate. activator aqua water eau,N-Bis(2-Hydrogethyl)-p-Phenylenediamine Sulfate. ACTIVATOR Aqua/Water/Eau,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 n-butane,N-BUTANE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 n-hydroxysuccinimide,N-Hydroxysuccinimide,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
+n-prolyl palmitoyl tripeptide-56 acetate,N-PROLYL PALMITOYL TRIPEPTIDE-56 ACETATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 nacinamide,Nacinamide,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 nacre powder,NACRE POWDER,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 nairobi,Nairobi,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -2874,9 +2875,11 @@ niacinamida,Niacinamida,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 niaouli,Niaouli,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 nicht schlucken. nicht anwenden bei kindern unter 12 jahren,nicht schlucken. Nicht Anwenden bei Kindern unter 12 Jahren,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 nichtionische tenside,nichtionische Tenside,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
+nicotiana tabacum leaf extract,NICOTIANA TABACUM LEAF EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 nicotinamid,Nicotinamid (Niacin),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 nicotinamide,Nicotinamide,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 nicotinamide adenine dinucleotide,NICOTINAMIDE ADENINE DINUCLEOTIDE,candidate,,0,3,,,,U,,candidate,,,cosrx; open_beauty_facts
+nigella sativa,nigella sativa,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 nigella sativa seed oilt,nigella sativa seed oilt,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 nitrate,Nitrate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 nivea,nivea,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
@@ -2938,7 +2941,7 @@ olea europaea fruit oil fruit oil,Olea Europaea fruit oil (Olea Europaea (olive)
 olea europaea fruit oil quot,olea europaea (olive) fruit oil&quot,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 olea europaea fruit water,Olea Europaea (Olive) Fruit Water,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 olea europaea husk oil,olea europaea (olive) husk oil,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-olea europaea oil unsaponifiables,OLEA EUROPAEA OIL UNSAPONIFIABLES,candidate,,0,28,,,,U,,candidate,,,open_beauty_facts
+olea europaea oil unsaponifiables,OLEA EUROPAEA OIL UNSAPONIFIABLES,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
 olea europaea olive fruit oil,Olea Europaea/Olive Fruit Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 olea europea,Olea europea,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 olea european fruit oil,Olea European (Olive) Fruit Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -2946,7 +2949,7 @@ olea european fruit oil,Olea European (Olive) Fruit Oil,candidate,,0,3,,,,U,,can
 oleaminopropylamineth-3 hci,Oleaminopropylamineth-3 HCI,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 oleato de sodio,oleato de sodio,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 oleato de sorbitana,OLEATO DE SORBITANA,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-oleic acid,Oleic Acid,candidate,,0,158,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
+oleic acid,Oleic Acid,candidate,,0,159,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 oleic linoleic linolenic polyglycerides,Oleic/Linoleic/Linolenic Polyglycerides,candidate,,0,24,,,,U,,candidate,,,open_beauty_facts
 oleo de amendoa doce,óleo de amêndoa doce,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 oleo de coco,Óleo de coco,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
@@ -3025,13 +3028,13 @@ origan,Origan,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 origanum majorana leaf oil,Origanum Majorana Leaf Oil,candidate,,3,3,,,,U,,candidate,,,aromantic; open_beauty_facts
 origanum vulgare leaf oil,origanum vulgare leaf oil (oregano),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ormenis multicaulis oil,Ormenis Multicaulis Oil,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-ornithine,ORNITHINE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
+ornithine,Ornithine,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 oryza sativa,Oryza sativa (Rice),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 oryza sativa bran oil rice bran oil,Oryza Sativa Bran Oil/Rice Bran Oil,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 oryza sativa bran water,Oryza Sativa (Rice) Bran Water,candidate,,0,11,,MILK-011:related,,U,,candidate,,,cosrx; open_beauty_facts
 oryza sativa bran wax,Oryza Sativa (Rice) Bran Wax,candidate,,2,35,,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts
 oryza sativa cera bran wax,Oryza Sativa Cera (Oryza Sativa (Rice) Bran Wax),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-oryza sativa extract,Oryza Sativa (Rice) Extract,candidate,,13,77,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+oryza sativa extract,Oryza Sativa (Rice) Extract,candidate,,13,78,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 oryza sativa germ oil,Oryza Sativa (Rice) Germ Oil,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 oryza sativa germ powder,ORYZA SATIVA (RICE) GERM POWDER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 oryza sativa phytoceramide,Oryza Sativa (Rice) Phytoceramide,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3053,7 +3056,7 @@ ozokerite,OZOKERITE,candidate,,0,125,,,,U,,candidate,,,cosrx; open_beauty_facts
 ozokerite wax,OZOKERITE WAX,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 "p-mentha-1,8-diene","p-mentha-1,8-diene* (citrus)",candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 paeonia albiflora extract,Paeonia Albiflora (Peony) Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-paeonia albiflora root extract,PAEONIA ALBIFLORA ROOT EXTRACT,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
+paeonia albiflora root extract,Paeonia Albiflora Root Extract,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 paeonia lactiflora extract,PAEONIA LACTIFLORA EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 paeonia lactiflora root extract,PAEONIA LACTIFLORA ROOT EXTRACT,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 paeonia suffruticosa bark extract,PAEONIA SUFFRUTICOSA BARK EXTRACT,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -3085,7 +3088,7 @@ palmkernel acid,palmkernel acid,candidate,,0,2,,,,U,,candidate,,,open_beauty_fac
 panax ginseng extract,Panax Ginseng Extract,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 panax ginseng flower extract,PANAX GINSENG FLOWER EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 panax ginseng root,Panax Ginseng Root,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
-panax ginseng root extract,Panax Ginseng Root Extract,candidate,50647-08-0 / 84650-12-4 / 90045-38-8,4,111,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts
+panax ginseng root extract,Panax Ginseng Root Extract,candidate,50647-08-0 / 84650-12-4 / 90045-38-8,4,112,,,,U,,candidate,,,formulator_sample_shop; lotioncrafter; native_extracts; open_beauty_facts
 pancratium maritimum extract,Pancratium Maritimum Extract,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 panisic acid,PANISIC ACID,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 panthenol pantenol,PANTHENOL/PANTENOL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3100,7 +3103,7 @@ paraf - finum liquidum,paraf - finum liquidum,candidate,,0,2,,,,U,,candidate,,,o
 paraffin liquidum,Paraffin Liquidum,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 paraffine,Paraffine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 paraffinum,paraffinum,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-paraffinum liquidum,Paraffinum Liquidum,candidate,,0,689,,,,U,,candidate,,,open_beauty_facts
+paraffinum liquidum,Paraffinum Liquidum,candidate,,0,690,,,,U,,candidate,,,open_beauty_facts
 paraffinum liquidum mineral oil,PARAFFINUM LIQUIDUM / MINERAL OIL,candidate,,0,59,,,,U,,candidate,,,open_beauty_facts
 paraffinum liquidum mineral oil huile minerale,Paraffinum Liquidum/Mineral Oil/Huile Minerale,candidate,,0,21,,,,U,,candidate,,,open_beauty_facts
 paraffinum uquidum mineral oil,PARAFFINUM UQUIDUM/MINERAL OIL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3132,7 +3135,7 @@ passiflora incarnata fruit extract,Passiflora Incarnata Fruit Extract,candidate,
 passiflora incarnata passiflora incarnata seed oil,PASSIFLORA INCARNATA / PASSIFLORA INCARNATA SEED OIL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 pate de bois,Pâte de bois,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 paullinia cupana seed extract,Paullinia Cupana Seed Extract,candidate,84929-28-2,2,17,,,,U,,candidate,,,formulator_sample_shop; native_extracts; open_beauty_facts
-pca,PCA,candidate,,1,73,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+pca,PCA,candidate,,1,74,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 pea extract,Pea Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 pearl powder,PEARL POWDER,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 peat extract,Peat Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -3148,13 +3151,13 @@ peg glyceryl cocoate,PEG / Glyceryl Cocoate,candidate,,0,2,,,,U,,candidate,,,ope
 peg ppg polybutylene glycol-8 5 3 glycerin,PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin,candidate,,0,37,,,,U,,candidate,,,open_beauty_facts
 peg ppg-120 10 trimethylolpropane trioleate,PEG/PPG-120/10 Trimethylolpropane Trioleate,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
 peg ppg-17 18 dimethicone,PEG/PPG-17/18 DIMETHICONE,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
-peg ppg-18 18 dimethicone,PEG/PPG-18/18 Dimethicone,candidate,,1,57,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
+peg ppg-18 18 dimethicone,PEG/PPG-18/18 Dimethicone,candidate,,1,59,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 peg ppg-19 19 dimethicone,peg/ppg-19/19 dimethicone,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-peg ppg-25 25 dimethicone,peg/ppg-25/25 dimethicone,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
+peg ppg-25 25 dimethicone,peg/ppg-25/25 dimethicone,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 peg ppg-4 12 dimethicone,PEG/PPG-4/12 DIMETHICONE,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 peg-10 hydrogenated castor oil,PEG-10 HYDROGENATED CASTOR OIL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 peg-10 sunflower glycerides,peg-10 sunflower glycerides,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-peg-100 stearate,PEG-100 Stearate,candidate,,2,617,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+peg-100 stearate,PEG-100 Stearate,candidate,,2,618,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 peg-100 stearate cetyl alcohol,peg-100 stearate cetyl alcohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 peg-100 stearate glyceryl stearate,PEG-100 stearate (and) Glyceryl stearate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 peg-100 stearate stearate,PEG-100 STEARATE STEARATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3166,7 +3169,7 @@ peg-12 methyl glucose dioleate,PEG-12 methyl glucose dioleate,candidate,,0,2,,,,
 peg-120 methyl glycose dioleate,PEG-120 Methyl Glycose Dioleate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 peg-15 cocoate,PEG-15 COCOATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 peg-15 cocopolyamine,PEG-15 COCOPOLYAMINE,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
-peg-150 pentaerythrityl tetrastearate,PEG-150 Pentaerythrityl Tetrastearate,candidate,,1,125,,,,U,,candidate,,,cosrx; open_beauty_facts; windy_point
+peg-150 pentaerythrityl tetrastearate,PEG-150 Pentaerythrityl Tetrastearate,candidate,,1,126,,,,U,,candidate,,,cosrx; open_beauty_facts; windy_point
 peg-150 stearate,PEG-150 Stearate,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 peg-16 macadamia glycerides,peg-16 macadamia glycerides,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 peg-18 castor oil dioleate,peg-18 castor oil dioleate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -3175,7 +3178,7 @@ peg-2 soyamine,PEG-2 Soyamine,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 peg-2 stearate,PEG-2 STEARATE,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 peg-20 glyceryl laurate,PEG-20 Glyceryl Laurate,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 peg-20 hydrogenated lanolin,PEG-20 HYDROGENATED LANOLIN,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-peg-200 hydrogenated glyceryl palmate,PEG-200 Hydrogenated Glyceryl Palmate,candidate,,0,175,,,,U,,candidate,,,open_beauty_facts
+peg-200 hydrogenated glyceryl palmate,PEG-200 Hydrogenated Glyceryl Palmate,candidate,,0,176,,,,U,,candidate,,,open_beauty_facts
 peg-22 dodecyl glycol copolymer,peg-22/dodecyl glycol copolymer,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 peg-240 hdi copolymer bis-decyltetradeceth-20 ether,PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 peg-25 paba,PEG-25 PABA,candidate,116242-27-4,0,3,EU: permitted UV filter (limits apply) (max 10%),,,U,,candidate,,,open_beauty_facts
@@ -3197,13 +3200,13 @@ peg-50 hydrogenated castor oil,Peg-50 Hydrogenated Castor Oil,candidate,,0,3,,,,
 peg-50 shea butter,PEG-50 Shea Butter,candidate,,1,5,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 peg-55 stearate,PEG-55 Stearate,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
 peg-6,PEG-6,candidate,,0,85,,,,U,,candidate,,,open_beauty_facts
-peg-6 caprylic capric glycerides,PEG-6 Caprylic/Capric Glycerides,candidate,,3,108,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
+peg-6 caprylic capric glycerides,PEG-6 Caprylic/Capric Glycerides,candidate,,3,109,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
 peg-6 stearate,PEG-6 STEARATE,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 peg-60 almond glycerides,PEG-60 Almond Glycerides,candidate,,0,39,,,,U,,candidate,,,open_beauty_facts
 peg-60 glyceryl isostearate,PEG-60 Glyceryl Isostearate,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 peg-60 hydrogenated castor oil,PEG-60 Hydrogenated Castor Oil,candidate,,1,125,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 peg-60-hydrogenated castor oil,PEG-60-HYDROGENATED CASTOR OIL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-peg-7,PEG-7,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
+peg-7,PEG-7,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 peg-7 amodimethicone,PEG-7 Amodimethicone,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 peg-7 glyceryl cocoate sodium cocoyl glycinate,PEG-7 GLYCERYL COCOATE SODIUM COCOYL GLYCINATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 peg-7 trimethylolpropane coconut ether,PEG-7 TRIMETHYLOLPROPANE COCONUT ETHER,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -3211,7 +3214,7 @@ peg-75 lanolin,PEG-75 Lanolin,candidate,,0,21,,,,U,,candidate,,,open_beauty_fact
 peg-8 beeswax,PEG-8 BEESWAX,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
 peg-8 caprylic capric glycerides,peg-8 caprylic/capric glycerides,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 peg-8 dimethicone,PEG-8 Dimethicone,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
-peg-8 distearate,PEG-8 Distearate,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
+peg-8 distearate,PEG-8 Distearate,candidate,,0,31,,,,U,,candidate,,,open_beauty_facts
 peg-8 glyceryl isostearate,Peg-8 Glyceryl Isostearate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 peg-8 isostearate,PEG-8 Isostearate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 peg-8 smdi copolymer,PEG-8/SMDI Copolymer,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
@@ -3230,7 +3233,7 @@ pentaerythrityl tetra-di - t-butyl hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-D
 pentaerythrityl tetra-di-butyl hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-butyl Hydroxyhydrocinnamate,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 pentaerythrityl tetra-di-t - butyl hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T - BUTYL HYDROXYHYDROCINNAMATE,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 pentaerythrityl tetra-di-t-butyl hydroxy - hydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxy - hydrocinnamate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,candidate,,0,496,,,,U,,candidate,,,cosrx; open_beauty_facts
+pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,candidate,,0,498,,,,U,,candidate,,,cosrx; open_beauty_facts
 pentaerythrityl tetra-di-t-butylhydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butylHydroxyhydrocinnamate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 pentaerythrityl tetraacrylate,PENTAERYTHRITYL TETRAACRYLATE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 pentaerythrityl tetrabehenate,Pentaerythrityl Tetrabehenate,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -3247,7 +3250,7 @@ pentapotassium triphosphate,pentapotassium triphosphate,candidate,,0,2,,,,U,,can
 pentasodium pentetate,PENTASODIUM PENTETATE,candidate,140-01-2,0,69,EU: prohibited,,,U,,candidate,,,open_beauty_facts
 pentilene glicole,Pentilene glicole,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 pentilenoglicol,PENTILENOGLICOL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-pentylene glycol,Pentylene Glycol,candidate,,6,828,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+pentylene glycol,Pentylene Glycol,candidate,,6,829,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 peppermint oil,Peppermint Oil,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
 perfum,Perfum,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 perilla frutescens extract,Perilla Frutescens Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
@@ -3259,7 +3262,7 @@ persea gratissima oi,Persea Gratissima (Avocado/Avocat) Oi,candidate,,0,2,,,,U,,
 persea gratissima oil avocado oil,PERSEA GRATISSIMA OIL / AVOCADO OIL,candidate,,0,44,,,,U,,candidate,,,open_beauty_facts
 persil,Persil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 petrolato liquido,PETROLATO LÍQUIDO,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-petrolatum,Petrolatum,candidate,,0,562,EU: prohibited,,,U,,candidate,,,cosrx; open_beauty_facts
+petrolatum,Petrolatum,candidate,,0,564,EU: prohibited,,,U,,candidate,,,cosrx; open_beauty_facts
 petroleum,Petroleum,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 petroleum jelly,Petroleum Jelly,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 petroleum resin,Petroleum Resin,candidate,,0,2,,,,U,,candidate,,,cosrx; open_beauty_facts
@@ -3279,7 +3282,7 @@ phenoxyeth - anol,Phenoxyeth - anol,candidate,,0,5,,,,U,,candidate,,,open_beauty
 phenoxyetha - nol,Phenoxyetha - nol,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 phenoxyethand,phenoxyethand,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 phenoxyethano,PHENOXYETHANO,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-phenoxyethanol,Phenoxyethanol,candidate,122-99-6,42,5191,EU: permitted preservative (limits apply) (max 1.0%),,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
+phenoxyethanol,Phenoxyethanol,candidate,122-99-6,42,5211,EU: permitted preservative (limits apply) (max 1.0%),,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
 phenoxyethanol and ethylhexylglycerin,Phenoxyethanol and Ethylhexylglycerin,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 phenoxyethanol benzyl alcohol,phenoxyethanol benzyl alcohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 phenoxyethanol caprylyl glycol,PHENOXYETHANOL CAPRYLYL GLYCOL,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -3292,7 +3295,7 @@ phenyl methyl pyrazolone,Phenyl Methyl Pyrazolone,candidate,89-25-8,0,8,EU: rest
 phenyl timethicone,phenyl timethicone,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 phenylbenzimi - dazole sulfonic acid,Phenylbenzimi - dazole Sulfonic Acid,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 phenylbenzimida - zole sulfonic acid,Phenylbenzimida - zole Sulfonic Acid,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-phenylbenzimidazole sulfonic acid,Phenylbenzimidazole Sulfonic Acid,candidate,27503-81-7,0,258,EU: permitted UV filter (limits apply) (max 8%(as acid)),,,U,,candidate,,,cosrx; open_beauty_facts
+phenylbenzimidazole sulfonic acid,Phenylbenzimidazole Sulfonic Acid,candidate,27503-81-7,0,260,EU: permitted UV filter (limits apply) (max 8%(as acid)),,,U,,candidate,,,cosrx; open_beauty_facts
 phenylene bis-diphenyltriazine,PHENYLENE BIS-DIPHENYLTRIAZINE,candidate,55514-22-2,0,2,EU: permitted UV filter (limits apply) (max 5%),,,U,,candidate,,,open_beauty_facts
 phenylpropanol,Phenylpropanol,candidate,,0,54,,,,U,,candidate,,,open_beauty_facts
 phoenix dactylifera extract,Phoenix Dactylifera Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -3362,14 +3365,14 @@ pollia condensata fruit extract,Pollia Condensata Fruit Extract,candidate,,1,0,,
 poloxamer 101,Poloxamer 101,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 poloxamer 182,Poloxamer 182,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 poloxamer 188,Poloxamer 188,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
-poloxamer 407,Poloxamer 407,candidate,,0,177,,,,U,,candidate,,,open_beauty_facts
+poloxamer 407,Poloxamer 407,candidate,,0,178,,,,U,,candidate,,,open_beauty_facts
 poloxamer407,poloxamer407,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 poloxamin,Poloxamin,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 poly,POLY(LINSEED OIL),candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 poly - glyceryl-10 dioleate,Poly - glyceryl-10 Dioleate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 poly sorbate 60,Poly sorbate 60,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 polyacrylamidopropyltrimonium chloride,polyacrylamidopropyltrimonium chloride,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-polyacrylate crosspolymer-6,Polyacrylate Crosspolymer-6,candidate,,3,87,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+polyacrylate crosspolymer-6,Polyacrylate Crosspolymer-6,candidate,,3,89,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 polyacrylate de sodium,polyacrylate de sodium,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 polyacrylate-1 crosspolymer,POLYACRYLATE-1 CROSSPOLYMER,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 polyacrylate-13,Polyacrylate-13,candidate,,1,47,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
@@ -3429,7 +3432,7 @@ polyhydroystearic acid,polyhydroystearic acid,candidate,,0,2,,,,U,,candidate,,,o
 polyisobutene,Polyisobutene,candidate,,1,128,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
 polylactic acid,Polylactic Acid,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 polymethyl methacrylate,Polymethyl Methacrylate,candidate,,0,49,,,,U,,candidate,,,cosrx; open_beauty_facts
-polymethylsilsesquioxane,Polymethylsilsesquioxane,candidate,,2,87,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
+polymethylsilsesquioxane,Polymethylsilsesquioxane,candidate,,2,88,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab
 polymethylsilsesquioxane trimethylsiloxysilicate,Polymethylsilsesquioxane/Trimethylsiloxysilicate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 polyoxyl 40 stearate,Polyoxyl 40 Stearate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 polyoxymethylene,Polyoxyméthylène,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3445,8 +3448,8 @@ polyquaternium 22,Polyquaternium 22,candidate,,0,2,,,,U,,candidate,,,open_beauty
 polyquaternium 6,Polyquaternium 6,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 polyquaternium 7,Polyquaternium 7,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
 polyquaternium crosspolymer-3,POLYQUATERNIUM CROSSPOLYMER-3,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-polyquaternium-10,Polyquaternium-10,candidate,,1,714,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
-polyquaternium-11,Polyquaternium-11,candidate,,0,53,,,,U,,candidate,,,open_beauty_facts
+polyquaternium-10,Polyquaternium-10,candidate,,1,717,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts
+polyquaternium-11,Polyquaternium-11,candidate,,0,54,,,,U,,candidate,,,open_beauty_facts
 polyquaternium-113,Polyquaternium-113,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 polyquaternium-30,POLYQUATERNIUM-30,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 polyquaternium-32,POLYQUATERNIUM-32,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3488,7 +3491,7 @@ portulaca oleracea extract,Portulaca Oleracea Extract,candidate,90083-07-1,1,38,
 portulaca pilosa extract,PORTULACA PILOSA EXTRACT,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 potassio sorbato,potassio sorbato,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 potassium acesulfame,Potassium Acesulfame,candidate,,0,25,,,,U,,candidate,,,open_beauty_facts
-potassium acrylates copolymer,Potassium Acrylates Copolymer,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
+potassium acrylates copolymer,Potassium Acrylates Copolymer,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 potassium bitartrate,Potassium Bitartrate,candidate,,1,5,,,,U,,candidate,,,open_beauty_facts; windy_point
 potassium carbonate,Potassium Carbonate,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
 potassium caroate,Potassium Caroate,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -3498,7 +3501,7 @@ potassium chlorate,POTASSIUM CHLORATE,candidate,,0,4,EU: restricted (max (a) 5%)
 potassium cocoate,Potassium Cocoate,candidate,,2,82,,,,U,,candidate,,,aromantic; cosrx; open_beauty_facts; round_lab
 potassium cocoyl hydrolyzed collagen,Potassium Cocoyl Hydrolyzed Collagen,candidate,,1,4,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 potassium gluconate,POTASSIUM GLUCONATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-potassium hydroxide,Potassium Hydroxide,candidate,,1,426,EU: restricted (max (a) 5%),,,U,,candidate,,,cosrx; open_beauty_facts; round_lab; windy_point
+potassium hydroxide,Potassium Hydroxide,candidate,,1,427,EU: restricted (max (a) 5%),,,U,,candidate,,,cosrx; open_beauty_facts; round_lab; windy_point
 potassium hydroxyde,potassium hydroxyde,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 potassium iodide,Potassium iodide,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 potassium laurelate,potassium laurelate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -3508,7 +3511,7 @@ potassium olivate,Potassium Olivate,candidate,,0,45,,,,U,,candidate,,,open_beaut
 potassium olivate sodium lauroyl sarcosinate,POTASSIUM OLIVATE SODIUM LAUROYL SARCOSINATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 potassium olivoyl pca,Potassium Olivoyl PCA,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 potassium persulfate,Potassium Persulfate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-potassium phosphate,Potassium Phosphate,candidate,,0,104,,,,U,,candidate,,,cosrx; open_beauty_facts
+potassium phosphate,Potassium Phosphate,candidate,,0,105,,,,U,,candidate,,,cosrx; open_beauty_facts
 potassium ricinoleate,Potassium Ricinoleate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 potassium sorbate - ci 12085,Potassium Sorbate [+/-] CI 12085,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 potassium sorbate citric acid,POTASSIUM SORBATE CITRIC ACID,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -3533,12 +3536,12 @@ ppg-2 hydroxyethyl coco lsostearamide,PPG-2 Hydroxyethyl Coco/lsostearamide,cand
 ppg-2 methyl ether,PPG-2 Methyl Ether,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 ppg-2-methyl ether,PPG-2-Methyl Ether,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ppg-20 methyl glucose ether,PPG-20 Methyl Glucose Ether,candidate,,1,10,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
-ppg-3 benzyl ether myristate,PPG-3 Benzyl Ether Myristate,candidate,,0,24,,,,U,,candidate,,,open_beauty_facts
+ppg-3 benzyl ether myristate,PPG-3 Benzyl Ether Myristate,candidate,,0,25,,,,U,,candidate,,,open_beauty_facts
 ppg-3 methyl ether,ppg-3 methyl ether,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ppg-3 myristyl ether,PPG-3 Myristyl Ether,candidate,,0,34,,,,U,,candidate,,,open_beauty_facts
 ppg-5 ceteth-20,Ppg-5 Ceteth-20,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ppg-5 pentaerythrityl ether,PPG-5 PENTAERYTHRITYL ETHER,candidate,,0,3,,,,U,,candidate,,,cosrx; open_beauty_facts
-ppg-5-ceteth-20,PPG-5-CETETH-20,candidate,,0,162,,,,U,,candidate,,,open_beauty_facts
+ppg-5-ceteth-20,PPG-5-CETETH-20,candidate,,0,163,,,,U,,candidate,,,open_beauty_facts
 ppg-6-decyltetradeceth-30,PPG-6-DECYLTETRADECETH-30,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 ppg-9,PPG-9,candidate,,0,90,,,,U,,candidate,,,open_beauty_facts
 pps,PPS,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3555,7 +3558,7 @@ production europe gmbh co. kg,Production Europe GmbH & Co. KG,candidate,,0,2,,,,
 profumo,Profumo,candidate,,0,34,,,,U,,candidate,,,open_beauty_facts
 promote hair growth,promote hair growth,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 propandiol,Propandiol,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
-propane,Propane,candidate,,0,810,,,,U,,candidate,,,open_beauty_facts
+propane,Propane,candidate,,0,811,,,,U,,candidate,,,open_beauty_facts
 propane - diol,Propane - diol,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 propanediolo,Propanediolo,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 propano,Propano,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3606,7 +3609,7 @@ prunus amygdalus dulcis oil oil,Prunus Amygdalus Dulcis Oil (Prunus Amygdalus Du
 prunus amygdalus dulcis oil prunus amygdalus dulcis oil,Prunus Amygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 prunus amygdalus dulcis oil sweet almond oil,PRUNUS AMYGDALUS DULCIS OIL/SWEET ALMOND OIL,candidate,,0,32,,,,U,,candidate,,,open_beauty_facts
 prunus amygdalus dulcis ol prunus amygdalus dulcis oil,PRUNUS AMYGDALUS DULCIS OL PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-prunus amygdalus dulcis seed extract,Prunus Amygdalus Dulcis Seed Extract,candidate,,0,71,,,,U,,candidate,,,open_beauty_facts
+prunus amygdalus dulcis seed extract,Prunus Amygdalus Dulcis Seed Extract,candidate,,0,72,,,,U,,candidate,,,open_beauty_facts
 prunus amygdalus dulcis seedcake extract,PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) SEEDCAKE EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 prunus amygdalus dulcis sweet almond oil,Prunus Amygdalus Dulcis/Sweet Almond Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 prunus amygdalus fruit extract,Prunus Amygdalus Fruit Extract,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -3620,10 +3623,10 @@ prunus cerasus flower extract,PRUNUS CERASUS (BITTER CHERRY) FLOWER EXTRACT,cand
 prunus cerasus fruit extract bitter cherry fruit extract,PRUNUS CERASUS FRUIT EXTRACT / BITTER CHERRY FRUIT EXTRACT,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 prunus cerasus fruit water,PRUNUS CERASUS (CHERRY) FRUIT WATER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 prunus domestica extract,Prunus Domestica (Fruit) Extract,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
-prunus domestica fruit extract,Prunus Domestica Fruit Extract,candidate,,1,2,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
+prunus domestica fruit extract,Prunus Domestica Fruit Extract,candidate,,1,3,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 prunus domestica seed extract,Prunus Domestica Seed Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 prunus mume fruit extract,PRUNUS MUME FRUIT EXTRACT,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-prunus persica juice,Prunus Persica Juice,candidate,,1,11,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
+prunus persica juice,Prunus Persica Juice,candidate,,1,12,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 prunus persica kernel oil,Prunus Persica Kernel Oil,candidate,,1,27,,,,U,,candidate,,,aromantic; open_beauty_facts
 pseudoalteromonas ferment extract,Pseudoalteromonas Ferment Extract,candidate,,3,11,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 pseudotsuga menziesii water,Pseudotsuga Menziesii (Douglas Fir) Water,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
@@ -3702,7 +3705,7 @@ rice starch,rice starch,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 ricinus communis,Ricinus communis (,candidate,,4,8,,,,U,,candidate,,,open_beauty_facts; windy_point
 ricinus communis castor seed oil,ricinus communis [castor] seed oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 ricinus communis oil castor seed oil,RICINUS COMMUNIS OIL / CASTOR SEED OIL,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-ricinus communis seed oil,Ricinus Communis Seed Oil,candidate,,9,442,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
+ricinus communis seed oil,Ricinus Communis Seed Oil,candidate,,9,443,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts
 ricinus communis seed oil castor seed oil,RICINUS COMMUNIS SEED OIL / CASTOR SEED OIL,candidate,,0,16,,,,U,,candidate,,,open_beauty_facts
 riethylene glycol,riethylene glycol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 riga,Riga,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3732,7 +3735,7 @@ rosa moschata,Rosa Moschata (,candidate,,1,0,,,,U,,candidate,,,windy_point
 rosa moschata oil,Rosa Moschata Oil,candidate,,0,4,EU: restricted,,,U,,candidate,,,open_beauty_facts
 rose extract,Rose Extract,candidate,,1,5,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 rose ketone,Rose Ketone,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-rose ketones,Rose Ketones,candidate,,0,71,,,,U,,candidate,,,open_beauty_facts
+rose ketones,Rose Ketones,candidate,,0,72,,,,U,,candidate,,,open_beauty_facts
 rose water,Rose Water,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 rosehip fruit extract,Rosehip Fruit Extract,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 rosemarinus officinalis leaf oil,Rosemarinus Officinalis (Rosemary) Leaf Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3780,7 +3783,7 @@ saccharomyces podophyllum peltatum ferment filtrate,Saccharomyces/Podophyllum Pe
 saccharomyces rice ferment filtrate,Saccharomyces/Rice Ferment Filtrate,candidate,,1,9,,MILK-011:related; MILK-025:exact,,U,,candidate,,,lotioncrafter; open_beauty_facts
 saccharomyces sea silt ferment,Saccharomyces/Sea Silt Ferment,candidate,,1,0,,,,U,,candidate,,,formulator_sample_shop
 saccharose,saccharose,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-saccharum officinarum extract,Saccharum Officinarum (Sugar Cane) Extract,candidate,91722-22-4,7,37,,,,U,,candidate,,,aromantic; formulator_sample_shop; native_extracts; open_beauty_facts; round_lab; windy_point
+saccharum officinarum extract,Saccharum Officinarum (Sugar Cane) Extract,candidate,91722-22-4,7,38,,,,U,,candidate,,,aromantic; formulator_sample_shop; native_extracts; open_beauty_facts; round_lab; windy_point
 saccharum officinarum extract sugar cane extract,SACCHARUM OFFICINARUM EXTRACT / SUGAR CANE EXTRACT,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
 saccharum officinarum extract sugarcane extract extrait de canne a sucre,saccharum officinarum extract/sugarcane extract/extrait de canne a sucre,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sacha inchi volubilis seed oil,Sacha Inchi Volubilis Seed Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3851,7 +3854,7 @@ serica extract,SERICA EXTRACT,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 serica powder,SERICA POWDER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sesamol,Sesamöl,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 sesamum indicum oil sesame seed oil,SESAMUM INDICUM OIL / SESAME SEED OIL,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
-sesamum indicum seed oil,Sesamum Indicum (Sesame) Seed Oil,candidate,,1,120,,,,U,,candidate,,,aromantic; open_beauty_facts
+sesamum indicum seed oil,Sesamum Indicum (Sesame) Seed Oil,candidate,,1,127,,,,U,,candidate,,,aromantic; open_beauty_facts
 sesamum lndicum seed oil,Sesamum lndicum (Sesame) Seed Oil,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sh-polypeptide-121,SH-POLYPEPTIDE-121,candidate,,0,7,,,,U,,candidate,,,cosrx; open_beauty_facts
 shea butter ethyl esters,SHEA BUTTER ETHYL ESTERS,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
@@ -3861,8 +3864,8 @@ sheabutter,Sheabutter,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 shorea robusta resin,Shorea Robusta Resin,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 sigesbeckia orientalis extract,Sigesbeckia Orientalis (St. Paul's Wort) Extract,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 silanediol salicylate,SILANEDIOL SALICYLATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-silanetriol,Silanetriol,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
-silica,Silica,candidate,,6,1432,,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
+silanetriol,Silanetriol,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
+silica,Silica,candidate,,6,1436,,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
 silica dimethyl silylate nano silica dimethyl silylate,SILICA DIMETHYL SILYLATE [NANO] / SILICA DIMETHYL SILYLATE,candidate,,0,39,,,,U,,candidate,,,open_beauty_facts
 silica dimethyl silylate nano silicadimethyl silylate,SILICA DIMETHYL SILYLATE [NANO] / SILICADIMETHYL SILYLATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 silica dimethylsilylate,silica dimethylsilylate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3887,7 +3890,7 @@ simmondsia chinensis,simmondsia chinensis (jojoba oil),candidate,,0,7,,,,U,,cand
 simmondsia chinensis esters,Simmondsia Chinensis (Jojoba) Esters,candidate,,2,3,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 simmondsia chinensis leaf extract,Simmondsia Chinensis (Jojoba) Leaf Extract,candidate,,1,1,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 simmondsia chinensis oil,Simmondsia Chinensis Oil,candidate,,0,20,,,,U,,candidate,,,open_beauty_facts
-simmondsia chinensis seed oil,Simmondsia Chinensis (Jojoba) Seed Oil,candidate,,11,697,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
+simmondsia chinensis seed oil,Simmondsia Chinensis (Jojoba) Seed Oil,candidate,,11,698,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
 simmondsia chinensis seed oil quot,Simmondsia chinensis seed oil&quot,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 sirop de glucose,sirop de glucose,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 sleareth-20,Sleareth-20,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3901,7 +3904,7 @@ sodio xilenesolfonato,Sodio xilenesolfonato,candidate,,0,2,,,,U,,candidate,,,ope
 sodium acetate,SODIUM ACETATE,candidate,,1,114,,,,U,,candidate,,,aromantic; open_beauty_facts; round_lab
 sodium acetate isopropyl alcohol,sodium acetate isopropyl alcohol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium acrylate,Sodium Acrylate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-sodium acrylate sodium acryloyldimethyl taurate copolymer,Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,candidate,,2,54,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
+sodium acrylate sodium acryloyldimethyl taurate copolymer,Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,candidate,,2,55,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; windy_point
 sodium acrylate sodium acryloyldimethyl taurate copolymer - c15-19 alkane - polyglyceryl-6 laurate - polyglycerin-6,Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer - C15-19 Alkane* - Polyglyceryl-6 Laurate* - Polyglycerin-6*,candidate,,1,0,,,,U,,candidate,,,windy_point
 sodium acrylates beheneth-25 methacrylate crosspolymer,Sodium Acrylates / Beheneth-25 Methacrylate Crosspolymer,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium acrylates c10-30 alkyl acrylate crosspolymer,Sodium Acrylates/C10-30 Alkyl Acrylate Crosspolymer,candidate,,0,25,,,,U,,candidate,,,open_beauty_facts
@@ -3925,7 +3928,7 @@ sodium benzoate polyquaternium-10,SODIUM BENZOATE POLYQUATERNIUM-10,candidate,,0
 sodium benzoate. ingredient issu de l agriculture biologique,SODIUM BENZOATE. *Ingrédient issu de l'agriculture biologique,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium benzoate. quot,sodium benzoate. &quot,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium benzotriazolyl butylphenol sulfonate,Sodium Benzotriazolyl Butylphenol Sulfonate,candidate,,0,16,,,,U,,candidate,,,open_beauty_facts
-sodium benzotriazolyl butylphenol sulfonate buteth-3 tributyl citrate,Sodium Benzotriazolyl Butylphenol Sulfonate (and) Buteth-3 (and) Tributyl Citrate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
+sodium benzotriazolyl butylphenol sulfonate buteth-3 tributyl citrate,Sodium Benzotriazolyl Butylphenol Sulfonate / Buteth-3 / Tributyl Citrate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium bicarbonate,Sodium Bicarbonate,candidate,,3,327,,,,U,,candidate,,,aromantic; open_beauty_facts; windy_point
 sodium bisulfite,Sodium Bisulfite,candidate,,0,15,EU: restricted (max (a) 0.67% (as free SO2)); EU: permitted preservative (limits apply) (max 0.2% (as free SO2)),,,U,,candidate,,,open_beauty_facts
 sodium butylparaben,Sodium Butylparaben,candidate,,0,1,"EU: permitted preservative (limits apply) (max - 0,14% (as acid) for the sum of the ind)",,,U,,candidate,,,open_beauty_facts
@@ -3933,7 +3936,7 @@ sodium butyroyl hyaluronate,SODIUM BUTYROYL HYALURONATE,candidate,,0,2,,,,U,,can
 sodium c10-16 alkylbenzenesulfonate,Sodium C10-16 Alkylbenzenesulfonate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium c12-13 pareth sulfate,Sodium C12-13 Pareth Sulfate,candidate,,0,35,,,,U,,candidate,,,open_beauty_facts
 sodium c12-18 alkyl sulfate,sodium c12-18 alkyl sulfate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-sodium c14-16 olefin sulfonate,Sodium C14-16 Olefin Sulfonate,candidate,,2,303,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab; windy_point
+sodium c14-16 olefin sulfonate,Sodium C14-16 Olefin Sulfonate,candidate,,2,306,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts; round_lab; windy_point
 sodium c14-16 olefin sulfonate cellulose gum,Sodium C14-16 Olefin Sulfonate Cellulose Gum,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium caprate,Sodium Caprate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium caproy lauroyl lactylate,SODIUM CAPROY/LAUROYL LACTYLATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3961,7 +3964,7 @@ sodium chondroitin sulfate,Sodium Chondroitin Sulfate,candidate,,3,10,,,,U,,cand
 sodium choride,sodium choride,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 sodium cloride,Sodium Cloride,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 sodium cocamphoacetate,Sodium Cocamphoacetate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-sodium coco-sulfate,Sodium Coco-Sulfate,candidate,,0,251,,,,U,,candidate,,,open_beauty_facts
+sodium coco-sulfate,Sodium Coco-Sulfate,candidate,,0,252,,,,U,,candidate,,,open_beauty_facts
 sodium coco-sulphate,Sodium Coco-Sulphate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 sodium cocoa butterate,Sodium Cocoa Butterate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 sodium cocoamphodiacetate,Sodium Cocoamphodiacetate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -3970,7 +3973,7 @@ sodium cocoate sodium palm kernelate,sodium cocoate (or) sodium palm kernelate,c
 sodium cocoy glutamate,sodium cocoy! glutamate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 sodium cocoyl amino acids,Sodium Cocoyl Amino Acids,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 sodium cocoyl gluta - mate,Sodium Cocoyl Gluta - mate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-sodium cocoyl glutamate,Sodium Cocoyl Glutamate,candidate,,3,272,,,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts
+sodium cocoyl glutamate,Sodium Cocoyl Glutamate,candidate,,3,273,,,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts
 sodium cocoyl glutamate disodium cocoyl glutamate,Sodium Cocoyl Glutamate (and) Disodium Cocoyl Glutamate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium cocoyl glycinate,Sodium Cocoyl Glycinate,candidate,,0,62,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 sodium cocoyl hydrolyzed rice protein,Sodium Cocoyl Hydrolyzed Rice Protein,candidate,,1,0,,MILK-011:related,,U,,candidate,,,formulator_sample_shop
@@ -3992,17 +3995,17 @@ sodium fluoride 0.243 w w,Sodium Fluoride 0.243% w/w,candidate,,0,2,,,,U,,candid
 sodium fluoride fluoruro de sodio,SODIUM FLUORIDE/ FLUORURO DE SODIO,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium formate,SODIUM FORMATE,candidate,,0,9,EU: permitted preservative (limits apply) (max 0.5% (as acid)),,,U,,candidate,,,open_beauty_facts
 sodium gluceptate,Sodium Gluceptate,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
-sodium gluconate,Sodium Gluconate,candidate,,0,385,,,,U,,candidate,,,cosrx; open_beauty_facts
+sodium gluconate,Sodium Gluconate,candidate,,0,388,,,,U,,candidate,,,cosrx; open_beauty_facts
 sodium glutamate,Sodium Glutamate,candidate,,0,17,,,,U,,candidate,,,open_beauty_facts
 sodium hempseedate,Sodium Hempseedate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium hexametaphosphate,Sodium Hexametaphosphate,candidate,,0,42,,,,U,,candidate,,,open_beauty_facts
 sodium hy - droxide,Sodium Hy - droxide,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium hyaluro - nate,SODIUM HYALURO - NATE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-sodium hyaluronate,Sodium Hyaluronate,candidate,,19,1402,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+sodium hyaluronate,Sodium Hyaluronate,candidate,,19,1413,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 sodium hyaluronate dimethylsilanol,Sodium Hyaluronate Dimethylsilanol,candidate,,0,7,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
 sodium hydro - xide,SODIUM HYDRO - XIDE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium hydrolyzed potato starch dodecenylsuccinate,Sodium Hydrolyzed Potato Starch Dodecenylsuccinate,candidate,,0,15,,,,U,,candidate,,,open_beauty_facts
-sodium hydroxide,Sodium Hydroxide,candidate,,4,4247,EU: restricted (max (a) 5%),,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
+sodium hydroxide,Sodium Hydroxide,candidate,,4,4268,EU: restricted (max (a) 5%),,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
 sodium hydroxide polysorbate 80,Sodium Hydroxide Polysorbate 80,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium hydroxide tetrasodium edta,SODIUM HYDROXIDE TETRASODIUM EDTA,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium hydroxide water,sodium hydroxide water,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -4020,7 +4023,7 @@ sodium lau - ryl sulfoacetate,Sodium Lau - ryl Sulfoacetate,candidate,,0,2,,,,U,
 sodium laurelate,Sodium Laurelate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 sodium laureth,SODIUM LAURETH,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 sodium laureth suifate,Sodium Laureth SuIfate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-sodium laureth sulfate,Sodium Laureth Sulfate,candidate,,6,3152,,,,U,,candidate,,,open_beauty_facts; windy_point
+sodium laureth sulfate,Sodium Laureth Sulfate,candidate,,6,3156,,,,U,,candidate,,,open_beauty_facts; windy_point
 sodium laureth sulfate cocamidopropyl betaine,SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 sodium laureth sulfate sodium c13-15 pareth-3 sulfate,Sodium Laureth Sulfate/Sodium C13-15 Pareth-3 Sulfate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium laureth sulfate. sodium chloride,Sodium Laureth Sulfate. Sodium Chloride,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -4046,7 +4049,7 @@ sodium metaphosphate,SODIUM METAPHOSPHATE,candidate,,0,15,,,,U,,candidate,,,cosr
 sodium metasilicate,Sodium Metasilicate,candidate,,0,19,,,,U,,candidate,,,open_beauty_facts
 sodium methy cocoyl taurate,sodium methy cocoyl taurate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium methyl 2-sulfolaurate,Sodium Methyl 2-Sulfolaurate,candidate,,0,25,,,,U,,candidate,,,open_beauty_facts
-sodium methyl cocoyl taurate,Sodium Methyl Cocoyl Taurate,candidate,,1,253,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab; windy_point
+sodium methyl cocoyl taurate,Sodium Methyl Cocoyl Taurate,candidate,,1,254,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab; windy_point
 sodium methyl isethionate,Sodium Methyl Isethionate,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 sodium methyl lauroyl taurate,Sodium Methyl Lauroyl Taurate,candidate,,0,38,,,,U,,candidate,,,open_beauty_facts
 sodium methyl palmitate sulfonate,Sodium Methyl Palmitate Sulfonate,candidate,,0,14,,,,U,,candidate,,,open_beauty_facts
@@ -4074,9 +4077,9 @@ sodium phenylbenzimidazole sulfonate,Sodium Phenylbenzimidazole Sulfonate,candid
 sodium phosphate,Sodium Phosphate,candidate,,0,154,,,,U,,candidate,,,cosrx; open_beauty_facts
 sodium phosphate monobasic,sodium phosphate monobasic,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium phosphate. permanent colour cream aqua water eau,Sodium Phosphate. PERMANENT COLOUR CREAM Aqua/Water/Eau,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-sodium phytate,Sodium Phytate,candidate,,2,267,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
+sodium phytate,Sodium Phytate,candidate,,2,273,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
 sodium polyacrilate,Sodium Polyacrilate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-sodium polyacrylate,Sodium Polyacrylate,candidate,,1,280,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
+sodium polyacrylate,Sodium Polyacrylate,candidate,,1,283,,,,U,,candidate,,,cosrx; lotioncrafter; open_beauty_facts; round_lab
 sodium polyacrylate starch,Sodium Polyacrylate Starch,candidate,,0,8,,,,U,,candidate,,,cosrx; open_beauty_facts
 sodium polyaspartate,Sodium Polyaspartate,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 sodium polyitaconate,Sodium Polyitaconate,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
@@ -4098,7 +4101,7 @@ sodium stearate,Sodium Stearate,candidate,,24,211,,,,U,,candidate,,,formulator_s
 sodium stearate steareth-100,SODIUM STEARATE STEARETH-100,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium stearoy glutamate,Sodium Stearoy! Glutamate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 sodium stearoyl gluta - mate,sodium stearoyl gluta - mate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-sodium stearoyl glutamate,Sodium Stearoyl Glutamate,candidate,,1,318,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; round_lab
+sodium stearoyl glutamate,Sodium Stearoyl Glutamate,candidate,,1,320,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; round_lab
 sodium stearoyl lactylate,Sodium Stearoyl Lactylate,candidate,,6,53,,,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts
 sodium steroyl glutamate,SODIUM STEROYL GLUTAMATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 sodium styrene acrylates copolymer,SODIUM STYRENE/ACRYLATES COPOLYMER,candidate,,0,15,EU: prohibited,,,U,,candidate,,,open_beauty_facts
@@ -4140,10 +4143,10 @@ sorbate,SORBATE,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 sorbeth-20 beeswax,SORBETH-20 BEESWAX,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 sorbeth-230 tetraoleate,Sorbeth-230 Tetraoleate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 sorbeth-30 tetraoleate,Sorbeth-30 Tetraoleate,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts; round_lab
-sorbic acid,Sorbic Acid,candidate,,8,367,EU: permitted preservative (limits apply) (max 0.6% (acid)),,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
+sorbic acid,Sorbic Acid,candidate,,8,369,EU: permitted preservative (limits apply) (max 0.6% (acid)),,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
 sorbitan caprylate,Sorbitan Caprylate,candidate,,0,88,,,,U,,candidate,,,open_beauty_facts
 sorbitan monopalmitate,Sorbitan Monopalmitate,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-sorbitan oleate,Sorbitan Oleate,candidate,,0,122,,,,U,,candidate,,,open_beauty_facts
+sorbitan oleate,Sorbitan Oleate,candidate,,0,124,,,,U,,candidate,,,open_beauty_facts
 sorbitan oleate decylglucoside crosspolymer,Sorbitan Oleate Decylglucoside Crosspolymer,candidate,,1,6,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 sorbitan olivate,Sorbitan Olivate,candidate,,6,171,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 sorbitan palmitate,Sorbitan Palmitate,candidate,,1,17,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
@@ -4172,7 +4175,7 @@ spirea ulmaria extract,Spirea ulmaria extract,candidate,,0,2,,,,U,,candidate,,,o
 spirulina maxima extract,Spirulina Maxima Extract,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 spirulina maxima powder,Spirulina Maxima Powder,candidate,,1,1,,,,U,,candidate,,,aromantic; open_beauty_facts
 squalan,Squalan,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-squalane,Squalane,candidate,,8,405,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+squalane,Squalane,candidate,,8,410,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 squalene,Squalene,candidate,,0,76,,,,U,,candidate,,,open_beauty_facts
 starch acetate,STARCH ACETATE,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 starch hydroxypropyltrimonium chloride,Starch Hydroxypropyltrimonium Chloride,candidate,,0,21,,,,U,,candidate,,,open_beauty_facts
@@ -4192,12 +4195,12 @@ steareth 2,Steareth 2,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 steareth-10 allyl ether acrylates copolymer,Steareth-10 Allyl Ether/Acrylates Copolymer,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 steareth-100,Steareth-100,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
 steareth-100 peg-136 hdi copolymer,STEARETH-100/PEG-136/HDI COPOLYMER,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
-steareth-20,Steareth-20,candidate,,1,184,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
-steareth-21,Steareth-21,candidate,,0,175,,,,U,,candidate,,,open_beauty_facts
+steareth-20,Steareth-20,candidate,,1,185,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
+steareth-21,Steareth-21,candidate,,0,176,,,,U,,candidate,,,open_beauty_facts
 steareth-4,STEARETH-4,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 steareth-6,STEARETH-6,candidate,,0,50,,,,U,,candidate,,,open_beauty_facts
 stearic,Stearic,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
-stearic acid,Stearic Acid,candidate,,4,1507,,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
+stearic acid,Stearic Acid,candidate,,4,1511,,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; round_lab; windy_point
 stearoxypropyl dimethylamine,STEAROXYPROPYL DIMETHYLAMINE,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 stearoxytrimethylsilane,stearoxytrimethylsilane,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 stearoyl sarcosine,Stearoyl Sarcosine,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -4270,12 +4273,12 @@ tamarindus indica extract,TAMARINDUS INDICA EXTRACT,candidate,,0,4,,,,U,,candida
 tamarindus indica seed extract,Tamarindus Indica (Tamarind) Seed Extract,candidate,,1,1,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 tanacetum annuum flower oil,Tanacetum Annuum Flower Oil,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 tannic acid,Tannic Acid,candidate,,1,5,,,,U,,candidate,,,aromantic; open_beauty_facts
-tapioca starch,Tapioca Starch,candidate,,3,212,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts; windy_point
+tapioca starch,Tapioca Starch,candidate,,3,215,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts; windy_point
 taraxacum officinale rhizome root extract,Taraxacum Officinale (Dandelion) Rhizome/Root Extract,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 tasmannia lanceolata fruit extract,Tasmannia lanceolata Fruit Extract,candidate,183815-52-3,1,1,,,,U,,candidate,,,native_extracts; open_beauty_facts
 tasmannia lanceolata fruit leaf extract,Tasmannia Lanceolata Fruit/Leaf Extract,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 tasmannia lanceolata leaf extract,Tasmannia lanceolata Leaf Extract,candidate,183815-52-3,2,2,,,,U,,candidate,,,native_extracts; open_beauty_facts
-taurine,Taurine,candidate,,2,28,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
+taurine,Taurine,candidate,,2,29,,,,U,,candidate,,,formulator_sample_shop; open_beauty_facts
 tbhq,TBHQ,candidate,1948-33-0,0,14,CA: restricted,,,U,,candidate,,,open_beauty_facts
 tea,TEA,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 tea tree,tea tree,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -4304,13 +4307,13 @@ tetramethy acetyloctahydronaphthalenes,TETRAMETHY ACETYLOCTAHYDRONAPHTHALENES,ca
 tetramethyl,TETRAMETHYL,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 tetramethyl acetyloctahydranaphthalenes,TETRAMETHYL ACETYLOCTAHYDRANAPHTHALENES,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 tetramethyl acetyloctahydronaphtalenes,Tetramethyl Acetyloctahydronaphtalenes,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
-tetramethyl acetyloctahydronaphtha - lenes,Tetramethyl Acetyloctahydronaphtha - lenes,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-tetramethyl acetyloctahydronaphthalenes,Tetramethyl Acetyloctahydronaphthalenes,candidate,54464-57-2; 54464-59-4; 68155-66-8; 68155-67-9,0,512,EU: restricted,,,U,,candidate,,,open_beauty_facts
+tetramethyl acetyloctahydronaphtha - lenes,TETRAMETHYL ACETYLOCTAHYDRONAPHTHA - LENES,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
+tetramethyl acetyloctahydronaphthalenes,Tetramethyl Acetyloctahydronaphthalenes,candidate,54464-57-2; 54464-59-4; 68155-66-8; 68155-67-9,0,513,EU: restricted,,,U,,candidate,,,open_beauty_facts
 tetramethylacetyloctahydronaphthalenes,TETRAMETHYLACETYLOCTAHYDRONAPHTHALENES,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 tetrametil acetilottaidronaftalene,tetrametil acetilottaidronaftalene,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 tetrapeptide-21,Tetrapeptide-21,candidate,,1,1,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 tetrapotassium,TETRAPOTASSIUM,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-tetrapotassium pyrophosphate,Tetrapotassium Pyrophosphate,candidate,,0,102,,,,U,,candidate,,,open_beauty_facts
+tetrapotassium pyrophosphate,Tetrapotassium Pyrophosphate,candidate,,0,103,,,,U,,candidate,,,open_beauty_facts
 tetraselmis chui extract,tetraselmis chui extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 tetrasodio edta,Tetrasodio EDTA,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 tetrasodium,Tetrasodium,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
@@ -4325,7 +4328,7 @@ tetrasodium tetracarboxymethyl naringeninchalcone,TETRASODIUM TETRACARBOXYMETHYL
 tetrasodiumetidronate,TETRASODIUMETIDRONATE,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 theobroma cacao,Theobroma Cacao,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 theobroma cacao butter cocoa seed butter,THEOBROMA CACAO BUTTER / COCOA SEED BUTTER,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-theobroma cacao extract,Theobroma Cacao (Cocoa) Extract,candidate,84649-99-0,2,30,,,,U,,candidate,,,cosrx; formulator_sample_shop; native_extracts; open_beauty_facts
+theobroma cacao extract,Theobroma Cacao (Cocoa) Extract,candidate,84649-99-0,2,31,,,,U,,candidate,,,cosrx; formulator_sample_shop; native_extracts; open_beauty_facts
 theobroma cacao seed butter,Theobroma Cacao (Cocoa) Seed Butter,candidate,,10,333,,,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts; windy_point
 theobroma cacao seed butter butyrospermum parkii butter,theobroma cacao (cocoa) seed butter butyrospermum parkii (shea) butter,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 theobroma cacao seed butter theobroma cacao seed butter,Theobroma Cacao Seed Butter/Theobroma Cacao (Cocoa) Seed Butter,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
@@ -4340,7 +4343,7 @@ threonin,THREONIN,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 thuja occidentalis leaf extract,Thuja occidentalis Leaf Extract,candidate,90131-58-1,1,1,EU: restricted,,,U,,candidate,,,native_extracts; open_beauty_facts
 thuja occidentalis leaf oil,THUJA OCCIDENTALIS LEAF OIL,candidate,,0,2,EU: restricted,,,U,,candidate,,,open_beauty_facts
 thyme oil,Thyme Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-thymol,Thymol,candidate,,0,101,,,,U,,candidate,,,open_beauty_facts
+thymol,Thymol,candidate,,0,102,,,,U,,candidate,,,open_beauty_facts
 thymus vulgaris flower leaf extract,Thymus Vulgaris Flower/Leaf Extract,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 thymus vulgaris leaf extract,Thymus Vulgaris (Thyme) Leaf Extract,candidate,84929-51-1 / 84650-52-2,2,9,,,,U,,candidate,,,formulator_sample_shop; native_extracts; open_beauty_facts
 tiare flower,Tiare (Gardenia tahitensis) flower,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -4348,7 +4351,7 @@ tilia cordata,tilia cordata (linden flower extract/extrait des fleurs de tilleul
 tilia platyphyllos flower extract,Tilia Platyphyllos Flower Extract,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
 tilia platyphyllos flower water,Tilia Platyphyllos Flower Water (Eau florale de tilleul),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 tinogard tt,tinogard tt,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-titanium dioxide,Titanium Dioxide,candidate,1317-70-0; 1317-80-2; 13463-67-7,51,857,EU: restricted (max (a) 25 %); EU: permitted UV filter (limits apply) (max 25%*); EU: permitted UV filter (limits apply) (max 25%); US: permitted with conditions,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; windy_point
+titanium dioxide,Titanium Dioxide,candidate,1317-70-0; 1317-80-2; 13463-67-7,51,858,EU: restricted (max (a) 25 %); EU: permitted UV filter (limits apply) (max 25%*); EU: permitted UV filter (limits apply) (max 25%); US: permitted with conditions,,,U,,candidate,,,aromantic; cosrx; lotioncrafter; open_beauty_facts; windy_point
 titanium dioxide nano,Titanium Dioxide [Nano],candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 titanium dioxyde,TITANIUM DIOXYDE,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 titanium titanium dioxide,TITANIUM/TITANIUM DIOXIDE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -4358,11 +4361,11 @@ tocoferol,Tocoferol,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 tocophenol,tocophenol,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 tocophenyl acetate,Tocophenyl Acetate,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 tocopheral,Tocopheral,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-tocopherol,Tocopherol,candidate,,38,4082,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+tocopherol,Tocopherol,candidate,,38,4105,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 tocopherol ascorbyl palmitate,TOCOPHEROL ASCORBYL PALMITATE,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 tocopherol. ingredients issus de l agriculture biologique,Tocopherol. * ingrédients issus de l'agriculture biologique,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 tocopherols,tocopherols,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
-tocopheryl acetate,Tocopheryl Acetate,candidate,,14,2715,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
+tocopheryl acetate,Tocopheryl Acetate,candidate,,14,2719,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
 "toluene-2,5-diamine","TOLUENE-2,5-DIAMINE",candidate,615-50-9; 95-70-5,0,49,EU: restricted,,,U,,candidate,,,open_beauty_facts
 "toluene-2,5-diamine sulfate","Toluene-2,5-Diamine Sulfate",candidate,,0,47,EU: restricted,,,U,,candidate,,,open_beauty_facts
 tomsofmaine,tomsofmaine,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -4372,11 +4375,11 @@ toronto,toronto,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 tourmaline,TOURMALINE,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 trametes versicolor extract,TRAMETES VERSICOLOR EXTRACT,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 tranexamic acid,Tranexamic Acid,candidate,,0,16,,,,U,,candidate,,,cosrx; open_beauty_facts; round_lab
-trehalose,Trehalose,candidate,,4,216,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
+trehalose,Trehalose,candidate,,4,217,,,,U,,candidate,,,cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab
 trennmittel,Trennmittel (Siliciumdioxid),candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 trethanolamine,TRETHANOLAMINE,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 tri ethyl citrate,Tri Ethyl Citrate,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-triacetin,Triacetin,candidate,,0,30,,,,U,,candidate,,,open_beauty_facts
+triacetin,TRIACETIN,candidate,,0,31,,,,U,,candidate,,,open_beauty_facts
 triacontanyl pvp,Triacontanyl PVP,candidate,,0,44,,,,U,,candidate,,,open_beauty_facts
 tribehenin,TRIBEHENIN,candidate,,0,133,,,,U,,candidate,,,cosrx; open_beauty_facts
 tribenzoin,Tribenzoin,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -4387,14 +4390,14 @@ trideceth-10,Trideceth-10,candidate,,0,223,,,,U,,candidate,,,cosrx; open_beauty_
 trideceth-12,Trideceth-12,candidate,,0,108,,,,U,,candidate,,,open_beauty_facts
 trideceth-2 carboxamide mea,TRIDECETH-2 CARBOXAMIDE MEA,candidate,,0,57,,,,U,,candidate,,,open_beauty_facts
 trideceth-5,Trideceth-5,candidate,,0,27,,,,U,,candidate,,,open_beauty_facts
-trideceth-6,TRIDECETH-6,candidate,,1,184,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; round_lab
+trideceth-6,TRIDECETH-6,candidate,,1,186,,,,U,,candidate,,,lotioncrafter; open_beauty_facts; round_lab
 trideceth-7,Trideceth-7,candidate,,0,26,,,,U,,candidate,,,open_beauty_facts
 tridecyl salicylate,TRIDECYL SALICYLATE,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 triethanolamine,Triethanolamine,candidate,,2,836,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 triethil citrate,TRIETHIL CITRATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-triethyl citrate,Triethyl Citrate,candidate,,2,420,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts
+triethyl citrate,Triethyl Citrate,candidate,,2,422,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; open_beauty_facts
 triethyl citrate parfum,Triethyl citrate Parfum,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-triethylene glycol,Triethylene Glycol,candidate,,0,118,,,,U,,candidate,,,open_beauty_facts
+triethylene glycol,Triethylene Glycol,candidate,,0,119,,,,U,,candidate,,,open_beauty_facts
 trifolium pratense flower extract,Trifolium Pratense (Clover) Flower Extract,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
 trigliceride caprilico caprico,Trigliceride Caprilico/Caprico,candidate,,0,5,,,,U,,candidate,,,open_beauty_facts
 triglyceride,Triglyceride,candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
@@ -4457,15 +4460,15 @@ ultramarine blue,Ultramarine Blue,candidate,,3,0,,,,U,,candidate,,,windy_point
 ultramarines,Ultramarines,candidate,11118-33-5; 12703-66-1; 12769-96-9; 1302-83-6; 1317-97-1; 1345-00-2; 57455-37-5,2,7,EU: permitted colorant; US: permitted with conditions,,,U,,candidate,,,open_beauty_facts; windy_point
 ulva lactuca extract,ulva lactuca extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 unalool,UNALOOL,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
-undecane,Undecane,candidate,,0,93,,,,U,,candidate,,,open_beauty_facts
+undecane,Undecane,candidate,,0,94,,,,U,,candidate,,,open_beauty_facts
 undeceth-11,Undeceth-11,candidate,,0,10,,,,U,,candidate,,,open_beauty_facts
 undecylenal,UNDECYLENAL,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 undecylenamide dea,UNDECYLENAMIDE DEA,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 undecylenamidopropyl betaine,Undecylenamidopropyl Betaine,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 undecylenoyl phenylalanine,Undecylenoyl Phenylalanine,candidate,,1,4,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
-urea,Urea,candidate,57-13-6,4,362,CA: restricted,,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts
+urea,Urea,candidate,57-13-6,4,363,CA: restricted,,,U,,candidate,,,aromantic; formulator_sample_shop; lotioncrafter; open_beauty_facts
 urtica dioica extract,Urtica Dioica (Nettle) Extract,candidate,,0,55,,,,U,,candidate,,,open_beauty_facts
-urtica dioica leaf extract,Urtica Dioica (Nettle) Leaf Extract,candidate,84012-40-8,2,33,,,,U,,candidate,,,formulator_sample_shop; native_extracts; open_beauty_facts
+urtica dioica leaf extract,Urtica Dioica (Nettle) Leaf Extract,candidate,84012-40-8,2,34,,,,U,,candidate,,,formulator_sample_shop; native_extracts; open_beauty_facts
 urtica dioica root extract,URTICA DIOICA (NETTLE) ROOT EXTRACT (URTICA DIOICA ROOT EXTRACT),candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 urtica urens leaf extract,Urtica Urens Leaf Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 usage regulier,usage régulier,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -4485,9 +4488,9 @@ vaccinium myrtillus seed oil,Vaccinium Myrtillus (Blueberry) Seed Oil,candidate,
 vaccinium vitis-idaea fruit extract,Vaccinium Vitis-Idaea Fruit Extract,candidate,,1,2,,,,U,,candidate,,,aromantic; open_beauty_facts
 vaccinum sect. cyanococcus fruit extract,Vaccinum Sect. Cyanococcus (Blueberry) Fruit Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 valeriana celtica extract,Valeriana Celtica (Speick) Extract,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
-valine,Valine,candidate,,1,66,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
+valine,Valine,candidate,,1,68,,,,U,,candidate,,,cosrx; formulator_sample_shop; open_beauty_facts
 vanilla flavor,Vanilla Flavor,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-vanilla planifolia extract,Vanilla Planifolia Extract,candidate,,0,8,,,,U,,candidate,,,open_beauty_facts
+vanilla planifolia extract,Vanilla Planifolia Extract,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 vanilla planifolia extract vanilla planifolia fruit extract,VANILLA PLANIFOLIA EXTRACT / VANILLA PLANIFOLIA FRUIT EXTRACT,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 vanilla planifolia fruit,VANILLA PLANIFOLIA FRUIT,candidate,,1,2,,,,U,,candidate,,,lotioncrafter; open_beauty_facts
 vanilla planifolia fruit oil,Vanilla Planifolia Fruit Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
@@ -4524,7 +4527,7 @@ vitis vinifera fruit water,VITIS VINIFERA (GRAPE) FRUIT WATER,candidate,,0,4,,,,
 vitis vinifera fruit water grape fruit water,VITIS VINIFERA FRUIT WATER / GRAPE FRUIT WATER,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 vitis vinifera oil,Vitis Vinifera (Grape Seed) Oil,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 vitis vinifera seed extract,Vitis Vinifera Seed Extract,candidate,84929-27-1 / 85594-37-2,2,22,,,,U,,candidate,,,formulator_sample_shop; native_extracts; open_beauty_facts
-vitis vinifera seed oil,Vitis Vinifera Seed Oil,candidate,85594-37-2 / 84929-27-1 / 8024-22-4,4,238,,,,U,,candidate,,,aromantic; cosrx; native_extracts; open_beauty_facts; round_lab
+vitis vinifera seed oil,Vitis Vinifera Seed Oil,candidate,85594-37-2 / 84929-27-1 / 8024-22-4,4,239,,,,U,,candidate,,,aromantic; cosrx; native_extracts; open_beauty_facts; round_lab
 vitis vinifera seed oil grape seed oil,VITIS VINIFERA SEED OIL / GRAPE SEED OIL,candidate,,0,12,,,,U,,candidate,,,open_beauty_facts
 vitis vinifera skin extract,Vitis Vinifera Skin Extract,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 voile de surface,Voile de surface (polypropylène),candidate,,0,13,,,,U,,candidate,,,open_beauty_facts
@@ -4535,10 +4538,10 @@ volcanic soil,Volcanic Soil,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 vp dimethylaminoethylmethacrylate copolymer,VP/DIMETHYLAMINOETHYLMETHACRYLATE COPOLYMER,candidate,,0,7,,,,U,,candidate,,,open_beauty_facts
 vp dmapa acrylates copolymer,VP/DMAPA Acrylates Copolymer,candidate,,0,6,,,,U,,candidate,,,open_beauty_facts
 vp na copolymer,VP/NA Copolymer,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
-vp va copolymer,VP/VA Copolymer,candidate,,0,98,,,,U,,candidate,,,open_beauty_facts
+vp va copolymer,VP/VA Copolymer,candidate,,0,99,,,,U,,candidate,,,open_beauty_facts
 vpieicosene copolymer,VPIEicosene Copolymer,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 wasser,Wasser,candidate,,0,21,,,,U,,candidate,,,open_beauty_facts
-water,Aqua,candidate,,319,15209,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+water,Aqua,candidate,,319,15252,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 water . glycerin,Water (Aqua) (Eau). Glycerin,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 wateraquaeau,WATERAQUAEAU,candidate,,0,3,,,,U,,candidate,,,open_beauty_facts
 watet aqua eau,Watet / Aqua / Eau,candidate,,0,2,,,,U,,candidate,,,cosrx
@@ -4560,7 +4563,7 @@ woodmead,woodmead,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 xantan gum,Xantan Gum,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 xanthaangom,xanthaangom,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 xantham gum,Xantham Gum,candidate,,0,26,,,,U,,candidate,,,open_beauty_facts
-xanthan gum,Xanthan Gum,candidate,,27,3221,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
+xanthan gum,Xanthan Gum,candidate,,27,3242,,,,U,,candidate,,,aromantic; cosrx; formulator_sample_shop; lotioncrafter; open_beauty_facts; round_lab; windy_point
 xanthan gum parfum,Xanthan Gum Parfum,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 xanthan gum sodium benzoate,XANTHAN GUM SODIUM BENZOATE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
 xanthan gum sodium fluoride,XANTHAN GUM SODIUM FLUORIDE,candidate,,0,2,,,,U,,candidate,,,open_beauty_facts
@@ -4595,7 +4598,7 @@ zea mays starch quot,zea mays (corn) starch&quot,candidate,,0,2,,,,U,,candidate,
 zinc,Zinc,candidate,,0,11,,,,U,,candidate,,,open_beauty_facts
 zinc acetate,Zinc Acetate,candidate,,0,4,EU: restricted (max 1% (as zinc)),,,U,,candidate,,,open_beauty_facts
 zinc aspartate,Zinc Aspartate,candidate,,0,2,EU: restricted (max 1% (as zinc)),,,U,,candidate,,,open_beauty_facts
-zinc chloride,Zinc Chloride,candidate,,1,109,EU: restricted (max 1% (as zinc)),,,U,,candidate,,,lotioncrafter; open_beauty_facts
+zinc chloride,Zinc Chloride,candidate,,1,110,EU: restricted (max 1% (as zinc)),,,U,,candidate,,,lotioncrafter; open_beauty_facts
 zinc chloride hydroxide,Zinc Chloride Hydroxide,candidate,,0,4,,,,U,,candidate,,,open_beauty_facts
 zinc hydroxyapatite,Zinc Hydroxyapatite,candidate,,0,9,,,,U,,candidate,,,open_beauty_facts
 zinc pca,Zinc PCA,candidate,,0,170,,,,U,,candidate,,,cosrx; open_beauty_facts

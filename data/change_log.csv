@@ -22232,3 +22232,80 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-21,20261121T164823Z,cosrx,products,cosrx:5-peptide-ceramide-barrier-comfort-lip-mask,5 Peptide Ceramide Barrier Comfort Lip Mask,changed,in_stock,in_stock: true -> false
 2026-11-21,20261121T164823Z,cosrx,products,cosrx:comfort-ceramide-soft-cream-sheet-mask,Balancium Comfort Ceramide Soft Cream Sheet Mask,changed,in_stock,in_stock: true -> false
 2026-11-21,20261121T164823Z,cosrx,products,cosrx:hydrium-moisture-power-enriched-cream,Hydrium Moisture Power Enriched Cream,changed,in_stock,in_stock: true -> false
+2026-11-22,20261122T171008Z,lotioncrafter,raw_materials,lotioncrafter:ceramide-complex,Ceramide Complex,changed,in_stock,in_stock: true -> false
+2026-11-22,20261122T171008Z,lotioncrafter,raw_materials,lotioncrafter:eyefective,Eye'fective™,changed,in_stock,in_stock: true -> false
+2026-11-22,20261122T171008Z,windy_point,raw_materials,windy_point:copy-of-mica-blue-violet,Mica - Silver Grey,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron oxide -> Mica, Titanium Dioxide, Black iron oxide; inci_components: Mica; Titanium Dioxide; Iron oxide -> Mica; Titanium Dioxide; Black iron oxide; ingredient_keys: mica; titanium dioxide; iron oxide -> mica; titanium dioxide; black iron oxide"
+2026-11-22,20261122T171008Z,aromantic,raw_materials,aromantic:d-panthenol,D Panthenol,changed,in_stock,in_stock: true -> false
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0030772200131,Shower Fresh Antiperspirant/Deodorant,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0047400649576,Endurance Cool Wave,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0052336926912,Glued 2-in-1 Smooth & Hold Mousse,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0062600492623,Stress Relief Body Wash,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0074182292669,Advanced Clean Hand Soap,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0077890619186,Aloe Vera Moisturizing Liquid Hand Soap,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0312547427395,Cool Mint Antiseptic,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0605923628043,Vanilla & Sandalwood Body Wash,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0628451857136,Hand Soap,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0650240019357,Volume Filler Thickening Hair Treatment,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0650240056765,Gold Lift Sérum Facial Efecto Tensor,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:0878639014527,Harry Potter Defense Against the Dark Arts Body Wash,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3337875597210,Moisturising Lotion / Loción Hidratante,changed,"countries_sold, name, tags",countries_sold: france; morocco; netherlands; saudi arabia; united kingdom -> colombia; france; morocco; netherlands; saudi arabia; united kingdom; name: Daily Moisturizing Lotion -> Moisturising Lotion / Loción Hidratante; tags: Beauty; Dermacare -> Body lotions; Face moisturizers; Beauty; Dermacare
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3337875597333,CeraVe Hydraterende Reinigingscrème,changed,"countries_sold, ingredients, ingredients_text, tags","countries_sold: france; morocco; netherlands -> colombia; france; morocco; netherlands; ingredients_text: Aqua, Glycerin, Cetearyl Alcohol, PEG-40 Stearate, Stearyl Alcohol, Potassium... -> AQUA/WATER, GLYCERIN, CETEARYL ALCOHOL, PEG-40 STEARATE, STEARYL ALCOHOL, POT...; tags: face; cleansers; cleansing milks; Beauty; Gezichtsreiniging; Skincare -> face; cleansers; cleansing milks; Body cleansers; Face cleansers; Beauty; Gez..."
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3337875597449,CeraVe Hydraterende Gezichtscrème,changed,"countries_sold, ingredient_count, ingredients, ingredients_text","countries_sold: morocco; netherlands -> colombia; morocco; netherlands; ingredient_count: 23 -> 24; ingredients_text: ÁGUA, GLICEROL, TRIGLICERÍDEO CAPRÍLICO/CÁPRICO, NICOTINAMIDA, ÁLCOOL CETOEST... -> AQUA/WATER, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, NIACINAMIDE, CETEARYL ALC..."
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3337875684101,(unnamed),added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3337875773447,CeraVe Hydraterende Schuimende Reinigingsolie,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3337875784054,Blemish control cleanser,changed,"category, countries_sold, tags",category: Dermatological soaps -> Face cleansers; countries_sold: algeria; france; italy; morocco; spain; united kingdom -> algeria; colombia; france; italy; morocco; spain; united kingdom; tags: hygiene; soaps; dermatological soaps -> hygiene; soaps; dermatological soaps; Face cleansers
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3337875840620,Facial Moisturising Lotion AM SPF 30 / Loción Hidratante de Rostro,changed,"countries_sold, name, tags",countries_sold: netherlands -> colombia; netherlands; name: CeraVe SPF30 Hydraterende Gezichtscrème -> Facial Moisturising Lotion AM SPF 30 / Loción Hidratante de Rostro; tags: Beauty; Dermacare -> suncare; in sun protections; sunscreen; Face moisturizers; Beauty; Dermacare
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3337875909525,Oil Control Moisturising Gel-Cream,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3606000560833,Hydrating Hyaluronic Acid Serum / Sérum Hidratante con Ácido Hialurónico,changed,"name, tags",name: Hydrating Hyaluronic Acid Serum -> Hydrating Hyaluronic Acid Serum / Sérum Hidratante con Ácido Hialurónico; tags: Beauty; Gezichtsserum; Serum; Skincare -> Face serums; open beauty facts; Beauty; Gezichtsserum; Serum; Skincare
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3616307219396,Green Apple Aquatic Notes Moss,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270047,Huile de Sésame Monoï Bio,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270061,Huile de Sésame Oriental,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270238,Karité Argan Bio,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270245,Karité Bois de Rose,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270252,Karité Sésame Bio,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270269,Karité Vanille,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270276,"Sérum Luminescence Bio, huile sèche effet bonne mine",added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270290,Baume Clairessence Bio,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270306,Baume Éclat Beauté Bio,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270313,Baume Jeunesse Bio,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270320,"Sérum Beauté Bio, argan et figue de Barbarie",added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270368,"Baume de Gommage, sels de la Mer Morte et karité",added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270375,"Sérum Clairessence Bio, peaux sensibles et rougeurs",added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270559,Sérum Jambes Légères Bio,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270566,"Crème Visage Safran 01 Légère, peaux grasses",added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270573,"Crème Visage Safran 02 Équilibre, peaux normales à mixtes",added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270580,"Crème Visage Safran 03 Riche, peaux sèches",added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270597,Recharge Crème Visage Safran 01 Légère,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270603,Recharge Crème Visage Safran 02 Équilibre,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:3770038270610,Recharge Crème Visage Safran 03 Riche,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:4005800269776,Hyaluron-Filler + Elasticity 3D Serum,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:4005900140906,Oil Control Sun Gel-Cream FPS 50+ Toque Seco,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:4005900324023,Hyaluron-Filler + Elasticity Noite / Crema de Noche,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:4005900559517,Anti-Pigment Crema Facial de Noche,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:4005900839633,Sun Oil Control Tinted FPS 50+ Tono Medio Facial,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:4006000181981,Dermopure Clinical Triple Action Serum Corrector (2% Ácido Salicílico + Thiamidol),changed,name,name: Eucerin DermoPure Clinical Triple Action Serum Corrector -> Dermopure Clinical Triple Action Serum Corrector (2% Ácido Salicílico + Thiam...
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:4070765004090,Zahnpasta Complete Care & Protect,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:4070765105988,Flüssigseife weißer Tee & Feige,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7464804100053,Bergamot Hair Conditioner,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7707208613119,Vita C Booster,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7707208614314,Cream-Gel Intensive Moisturizer with Hyaluronic Acid,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7707208614796,Sérum Purificador de Poros,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7707208615168,Crema Orgánica Hidratante,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7707208615175,Serúm Orgánico Revitalizante,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7798140259381,Gold Lift Crema de Día FPS 30 Anti Arrugas,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7891010245214,Purified Skin Gel de Limpieza Ácido Glicólico / Limpieza Profunda,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7891010257316,Neutrogena Retinol Boost Sérum Facial,changed,"category, tags",category: Face serums -> Retinol; tags: Anti aging care; Face serums -> Anti aging care; Anti wrinkle; Face serums; Retinol
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:7891010882983,Neutrogena Hydro Boost Water Gel,changed,"countries_sold, tags",countries_sold: brazil -> brazil; colombia; tags: cuidados com a pele; hidratante; hidratante facial -> Face moisturizers; cuidados com a pele; hidratante; hidratante facial
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8800288646561,Ceramic Milk Ampoule,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8901012116937,Baby Shampoo with Aloe & Vitamin B5,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8904256021234,Body Lotion Aloe Hydration,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8904319401522,Ayurvedic Anti-Dandruff Shampoo,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8904362530453,Glow Boost Tonic,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8904417308440,Illuminate Hydra Smooth Facewash,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8906147702109,Mango Detan Gel Face Wash,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8999809103796,Hand & Body Lotion Protect & Glow,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:8999999001247,Lifebuoy Antibacterial Bodywash,added,,
+2026-11-22,20261122T171008Z,open_beauty_facts,products,open_beauty_facts:9310045405670,Aerogard Body Tropical Strength,added,,
+2026-11-22,20261122T171008Z,cosrx,products,cosrx:5-peptide-ceramide-barrier-comfort-lip-mask,5 Peptide Ceramide Barrier Comfort Lip Mask,changed,in_stock,in_stock: false -> true
+2026-11-22,20261122T171008Z,cosrx,products,cosrx:comfort-ceramide-soft-cream-sheet-mask,Balancium Comfort Ceramide Soft Cream Sheet Mask,changed,in_stock,in_stock: false -> true
+2026-11-22,20261122T171008Z,cosrx,products,cosrx:hydrium-moisture-power-enriched-cream,Hydrium Moisture Power Enriched Cream,changed,in_stock,in_stock: false -> true
