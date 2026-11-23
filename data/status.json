@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-22T17:10:08+00:00",
- "run_id": "20261122T171008Z",
- "date": "2026-11-22",
+ "generated_at": "2026-11-23T21:26:57+00:00",
+ "run_id": "20261123T212657Z",
+ "date": "2026-11-23",
  "totals": {
   "raw_materials": 1902,
-  "products": 21191,
+  "products": 21232,
   "regulatory": 3032,
-  "ingredients": 9117,
-  "products_with_regulated_ingredients": 18476,
+  "ingredients": 9126,
+  "products_with_regulated_ingredients": 18513,
   "atlas_entries_with_product_matches": 21,
-  "atlas_product_matches_exact": 1862,
+  "atlas_product_matches_exact": 1867,
   "excluded_non_cosmetic": 139,
   "review_status": {
-   "candidate": 27510
+   "candidate": 27551
   }
  },
  "sources": [
@@ -27,15 +27,15 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "partial",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 235.6,
-   "message": "8 product page(s) failed to load; kept previous data for those"
+   "duration_seconds": 233.4,
+   "message": "5 product page(s) failed to load; kept previous data for those"
   },
   {
    "source_id": "lotioncrafter",
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 350,
    "records_added": 0,
-   "records_changed": 2,
+   "records_changed": 1,
    "records_removed": 0,
-   "duration_seconds": 3.8,
+   "duration_seconds": 3.7,
    "message": ""
   },
   {
@@ -69,14 +69,14 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 700,
    "records_added": 0,
-   "records_changed": 0,
+   "records_changed": 2,
    "records_removed": 0,
-   "duration_seconds": 1081.4,
+   "duration_seconds": 1081.2,
    "message": ""
   },
   {
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 266,
-   "records_added": 0,
-   "records_changed": 1,
-   "records_removed": 0,
-   "duration_seconds": 8.6,
+   "records_added": 2,
+   "records_changed": 25,
+   "records_removed": 2,
+   "duration_seconds": 8.5,
    "message": ""
   },
   {
@@ -111,14 +111,14 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
-   "records_changed": 1,
+   "records_changed": 25,
    "records_removed": 0,
-   "duration_seconds": 3.9,
+   "duration_seconds": 4.1,
    "message": ""
   },
   {
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
-   "records_active": 21034,
-   "records_added": 61,
-   "records_changed": 9,
+   "records_active": 21075,
+   "records_added": 39,
+   "records_changed": 8,
    "records_removed": 0,
-   "duration_seconds": 10.3,
+   "duration_seconds": 9.9,
    "message": ""
   },
   {
@@ -153,14 +153,14 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 62,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1.3,
+   "duration_seconds": 1.2,
    "message": ""
   },
   {
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 95,
    "records_added": 0,
-   "records_changed": 3,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 210.1,
+   "duration_seconds": 210.2,
    "message": ""
   },
   {
@@ -195,8 +195,8 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
@@ -216,8 +216,8 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
@@ -237,8 +237,8 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-22T17:10:08+00:00",
-   "last_success_at": "2026-11-22T17:10:08+00:00",
+   "last_run_at": "2026-11-23T21:26:57+00:00",
+   "last_success_at": "2026-11-23T21:26:57+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
@@ -461,10 +461,6 @@
  "history": {
   "native_extracts": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -578,15 +574,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "partial"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "partial"
    }
   ],
   "lotioncrafter": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -700,15 +696,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "formulator_sample_shop": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -822,15 +818,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "windy_point": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -944,15 +940,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "aromantic": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -1066,15 +1062,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "open_beauty_facts": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -1188,15 +1184,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "round_lab": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -1310,15 +1306,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "cosrx": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -1432,15 +1428,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "reg_eu": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -1554,15 +1550,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "reg_ca": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -1676,15 +1672,15 @@
    },
    {
     "run_id": "20261122T171008Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
     "status": "passed"
    }
   ],
   "reg_us": [
    {
-    "run_id": "20261024T132053Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261025T134331Z",
     "status": "passed"
    },
@@ -1799,10 +1795,1158 @@
    {
     "run_id": "20261122T171008Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261123T212657Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:9349410000011",
+   "name": "(unnamed)",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:9327693001161",
+   "name": "Botanical Body Wash Mango Paradise",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8904320079147",
+   "name": "Baby Lotion",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8901526724871",
+   "name": "Hyaluron Moisture 72H Moisture Filling Shampoo",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8901088737067",
+   "name": "Coconut Milk Protein Shampoo",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8901030866081",
+   "name": "Baby Lotion",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8853963004606",
+   "name": "Organic Coconut & Avocado Hair Treatment",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8718951576193",
+   "name": "Colgate Fresh Gel",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8480017337535",
+   "name": "Loción corporal",
+   "change": "changed",
+   "fields": "name",
+   "details": "name: (unnamed) -> Loción corporal"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8435821401996",
+   "name": "Sugar Body Scrub",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8053732104500",
+   "name": "Avocado Shampoo",
+   "change": "changed",
+   "fields": "ingredient_count, ingredients, ingredients_text, name",
+   "details": "ingredient_count: 8 -> 24; ingredients_text: oder gewelles seidig-weiches Haar en sanfte Haarwäsche. Ohne Silikone für nam... -> Aqua, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Parfum, ...; name: BottegaVerde Shampoo Setificante per ricci -> Avocado Shampoo"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8050628550588",
+   "name": "Miss't Kinky Pear & Freesia",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8021568003700",
+   "name": "Gioiosa Acqua Corpo Spray",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8006540523056",
+   "name": "Sensitive babydoekjes 0% plastic",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8001090150981",
+   "name": "Pro-V Oil Replacement Milky Damage Repair",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:6974908118126",
+   "name": "Face Palette",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:6009712015856",
+   "name": "Marula Oil & Shea Shampoo",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:5713125007667",
+   "name": "Salmon PDRN Face Mask",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:5410091778668",
+   "name": "Shampoo 7 Kruiden Herbes",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:5281019045830",
+   "name": "Cure Professional Hydrating Leave-In Cream",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:5025452000571",
+   "name": "Melon And Cucumber Deoderant",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:4262391990018",
+   "name": "Curl Defining Gel",
+   "change": "changed",
+   "fields": "ingredient_count, ingredients, ingredients_text, name",
+   "details": "ingredient_count: 25 -> 23; ingredients_text: Aqua, Glycerin, Hydrolyzed Corn Starch, Xanthan Gum, Polyglyceryl-4 Caprate, ... -> Aqua, Glycerin, Hydrolyzed Corn Starch, Xanthan Gum, Polyglyceryl-6 Caprylate...; name: Bali Curls Bukle Belirginleştirici Jöle -> Curl Defining Gel"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:4066447711769",
+   "name": "dento",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3800219793888",
+   "name": "Organic Rose Oil + Vitamin C Bio Retinol Cream",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3574661823522",
+   "name": "Crème au Lait Peaux Très Sèches",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3574661823515",
+   "name": "Crème au lait peaux normales",
+   "change": "changed",
+   "fields": "name",
+   "details": "name: (unnamed) -> Crème au lait peaux normales"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3401399372346",
+   "name": "Atoderm lèvres",
+   "change": "changed",
+   "fields": "brand, category, ingredient_count, ingredients, ingredients_text, listing_status",
+   "details": "brand: Bioderma -> ; category: Lip-cosmetics -> lip-cosmetics; ingredient_count: 20 -> 9"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3250391554027",
+   "name": "Gel lavant mains anti-odeurs",
+   "change": "changed",
+   "fields": "name",
+   "details": "name: (unnamed) -> Gel lavant mains anti-odeurs"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3140100143096",
+   "name": "Shampooing anti pelliculaire classique, cheveux normaux",
+   "change": "changed",
+   "fields": "brand, category, listing_status",
+   "details": "brand: Eugène Perma -> ; category: Open-beauty-facts -> open-beauty-facts; listing_status: removed -> active"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0866807000250",
+   "name": "H2OMyGod Water Cream Moisturizer",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0860012521401",
+   "name": "The Oil Cleanser",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0850067269922",
+   "name": "Magnesium Deodorant Rose Sandalwood",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0850065335704",
+   "name": "AHA Body Wash Golden-Hour",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0850018119870",
+   "name": "Glycolic Cleansing Gel",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0850009608567",
+   "name": "Gentle Body Wash Warm Vanilla",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0843585100587",
+   "name": "Argan Oil Creamy Cleanser",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0810207680727",
+   "name": "Sensitive Protection Toothpaste",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0810151473505",
+   "name": "My Love",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0803954313772",
+   "name": "Rice Water Bright Vegan Cleansing Facial Wipes",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0646670547591",
+   "name": "Body Wash Mandarin Pear",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:00608732",
+   "name": "Lemongrass Coconut Body Oil",
+   "change": "changed",
+   "fields": "ingredients_text, tags",
+   "details": "ingredients_text: Cocos Nucifera (Virgin Coconut) Oil, Olea Europaea (Olive) Fruit Oil, Prunus ... -> Cocos Nucifera (Virgin Coconut) Oil, Olea Europaea (Olive) Fruit Oil, Prunus ...; tags: body oil -> body; body oils"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0026169050847",
+   "name": "Body Spray Dark Ice",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0018121782057",
+   "name": "Magic Bar Soap Baby Unscented",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0007611000078",
+   "name": "Peppermint Castile Soap",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0007550000092",
+   "name": "Vitamin C Firming Body Butter",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0006516000077",
+   "name": "Supreme Hydrating Eye Cream",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0005100004576",
+   "name": "Ultra Moisturizing Hand Cream",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-jojoba-oil",
+   "name": "Organic Jojoba Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:kiwi-seed-oil",
+   "name": "Kiwi Seed Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:shea-butter-oil",
+   "name": "Shea Butter Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-juniper-berry-essential-oil",
+   "name": "Organic Juniper Berry Essential Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-bulgarian-lavender-essential-oil",
+   "name": "Organic Bulgarian Lavender Essential Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:cedarwood-essential-oil",
+   "name": "Cedarwood Essential Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:ginger-essential-oil",
+   "name": "Ginger Essential Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:marjoram-essential-oil",
+   "name": "Marjoram Essential Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:hyaluronic-acid-eco-100-powder",
+   "name": "Hyaluronic Acid Eco 100% Powder",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:lupine-peptides",
+   "name": "Lupine Peptides",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-virgin-coconut-oil",
+   "name": "Organic Virgin Coconut Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:preservative-k",
+   "name": "Preservative K",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:rice-bran-wax",
+   "name": "Rice Bran Wax",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:eyebright-glycerol-extract-organic",
+   "name": "Organic Eyebright Glycerol Extract",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:vegetal",
+   "name": "Montanov™ 68 MB (Vegetal)",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-sweet-almond-oil",
+   "name": "Organic Sweet Almond Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:sweet-almond-oil-refined-bp73",
+   "name": "Sweet Almond Oil Refined (BP73)",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:amaranth-seed-oil-co2-extract-organic",
+   "name": "Organic Amaranth Seed Oil CO2 Extract",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:arctic-cranberry-seed-co2-extract",
+   "name": "Arctic Cranberry Seed CO2 Extract",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-argan-oil",
+   "name": "Organic Argan Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:avocado-butter",
+   "name": "Avocado Butter",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:avocado-oil",
+   "name": "Avocado Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:organic-camellia-seed-oil",
+   "name": "Organic Camellia Seed Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:evening-primrose-seed-co2-extract",
+   "name": "Evening Primrose Seed CO2 Extract",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:base-cream-oily-skin",
+   "name": "Base Cream for Oily Skin",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-magic-red",
+   "name": "Mica - Mauve",
+   "change": "removed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:copy-of-mica-blue-violet",
+   "name": "Mica - Silver Grey",
+   "change": "removed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-mauve",
+   "name": "Mica - Mauve",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-dark-yellow",
+   "name": "Mica - Dark Yellow",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea..."
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-flash-blue",
+   "name": "Mica - Flash Blue",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Ultramarines -> Mica, Titanium Dioxide, Ultramarine blue; inci_components: Mica; Titanium Dioxide; Ultramarines -> Mica; Titanium Dioxide; Ultramarine blue; ingredient_keys: mica; titanium dioxide; ultramarines -> mica; titanium dioxide; ultramarine blue"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-magic-red-1",
+   "name": "Mica - Magic Red",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide -> Mica, Titanium Dioxide, Tin Dioxide, Manganese Violet; inci_components: Mica; Titanium Dioxide; Iron Oxide -> Mica; Titanium Dioxide; Tin Dioxide; Manganese Violet; ingredient_keys: mica; titanium dioxide; iron oxide -> mica; titanium dioxide; tin dioxide; manganese violet"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-purple-violet",
+   "name": "Mica - Purple Violet",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide, Manganese Violet -> Mica, Titanium Dioxide, Tin dioxide, Manganese Violet; inci_components: Mica; Titanium Dioxide; Iron Oxide; Manganese Violet -> Mica; Titanium Dioxide; Tin dioxide; Manganese Violet; ingredient_keys: mica; titanium dioxide; iron oxide; manganese violet -> mica; titanium dioxide; tin dioxide; manganese violet"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:copy-of-mica-jade-green",
+   "name": "Mica - Red Blue",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Fluorphlogophite, Titanium Dioxide, Tin Dioxide, Ultramarine Blue -> Fluorphlogophite, Titanium Dioxide, Tin Dioxide, Iron oxide; inci_components: Fluorphlogophite; Titanium Dioxide; Tin Dioxide; Ultramarine Blue -> Fluorphlogophite; Titanium Dioxide; Tin Dioxide; Iron oxide; ingredient_keys: fluorphlogophite; titanium dioxide; tin dioxide; ultramarine blue -> fluorphlogophite; titanium dioxide; tin dioxide; iron oxide"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-light-yellow",
+   "name": "Mica - Light Yellow",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea..."
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-silver-grey",
+   "name": "Mica - Silver Grey",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-romantic-red",
+   "name": "Mica - Romantic Red",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide -> Mica, Titanium Dioxide, Iron Oxide, Silica; inci_components: Mica; Titanium Dioxide; Iron Oxide -> Mica; Titanium Dioxide; Iron Oxide; Silica; ingredient_keys: mica; titanium dioxide; iron oxide -> mica; titanium dioxide; iron oxide; silica"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-black-lustre",
+   "name": "Mica - Black Lustre",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea..."
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-gingerbread",
+   "name": "Mica - Gingerbread",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Tin Dioxide -> Mica, Iron oxide; inci_components: Mica; Titanium Dioxide; Tin Dioxide -> Mica; Iron oxide; ingredient_keys: mica; titanium dioxide; tin dioxide -> mica; iron oxide"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:pigment-neon-red",
+   "name": "Pigment - Neon Red",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ..."
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:pigment-neon-yellow",
+   "name": "Pigment - Neon Yellow",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester 3, Yellow 5 -> Polyurethane-11, Yellow 5; inci_components: Polyester 3; Yellow 5 -> Polyurethane-11; Yellow 5; ingredient_keys: polyester 3; yellow 5 -> polyurethane-11; yellow 5"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:pigment-neon-blue",
+   "name": "Pigment - Neon Blue",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester-3, Ultramarine Blue -> Polyurethane-11, Ultramarine Blue; inci_components: Polyester-3; Ultramarine Blue -> Polyurethane-11; Ultramarine Blue; ingredient_keys: polyester-3; ultramarine blue -> polyurethane-11; ultramarine blue"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:pigment-neon-purple",
+   "name": "Pigment - Neon Purple",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester 3, Manganese Violet -> Polyurethane-11, Manganese Violet; inci_components: Polyester 3; Manganese Violet -> Polyurethane-11; Manganese Violet; ingredient_keys: polyester 3; manganese violet -> polyurethane-11; manganese violet"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:bright-gold-mica",
+   "name": "Mica - Bright Gold",
+   "change": "changed",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-magic-violet",
+   "name": "Mica - Magic Violet",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Tin Oxide, Manganese Violet -> Mica, Titanium Dioxide, Tin Dioxide, Manganese Violet; inci_components: Mica; Titanium Dioxide; Tin Oxide; Manganese Violet -> Mica; Titanium Dioxide; Tin Dioxide; Manganese Violet; ingredient_keys: mica; titanium dioxide; tin oxide; manganese violet -> mica; titanium dioxide; tin dioxide; manganese violet"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:pigment-neon-green",
+   "name": "Pigment - Neon Green",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester-3, Pigment Green 7 -> Polyurethane-11, Chromium oxide green; inci_components: Polyester-3; Pigment Green 7 -> Polyurethane-11; Chromium oxide green; ingredient_keys: polyester-3; pigment green 7 -> polyurethane-11; chromium oxide green"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:pigment-neon-pink",
+   "name": "Pigment - Neon Pink",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester 3, Red 28 -> Polyurethane-11, Red 7; inci_components: Polyester 3; Red 28 -> Polyurethane-11; Red 7; ingredient_keys: polyester 3; red 28 -> polyurethane-11; red 7"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:bronze-mica",
+   "name": "Mica - Bronze",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea..."
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:copper-mica",
+   "name": "Mica - Copper",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea..."
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-cobalt-blue",
+   "name": "Mica - Cobalt Blue",
+   "change": "changed",
+   "fields": "description",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea..."
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-white-sparkle",
+   "name": "Mica - White Diamonds",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Synthetic Fluorphlogotite, Titanium Dioxide -> Fluorphlogotite, Titanium Dioxide; inci_components: Synthetic Fluorphlogotite; Titanium Dioxide -> Fluorphlogotite; Titanium Dioxide; ingredient_keys: synthetic fluorphlogotite; titanium dioxide -> fluorphlogotite; titanium dioxide"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:copy-of-mica-rose-gold",
+   "name": "Mica - Golden Peach",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide -> Mica, Titanium Dioxide, Tin Dioxide, Iron Oxide; inci_components: Mica; Titanium Dioxide; Iron Oxide -> Mica; Titanium Dioxide; Tin Dioxide; Iron Oxide; ingredient_keys: mica; titanium dioxide; iron oxide -> mica; titanium dioxide; tin dioxide; iron oxide"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-sage",
+   "name": "Mica - Sage",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Chromium Oxide Green -> Mica, Titanium Dioxide, Tin Dioxide, Chromium Oxide Green; inci_components: Mica; Titanium Dioxide; Chromium Oxide Green -> Mica; Titanium Dioxide; Tin Dioxide; Chromium Oxide Green; ingredient_keys: mica; titanium dioxide; chromium oxide green -> mica; titanium dioxide; tin dioxide; chromium oxide green"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:mica-sage-1",
+   "name": "Mica - Royal Blue",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide, Manganese Violet, Ultramarines -> Mica, Titanium Dioxide, Ultramarine Blue, Manganese Violet,; inci_components: Mica; Titanium Dioxide; Iron Oxide; Manganese Violet; Ultramarines -> Mica; Titanium Dioxide; Ultramarine Blue; Manganese Violet; ingredient_keys: mica; titanium dioxide; iron oxide; manganese violet; ultramarines -> mica; titanium dioxide; ultramarine blue; manganese violet"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "windy_point",
+   "table": "raw_materials",
+   "record_id": "windy_point:pigment-neon-bubblegum",
+   "name": "Pigment - Neon Bubblegum",
+   "change": "changed",
+   "fields": "description, inci, inci_components, ingredient_keys",
+   "details": "description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester 3, Red 28 -> Polyurethane-11; inci_components: Polyester 3; Red 28 -> Polyurethane-11; ingredient_keys: polyester 3; red 28 -> polyurethane-11"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:olivemr-2090",
+   "name": "OLIVEM® 2090",
+   "change": "changed",
+   "fields": "category, price_max, sizes",
+   "details": "category:  -> Raw Material; price_max: 1364 -> 385; sizes: 2oz; 8oz; 1kg (2.2 lbs); 5kgs (11 lbs); 20kgs (44 lbs) -> 2oz; 8oz; 1kg (2.2 lbs); 5kgs (11 lbs)"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "formulator_sample_shop",
+   "table": "raw_materials",
+   "record_id": "formulator_sample_shop:fss-butylene-glycol-natural",
+   "name": "FSS BUTYLENE GLYCOL-NATURAL",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-11-23",
+   "run_id": "20261123T212657Z",
+   "source_id": "lotioncrafter",
+   "table": "raw_materials",
+   "record_id": "lotioncrafter:biolatum",
+   "name": "BioLatum™",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
   {
    "date": "2026-11-22",
    "run_id": "20261122T171008Z",
@@ -2308,1150 +3452,6 @@
    "change": "added",
    "fields": "",
    "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3770038270252",
-   "name": "Karité Sésame Bio",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3770038270245",
-   "name": "Karité Bois de Rose",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3770038270238",
-   "name": "Karité Argan Bio",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3770038270061",
-   "name": "Huile de Sésame Oriental",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3770038270047",
-   "name": "Huile de Sésame Monoï Bio",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3616307219396",
-   "name": "Green Apple Aquatic Notes Moss",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3606000560833",
-   "name": "Hydrating Hyaluronic Acid Serum / Sérum Hidratante con Ácido Hialurónico",
-   "change": "changed",
-   "fields": "name, tags",
-   "details": "name: Hydrating Hyaluronic Acid Serum -> Hydrating Hyaluronic Acid Serum / Sérum Hidratante con Ácido Hialurónico; tags: Beauty; Gezichtsserum; Serum; Skincare -> Face serums; open beauty facts; Beauty; Gezichtsserum; Serum; Skincare"
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875909525",
-   "name": "Oil Control Moisturising Gel-Cream",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875840620",
-   "name": "Facial Moisturising Lotion AM SPF 30 / Loción Hidratante de Rostro",
-   "change": "changed",
-   "fields": "countries_sold, name, tags",
-   "details": "countries_sold: netherlands -> colombia; netherlands; name: CeraVe SPF30 Hydraterende Gezichtscrème -> Facial Moisturising Lotion AM SPF 30 / Loción Hidratante de Rostro; tags: Beauty; Dermacare -> suncare; in sun protections; sunscreen; Face moisturizers; Beauty; Dermacare"
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875784054",
-   "name": "Blemish control cleanser",
-   "change": "changed",
-   "fields": "category, countries_sold, tags",
-   "details": "category: Dermatological soaps -> Face cleansers; countries_sold: algeria; france; italy; morocco; spain; united kingdom -> algeria; colombia; france; italy; morocco; spain; united kingdom; tags: hygiene; soaps; dermatological soaps -> hygiene; soaps; dermatological soaps; Face cleansers"
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875773447",
-   "name": "CeraVe Hydraterende Schuimende Reinigingsolie",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875684101",
-   "name": "(unnamed)",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875597449",
-   "name": "CeraVe Hydraterende Gezichtscrème",
-   "change": "changed",
-   "fields": "countries_sold, ingredient_count, ingredients, ingredients_text",
-   "details": "countries_sold: morocco; netherlands -> colombia; morocco; netherlands; ingredient_count: 23 -> 24; ingredients_text: ÁGUA, GLICEROL, TRIGLICERÍDEO CAPRÍLICO/CÁPRICO, NICOTINAMIDA, ÁLCOOL CETOEST... -> AQUA/WATER, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, NIACINAMIDE, CETEARYL ALC..."
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875597333",
-   "name": "CeraVe Hydraterende Reinigingscrème",
-   "change": "changed",
-   "fields": "countries_sold, ingredients, ingredients_text, tags",
-   "details": "countries_sold: france; morocco; netherlands -> colombia; france; morocco; netherlands; ingredients_text: Aqua, Glycerin, Cetearyl Alcohol, PEG-40 Stearate, Stearyl Alcohol, Potassium... -> AQUA/WATER, GLYCERIN, CETEARYL ALCOHOL, PEG-40 STEARATE, STEARYL ALCOHOL, POT...; tags: face; cleansers; cleansing milks; Beauty; Gezichtsreiniging; Skincare -> face; cleansers; cleansing milks; Body cleansers; Face cleansers; Beauty; Gez..."
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875597210",
-   "name": "Moisturising Lotion / Loción Hidratante",
-   "change": "changed",
-   "fields": "countries_sold, name, tags",
-   "details": "countries_sold: france; morocco; netherlands; saudi arabia; united kingdom -> colombia; france; morocco; netherlands; saudi arabia; united kingdom; name: Daily Moisturizing Lotion -> Moisturising Lotion / Loción Hidratante; tags: Beauty; Dermacare -> Body lotions; Face moisturizers; Beauty; Dermacare"
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0878639014527",
-   "name": "Harry Potter Defense Against the Dark Arts Body Wash",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0650240056765",
-   "name": "Gold Lift Sérum Facial Efecto Tensor",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0650240019357",
-   "name": "Volume Filler Thickening Hair Treatment",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0628451857136",
-   "name": "Hand Soap",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0605923628043",
-   "name": "Vanilla & Sandalwood Body Wash",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0312547427395",
-   "name": "Cool Mint Antiseptic",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0077890619186",
-   "name": "Aloe Vera Moisturizing Liquid Hand Soap",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0074182292669",
-   "name": "Advanced Clean Hand Soap",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0062600492623",
-   "name": "Stress Relief Body Wash",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0052336926912",
-   "name": "Glued 2-in-1 Smooth & Hold Mousse",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0047400649576",
-   "name": "Endurance Cool Wave",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0030772200131",
-   "name": "Shower Fresh Antiperspirant/Deodorant",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:d-panthenol",
-   "name": "D Panthenol",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "windy_point",
-   "table": "raw_materials",
-   "record_id": "windy_point:copy-of-mica-blue-violet",
-   "name": "Mica - Silver Grey",
-   "change": "changed",
-   "fields": "description, inci, inci_components, ingredient_keys",
-   "details": "description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron oxide -> Mica, Titanium Dioxide, Black iron oxide; inci_components: Mica; Titanium Dioxide; Iron oxide -> Mica; Titanium Dioxide; Black iron oxide; ingredient_keys: mica; titanium dioxide; iron oxide -> mica; titanium dioxide; black iron oxide"
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:eyefective",
-   "name": "Eye'fective™",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-11-22",
-   "run_id": "20261122T171008Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:ceramide-complex",
-   "name": "Ceramide Complex",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "cosrx",
-   "table": "products",
-   "record_id": "cosrx:hydrium-moisture-power-enriched-cream",
-   "name": "Hydrium Moisture Power Enriched Cream",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "cosrx",
-   "table": "products",
-   "record_id": "cosrx:comfort-ceramide-soft-cream-sheet-mask",
-   "name": "Balancium Comfort Ceramide Soft Cream Sheet Mask",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "cosrx",
-   "table": "products",
-   "record_id": "cosrx:5-peptide-ceramide-barrier-comfort-lip-mask",
-   "name": "5 Peptide Ceramide Barrier Comfort Lip Mask",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:9344960003017",
-   "name": "Hand & Body Lotion Botanical Geranium, Rose & Wood",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8720181548383",
-   "name": "AXE &quot;provocation&quot;",
-   "change": "changed",
-   "fields": "category, size, tags",
-   "details": "category:  -> Deodorants; size:  -> 200 ml; tags:  -> hygiene; deodorants"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8718951665422",
-   "name": "Invisible Dry Antiperspirant-Deodorant",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8410436236270",
-   "name": "Ultimate Repair Acondicionador ultra reparador",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8029408173910",
-   "name": "(unnamed)",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8006530034791",
-   "name": "Head & shoulders Citrus Fresh",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7891150103474",
-   "name": "UV repair & glow + ferúlico Acondicionador, tecnología Bio-Protein",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7702678703988",
-   "name": "Skin Art Pro-Aging Protector solar antiedad SPF 50+, con SKINectura, Energinius y vitamina E",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7702678686588",
-   "name": "Agua micelar dual purificante, infusión de aceites naturales y arroz morado",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7702678120105",
-   "name": "Tónico astringente herbal, loción facial, extracto natural de arrayán, romero y hamamelis",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7702678101098",
-   "name": "Protector solar crema gel SPF 50+",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7702678066892",
-   "name": "Peptide Intensive Shot Epidermosil, serum reafirmante",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7702277569343",
-   "name": "Acondicionador Reparación, Infusiones Botánicas",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7610108056446",
-   "name": "Kinder-Zahnpasta",
-   "change": "changed",
-   "fields": "category, size, tags",
-   "details": "category: Toothpastes -> open-beauty-facts; size: 1 -> 75 ml; tags: toothpaste -> hygiene; toothpastes; open beauty facts"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7509552876499",
-   "name": "Adiós Esponjado Shampoo disciplinante, óleo de argán + keratina líquida",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7500435259026",
-   "name": "Reconstrucción Molecular Mascarilla intensiva diaria",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7500435247634",
-   "name": "Dragonblast Antitranspirante en spray, aroma a cedro",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7500435231275",
-   "name": "Shampoo control caspa Anti-Comezón, sensación extra refrescante, menta extra refrescante",
-   "change": "changed",
-   "fields": "name, size",
-   "details": "name: Head & Shoulders Anti-Comezón, Menta Extra Refrescante shampoo -> Shampoo control caspa Anti-Comezón, sensación extra refrescante, menta extra ...; size:  -> 1L"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7500435226042",
-   "name": "Crema para peinar, óleos reales certificados de pequi y aguacate",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7500435191425",
-   "name": "Colágeno Nutre & Revitaliza Shampoo nutritivo sin sal",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:7500435155847",
-   "name": "Bambú Nutre & Crece Shampoo control caída",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:6958914546326",
-   "name": "Sun Block Cream",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4806541040828",
-   "name": "Whitening Body Lotion",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4260457770710",
-   "name": "(unnamed)",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4260123740306",
-   "name": "Sandelholz-Duft",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4066447985306",
-   "name": "كريم وجه بفيتامين C، عامل حماية 15",
-   "change": "changed",
-   "fields": "name",
-   "details": "name: Gesichtscreme Vitamin C, LSF 15 -> كريم وجه بفيتامين C، عامل حماية 15"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4065477737787",
-   "name": "Anti Acne Facewash",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4056489868538",
-   "name": "Baby Powder",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4015000145503",
-   "name": "Shampoo Intense Repair",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4006000270821",
-   "name": "Cocoa Nourish Body Cream",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4005900661371",
-   "name": "Q10 Anti-Wrinkle Extra Nourish",
-   "change": "changed",
-   "fields": "name",
-   "details": "name: Nivea Q10 Anti Wrinkle Mature Night Cream Face Moisturiser 50mL -> Q10 Anti-Wrinkle Extra Nourish"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4005900661364",
-   "name": "Q10 Anti-Wrinkle Extra Nourish",
-   "change": "changed",
-   "fields": "ingredients, ingredients_text, name",
-   "details": "ingredients_text: Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Methylpropanedi... -> Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Methylpropanedi...; name: Nivea Q10 Anti Wrinkle Deep Restore Day Cream SPF 15 50mL -> Q10 Anti-Wrinkle Extra Nourish"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4005900034847",
-   "name": "Invisible for black and white",
-   "change": "changed",
-   "fields": "brand, listing_status, size",
-   "details": "brand: Nivéa -> ; listing_status: removed -> active; size:  -> 200 ml"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4000196901415",
-   "name": "Glycerin Cream",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3770044595004",
-   "name": "Dentifrice KeraSmile",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3662217007066",
-   "name": "Creme anti âge",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3616305714831",
-   "name": "Multi Tasker Wake Me Up Concealer & Foundation",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3499320013024",
-   "name": "Moisturising Cream",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3337875923613",
-   "name": "Vitamin C Brightening Cleanser",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3256228974662",
-   "name": "Shampooing familial oeuf & vanille",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3250391649051",
-   "name": "Lingettes bébé",
-   "change": "changed",
-   "fields": "category, tags",
-   "details": "category:  -> Baby wipes; tags:  -> accessories; moist wipes; baby wipes"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0850068951505",
-   "name": "Lip Therapy Pink Bubbly",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0849607060174",
-   "name": "Long Lasting Fragrance",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0818938025749",
-   "name": "the kure Strength Repair Conditioner",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0650240081767",
-   "name": "Shampoo Anti-caída Efecto Anti-Canas, jalea real y henna, fórmula avanzada",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0650240035166",
-   "name": "Shampoo Anti-caída Engrosador, jalea real + extracto de ortiga",
-   "change": "changed",
-   "fields": "category, countries_sold, ingredient_count, ingredients, ingredients_text, name, tags",
-   "details": "category: Shampoos -> Anti-hair loss shampoos; countries_sold: united states -> colombia; united states; ingredient_count: 43 -> 45"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0650240011832",
-   "name": "Shampoo Anti-caída Aclarante, jalea real + manzanilla",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0381519180736",
-   "name": "Shampoo Herbal Essences Rose Hips",
-   "change": "changed",
-   "fields": "category, countries_sold, ingredient_count, ingredients, ingredients_text, size, tags",
-   "details": "category: open-beauty-facts -> Shampoos; countries_sold: spain -> colombia; spain; ingredient_count: 20 -> 23"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0079400052926",
-   "name": "Clinical Classic Antitranspirante en crema",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0071249317891",
-   "name": "Total Repair 5 Repairing Shampoo",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0062400291068",
-   "name": "Oil-Infused Hydrating Coconut",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:organic-rose-hydrolat",
-   "name": "Organic Rose Hydrolat",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "windy_point",
-   "table": "raw_materials",
-   "record_id": "windy_point:kokum-butter-1",
-   "name": "Kokum Butter",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-phytomulse-amaranth",
-   "name": "FSS Phytomulse® Amaranth",
-   "change": "changed",
-   "fields": "category",
-   "details": "category:  -> Raw Material"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-phytomulse-chlorella",
-   "name": "FSS Phytomulse® Chlorella",
-   "change": "changed",
-   "fields": "category",
-   "details": "category:  -> Raw Material"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-phytomulse-coconut",
-   "name": "FSS Phytomulse® Coconut",
-   "change": "changed",
-   "fields": "category",
-   "details": "category:  -> Raw Material"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:fss-phytomulse-almond",
-   "name": "FSS Phytomulse® Almond",
-   "change": "changed",
-   "fields": "category",
-   "details": "category:  -> Raw Material"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:cera-bellina",
-   "name": "Cera Bellina",
-   "change": "changed",
-   "fields": "category",
-   "details": "category:  -> Raw Material"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:sodium-lactate-powder",
-   "name": "Sodium Lactate Powder",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:natrasil",
-   "name": "NatraSil™",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-11-21",
-   "run_id": "20261121T164823Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:l-pdrn-first™",
-   "name": "L-PDRN First™",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: false -> true"
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:9321299600131",
-   "name": "(unnamed)",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8961102067068",
-   "name": "Natural Rose Water Spray",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8909106061781",
-   "name": "Refreshing Facial Wash",
-   "change": "changed",
-   "fields": "size",
-   "details": "size:  -> 150ml"
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8906170031108",
-   "name": "Scalp Reviving Shampoo",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8906120582421",
-   "name": "Secrets of Jeju Island Salicylic & Glycolic Acid Foaming Face Wash",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8904417307146",
-   "name": "2% Salicylic Acid Face Serum",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8901138002442",
-   "name": "Anti-Hair Fall Bhringaraja Shampoo",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8859588116557",
-   "name": "HD Invisible Powder",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-20",
-   "run_id": "20261120T174944Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8711600532397",
-   "name": "Men+care",
-   "change": "changed",
-   "fields": "countries_sold",
-   "details": "countries_sold: italy -> italy; united states"
   }
  ],
  "imports": [
@@ -3703,11 +3703,11 @@
    "atlas_id": "MILK-009",
    "name": "Coconut milk",
    "group": "Plant milk",
-   "products_exact": 8,
+   "products_exact": 9,
    "products_related": 94,
    "raw_materials_exact": 1,
    "raw_materials_related": 4,
-   "new_matches_today": 0,
+   "new_matches_today": 1,
    "example_products": "Dr. Squatch Fresh Falls | Coconut Milk & Peptides Strength & Shine Shampoo | Coconut Milk & Peptides Strength & Shine Shampoo",
    "atlas_commercial_examples": "OGX Nourishing + Coconut Milk Shampoo; official page lists Cocos Nucifera fruit extract and hydrolyzed milk protein, so it is not a pure coconut-milk formula.",
    "atlas_verification_status": "Official commercial example verified; note formula includes multiple actives and hydrolyzed milk protein.",
@@ -3719,10 +3719,10 @@
    "name": "Oat milk",
    "group": "Plant milk",
    "products_exact": 4,
-   "products_related": 338,
+   "products_related": 339,
    "raw_materials_exact": 0,
    "raw_materials_related": 10,
-   "new_matches_today": 2,
+   "new_matches_today": 1,
    "example_products": "Douceur d'hiver | Lavender Fields Forever | Leche avena",
    "atlas_commercial_examples": "AVEENO Daily Moisturizing Body Wash; official ingredient list includes Avena Sativa (Oat) Kernel Flour/Oil/Extract, not oat milk beverage.",
    "atlas_verification_status": "Official product example verifies oat-derived ingredients, not oat milk itself.",
@@ -3734,10 +3734,10 @@
    "name": "Rice milk",
    "group": "Plant milk",
    "products_exact": 3,
-   "products_related": 139,
+   "products_related": 141,
    "raw_materials_exact": 0,
    "raw_materials_related": 11,
-   "new_matches_today": 0,
+   "new_matches_today": 2,
    "example_products": "method body body wash | method body | Camille Rose Curl Love Soften & Nourish Moisture Milk with R",
    "atlas_commercial_examples": "Commercial examples are generally rice ferment or hydrolyzed rice protein rather than literal rice milk; see separate Fermented rice liquid record.",
    "atlas_verification_status": "Official product illustrates rice ferment filtrate, not rice milk.",
@@ -3749,7 +3749,7 @@
    "name": "Soy milk",
    "group": "Plant milk",
    "products_exact": 0,
-   "products_related": 284,
+   "products_related": 285,
    "raw_materials_exact": 0,
    "raw_materials_related": 18,
    "new_matches_today": 1,
@@ -3794,10 +3794,10 @@
    "name": "Hemp-seed milk",
    "group": "Plant milk",
    "products_exact": 0,
-   "products_related": 7,
+   "products_related": 8,
    "raw_materials_exact": 0,
    "raw_materials_related": 1,
-   "new_matches_today": 0,
+   "new_matches_today": 1,
    "example_products": "",
    "atlas_commercial_examples": "No hemp-milk beverage product verified; track hemp seed oil/extract separately.",
    "atlas_verification_status": "Do not infer beverage benefits from oil studies.",
@@ -3958,11 +3958,11 @@
    "atlas_id": "MILK-026",
    "name": "Lactic acid",
    "group": "Purified/derived cosmetic ingredient",
-   "products_exact": 1395,
+   "products_exact": 1398,
    "products_related": 0,
    "raw_materials_exact": 7,
    "raw_materials_related": 0,
-   "new_matches_today": 4,
+   "new_matches_today": 2,
    "example_products": "COSRX The AHA BHA PHA LHA 35 Peel | COSRX COSRX PEPTIDE-132 Ultra Perfect Hair Bonding Treatment | COSRX 5 Peptide B5 Sensitive Repair Salve Lip Balm",
    "atlas_commercial_examples": "Common in formulated exfoliating products; a product-specific example should be added only after INCI, concentration/pH claims and market are verified.",
    "atlas_verification_status": "Function depends on concentration, pH and formulation; avoid DIY acid mixing.",
@@ -3973,11 +3973,11 @@
    "atlas_id": "MILK-027",
    "name": "Milk protein",
    "group": "Purified/derived cosmetic ingredient",
-   "products_exact": 28,
+   "products_exact": 29,
    "products_related": 0,
    "raw_materials_exact": 0,
    "raw_materials_related": 0,
-   "new_matches_today": 0,
+   "new_matches_today": 1,
    "example_products": "Monsavon BIO Déodorant Femme Spray Citron Touche de Verveine | Monsavon BIO Déodorant Femme Spray Citron Touche de Verveine | Seifenstück, Cremeseife Milch & Honig",
    "atlas_commercial_examples": "OGX Coconut Milk Shampoo lists Hydrolyzed Milk Protein; KORRES donkey-milk products are separate whole-milk ingredient examples.",
    "atlas_verification_status": "Official product INCI example verified; not evidence of a standalone protein benefit.",
@@ -4082,7 +4082,7 @@
    "products_related": 0,
    "raw_materials_exact": 0,
    "raw_materials_related": 0,
-   "new_matches_today": 1,
+   "new_matches_today": 0,
    "example_products": "pure collagène marin | benadryl | Wanderlust Turmeric 90mL",
    "atlas_commercial_examples": "No specific finished cosmetic verified in this pass.",
    "atlas_verification_status": "Benefit claims need exact formulation evidence.",

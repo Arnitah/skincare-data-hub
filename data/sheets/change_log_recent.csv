@@ -1,4 +1,108 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:9349410000011,(unnamed),added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:9327693001161,Botanical Body Wash Mango Paradise,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8904320079147,Baby Lotion,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8901526724871,Hyaluron Moisture 72H Moisture Filling Shampoo,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8901088737067,Coconut Milk Protein Shampoo,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8901030866081,Baby Lotion,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8853963004606,Organic Coconut & Avocado Hair Treatment,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8718951576193,Colgate Fresh Gel,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8480017337535,Loción corporal,changed,name,name: (unnamed) -> Loción corporal
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8435821401996,Sugar Body Scrub,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8053732104500,Avocado Shampoo,changed,"ingredient_count, ingredients, ingredients_text, name","ingredient_count: 8 -> 24; ingredients_text: oder gewelles seidig-weiches Haar en sanfte Haarwäsche. Ohne Silikone für nam... -> Aqua, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Parfum, ...; name: BottegaVerde Shampoo Setificante per ricci -> Avocado Shampoo"
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8050628550588,Miss't Kinky Pear & Freesia,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8021568003700,Gioiosa Acqua Corpo Spray,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8006540523056,Sensitive babydoekjes 0% plastic,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8001090150981,Pro-V Oil Replacement Milky Damage Repair,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:6974908118126,Face Palette,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:6009712015856,Marula Oil & Shea Shampoo,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:5713125007667,Salmon PDRN Face Mask,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:5410091778668,Shampoo 7 Kruiden Herbes,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:5281019045830,Cure Professional Hydrating Leave-In Cream,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:5025452000571,Melon And Cucumber Deoderant,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:4262391990018,Curl Defining Gel,changed,"ingredient_count, ingredients, ingredients_text, name","ingredient_count: 25 -> 23; ingredients_text: Aqua, Glycerin, Hydrolyzed Corn Starch, Xanthan Gum, Polyglyceryl-4 Caprate, ... -> Aqua, Glycerin, Hydrolyzed Corn Starch, Xanthan Gum, Polyglyceryl-6 Caprylate...; name: Bali Curls Bukle Belirginleştirici Jöle -> Curl Defining Gel"
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:4066447711769,dento,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:3800219793888,Organic Rose Oil + Vitamin C Bio Retinol Cream,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:3574661823522,Crème au Lait Peaux Très Sèches,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:3574661823515,Crème au lait peaux normales,changed,name,name: (unnamed) -> Crème au lait peaux normales
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:3401399372346,Atoderm lèvres,changed,"brand, category, ingredient_count, ingredients, ingredients_text, listing_status",brand: Bioderma -> ; category: Lip-cosmetics -> lip-cosmetics; ingredient_count: 20 -> 9
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:3250391554027,Gel lavant mains anti-odeurs,changed,name,name: (unnamed) -> Gel lavant mains anti-odeurs
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:3140100143096,"Shampooing anti pelliculaire classique, cheveux normaux",changed,"brand, category, listing_status",brand: Eugène Perma -> ; category: Open-beauty-facts -> open-beauty-facts; listing_status: removed -> active
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0866807000250,H2OMyGod Water Cream Moisturizer,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0860012521401,The Oil Cleanser,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0850067269922,Magnesium Deodorant Rose Sandalwood,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0850065335704,AHA Body Wash Golden-Hour,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0850018119870,Glycolic Cleansing Gel,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0850009608567,Gentle Body Wash Warm Vanilla,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0843585100587,Argan Oil Creamy Cleanser,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0810207680727,Sensitive Protection Toothpaste,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0810151473505,My Love,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0803954313772,Rice Water Bright Vegan Cleansing Facial Wipes,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0646670547591,Body Wash Mandarin Pear,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:00608732,Lemongrass Coconut Body Oil,changed,"ingredients_text, tags","ingredients_text: Cocos Nucifera (Virgin Coconut) Oil, Olea Europaea (Olive) Fruit Oil, Prunus ... -> Cocos Nucifera (Virgin Coconut) Oil, Olea Europaea (Olive) Fruit Oil, Prunus ...; tags: body oil -> body; body oils"
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0026169050847,Body Spray Dark Ice,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0018121782057,Magic Bar Soap Baby Unscented,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0007611000078,Peppermint Castile Soap,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0007550000092,Vitamin C Firming Body Butter,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0006516000077,Supreme Hydrating Eye Cream,added,,
+2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:0005100004576,Ultra Moisturizing Hand Cream,added,,
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:organic-jojoba-oil,Organic Jojoba Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:kiwi-seed-oil,Kiwi Seed Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:shea-butter-oil,Shea Butter Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:organic-juniper-berry-essential-oil,Organic Juniper Berry Essential Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:organic-bulgarian-lavender-essential-oil,Organic Bulgarian Lavender Essential Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:cedarwood-essential-oil,Cedarwood Essential Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:ginger-essential-oil,Ginger Essential Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:marjoram-essential-oil,Marjoram Essential Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:hyaluronic-acid-eco-100-powder,Hyaluronic Acid Eco 100% Powder,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:lupine-peptides,Lupine Peptides,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:organic-virgin-coconut-oil,Organic Virgin Coconut Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:preservative-k,Preservative K,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:rice-bran-wax,Rice Bran Wax,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:eyebright-glycerol-extract-organic,Organic Eyebright Glycerol Extract,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:vegetal,Montanov™ 68 MB (Vegetal),changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:organic-sweet-almond-oil,Organic Sweet Almond Oil,changed,in_stock,in_stock: false -> true
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:sweet-almond-oil-refined-bp73,Sweet Almond Oil Refined (BP73),changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:amaranth-seed-oil-co2-extract-organic,Organic Amaranth Seed Oil CO2 Extract,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:arctic-cranberry-seed-co2-extract,Arctic Cranberry Seed CO2 Extract,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:organic-argan-oil,Organic Argan Oil,changed,in_stock,in_stock: false -> true
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:avocado-butter,Avocado Butter,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:avocado-oil,Avocado Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:organic-camellia-seed-oil,Organic Camellia Seed Oil,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:evening-primrose-seed-co2-extract,Evening Primrose Seed CO2 Extract,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,aromantic,raw_materials,aromantic:base-cream-oily-skin,Base Cream for Oily Skin,changed,in_stock,in_stock: true -> false
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-magic-red,Mica - Mauve,removed,,
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:copy-of-mica-blue-violet,Mica - Silver Grey,removed,,
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-mauve,Mica - Mauve,added,,
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-dark-yellow,Mica - Dark Yellow,changed,description,description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-flash-blue,Mica - Flash Blue,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Ultramarines -> Mica, Titanium Dioxide, Ultramarine blue; inci_components: Mica; Titanium Dioxide; Ultramarines -> Mica; Titanium Dioxide; Ultramarine blue; ingredient_keys: mica; titanium dioxide; ultramarines -> mica; titanium dioxide; ultramarine blue"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-magic-red-1,Mica - Magic Red,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide -> Mica, Titanium Dioxide, Tin Dioxide, Manganese Violet; inci_components: Mica; Titanium Dioxide; Iron Oxide -> Mica; Titanium Dioxide; Tin Dioxide; Manganese Violet; ingredient_keys: mica; titanium dioxide; iron oxide -> mica; titanium dioxide; tin dioxide; manganese violet"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-purple-violet,Mica - Purple Violet,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide, Manganese Violet -> Mica, Titanium Dioxide, Tin dioxide, Manganese Violet; inci_components: Mica; Titanium Dioxide; Iron Oxide; Manganese Violet -> Mica; Titanium Dioxide; Tin dioxide; Manganese Violet; ingredient_keys: mica; titanium dioxide; iron oxide; manganese violet -> mica; titanium dioxide; tin dioxide; manganese violet"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:copy-of-mica-jade-green,Mica - Red Blue,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Fluorphlogophite, Titanium Dioxide, Tin Dioxide, Ultramarine Blue -> Fluorphlogophite, Titanium Dioxide, Tin Dioxide, Iron oxide; inci_components: Fluorphlogophite; Titanium Dioxide; Tin Dioxide; Ultramarine Blue -> Fluorphlogophite; Titanium Dioxide; Tin Dioxide; Iron oxide; ingredient_keys: fluorphlogophite; titanium dioxide; tin dioxide; ultramarine blue -> fluorphlogophite; titanium dioxide; tin dioxide; iron oxide"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-light-yellow,Mica - Light Yellow,changed,description,description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-silver-grey,Mica - Silver Grey,added,,
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-romantic-red,Mica - Romantic Red,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide -> Mica, Titanium Dioxide, Iron Oxide, Silica; inci_components: Mica; Titanium Dioxide; Iron Oxide -> Mica; Titanium Dioxide; Iron Oxide; Silica; ingredient_keys: mica; titanium dioxide; iron oxide -> mica; titanium dioxide; iron oxide; silica"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-black-lustre,Mica - Black Lustre,changed,description,description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-gingerbread,Mica - Gingerbread,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Tin Dioxide -> Mica, Iron oxide; inci_components: Mica; Titanium Dioxide; Tin Dioxide -> Mica; Iron oxide; ingredient_keys: mica; titanium dioxide; tin dioxide -> mica; iron oxide"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:pigment-neon-red,Pigment - Neon Red,changed,description,"description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ..."
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:pigment-neon-yellow,Pigment - Neon Yellow,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester 3, Yellow 5 -> Polyurethane-11, Yellow 5; inci_components: Polyester 3; Yellow 5 -> Polyurethane-11; Yellow 5; ingredient_keys: polyester 3; yellow 5 -> polyurethane-11; yellow 5"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:pigment-neon-blue,Pigment - Neon Blue,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester-3, Ultramarine Blue -> Polyurethane-11, Ultramarine Blue; inci_components: Polyester-3; Ultramarine Blue -> Polyurethane-11; Ultramarine Blue; ingredient_keys: polyester-3; ultramarine blue -> polyurethane-11; ultramarine blue"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:pigment-neon-purple,Pigment - Neon Purple,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester 3, Manganese Violet -> Polyurethane-11, Manganese Violet; inci_components: Polyester 3; Manganese Violet -> Polyurethane-11; Manganese Violet; ingredient_keys: polyester 3; manganese violet -> polyurethane-11; manganese violet"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:bright-gold-mica,Mica - Bright Gold,changed,,
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-magic-violet,Mica - Magic Violet,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Tin Oxide, Manganese Violet -> Mica, Titanium Dioxide, Tin Dioxide, Manganese Violet; inci_components: Mica; Titanium Dioxide; Tin Oxide; Manganese Violet -> Mica; Titanium Dioxide; Tin Dioxide; Manganese Violet; ingredient_keys: mica; titanium dioxide; tin oxide; manganese violet -> mica; titanium dioxide; tin dioxide; manganese violet"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:pigment-neon-green,Pigment - Neon Green,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester-3, Pigment Green 7 -> Polyurethane-11, Chromium oxide green; inci_components: Polyester-3; Pigment Green 7 -> Polyurethane-11; Chromium oxide green; ingredient_keys: polyester-3; pigment green 7 -> polyurethane-11; chromium oxide green"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:pigment-neon-pink,Pigment - Neon Pink,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester 3, Red 28 -> Polyurethane-11, Red 7; inci_components: Polyester 3; Red 28 -> Polyurethane-11; Red 7; ingredient_keys: polyester 3; red 28 -> polyurethane-11; red 7"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:bronze-mica,Mica - Bronze,changed,description,description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:copper-mica,Mica - Copper,changed,description,description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-cobalt-blue,Mica - Cobalt Blue,changed,description,description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-white-sparkle,Mica - White Diamonds,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Synthetic Fluorphlogotite, Titanium Dioxide -> Fluorphlogotite, Titanium Dioxide; inci_components: Synthetic Fluorphlogotite; Titanium Dioxide -> Fluorphlogotite; Titanium Dioxide; ingredient_keys: synthetic fluorphlogotite; titanium dioxide -> fluorphlogotite; titanium dioxide"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:copy-of-mica-rose-gold,Mica - Golden Peach,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide -> Mica, Titanium Dioxide, Tin Dioxide, Iron Oxide; inci_components: Mica; Titanium Dioxide; Iron Oxide -> Mica; Titanium Dioxide; Tin Dioxide; Iron Oxide; ingredient_keys: mica; titanium dioxide; iron oxide -> mica; titanium dioxide; tin dioxide; iron oxide"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-sage,Mica - Sage,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Chromium Oxide Green -> Mica, Titanium Dioxide, Tin Dioxide, Chromium Oxide Green; inci_components: Mica; Titanium Dioxide; Chromium Oxide Green -> Mica; Titanium Dioxide; Tin Dioxide; Chromium Oxide Green; ingredient_keys: mica; titanium dioxide; chromium oxide green -> mica; titanium dioxide; tin dioxide; chromium oxide green"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:mica-sage-1,Mica - Royal Blue,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents Perfect for blending in mineral make-up to crea... -> Description Details Documents Perfect for blending in mineral make-up to crea...; inci: Mica, Titanium Dioxide, Iron Oxide, Manganese Violet, Ultramarines -> Mica, Titanium Dioxide, Ultramarine Blue, Manganese Violet,; inci_components: Mica; Titanium Dioxide; Iron Oxide; Manganese Violet; Ultramarines -> Mica; Titanium Dioxide; Ultramarine Blue; Manganese Violet; ingredient_keys: mica; titanium dioxide; iron oxide; manganese violet; ultramarines -> mica; titanium dioxide; ultramarine blue; manganese violet"
+2026-11-23,20261123T212657Z,windy_point,raw_materials,windy_point:pigment-neon-bubblegum,Pigment - Neon Bubblegum,changed,"description, inci, inci_components, ingredient_keys","description: Description Details Documents A bright, fun, and non-bleeding colour perfect ... -> Description Details Documents A bright, fun, and non-bleeding colour perfect ...; inci: Polyester 3, Red 28 -> Polyurethane-11; inci_components: Polyester 3; Red 28 -> Polyurethane-11; ingredient_keys: polyester 3; red 28 -> polyurethane-11"
+2026-11-23,20261123T212657Z,formulator_sample_shop,raw_materials,formulator_sample_shop:olivemr-2090,OLIVEM® 2090,changed,"category, price_max, sizes",category:  -> Raw Material; price_max: 1364 -> 385; sizes: 2oz; 8oz; 1kg (2.2 lbs); 5kgs (11 lbs); 20kgs (44 lbs) -> 2oz; 8oz; 1kg (2.2 lbs); 5kgs (11 lbs)
+2026-11-23,20261123T212657Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-butylene-glycol-natural,FSS BUTYLENE GLYCOL-NATURAL,changed,in_stock,in_stock: false -> true
+2026-11-23,20261123T212657Z,lotioncrafter,raw_materials,lotioncrafter:biolatum,BioLatum™,changed,in_stock,in_stock: true -> false
 2026-11-22,20261122T171008Z,cosrx,products,cosrx:hydrium-moisture-power-enriched-cream,Hydrium Moisture Power Enriched Cream,changed,in_stock,in_stock: false -> true
 2026-11-22,20261122T171008Z,cosrx,products,cosrx:comfort-ceramide-soft-cream-sheet-mask,Balancium Comfort Ceramide Soft Cream Sheet Mask,changed,in_stock,in_stock: false -> true
 2026-11-22,20261122T171008Z,cosrx,products,cosrx:5-peptide-ceramide-barrier-comfort-lip-mask,5 Peptide Ceramide Barrier Comfort Lip Mask,changed,in_stock,in_stock: false -> true
@@ -1895,107 +1999,3 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3564700071403,Gel lavant 2 en 1 corps & cheveux,removed,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3564700012123,Gel douche corps et cheveux Boisé à l'extrait de cèdre du Liban,removed,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071414443,Shampoing Carrefour Soft BIO Aloe Vera,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071317416,Lait de toilette bébé,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071260569,savon de Marseille,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071249168,Savon Doux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071226152,Nectar of Bio,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071176204,Dentifrice Expert 8,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071176174,Dentalyss herbal,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071105624,Lingettes épaisses Sensitive,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560071073695,Savon extra doux Amande & Rhubarbe,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070969340,Masque nourrissant à la mangue et au beurre de noix,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070969074,Shampooing douceur et brillance au lait d'amande douce et à la fleur d'oranger,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070969043,Shampooing nourrissant à la mangue et au beurre de noix,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070968954,Shampooing gainant,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070947812,Shampooing ultra nourrissant à l'huile d'olive,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070947546,Shampooing à la pomme cheveux gras,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070925148,Crème mains réparatrice à l'huile d'argan,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070923281,Gel mousant Amande-Miel,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070923250,Gel moussant Aloe Vera,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070923229,Gel moussant Lavande,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070923199,Gel moussant Pêche,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070911400,Shampooing Cheveux secs,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070902705,Tonic Gel 3 en 1,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070902644,Déodorant anti transpirant invisible,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070897513,Carrefour Baby Liniment Oléo Calcaire,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070890996,Démaquillant waterproof démaquillage express,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070890514,Soin revitalisant anti-rides Nuit,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070883608,Eau de cologne,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070883356,Crème de douche Amande & pêche nourrissante,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070883202,Crème de douche lait de coton hydratante,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070881192,Stick lèvres Réparateur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070871575,Gel moussant mains Hygiène max,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070871513,Gel moussant mains Super Doux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070857463,Exclusive Gentlemen Extreme Player Vegas Gel douche musc vanillé,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070791613,Solution dentaire 0% Alcohol,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070791552,Fresh +,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070791460,Solution dentaire active anti-plaque,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070784608,Dentifrice Herbal,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070635214,Gel lavant au véritable savon de Marseille Olive et Citron,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070635184,Crème lavante protectrice à l'extrait naturel de coton,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070635153,Crème lavante adoucissante au lait d'amande,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070630899,Stick lèvres gourmand parfum fraise sauvage,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070630509,Nectar of beauty,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070629275,Crème jour hydratation délicate Aloé Vera & Huile d'Argan,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070627684,Color Boost Shampooing éclat absolu,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070625406,Crème lavante adoucissante au lait d'amande,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070625130,Déodorant 24h à l'extrait de vanille,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070624539,Gel douche énergisant bergamote citronnée,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070624416,Gel douche délicat à l'aloé vera,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070527175,Splashy bain-douche à l'extrait de framboise,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070416974,Gel intime bio,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070231584,Soin gommant corne & callosités,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070160440,Fil dentaire Specialist mentholé avec fluor,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070159024,dentifrice anti-tartre,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070158874,Fraise 2 in 1,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070158812,White - Dentifrice blancheur étincelante 2 en 1,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070158720,Dentifrice,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070158546,White Blancheur étincelante,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3560070115075,Fresh Mint,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3559480201966,Eau florale Bleuet Soin des yeux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549629000215,"Crème corps ultra nourrissante, Peaux sèches & sensibles",removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549621011677,Crème Mains Hydratante Huile d'Olive,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549621011660,Lait corps hydratant,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620040005,crème nettoyante anti-pollution,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620011616,Baume Lèvres Hydratant Huile d'Olive,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620011050,crème Visage & Corps,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620008517,(unnamed),removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620008456,Shampooing micellaire,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620008425,Shampoing Lait Soin Douceur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620007602,Crème douche extra douce Lait d'Amande,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620007039,Crème douche extra douce à la fleur d'oranger,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620007008,Crème douche extra douce Verveine - Citron,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620006315,Pur savon liquide surgras de Marseille beurre de karité,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620006056,Pur savon liquide de marseille - Parfum verveine citron,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620005592,Savon extra doux Surgras Huile d'Argan,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620005516,Savon Extra doux Surgras Huile d'Olive,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3549620005509,Savon extra doux Lavande,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3538396704105,Dentifrice charbon végétal,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3538396131604,Gel Douche - Haute tolérance - Mauve bio,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3538394651555,coslys (crème lavante mains douceur)),removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3538394000186,Dentifrice Blancheur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3537090016859,Shampooing crème cheveux normaux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3537090016507,Shampoing Douche pour toute la famille,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3537090016422,Lait Corps Hydratant Pour Toute La Famille Bio Ginkgo Biloba - - Centifolia,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3532281625605,Gel de massage aphrodisiaque Gingembre,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3532281624608,Gel de Massage Gourmand Comestible Fraise Onctueuse,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3525727539420,color & soin 6 G blond foncé doré,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3525727539413,Color & Soin 5G Light Golden,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3522935031098,Crème sorbet hydratant Vinosource,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3522930001867,Crème gourmande mains et ongles - Thé des vignes,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3522930000792,Crème gourmande mains et ongles,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3522930000068,Soin des lèvres,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3522930000013,Premières vendanges,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3518646213304,Bactidose Green Végétal Mousse Mains Sans Alcool,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3518646127540,LiNiDERM Liniment Soin pour le change,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3518646088094,Shampooing extra-doux dermo-protecteur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3518646087936,Neutraderm Gel Douche Surgras Dermo-protecteur. FL,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3518646023118,Crème pour les mains sèches à gercées,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3517360018271,Dentifrice Protection Blancheur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3517360017618,Mousse à raser fraîcheur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3517360017007,Eau Micellaire nettoyante,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3517360014198,Shampooing cheveux nourris Karité,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3517360014099,Shampooing Cheveux Fortifiés Guarana,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3517360013856,bb creme peau parfaite,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3517360013771,Hydra AloeVera,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3517360013764,Sérum hydratant apaisant,removed,,
