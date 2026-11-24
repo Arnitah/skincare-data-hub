@@ -22413,3 +22413,27 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:8904320079147,Baby Lotion,added,,
 2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:9327693001161,Botanical Body Wash Mango Paradise,added,,
 2026-11-23,20261123T212657Z,open_beauty_facts,products,open_beauty_facts:9349410000011,(unnamed),added,,
+2026-11-24,20261124T201031Z,lotioncrafter,raw_materials,lotioncrafter:dl-panthenol-25kg,"dl-Panthenol, 25kg Bulk",changed,description,description: This bulk package pricing is in lieu of Customer Rewards Points accrual or ot... -> 11/24/2026 - We have switched vendors and have received an alternative supply...
+2026-11-24,20261124T201031Z,formulator_sample_shop,raw_materials,formulator_sample_shop:olivemr-2090,OLIVEM® 2090,changed,"description, tags","description: OLIVEM® 2090 W/O Cold Process Emulsifier Olivem® 2090 is a derived natural in... -> OLIVEM® 2090 Select items, including this product, are not eligible for promo...; tags: All Products; Emulsifiers; Hair Products; Solubilizers -> All Products; Emulsifiers; Hair Products; Not eligible for promotional discou..."
+2026-11-24,20261124T201031Z,aromantic,raw_materials,aromantic:emulsifying-wax-btms-25,Emulsifying Wax (BTMS 25),changed,in_stock,in_stock: true -> false
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:0010181046353,Cocoa Butter Formula Daily Skin Therapy,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:0793052117436,Kakadu Plum Sunscreen Lotion,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:0850075780327,Nano-Hydroxyapatite Toothpaste ELA MINT,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:0850075780334,Whitening Toothpaste,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:3587925343940,Whitening Lemon Face Wash,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:4001499964428,Sensitiv-Spülmittel Aloe Vera,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:4056489988373,(unnamed),added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:6291108451243,After Shave Cool Balm,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:6295199811108,Zesty Lemon Body Wash,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8006530231428,Anti-Dandruff Shampoo Menthol Fresh,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8682397031373,Hyaluronic Acid Moisturizing Body Cream,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8806194067476,Wonder Ceramide Mochi Toner,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8809721161524,Berries Facial Sheet Mask,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8859064605537,Milbon No. 4 weekly booster masque medium hair,changed,"name, size",name: Milbon No. 4 weekly booster medium hair -> Milbon No. 4 weekly booster masque medium hair; size: 9g -> 4 x 9 g
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8886482911827,Sweet Repair Conditioner,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8904492003124,Korean Glass Skin Essence Face Wash,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8909106067318,Healthy Bright Daily Brightening Serum Lotion,added,,
+2026-11-24,20261124T201031Z,open_beauty_facts,products,open_beauty_facts:8909106093744,Cocoa Glow,added,,
+2026-11-24,20261124T201031Z,round_lab,products,round_lab:birch-moisturizing-pad,Birch Moisturizing Toner Pad,changed,in_stock,in_stock: true -> false
+2026-11-24,20261124T201031Z,cosrx,products,cosrx:cosrx-skin-barrier-moisturizing-body-cream,COSRX Skin Barrier Moisturizing Body Cream,changed,"price_min, size, sizes",price_min: 25 -> 10; size:  -> 15.2 fl.oz / 450ml; 2.70 fl.oz / 80ml; sizes:  -> 15.2 fl.oz / 450ml; 2.70 fl.oz / 80ml
+2026-11-24,20261124T201031Z,cosrx,products,cosrx:propolis-nourishing-magnet-sheet-mask,Full Fit Propolis Nourishing Magnet Sheet Mask,changed,in_stock,in_stock: false -> true
