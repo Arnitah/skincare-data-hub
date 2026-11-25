@@ -22437,3 +22437,36 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-24,20261124T201031Z,round_lab,products,round_lab:birch-moisturizing-pad,Birch Moisturizing Toner Pad,changed,in_stock,in_stock: true -> false
 2026-11-24,20261124T201031Z,cosrx,products,cosrx:cosrx-skin-barrier-moisturizing-body-cream,COSRX Skin Barrier Moisturizing Body Cream,changed,"price_min, size, sizes",price_min: 25 -> 10; size:  -> 15.2 fl.oz / 450ml; 2.70 fl.oz / 80ml; sizes:  -> 15.2 fl.oz / 450ml; 2.70 fl.oz / 80ml
 2026-11-24,20261124T201031Z,cosrx,products,cosrx:propolis-nourishing-magnet-sheet-mask,Full Fit Propolis Nourishing Magnet Sheet Mask,changed,in_stock,in_stock: false -> true
+2026-11-25,20261125T191758Z,lotioncrafter,raw_materials,lotioncrafter:olivem-1000-mb,Olivem® 1000 MB,changed,description,"description: CAS No. 348616-34-2, 223706-40-9 Olivem® 1000 MB  is a PEG-free non-ionic oil... -> November 2026: Supply chain issues with the manufacturer are currently affect..."
+2026-11-25,20261125T191758Z,formulator_sample_shop,raw_materials,formulator_sample_shop:dicaprylyl-carbonate,DICAPRYLYL CARBONATE,changed,"price_max, price_min",price_max: 990 -> 1185; price_min: 10 -> 10.5
+2026-11-25,20261125T191758Z,formulator_sample_shop,raw_materials,formulator_sample_shop:olivem-900,OLIVEM® 900,changed,"price_max, price_min",price_max: 595.25 -> 674.95; price_min: 7.22 -> 7.9
+2026-11-25,20261125T191758Z,formulator_sample_shop,raw_materials,formulator_sample_shop:olivem-1000-mb,OLIVEM® 1000 MB,changed,"price_max, price_min",price_max: 589.15 -> 750; price_min: 6.05 -> 6.9
+2026-11-25,20261125T191758Z,formulator_sample_shop,raw_materials,formulator_sample_shop:fss-ceramide-complex,FSS Ceramide Complex,changed,"price_max, price_min",price_max: 20625 -> 20960; price_min: 50 -> 51
+2026-11-25,20261125T191758Z,windy_point,raw_materials,windy_point:colloidal-oatmeal,Colloidal Oatmeal,changed,description,"description: Description Details Documents Colloidal Oatmeal is used in scrubs, soap, and ... -> Description Details Documents Colloidal Oatmeal is used in scrubs, soap, and ..."
+2026-11-25,20261125T191758Z,windy_point,raw_materials,windy_point:bentonite-clay,Bentonite Clay,changed,description,description: Description Details Documents Useful on oily skin. Excellent oil absorbing pr... -> Description Details Documents Useful on oily skin. Excellent oil absorbing pr...
+2026-11-25,20261125T191758Z,windy_point,raw_materials,windy_point:cetearyl-alcohol,Cetearyl Alcohol,changed,description,"description: Description Details Documents Cetearyl Alcohol, also know as Cetostearyl Alco... -> Description Details Documents Cetearyl Alcohol, also know as Cetostearyl Alco..."
+2026-11-25,20261125T191758Z,windy_point,raw_materials,windy_point:beet-root-powder,Beet Root Powder,changed,description,description: Description Details Documents Beet Root is a dark red vegetable that gained p... -> Description Details Documents Beet Root is a dark red vegetable that gained p...
+2026-11-25,20261125T191758Z,windy_point,raw_materials,windy_point:evening-primrose-oil-refined,Evening Primrose Oil,changed,description,description: Description Details Documents Evening Primrose Oil is a great oil for dry ski... -> Description Details Documents Evening Primrose Oil is a great oil for dry ski...
+2026-11-25,20261125T191758Z,aromantic,raw_materials,aromantic:neroli-essential-oil,Neroli Essential Oil,changed,in_stock,in_stock: false -> true
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:0049696240352,Moisturizing Hand Sanitizer with Collagen,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:0080878203055,Pro-V Multi-Care Conditioner,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:0080878203062,Pro-V Multi-Care Shampoo,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:0111000000645,Healing Hydrating Cream,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:0667659400942,Champagne Toast,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:0811068019237,Body Lotion Glow & Radiance Citrus Essential Oils with Vitamin C,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:0884400381163,Turmeric Glow Bar,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:4005900259974,PROT SOL NIVEA PIEL SENS 50FPS,changed,"category, name, tags",category: open-beauty-facts -> ; name: protector solar -> PROT SOL NIVEA PIEL SENS 50FPS; tags: non food products; open beauty facts -> 
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:4005900708298,Crema corporal aloe refrescante,changed,"category, tags",category: open-beauty-facts -> ; tags: non food products; open beauty facts -> 
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:6974780226254,Dark Brown Hair Dye Shampoo,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7501082721683,Crema manteca karité,changed,"category, ingredients_text, tags","category: open-beauty-facts -> ; ingredients_text: INGREDIENTES: Aqua (Water), Mineral Oil, Cetyl Alcohol, Glycerin, Stearic Aci... -> ES: Aqua (Water), Mineral Oil, Cetyl Alcohol, Glycerin, Stearic Acid, Ceteth ...; tags: non food products; open beauty facts -> "
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7506306252875,Sérum Corporal Niacinamida + Tono Uniforme,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7506306253070,Sérum Concentrado Corporal,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7707314970069,Gel Hidratante y Refrescante (Hydrating & Refreshing Gel),added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7709794671726,Crema Humectante WOMEN (Olfactory Skincare Hand & Body Moisturizing),added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7709794671764,Crema Humectante MEN (Olfactory Skincare Hand & Body Moisturizing),added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7750075050099,Keratin Anti-Frizz Xtreme Care Straightening Kit (Alisado sin plancha) – Straightening Mask + Post Shampoo + Post Conditioner,added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7750075058767,Coconut Retinol & Almond Oil Deep Treatment (Reconstruction & Shine),added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:7750075063563,Hyaluronic Conditioner Keratin Coenzyme Q10 (Deep Hydration & Anti-Breakage),added,,
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:8025796009466,saponetta vegetale tea tree,changed,"ingredients, ingredients_text","ingredients_text: Ingredients: Sodium Palmate*, Sodium Palm Kernelate*, Aqua (Water), Glycerin,... -> Ingredients: Sodium Palmate, Sodium Palm Kernelate*, Aqua (Water), Glycerin, ..."
+2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:8411135009677,Lactourea 10 Repairing Body Milk (Leche corporal reparadora),added,,
+2026-11-25,20261125T191758Z,cosrx,products,cosrx:full-fit-propolis-light-ampoule,Full fit Propolis Light Ampoule,changed,in_stock,in_stock: true -> false

@@ -4939,6 +4939,27 @@ open_beauty_facts:0010181043352,28,Ethylhexylglycerin,ethylhexylglycerin
 open_beauty_facts:0010181043352,29,Benzyl Alcohol. inst animal testing. Drug Co,benzyl alcohol. inst animal testing. drug co
 open_beauty_facts:0010181043352,30,FL U.K. etics (RSA),fl u.k. etics
 open_beauty_facts:0010181043352,31,Durban Towne Drug Co,durban towne drug co
+open_beauty_facts:0010181046353,1,Water (Aqua),water
+open_beauty_facts:0010181046353,2,Theobroma Cacao (Cocoa) Seed Butter,theobroma cacao seed butter
+open_beauty_facts:0010181046353,3,Elaeis Guineensis (Palm) Oil,elaeis guineensis oil
+open_beauty_facts:0010181046353,4,Glycerin,glycerin
+open_beauty_facts:0010181046353,5,Glyceryl Stearate,glyceryl stearate
+open_beauty_facts:0010181046353,6,Dimethicone,dimethicone
+open_beauty_facts:0010181046353,7,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:0010181046353,8,Helianthus Annuus (Sunflower) Seed Oil,helianthus annuus seed oil
+open_beauty_facts:0010181046353,9,PEG-8 Stearate,peg-8 stearate
+open_beauty_facts:0010181046353,10,Hydroxyethylcellulose,hydroxyethylcellulose
+open_beauty_facts:0010181046353,11,Fragrance (Parfum),fragrance
+open_beauty_facts:0010181046353,12,Theobroma Cacao (Cocoa) Extract,theobroma cacao extract
+open_beauty_facts:0010181046353,13,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates c10-30 alkyl acrylate crosspolymer
+open_beauty_facts:0010181046353,14,Triethanolamine,triethanolamine
+open_beauty_facts:0010181046353,15,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:0010181046353,16,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:0010181046353,17,Stearamide AMP,stearamide amp
+open_beauty_facts:0010181046353,18,Disodium EDTA,disodium edta
+open_beauty_facts:0010181046353,19,PEG-8,peg-8
+open_beauty_facts:0010181046353,20,Methylisothiazolinone,methylisothiazolinone
+open_beauty_facts:0010181046353,21,Caramel,caramel
 open_beauty_facts:0010181046728,1,Water (Aqua),water
 open_beauty_facts:0010181046728,2,Theobroma Cacao (Cocoa) Extract,theobroma cacao extract
 open_beauty_facts:0010181046728,3,Dihydroxyacetone,dihydroxyacetone
@@ -52166,6 +52187,11 @@ open_beauty_facts:0792850910881,19,for burt's bees,for burt s bees
 open_beauty_facts:0792850910881,20,inc,inc
 open_beauty_facts:0792850910881,21,durham,durham
 open_beauty_facts:0792850910881,22,vol optical ik,vol optical ik
+open_beauty_facts:0793052117436,1,Homosalate 100mg/g,homosalate 100mg g
+open_beauty_facts:0793052117436,2,Octocrylene 80mg/g,octocrylene 80mg g
+open_beauty_facts:0793052117436,3,Octyl Salicylate 50mg/g,octyl salicylate 50mg g
+open_beauty_facts:0793052117436,4,Butyl Methoxydibenzoylmethane 40mg/g,butyl methoxydibenzoylmethane 40mg g
+open_beauty_facts:0793052117436,5,Caprylyl Glycol and Octanohydroxamic Acid as antimicrobial preservatives,caprylyl glycol and octanohydroxamic acid as antimicrobial preservatives
 open_beauty_facts:0793379245584,1,Homosalate 12%,homosalate 12
 open_beauty_facts:0793379245584,2,Octinoxate 7.5%,octinoxate 7.5
 open_beauty_facts:0793379245584,3,Octocrylene 2%,octocrylene 2
@@ -65417,6 +65443,49 @@ open_beauty_facts:0850075780020,24,Aloe Vera (Aloe Barbadensis) Leaf Juice,aloe 
 open_beauty_facts:0850075780020,25,Green Tea (Camellia Sinensis) Leaf Extract,green tea leaf extract
 open_beauty_facts:0850075780020,26,Cucumber (Cucumis Sativus) Fruit Extract,cucumber fruit extract
 open_beauty_facts:0850075780020,27,Mango (Mangifera Indica) Fruit Extract,mango fruit extract
+open_beauty_facts:0850075780327,1,Water,water
+open_beauty_facts:0850075780327,2,Glycerin,glycerin
+open_beauty_facts:0850075780327,3,Hydrated Silica,hydrated silica
+open_beauty_facts:0850075780327,4,Xylitol,xylitol
+open_beauty_facts:0850075780327,5,Sorbitol,sorbitol
+open_beauty_facts:0850075780327,6,Calcium Carbonate,calcium carbonate
+open_beauty_facts:0850075780327,7,Sodium Cocoyl Glutamate,sodium cocoyl glutamate
+open_beauty_facts:0850075780327,8,Cellulose Gum,cellulose gum
+open_beauty_facts:0850075780327,9,Hydroxyapatite,hydroxyapatite
+open_beauty_facts:0850075780327,10,Mentha Piperita (Peppermint) Oil,mentha piperita oil
+open_beauty_facts:0850075780327,11,Mentha Viridis (Spearmint) Leaf Oil,mentha viridis leaf oil
+open_beauty_facts:0850075780327,12,Eucalyptus Globulus Leaf Oil,eucalyptus globulus leaf oil
+open_beauty_facts:0850075780327,13,Sodium Methyl Cocoyl Taurate,sodium methyl cocoyl taurate
+open_beauty_facts:0850075780327,14,Stevia Rebaudiana Extract,stevia rebaudiana extract
+open_beauty_facts:0850075780327,15,Xanthan Gum,xanthan gum
+open_beauty_facts:0850075780327,16,Citric Acid,citric acid
+open_beauty_facts:0850075780327,17,Menthol,menthol
+open_beauty_facts:0850075780327,18,Sodium Benzoate,sodium benzoate
+open_beauty_facts:0850075780327,19,Limonene,limonene
+open_beauty_facts:0850075780327,20,Linalool,linalool
+open_beauty_facts:0850075780334,1,Water,water
+open_beauty_facts:0850075780334,2,Sorbitol,sorbitol
+open_beauty_facts:0850075780334,3,Glycerin,glycerin
+open_beauty_facts:0850075780334,4,Hydrated Silica,hydrated silica
+open_beauty_facts:0850075780334,5,Xylitol,xylitol
+open_beauty_facts:0850075780334,6,Calcium Hydroxyapatite,calcium hydroxyapatite
+open_beauty_facts:0850075780334,7,Sodium Lauroyl Sarcosinate,sodium lauroyl sarcosinate
+open_beauty_facts:0850075780334,8,Cellulose Gum,cellulose gum
+open_beauty_facts:0850075780334,9,Xanthan Gum,xanthan gum
+open_beauty_facts:0850075780334,10,Mentha Piperita (Peppermint) Oil,mentha piperita oil
+open_beauty_facts:0850075780334,11,Mentha Viridis (Spearmint) Leaf Oil,mentha viridis leaf oil
+open_beauty_facts:0850075780334,12,Menthol,menthol
+open_beauty_facts:0850075780334,13,Stevia Rebaudiana Extract,stevia rebaudiana extract
+open_beauty_facts:0850075780334,14,Echinacea Purpurea Extract,echinacea purpurea extract
+open_beauty_facts:0850075780334,15,Chamomilla Recutita (Matricaria) Flower Extract,chamomilla recutita flower extract
+open_beauty_facts:0850075780334,16,Camellia Sinensis Leaf Extract,camellia sinensis leaf extract
+open_beauty_facts:0850075780334,17,Punica Granatum (Pomegranate) Fruit Extract,punica granatum fruit extract
+open_beauty_facts:0850075780334,18,Aloe Barbadensis Leaf Juice,aloe barbadensis leaf juice
+open_beauty_facts:0850075780334,19,Vaccinium Macrocarpon (Cranberry) Fruit Extract,vaccinium macrocarpon fruit extract
+open_beauty_facts:0850075780334,20,Prunus Armeniaca (Apricot) Fruit Extract,prunus armeniaca fruit extract
+open_beauty_facts:0850075780334,21,Anethole,anethole
+open_beauty_facts:0850075780334,22,Menthol,menthol
+open_beauty_facts:0850075780334,23,Silicate,silicate
 open_beauty_facts:0850075780679,1,WATER,water
 open_beauty_facts:0850075780679,2,GLYCERIN,glycerin
 open_beauty_facts:0850075780679,3,HYDRATED SILICA,hydrated silica
@@ -125989,6 +126058,28 @@ open_beauty_facts:3587741651403,2,la vitalidod Enriquecida con aceite de higo ch
 open_beauty_facts:3587741651403,3,famoso por sus potenfes propiedodes protectoras,famoso por sus potenfes propiedodes protectoras
 open_beauty_facts:3587741651403,4,cicatrizante,cicatrizante
 open_beauty_facts:3587741651403,5,calmante e hidratante,calmante e hidratante
+open_beauty_facts:3587925343940,1,Aqua,water
+open_beauty_facts:3587925343940,2,Glycerin,glycerin
+open_beauty_facts:3587925343940,3,Myristic Acid,myristic acid
+open_beauty_facts:3587925343940,4,Lauric Acid,lauric acid
+open_beauty_facts:3587925343940,5,Stearic Acid,stearic acid
+open_beauty_facts:3587925343940,6,Glyceryl Distearate,glyceryl distearate
+open_beauty_facts:3587925343940,7,Potassium Hydroxide,potassium hydroxide
+open_beauty_facts:3587925343940,8,PEG-14M,peg-14m
+open_beauty_facts:3587925343940,9,EDTA,edta
+open_beauty_facts:3587925343940,10,Coco-Glucoside,coco-glucoside
+open_beauty_facts:3587925343940,11,Hydroxypropyl Guar,hydroxypropyl guar
+open_beauty_facts:3587925343940,12,Hydroxypropyltrimonium Chloride,hydroxypropyltrimonium chloride
+open_beauty_facts:3587925343940,13,Ascorbyl Glucoside,ascorbyl glucoside
+open_beauty_facts:3587925343940,14,Niacinamide,niacinamide
+open_beauty_facts:3587925343940,15,Licorice Extract,licorice extract
+open_beauty_facts:3587925343940,16,Lemon Extract,lemon extract
+open_beauty_facts:3587925343940,17,Perfume,fragrance
+open_beauty_facts:3587925343940,18,Citral,citral
+open_beauty_facts:3587925343940,19,Geraniol,geraniol
+open_beauty_facts:3587925343940,20,Hexyl cinnamal,hexyl cinnamal
+open_beauty_facts:3587925343940,21,Linalool,linalool
+open_beauty_facts:3587925343940,22,Limonene,limonene
 open_beauty_facts:3589124004134,1,AQUA/WATER,water
 open_beauty_facts:3589124004134,2,CETEARYL ALCOHOL,cetearyl alcohol
 open_beauty_facts:3589124004134,3,PROPYLENE GLYCOL DIBENZOATE,propylene glycol dibenzoate
@@ -171964,6 +172055,12 @@ open_beauty_facts:4001499957482,11,Lactic Acid,lactic acid
 open_beauty_facts:4001499957482,12,Sodium Benzoate,sodium benzoate
 open_beauty_facts:4001499957482,13,Parfum,fragrance
 open_beauty_facts:4001499957482,14,CI 45100,ci 45100
+open_beauty_facts:4001499964428,1,5–15 % anionische Tenside,515 anionische tenside
+open_beauty_facts:4001499964428,2,5 % amphotere Tenside,5 amphotere tenside
+open_beauty_facts:4001499964428,3,non-ionische Tenside,non-ionische tenside
+open_beauty_facts:4001499964428,4,Duftstoffe,duftstoffe
+open_beauty_facts:4001499964428,5,Sodium Benzoate,sodium benzoate
+open_beauty_facts:4001499964428,6,Aloe Vera Barbadensis,aloe vera barbadensis
 open_beauty_facts:4001499973468,1,Formaldehyd,formaldehyd
 open_beauty_facts:4001499973468,2,insbesondere von Auflaufformen. pH-hautneutral,insbesondere von auflaufformen. ph-hautneutral
 open_beauty_facts:4001499973468,3,dermatologisch getestet. Reinigt Geschirr,dermatologisch getestet. reinigt geschirr
@@ -198736,6 +198833,34 @@ open_beauty_facts:4056489970873,18,Benzoic Acid,benzoic acid
 open_beauty_facts:4056489970873,19,Sodium Hydroxide,sodium hydroxide
 open_beauty_facts:4056489970873,20,Potassium Sorbate,potassium sorbate
 open_beauty_facts:4056489970873,21,Linalyl Acetate,linalyl acetate
+open_beauty_facts:4056489988373,1,thes supple Dire irse Massage into skin several times daily,thes supple dire irse massage into skin several times daily
+open_beauty_facts:4056489988373,2,as required. Lid Great Did House,as required. lid great did house
+open_beauty_facts:4056489988373,3,14 Kingston Road,14 kingston road
+open_beauty_facts:4056489988373,4,Surbiton,surbiton
+open_beauty_facts:4056489988373,5,KTS SNUL Lidl Ireland C Road,kts snul lidl ireland c road
+open_beauty_facts:4056489988373,6,Tallaght,tallaght
+open_beauty_facts:4056489988373,7,Dublin 24,dublin 24
+open_beauty_facts:4056489988373,8,Glycerin,glycerin
+open_beauty_facts:4056489988373,9,Ethylhexyl Salicylate,ethylhexyl salicylate
+open_beauty_facts:4056489988373,10,Ethylhexyl S alic/Capric Triglyceride,ethylhexyl s alic capric triglyceride
+open_beauty_facts:4056489988373,11,Cetearyl Alcohol,cetearyl alcohol
+open_beauty_facts:4056489988373,12,Ethylhexyl Triazone,ethylhexyl triazone
+open_beauty_facts:4056489988373,13,G Tocopheryl Acetate,g tocopheryl acetate
+open_beauty_facts:4056489988373,14,Ubiquinone,ubiquinone
+open_beauty_facts:4056489988373,15,Butyrospermum Parki fum,butyrospermum parki fum
+open_beauty_facts:4056489988373,16,Butyl Methoxydibenzoylmethane,butyl methoxydibenzoylmethane
+open_beauty_facts:4056489988373,17,Sodium Stearoyl Glutama atan Gum,sodium stearoyl glutama atan gum
+open_beauty_facts:4056489988373,18,Aspartic Acid,aspartic acid
+open_beauty_facts:4056489988373,19,Phenonyethanol,phenonyethanol
+open_beauty_facts:4056489988373,20,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:4056489988373,21,Ethyl ein,ethyl ein
+open_beauty_facts:4056489988373,22,Linalool,linalool
+open_beauty_facts:4056489988373,23,Citronellol,citronellol
+open_beauty_facts:4056489988373,24,Disodium Phosphate,disodium phosphate
+open_beauty_facts:4056489988373,25,Potassium Phopla codium Iminodisuccinate,potassium phopla codium iminodisuccinate
+open_beauty_facts:4056489988373,26,Fumate Acid,fumate acid
+open_beauty_facts:4056489988373,27,Citric Acid,citric acid
+open_beauty_facts:4056489988373,28,Sodium Hyd eic Acid,sodium hyd eic acid
 open_beauty_facts:4056489997597,1,Aqua,water
 open_beauty_facts:4056489997597,2,Sodium Palm Kernelate,sodium palm kernelate
 open_beauty_facts:4056489997597,3,Sodium Chloride,sodium chloride
@@ -278591,6 +278716,16 @@ open_beauty_facts:6291107456058,7,Geraniol,geraniol
 open_beauty_facts:6291107456058,8,Eugenol,eugenol
 open_beauty_facts:6291107456058,9,Alpha-isomethyl Ionone,alpha-isomethyl ionone
 open_beauty_facts:6291107456058,10,Citronellol. Isoeugenol,citronellol. isoeugenol
+open_beauty_facts:6291108451243,1,Aqua (Purified Water),water
+open_beauty_facts:6291108451243,2,Glycerin,glycerin
+open_beauty_facts:6291108451243,3,Iso propyl Palmitate,iso propyl palmitate
+open_beauty_facts:6291108451243,4,Caprylic Capric Triglyceride,caprylic capric triglyceride
+open_beauty_facts:6291108451243,5,Chamomilla Recutita Flower Extract,chamomilla recutita flower extract
+open_beauty_facts:6291108451243,6,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:6291108451243,7,Tapioca starch,tapioca starch
+open_beauty_facts:6291108451243,8,Tricoteareath-4 Phosphate,tricoteareath-4 phosphate
+open_beauty_facts:6291108451243,9,Bisabolol,bisabolol
+open_beauty_facts:6291108451243,10,Parfum,fragrance
 open_beauty_facts:6291109180456,1,aqua,water
 open_beauty_facts:6291109180456,2,sodium laureth sulfate,sodium laureth sulfate
 open_beauty_facts:6291109180456,3,cocamide MEA,cocamide mea
@@ -278756,6 +278891,44 @@ open_beauty_facts:6295125035608,4,TRIMETILSILOXISILICATO,trimetilsiloxisilicato
 open_beauty_facts:6295125035608,5,COPOLIMERO DE ETILENO / PROPILENO / ESTIRENO,copolimero de etileno propileno estireno
 open_beauty_facts:6295125035608,6,FENOXIETANOL,fenoxietanol
 open_beauty_facts:6295125035608,7,ETILHEXILGLICERINA,etilhexilglicerina
+open_beauty_facts:6295199811108,1,Aqua (Water),water
+open_beauty_facts:6295199811108,2,Sodium Laureth Sulfate,sodium laureth sulfate
+open_beauty_facts:6295199811108,3,Glycerin,glycerin
+open_beauty_facts:6295199811108,4,Cocamidopropyl Betaine,cocamidopropyl betaine
+open_beauty_facts:6295199811108,5,Coco Glucoside,coco glucoside
+open_beauty_facts:6295199811108,6,Perfume,fragrance
+open_beauty_facts:6295199811108,7,Acrylates Copolymer,acrylates copolymer
+open_beauty_facts:6295199811108,8,Cocamide MEA,cocamide mea
+open_beauty_facts:6295199811108,9,PEG-7 Glyceryl Cocoate,peg-7 glyceryl cocoate
+open_beauty_facts:6295199811108,10,Lauramine Oxide,lauramine oxide
+open_beauty_facts:6295199811108,11,Polyquaternium-7,polyquaternium-7
+open_beauty_facts:6295199811108,12,Glycol Distearate,glycol distearate
+open_beauty_facts:6295199811108,13,Citric Acid,citric acid
+open_beauty_facts:6295199811108,14,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:6295199811108,15,Sodium Chloride,sodium chloride
+open_beauty_facts:6295199811108,16,Sodium PCA,sodium pca
+open_beauty_facts:6295199811108,17,Sodium Hydroxide,sodium hydroxide
+open_beauty_facts:6295199811108,18,Propylene Glycol,propylene glycol
+open_beauty_facts:6295199811108,19,Tetrasodium EDTA,tetrasodium edta
+open_beauty_facts:6295199811108,20,Butyrospermum Parkii (Shea) Butter,butyrospermum parkii butter
+open_beauty_facts:6295199811108,21,Prunus Amygdalus Dulcis (Almond) Oil,prunus amygdalus dulcis oil
+open_beauty_facts:6295199811108,22,Citrus Limon (Lemon) Peel Oil,citrus limon peel oil
+open_beauty_facts:6295199811108,23,Citrus Paradisi (Grapefruit) Peel Oil,citrus paradisi peel oil
+open_beauty_facts:6295199811108,24,Sodium Benzoate,sodium benzoate
+open_beauty_facts:6295199811108,25,Sodium Chloride,sodium chloride
+open_beauty_facts:6295199811108,26,Citrus Grandis (Grapefruit) Fruit Extract,citrus grandis fruit extract
+open_beauty_facts:6295199811108,27,Sodium Benzoate,sodium benzoate
+open_beauty_facts:6295199811108,28,Sodium Chloride,sodium chloride
+open_beauty_facts:6295199811108,29,Sodium Sulfate,sodium sulfate
+open_beauty_facts:6295199811108,30,Sodium Citrate,sodium citrate
+open_beauty_facts:6295199811108,31,Acrylates Copolymer,acrylates copolymer
+open_beauty_facts:6295199811108,32,Disodium EDTA,disodium edta
+open_beauty_facts:6295199811108,33,Butylphenyl Methylpropional,butylphenyl methylpropional
+open_beauty_facts:6295199811108,34,Citronellol,citronellol
+open_beauty_facts:6295199811108,35,Alcohol,alcohol
+open_beauty_facts:6295199811108,36,Citral,citral
+open_beauty_facts:6295199811108,37,Geraniol,geraniol
+open_beauty_facts:6295199811108,38,Linalool,linalool
 open_beauty_facts:6297811169055,1,Aqua Carbomer,aqua carbomer
 open_beauty_facts:6297811169055,2,Glycerin,glycerin
 open_beauty_facts:6297811169055,3,Propylene Glycol,propylene glycol
@@ -310448,6 +310621,28 @@ open_beauty_facts:8006530231398,32,CI 42090,ci 42090
 open_beauty_facts:8006530231398,33,Methylchloroisothiazolinone,methylchloroisothiazolinone
 open_beauty_facts:8006530231398,34,Magnesium Chloride,magnesium chloride
 open_beauty_facts:8006530231398,35,Methylisothiazolinone,methylisothiazolinone
+open_beauty_facts:8006530231428,1,Aqua,water
+open_beauty_facts:8006530231428,2,Sodium Laureth Sulfate,sodium laureth sulfate
+open_beauty_facts:8006530231428,3,Sodium Lauryl Sulfate,sodium lauryl sulfate
+open_beauty_facts:8006530231428,4,Cocamidopropyl Betaine,cocamidopropyl betaine
+open_beauty_facts:8006530231428,5,Sodium Chloride,sodium chloride
+open_beauty_facts:8006530231428,6,Zinc Carbonate,zinc carbonate
+open_beauty_facts:8006530231428,7,Glycol Distearate,glycol distearate
+open_beauty_facts:8006530231428,8,Sodium Xylenesulfonate,sodium xylenesulfonate
+open_beauty_facts:8006530231428,9,Sodium Citrate,sodium citrate
+open_beauty_facts:8006530231428,10,Dimethicone,dimethicone
+open_beauty_facts:8006530231428,11,Sodium Benzoate,sodium benzoate
+open_beauty_facts:8006530231428,12,Cocamide MEA,cocamide mea
+open_beauty_facts:8006530231428,13,Parfum,fragrance
+open_beauty_facts:8006530231428,14,Citric Acid,citric acid
+open_beauty_facts:8006530231428,15,Guar Hydroxypropyltrimonium Chloride,guar hydroxypropyltrimonium chloride
+open_beauty_facts:8006530231428,16,Menthol,menthol
+open_beauty_facts:8006530231428,17,Mentha Arvensis Leaf Oil,mentha arvensis leaf oil
+open_beauty_facts:8006530231428,18,Hexyl Cinnamal,hexyl cinnamal
+open_beauty_facts:8006530231428,19,Linalool,linalool
+open_beauty_facts:8006530231428,20,Magnesium Carbonate Hydroxide,magnesium carbonate hydroxide
+open_beauty_facts:8006530231428,21,CI 42090,ci 42090
+open_beauty_facts:8006530231428,22,CI 17200,ci 17200
 open_beauty_facts:8006530253567,1,Aqua,water
 open_beauty_facts:8006530253567,2,Sodium Laureth Sulfate,sodium laureth sulfate
 open_beauty_facts:8006530253567,3,Sodium Xylenesulfonate,sodium xylenesulfonate
@@ -314355,7 +314550,7 @@ open_beauty_facts:8025796009466,1,Sodium Palmate,sodium palmate
 open_beauty_facts:8025796009466,2,Sodium Palm Kernelate,sodium palm kernelate
 open_beauty_facts:8025796009466,3,Aqua (Water),water
 open_beauty_facts:8025796009466,4,Glycerin,glycerin
-open_beauty_facts:8025796009466,5,Prunus Amygdalus Dulcis Oil (Prunus Amygdalus Dulcis (Sweet Almond) Oil),prunus amygdalus dulcis oil oil
+open_beauty_facts:8025796009466,5,Prunus Amygdalus Dulcis Oil (Prunus Amygdalus Dulcis (Sweet. Almond) Oil),prunus amygdalus dulcis oil oil
 open_beauty_facts:8025796009466,6,Melaleuca Alternifolia Leaf Oil (Melaleuca Alternifolia (Tea Tree) Leaf Oil),melaleuca alternifolia leaf oil leaf oil
 open_beauty_facts:8025796009466,7,Citrus Limon Fruit Extract (Citrus Limon (Lemon) Fruit Extract),citrus limon fruit extract fruit extract
 open_beauty_facts:8025796009466,8,Citric Acid,citric acid
@@ -335834,6 +336029,37 @@ open_beauty_facts:8682397030659,17,Phenylalanine,phenylalanine
 open_beauty_facts:8682397030659,18,Sodium Benzoate,sodium benzoate
 open_beauty_facts:8682397030659,19,Potassium Sorbate,potassium sorbate
 open_beauty_facts:8682397030659,20,Hydroxyethylcellulose,hydroxyethylcellulose
+open_beauty_facts:8682397031373,1,Aqua (Water),water
+open_beauty_facts:8682397031373,2,Glycerin,glycerin
+open_beauty_facts:8682397031373,3,Panthenol,panthenol
+open_beauty_facts:8682397031373,4,Butyrospermum Parkii (Shea) Butter,butyrospermum parkii butter
+open_beauty_facts:8682397031373,5,Squalane,squalane
+open_beauty_facts:8682397031373,6,Simmondsia Chinensis (Jojoba) Seed Oil,simmondsia chinensis seed oil
+open_beauty_facts:8682397031373,7,Sodium Hyaluronate,sodium hyaluronate
+open_beauty_facts:8682397031373,8,Ceramide NP,ceramide np
+open_beauty_facts:8682397031373,9,Sodium PCA,sodium pca
+open_beauty_facts:8682397031373,10,Sodium Lactate,sodium lactate
+open_beauty_facts:8682397031373,11,Allantoin,allantoin
+open_beauty_facts:8682397031373,12,Inulin Lauryl Carbamate,inulin lauryl carbamate
+open_beauty_facts:8682397031373,13,Arginine,arginine
+open_beauty_facts:8682397031373,14,Aspartic Acid,aspartic acid
+open_beauty_facts:8682397031373,15,PCA,pca
+open_beauty_facts:8682397031373,16,Glycine,glycine
+open_beauty_facts:8682397031373,17,Alanine,alanine
+open_beauty_facts:8682397031373,18,Serine,serine
+open_beauty_facts:8682397031373,19,Valine,valine
+open_beauty_facts:8682397031373,20,Proline,proline
+open_beauty_facts:8682397031373,21,Threonine,threonine
+open_beauty_facts:8682397031373,22,Isoleucine,isoleucine
+open_beauty_facts:8682397031373,23,Histidine,histidine
+open_beauty_facts:8682397031373,24,Phenylalanine,phenylalanine
+open_beauty_facts:8682397031373,25,Potassium Cetyl Phosphate,potassium cetyl phosphate
+open_beauty_facts:8682397031373,26,Xanthan Gum,xanthan gum
+open_beauty_facts:8682397031373,27,Phenethyl Alcohol,phenethyl alcohol
+open_beauty_facts:8682397031373,28,Capryl Glycol,capryl glycol
+open_beauty_facts:8682397031373,29,Parfum (Fragrance),fragrance
+open_beauty_facts:8682397031373,30,Sodium Hydroxide,sodium hydroxide
+open_beauty_facts:8682397031373,31,Tetrasodium EDTA,tetrasodium edta
 open_beauty_facts:8682397031427,1,Zea Mays (Corn) Starch,zea mays starch
 open_beauty_facts:8682397031427,2,Sodium Cocoyl Isethionate,sodium cocoyl isethionate
 open_beauty_facts:8682397031427,3,Melaleuca Alternifolia (Tea Tree) Leaf Oil,melaleuca alternifolia leaf oil
@@ -373659,6 +373885,33 @@ open_beauty_facts:8806194023212,34,sodium hyaluronate,sodium hyaluronate
 open_beauty_facts:8806194023212,35,hydrolyzed collagen,hydrolyzed collagen
 open_beauty_facts:8806194023212,36,hydroxyacetophenone,hydroxyacetophenone
 open_beauty_facts:8806194023212,37,chlorphenesin,chlorphenesin
+open_beauty_facts:8806194067476,1,Water,water
+open_beauty_facts:8806194067476,2,Dipropylene Glycol,dipropylene glycol
+open_beauty_facts:8806194067476,3,Glycerin,glycerin
+open_beauty_facts:8806194067476,4,Pentaerythrityl Tetraisostearate,pentaerythrityl tetraisostearate
+open_beauty_facts:8806194067476,5,Glyceryl-26,glyceryl-26
+open_beauty_facts:8806194067476,6,"1,2-Hexanediol","1,2-hexanediol"
+open_beauty_facts:8806194067476,7,Macadamia Ternifolia Seed Oil,macadamia ternifolia seed oil
+open_beauty_facts:8806194067476,8,Phenyl Trimethicone,phenyl trimethicone
+open_beauty_facts:8806194067476,9,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,hydroxyethyl acrylate sodium acryloyldimethyl taurate copolymer
+open_beauty_facts:8806194067476,10,Styrene/VP Copolymer,styrene vp copolymer
+open_beauty_facts:8806194067476,11,Ethylhexylglycerin,ethylhexylglycerin
+open_beauty_facts:8806194067476,12,Centella Asiatica Extract,centella asiatica extract
+open_beauty_facts:8806194067476,13,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates c10-30 alkyl acrylate crosspolymer
+open_beauty_facts:8806194067476,14,Triethamine,triethamine
+open_beauty_facts:8806194067476,15,Caprylic/Capric Triglyceride,caprylic capric triglyceride
+open_beauty_facts:8806194067476,16,Allantoin,allantoin
+open_beauty_facts:8806194067476,17,Hydrogenated Lecithin,hydrogenated lecithin
+open_beauty_facts:8806194067476,18,Propanediol,propanediol
+open_beauty_facts:8806194067476,19,Panthenol,panthenol
+open_beauty_facts:8806194067476,20,Phytosteryl/Octyldodecyl Lauroyl Glutamate,phytosteryl octyldodecyl lauroyl glutamate
+open_beauty_facts:8806194067476,21,"Ceramide NP(5,000ppm)",ceramide np
+open_beauty_facts:8806194067476,22,Sodium Hyaluronate,sodium hyaluronate
+open_beauty_facts:8806194067476,23,Aniba Rosodora (Rosewood) Wood Oil,aniba rosodora wood oil
+open_beauty_facts:8806194067476,24,Citrus Limon (Lemon) Peel Oil,citrus limon peel oil
+open_beauty_facts:8806194067476,25,Disodium EDTA,disodium edta
+open_beauty_facts:8806194067476,26,Linalool,linalool
+open_beauty_facts:8806194067476,27,Limonene,limonene
 open_beauty_facts:8806334355975,1,Aloe Barbadensis Leaf Juice,aloe barbadensis leaf juice
 open_beauty_facts:8806334355975,2,Water,water
 open_beauty_facts:8806334355975,3,Lauryl Hydroxysultaine,lauryl hydroxysultaine
@@ -377120,6 +377373,37 @@ open_beauty_facts:8809700321697,11,Ethylhexylglycerin,ethylhexylglycerin
 open_beauty_facts:8809700321697,12,Xanthan Gum,xanthan gum
 open_beauty_facts:8809700321697,13,Disodium EDTA,disodium edta
 open_beauty_facts:8809700321697,14,Cyanocobalamin,cyanocobalamin
+open_beauty_facts:8809721161524,1,Water,water
+open_beauty_facts:8809721161524,2,Glycerin,glycerin
+open_beauty_facts:8809721161524,3,Dipropylene Glycol,dipropylene glycol
+open_beauty_facts:8809721161524,4,Vaccinium Macrocarpon (Cranberry) Fruit Extract(0.0068%),vaccinium macrocarpon fruit extract
+open_beauty_facts:8809721161524,5,Vaccinium Angustifolium (Blueberry) Fruit Extract(0.0068%),vaccinium angustifolium fruit extract
+open_beauty_facts:8809721161524,6,Rubus Idaeus (Raspberry) Fruit Extract(0.0068%),rubus idaeus fruit extract
+open_beauty_facts:8809721161524,7,Fragaria Vesca (Strawberry) Leaf Extract(0.0068%),fragaria vesca leaf extract
+open_beauty_facts:8809721161524,8,Niacinamide,niacinamide
+open_beauty_facts:8809721161524,9,Hydroxyacetophenone,hydroxyacetophenone
+open_beauty_facts:8809721161524,10,PEG-60 Hydrogenated Castor Oil,peg-60 hydrogenated castor oil
+open_beauty_facts:8809721161524,11,Glyceryl Caprylate,glyceryl caprylate
+open_beauty_facts:8809721161524,12,Panthenol,panthenol
+open_beauty_facts:8809721161524,13,Butylene Glycol,butylene glycol
+open_beauty_facts:8809721161524,14,Tromethamine,tromethamine
+open_beauty_facts:8809721161524,15,Cellulose Gum,cellulose gum
+open_beauty_facts:8809721161524,16,Allantoin,allantoin
+open_beauty_facts:8809721161524,17,"1,2-Hexanediol","1,2-hexanediol"
+open_beauty_facts:8809721161524,18,Disodium EDTA,disodium edta
+open_beauty_facts:8809721161524,19,Sodium Hyaluronate,sodium hyaluronate
+open_beauty_facts:8809721161524,20,Xanthan Gum,xanthan gum
+open_beauty_facts:8809721161524,21,Vitis Vinifera (Grape) Fruit Extract,vitis vinifera fruit extract
+open_beauty_facts:8809721161524,22,Citrus Aurantium Dulcis (Orange) Fruit Extract,citrus aurantium dulcis fruit extract
+open_beauty_facts:8809721161524,23,Prunica Granatum Fruit Extract,prunica granatum fruit extract
+open_beauty_facts:8809721161524,24,Morus Alba Fruit Extract,morus alba fruit extract
+open_beauty_facts:8809721161524,25,Ethylhexylglycerin,ethylhexylglycerin
+open_beauty_facts:8809721161524,26,Adenosine,adenosine
+open_beauty_facts:8809721161524,27,Caprylyl Glycol,caprylyl glycol
+open_beauty_facts:8809721161524,28,Citric Acid,citric acid
+open_beauty_facts:8809721161524,29,Tocopherol,tocopherol
+open_beauty_facts:8809721161524,30,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:8809721161524,31,Fragrance,fragrance
 open_beauty_facts:8809728080705,1,Helianthus Annuus (Sunflower) Seed Oil (88.4%),helianthus annuus seed oil
 open_beauty_facts:8809728080705,2,Glycine Soja (Soybean) Oil,glycine soja oil
 open_beauty_facts:8809728080705,3,Sorbeth-30 Tetraoleate,sorbeth-30 tetraoleate
@@ -383398,6 +383682,40 @@ open_beauty_facts:8886467078132,14,C20-40 Alkyl Stearate,c20-40 alkyl stearate
 open_beauty_facts:8886467078132,15,Tocopheryl Acetate,tocopheryl acetate
 open_beauty_facts:8886467078132,16,Glycerin,glycerin
 open_beauty_facts:8886467078132,17,Panthenol,panthenol
+open_beauty_facts:8886482911827,1,Aqua/Water/Eau,water
+open_beauty_facts:8886482911827,2,Cetearyl Alcohol,cetearyl alcohol
+open_beauty_facts:8886482911827,3,Cetrimonium Chloride,cetrimonium chloride
+open_beauty_facts:8886482911827,4,Dipalmoylethyl Hydroxyethylmonium Methosulfate,dipalmoylethyl hydroxyethylmonium methosulfate
+open_beauty_facts:8886482911827,5,Persea Gratissima (Avocado) Oil/Persea Gratissima Oil,persea gratissima oil persea gratissima oil
+open_beauty_facts:8886482911827,6,Cocamide MEA,cocamide mea
+open_beauty_facts:8886482911827,7,Cocos Nucifera (Coconut) Fruit Extract/Cocos Nucifera Fruit Extract,cocos nucifera fruit extract cocos nucifera fruit extract
+open_beauty_facts:8886482911827,8,Hydrolyzed Hyaluronic Acid,hydrolyzed hyaluronic acid
+open_beauty_facts:8886482911827,9,Musa Sapientum (Banana) Fruit Extract/Musa Sapientum Fruit Extract,musa sapientum fruit extract musa sapientum fruit extract
+open_beauty_facts:8886482911827,10,Panthenol,panthenol
+open_beauty_facts:8886482911827,11,Sodium Hyaluronate,sodium hyaluronate
+open_beauty_facts:8886482911827,12,Inulin,inulin
+open_beauty_facts:8886482911827,13,Ananas Sativus (Pineapple) Fruit Extract/Ananas Sativus Fruit Extract,ananas sativus fruit extract ananas sativus fruit extract
+open_beauty_facts:8886482911827,14,Ficus Carica (Fig) Fruit Extract/Ficus Carica Fruit Extract,ficus carica fruit extract ficus carica fruit extract
+open_beauty_facts:8886482911827,15,Hydrolyzed Hemp Seed Extract,hydrolyzed hemp seed extract
+open_beauty_facts:8886482911827,16,Hydrolyzed Pea Protein,hydrolyzed pea protein
+open_beauty_facts:8886482911827,17,Hydrolyzed Rice Protein,hydrolyzed rice protein
+open_beauty_facts:8886482911827,18,Nephilium Lappaceum Fruit/Leaf Extract,nephilium lappaceum fruit leaf extract
+open_beauty_facts:8886482911827,19,Nephelium Lappaceum Branch/Fruit/Leaf Extract,nephelium lappaceum branch fruit leaf extract
+open_beauty_facts:8886482911827,20,Glycolic Acid,glycolic acid
+open_beauty_facts:8886482911827,21,Ethylhexyl Palmitate,ethylhexyl palmitate
+open_beauty_facts:8886482911827,22,Glyceryl Oleate,glyceryl oleate
+open_beauty_facts:8886482911827,23,PPG-4-Ceteath-20,ppg-4-ceteath-20
+open_beauty_facts:8886482911827,24,Dipropylene Glycol,dipropylene glycol
+open_beauty_facts:8886482911827,25,Ethylhexylglycerin,ethylhexylglycerin
+open_beauty_facts:8886482911827,26,Propylene Glycol,propylene glycol
+open_beauty_facts:8886482911827,27,Quaternium-80,quaternium-80
+open_beauty_facts:8886482911827,28,Guar Hydroxypropyltrimonium Chloride,guar hydroxypropyltrimonium chloride
+open_beauty_facts:8886482911827,29,Fragrance/Parfum,fragrance
+open_beauty_facts:8886482911827,30,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:8886482911827,31,Hexyl Cinnamal,hexyl cinnamal
+open_beauty_facts:8886482911827,32,Benzoic Acid,benzoic acid
+open_beauty_facts:8886482911827,33,Sodium Hydroxide,sodium hydroxide
+open_beauty_facts:8886482911827,34,Sorbic Acid,sorbic acid
 open_beauty_facts:8888202018052,1,Ethanol,ethanol
 open_beauty_facts:8888202018052,2,Fragrance,fragrance
 open_beauty_facts:8888202018052,3,PPG-20 Methyl Glucose Ether,ppg-20 methyl glucose ether
@@ -389911,6 +390229,29 @@ open_beauty_facts:8904482504808,16,Melaleuca Alternifolia (Tea Tree) Leaf Oil,me
 open_beauty_facts:8904482504808,17,Mentha Piperita (Peppermint) Oil,mentha piperita oil
 open_beauty_facts:8904482504808,18,Leptospermum Petersonii (and) Magnolia Officinalis Bark Extract,leptospermum petersonii magnolia officinalis bark extract
 open_beauty_facts:8904482504808,19,Fragrance,fragrance
+open_beauty_facts:8904492003124,1,DM Water,dm water
+open_beauty_facts:8904492003124,2,Myristic Acid,myristic acid
+open_beauty_facts:8904492003124,3,Glycerin,glycerin
+open_beauty_facts:8904492003124,4,Oryza Sativa (Rice) Extract,oryza sativa extract
+open_beauty_facts:8904492003124,5,Sodium Lauryl Ether Sulfate,sodium lauryl ether sulfate
+open_beauty_facts:8904492003124,6,Cocamidopropyl Betaine,cocamidopropyl betaine
+open_beauty_facts:8904492003124,7,Stearic Acid,stearic acid
+open_beauty_facts:8904492003124,8,Glycol Distearate,glycol distearate
+open_beauty_facts:8904492003124,9,Potassium Hydroxide,potassium hydroxide
+open_beauty_facts:8904492003124,10,Lauric Acid,lauric acid
+open_beauty_facts:8904492003124,11,Olive Oil Glycereth-8 Esters,olive oil glycereth-8 esters
+open_beauty_facts:8904492003124,12,Perfume,fragrance
+open_beauty_facts:8904492003124,13,Glyceryl Stearate (and) PEG 100 Stearate,glyceryl stearate peg 100 stearate
+open_beauty_facts:8904492003124,14,PEG 150 Distearate,peg 150 distearate
+open_beauty_facts:8904492003124,15,Polyquaternium 7,polyquaternium 7
+open_beauty_facts:8904492003124,16,Glyceryl Monostearate,glyceryl monostearate
+open_beauty_facts:8904492003124,17,Phenoxyethanol and Ethylhexylglycerin,phenoxyethanol and ethylhexylglycerin
+open_beauty_facts:8904492003124,18,Sodium Gluconate,sodium gluconate
+open_beauty_facts:8904492003124,19,Niacinamide,niacinamide
+open_beauty_facts:8904492003124,20,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:8904492003124,21,Betaine,betaine
+open_beauty_facts:8904492003124,22,CI 19140,ci 19140
+open_beauty_facts:8904492003124,23,CI 42090,ci 42090
 open_beauty_facts:8904506600011,1,Aqua,water
 open_beauty_facts:8904506600011,2,Glycerin,glycerin
 open_beauty_facts:8904506600011,3,Cocamidopropyl Betaine,cocamidopropyl betaine
@@ -395071,6 +395412,32 @@ open_beauty_facts:8909106066007,28,Benzyl Salicylate,benzyl salicylate
 open_beauty_facts:8909106066007,29,Limonene,limonene
 open_beauty_facts:8909106066007,30,CI 19140,ci 19140
 open_beauty_facts:8909106066007,31,CI 42090,ci 42090
+open_beauty_facts:8909106067318,1,Water,water
+open_beauty_facts:8909106067318,2,Isopropyl Myristate,isopropyl myristate
+open_beauty_facts:8909106067318,3,Stearic Acid,stearic acid
+open_beauty_facts:8909106067318,4,Mineral Oil,mineral oil
+open_beauty_facts:8909106067318,5,Glyceryl Stearate,glyceryl stearate
+open_beauty_facts:8909106067318,6,Ethylhexyl Methoxycinnamate,ethylhexyl methoxycinnamate
+open_beauty_facts:8909106067318,7,Niacinamide,niacinamide
+open_beauty_facts:8909106067318,8,Glycerin,glycerin
+open_beauty_facts:8909106067318,9,Triethanolamine,triethanolamine
+open_beauty_facts:8909106067318,10,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:8909106067318,11,Perfume,fragrance
+open_beauty_facts:8909106067318,12,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:8909106067318,13,Dimethicone,dimethicone
+open_beauty_facts:8909106067318,14,Carbomer,carbomer
+open_beauty_facts:8909106067318,15,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:8909106067318,16,Methyl Paraben,methyl paraben
+open_beauty_facts:8909106067318,17,Petrolatum,petrolatum
+open_beauty_facts:8909106067318,18,Titanium Dioxide (and) Aluminum Hydroxide (and) Stearic Acid,titanium dioxide aluminum hydroxide stearic acid
+open_beauty_facts:8909106067318,19,Aluminum Hydroxide (and) Stearic Acid,aluminum hydroxide stearic acid
+open_beauty_facts:8909106067318,20,Trisodium EDTA,trisodium edta
+open_beauty_facts:8909106067318,21,Disodium EDTA,disodium edta
+open_beauty_facts:8909106067318,22,Butyl Methoxydibenzoylmethane,butyl methoxydibenzoylmethane
+open_beauty_facts:8909106067318,23,Phenylbenzimidazole Sulfonic Acid,phenylbenzimidazole sulfonic acid
+open_beauty_facts:8909106067318,24,Propyl Paraben,propyl paraben
+open_beauty_facts:8909106067318,25,Limonene,limonene
+open_beauty_facts:8909106067318,26,Linalool,linalool
 open_beauty_facts:8909106067325,1,Water,water
 open_beauty_facts:8909106067325,2,Ethylhexyl Salicylate,ethylhexyl salicylate
 open_beauty_facts:8909106067325,3,Glycerin,glycerin
@@ -395396,6 +395763,34 @@ open_beauty_facts:8909106090200,25,Helianthus Annuus (Sunflower) Seed Oil,helian
 open_beauty_facts:8909106090200,26,Glycine Soja (Soybean) Oil,glycine soja oil
 open_beauty_facts:8909106090200,27,CI 19140,ci 19140
 open_beauty_facts:8909106090200,28,CI 14700,ci 14700
+open_beauty_facts:8909106093744,1,WATER,water
+open_beauty_facts:8909106093744,2,PETROLATUM,petrolatum
+open_beauty_facts:8909106093744,3,GLYCERIN,glycerin
+open_beauty_facts:8909106093744,4,PALMITIC ACID (AND) STEARIC ACID,palmitic acid stearic acid
+open_beauty_facts:8909106093744,5,ISOPROPYL PALMITATE,isopropyl palmitate
+open_beauty_facts:8909106093744,6,GLYCOL STEARATE (AND) STEARAMIDE AMP,glycol stearate stearamide amp
+open_beauty_facts:8909106093744,7,DIMETHICONE,dimethicone
+open_beauty_facts:8909106093744,8,TRIETHANOLAMINE,triethanolamine
+open_beauty_facts:8909106093744,9,GLYCERYL STEARATE,glyceryl stearate
+open_beauty_facts:8909106093744,10,THEOBROMA CACAO (COCOA) SEED BUTTER,theobroma cacao seed butter
+open_beauty_facts:8909106093744,11,BUTYROSPERMUM PARKII (SHEA) BUTTER,butyrospermum parkii butter
+open_beauty_facts:8909106093744,12,CETYL ALCOHOL,cetyl alcohol
+open_beauty_facts:8909106093744,13,PHENOXYETHANOL,phenoxyethanol
+open_beauty_facts:8909106093744,14,FRAGRANCE,fragrance
+open_beauty_facts:8909106093744,15,MAGNESIUM ALUMINUM SILICATE,magnesium aluminum silicate
+open_beauty_facts:8909106093744,16,METHYLPARABEN,methylparaben
+open_beauty_facts:8909106093744,17,CARBOMER,carbomer
+open_beauty_facts:8909106093744,18,PROPYLPARABEN,propylparaben
+open_beauty_facts:8909106093744,19,DISODIUM EDTA,disodium edta
+open_beauty_facts:8909106093744,20,CARAMEL,caramel
+open_beauty_facts:8909106093744,21,BENZYL ALCOHOL,benzyl alcohol
+open_beauty_facts:8909106093744,22,BENZYL BENZOATE,benzyl benzoate
+open_beauty_facts:8909106093744,23,CITRONELLOL,citronellol
+open_beauty_facts:8909106093744,24,COUMARIN,coumarin
+open_beauty_facts:8909106093744,25,HEXYL CINNAMAL,hexyl cinnamal
+open_beauty_facts:8909106093744,26,HYDROXYCITRONELLAL,hydroxycitronellal
+open_beauty_facts:8909106093744,27,LIMONENE,limonene
+open_beauty_facts:8909106093744,28,LINALOOL,linalool
 open_beauty_facts:8909106095731,1,Water,water
 open_beauty_facts:8909106095731,2,Mineral Oil,mineral oil
 open_beauty_facts:8909106095731,3,Glycerine,glycerin
@@ -410970,398 +411365,444 @@ round_lab:vita-niacinamide-dark-spot-mask,21,Coptis Japonica Root Extract,coptis
 round_lab:vita-niacinamide-dark-spot-mask,22,Hydrogenated Lecithin,hydrogenated lecithin
 round_lab:vita-niacinamide-dark-spot-mask,23,Carbomer,carbomer
 round_lab:vita-niacinamide-dark-spot-mask,24,Disodium EDTA,disodium edta
-open_beauty_facts:0010181046353,1,Water (Aqua),water
-open_beauty_facts:0010181046353,2,Theobroma Cacao (Cocoa) Seed Butter,theobroma cacao seed butter
-open_beauty_facts:0010181046353,3,Elaeis Guineensis (Palm) Oil,elaeis guineensis oil
-open_beauty_facts:0010181046353,4,Glycerin,glycerin
-open_beauty_facts:0010181046353,5,Glyceryl Stearate,glyceryl stearate
-open_beauty_facts:0010181046353,6,Dimethicone,dimethicone
-open_beauty_facts:0010181046353,7,Tocopheryl Acetate,tocopheryl acetate
-open_beauty_facts:0010181046353,8,Helianthus Annuus (Sunflower) Seed Oil,helianthus annuus seed oil
-open_beauty_facts:0010181046353,9,PEG-8 Stearate,peg-8 stearate
-open_beauty_facts:0010181046353,10,Hydroxyethylcellulose,hydroxyethylcellulose
-open_beauty_facts:0010181046353,11,Fragrance (Parfum),fragrance
-open_beauty_facts:0010181046353,12,Theobroma Cacao (Cocoa) Extract,theobroma cacao extract
-open_beauty_facts:0010181046353,13,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates c10-30 alkyl acrylate crosspolymer
-open_beauty_facts:0010181046353,14,Triethanolamine,triethanolamine
-open_beauty_facts:0010181046353,15,Phenoxyethanol,phenoxyethanol
-open_beauty_facts:0010181046353,16,Benzyl Alcohol,benzyl alcohol
-open_beauty_facts:0010181046353,17,Stearamide AMP,stearamide amp
-open_beauty_facts:0010181046353,18,Disodium EDTA,disodium edta
-open_beauty_facts:0010181046353,19,PEG-8,peg-8
-open_beauty_facts:0010181046353,20,Methylisothiazolinone,methylisothiazolinone
-open_beauty_facts:0010181046353,21,Caramel,caramel
-open_beauty_facts:0793052117436,1,Homosalate 100mg/g,homosalate 100mg g
-open_beauty_facts:0793052117436,2,Octocrylene 80mg/g,octocrylene 80mg g
-open_beauty_facts:0793052117436,3,Octyl Salicylate 50mg/g,octyl salicylate 50mg g
-open_beauty_facts:0793052117436,4,Butyl Methoxydibenzoylmethane 40mg/g,butyl methoxydibenzoylmethane 40mg g
-open_beauty_facts:0793052117436,5,Caprylyl Glycol and Octanohydroxamic Acid as antimicrobial preservatives,caprylyl glycol and octanohydroxamic acid as antimicrobial preservatives
-open_beauty_facts:0850075780327,1,Water,water
-open_beauty_facts:0850075780327,2,Glycerin,glycerin
-open_beauty_facts:0850075780327,3,Hydrated Silica,hydrated silica
-open_beauty_facts:0850075780327,4,Xylitol,xylitol
-open_beauty_facts:0850075780327,5,Sorbitol,sorbitol
-open_beauty_facts:0850075780327,6,Calcium Carbonate,calcium carbonate
-open_beauty_facts:0850075780327,7,Sodium Cocoyl Glutamate,sodium cocoyl glutamate
-open_beauty_facts:0850075780327,8,Cellulose Gum,cellulose gum
-open_beauty_facts:0850075780327,9,Hydroxyapatite,hydroxyapatite
-open_beauty_facts:0850075780327,10,Mentha Piperita (Peppermint) Oil,mentha piperita oil
-open_beauty_facts:0850075780327,11,Mentha Viridis (Spearmint) Leaf Oil,mentha viridis leaf oil
-open_beauty_facts:0850075780327,12,Eucalyptus Globulus Leaf Oil,eucalyptus globulus leaf oil
-open_beauty_facts:0850075780327,13,Sodium Methyl Cocoyl Taurate,sodium methyl cocoyl taurate
-open_beauty_facts:0850075780327,14,Stevia Rebaudiana Extract,stevia rebaudiana extract
-open_beauty_facts:0850075780327,15,Xanthan Gum,xanthan gum
-open_beauty_facts:0850075780327,16,Citric Acid,citric acid
-open_beauty_facts:0850075780327,17,Menthol,menthol
-open_beauty_facts:0850075780327,18,Sodium Benzoate,sodium benzoate
-open_beauty_facts:0850075780327,19,Limonene,limonene
-open_beauty_facts:0850075780327,20,Linalool,linalool
-open_beauty_facts:0850075780334,1,Water,water
-open_beauty_facts:0850075780334,2,Sorbitol,sorbitol
-open_beauty_facts:0850075780334,3,Glycerin,glycerin
-open_beauty_facts:0850075780334,4,Hydrated Silica,hydrated silica
-open_beauty_facts:0850075780334,5,Xylitol,xylitol
-open_beauty_facts:0850075780334,6,Calcium Hydroxyapatite,calcium hydroxyapatite
-open_beauty_facts:0850075780334,7,Sodium Lauroyl Sarcosinate,sodium lauroyl sarcosinate
-open_beauty_facts:0850075780334,8,Cellulose Gum,cellulose gum
-open_beauty_facts:0850075780334,9,Xanthan Gum,xanthan gum
-open_beauty_facts:0850075780334,10,Mentha Piperita (Peppermint) Oil,mentha piperita oil
-open_beauty_facts:0850075780334,11,Mentha Viridis (Spearmint) Leaf Oil,mentha viridis leaf oil
-open_beauty_facts:0850075780334,12,Menthol,menthol
-open_beauty_facts:0850075780334,13,Stevia Rebaudiana Extract,stevia rebaudiana extract
-open_beauty_facts:0850075780334,14,Echinacea Purpurea Extract,echinacea purpurea extract
-open_beauty_facts:0850075780334,15,Chamomilla Recutita (Matricaria) Flower Extract,chamomilla recutita flower extract
-open_beauty_facts:0850075780334,16,Camellia Sinensis Leaf Extract,camellia sinensis leaf extract
-open_beauty_facts:0850075780334,17,Punica Granatum (Pomegranate) Fruit Extract,punica granatum fruit extract
-open_beauty_facts:0850075780334,18,Aloe Barbadensis Leaf Juice,aloe barbadensis leaf juice
-open_beauty_facts:0850075780334,19,Vaccinium Macrocarpon (Cranberry) Fruit Extract,vaccinium macrocarpon fruit extract
-open_beauty_facts:0850075780334,20,Prunus Armeniaca (Apricot) Fruit Extract,prunus armeniaca fruit extract
-open_beauty_facts:0850075780334,21,Anethole,anethole
-open_beauty_facts:0850075780334,22,Menthol,menthol
-open_beauty_facts:0850075780334,23,Silicate,silicate
-open_beauty_facts:3587925343940,1,Aqua,water
-open_beauty_facts:3587925343940,2,Glycerin,glycerin
-open_beauty_facts:3587925343940,3,Myristic Acid,myristic acid
-open_beauty_facts:3587925343940,4,Lauric Acid,lauric acid
-open_beauty_facts:3587925343940,5,Stearic Acid,stearic acid
-open_beauty_facts:3587925343940,6,Glyceryl Distearate,glyceryl distearate
-open_beauty_facts:3587925343940,7,Potassium Hydroxide,potassium hydroxide
-open_beauty_facts:3587925343940,8,PEG-14M,peg-14m
-open_beauty_facts:3587925343940,9,EDTA,edta
-open_beauty_facts:3587925343940,10,Coco-Glucoside,coco-glucoside
-open_beauty_facts:3587925343940,11,Hydroxypropyl Guar,hydroxypropyl guar
-open_beauty_facts:3587925343940,12,Hydroxypropyltrimonium Chloride,hydroxypropyltrimonium chloride
-open_beauty_facts:3587925343940,13,Ascorbyl Glucoside,ascorbyl glucoside
-open_beauty_facts:3587925343940,14,Niacinamide,niacinamide
-open_beauty_facts:3587925343940,15,Licorice Extract,licorice extract
-open_beauty_facts:3587925343940,16,Lemon Extract,lemon extract
-open_beauty_facts:3587925343940,17,Perfume,fragrance
-open_beauty_facts:3587925343940,18,Citral,citral
-open_beauty_facts:3587925343940,19,Geraniol,geraniol
-open_beauty_facts:3587925343940,20,Hexyl cinnamal,hexyl cinnamal
-open_beauty_facts:3587925343940,21,Linalool,linalool
-open_beauty_facts:3587925343940,22,Limonene,limonene
-open_beauty_facts:4001499964428,1,5–15 % anionische Tenside,515 anionische tenside
-open_beauty_facts:4001499964428,2,5 % amphotere Tenside,5 amphotere tenside
-open_beauty_facts:4001499964428,3,non-ionische Tenside,non-ionische tenside
-open_beauty_facts:4001499964428,4,Duftstoffe,duftstoffe
-open_beauty_facts:4001499964428,5,Sodium Benzoate,sodium benzoate
-open_beauty_facts:4001499964428,6,Aloe Vera Barbadensis,aloe vera barbadensis
-open_beauty_facts:4056489988373,1,thes supple Dire irse Massage into skin several times daily,thes supple dire irse massage into skin several times daily
-open_beauty_facts:4056489988373,2,as required. Lid Great Did House,as required. lid great did house
-open_beauty_facts:4056489988373,3,14 Kingston Road,14 kingston road
-open_beauty_facts:4056489988373,4,Surbiton,surbiton
-open_beauty_facts:4056489988373,5,KTS SNUL Lidl Ireland C Road,kts snul lidl ireland c road
-open_beauty_facts:4056489988373,6,Tallaght,tallaght
-open_beauty_facts:4056489988373,7,Dublin 24,dublin 24
-open_beauty_facts:4056489988373,8,Glycerin,glycerin
-open_beauty_facts:4056489988373,9,Ethylhexyl Salicylate,ethylhexyl salicylate
-open_beauty_facts:4056489988373,10,Ethylhexyl S alic/Capric Triglyceride,ethylhexyl s alic capric triglyceride
-open_beauty_facts:4056489988373,11,Cetearyl Alcohol,cetearyl alcohol
-open_beauty_facts:4056489988373,12,Ethylhexyl Triazone,ethylhexyl triazone
-open_beauty_facts:4056489988373,13,G Tocopheryl Acetate,g tocopheryl acetate
-open_beauty_facts:4056489988373,14,Ubiquinone,ubiquinone
-open_beauty_facts:4056489988373,15,Butyrospermum Parki fum,butyrospermum parki fum
-open_beauty_facts:4056489988373,16,Butyl Methoxydibenzoylmethane,butyl methoxydibenzoylmethane
-open_beauty_facts:4056489988373,17,Sodium Stearoyl Glutama atan Gum,sodium stearoyl glutama atan gum
-open_beauty_facts:4056489988373,18,Aspartic Acid,aspartic acid
-open_beauty_facts:4056489988373,19,Phenonyethanol,phenonyethanol
-open_beauty_facts:4056489988373,20,Benzyl Alcohol,benzyl alcohol
-open_beauty_facts:4056489988373,21,Ethyl ein,ethyl ein
-open_beauty_facts:4056489988373,22,Linalool,linalool
-open_beauty_facts:4056489988373,23,Citronellol,citronellol
-open_beauty_facts:4056489988373,24,Disodium Phosphate,disodium phosphate
-open_beauty_facts:4056489988373,25,Potassium Phopla codium Iminodisuccinate,potassium phopla codium iminodisuccinate
-open_beauty_facts:4056489988373,26,Fumate Acid,fumate acid
-open_beauty_facts:4056489988373,27,Citric Acid,citric acid
-open_beauty_facts:4056489988373,28,Sodium Hyd eic Acid,sodium hyd eic acid
-open_beauty_facts:6291108451243,1,Aqua (Purified Water),water
-open_beauty_facts:6291108451243,2,Glycerin,glycerin
-open_beauty_facts:6291108451243,3,Iso propyl Palmitate,iso propyl palmitate
-open_beauty_facts:6291108451243,4,Caprylic Capric Triglyceride,caprylic capric triglyceride
-open_beauty_facts:6291108451243,5,Chamomilla Recutita Flower Extract,chamomilla recutita flower extract
-open_beauty_facts:6291108451243,6,Tocopheryl Acetate,tocopheryl acetate
-open_beauty_facts:6291108451243,7,Tapioca starch,tapioca starch
-open_beauty_facts:6291108451243,8,Tricoteareath-4 Phosphate,tricoteareath-4 phosphate
-open_beauty_facts:6291108451243,9,Bisabolol,bisabolol
-open_beauty_facts:6291108451243,10,Parfum,fragrance
-open_beauty_facts:6295199811108,1,Aqua (Water),water
-open_beauty_facts:6295199811108,2,Sodium Laureth Sulfate,sodium laureth sulfate
-open_beauty_facts:6295199811108,3,Glycerin,glycerin
-open_beauty_facts:6295199811108,4,Cocamidopropyl Betaine,cocamidopropyl betaine
-open_beauty_facts:6295199811108,5,Coco Glucoside,coco glucoside
-open_beauty_facts:6295199811108,6,Perfume,fragrance
-open_beauty_facts:6295199811108,7,Acrylates Copolymer,acrylates copolymer
-open_beauty_facts:6295199811108,8,Cocamide MEA,cocamide mea
-open_beauty_facts:6295199811108,9,PEG-7 Glyceryl Cocoate,peg-7 glyceryl cocoate
-open_beauty_facts:6295199811108,10,Lauramine Oxide,lauramine oxide
-open_beauty_facts:6295199811108,11,Polyquaternium-7,polyquaternium-7
-open_beauty_facts:6295199811108,12,Glycol Distearate,glycol distearate
-open_beauty_facts:6295199811108,13,Citric Acid,citric acid
-open_beauty_facts:6295199811108,14,Phenoxyethanol,phenoxyethanol
-open_beauty_facts:6295199811108,15,Sodium Chloride,sodium chloride
-open_beauty_facts:6295199811108,16,Sodium PCA,sodium pca
-open_beauty_facts:6295199811108,17,Sodium Hydroxide,sodium hydroxide
-open_beauty_facts:6295199811108,18,Propylene Glycol,propylene glycol
-open_beauty_facts:6295199811108,19,Tetrasodium EDTA,tetrasodium edta
-open_beauty_facts:6295199811108,20,Butyrospermum Parkii (Shea) Butter,butyrospermum parkii butter
-open_beauty_facts:6295199811108,21,Prunus Amygdalus Dulcis (Almond) Oil,prunus amygdalus dulcis oil
-open_beauty_facts:6295199811108,22,Citrus Limon (Lemon) Peel Oil,citrus limon peel oil
-open_beauty_facts:6295199811108,23,Citrus Paradisi (Grapefruit) Peel Oil,citrus paradisi peel oil
-open_beauty_facts:6295199811108,24,Sodium Benzoate,sodium benzoate
-open_beauty_facts:6295199811108,25,Sodium Chloride,sodium chloride
-open_beauty_facts:6295199811108,26,Citrus Grandis (Grapefruit) Fruit Extract,citrus grandis fruit extract
-open_beauty_facts:6295199811108,27,Sodium Benzoate,sodium benzoate
-open_beauty_facts:6295199811108,28,Sodium Chloride,sodium chloride
-open_beauty_facts:6295199811108,29,Sodium Sulfate,sodium sulfate
-open_beauty_facts:6295199811108,30,Sodium Citrate,sodium citrate
-open_beauty_facts:6295199811108,31,Acrylates Copolymer,acrylates copolymer
-open_beauty_facts:6295199811108,32,Disodium EDTA,disodium edta
-open_beauty_facts:6295199811108,33,Butylphenyl Methylpropional,butylphenyl methylpropional
-open_beauty_facts:6295199811108,34,Citronellol,citronellol
-open_beauty_facts:6295199811108,35,Alcohol,alcohol
-open_beauty_facts:6295199811108,36,Citral,citral
-open_beauty_facts:6295199811108,37,Geraniol,geraniol
-open_beauty_facts:6295199811108,38,Linalool,linalool
-open_beauty_facts:8006530231428,1,Aqua,water
-open_beauty_facts:8006530231428,2,Sodium Laureth Sulfate,sodium laureth sulfate
-open_beauty_facts:8006530231428,3,Sodium Lauryl Sulfate,sodium lauryl sulfate
-open_beauty_facts:8006530231428,4,Cocamidopropyl Betaine,cocamidopropyl betaine
-open_beauty_facts:8006530231428,5,Sodium Chloride,sodium chloride
-open_beauty_facts:8006530231428,6,Zinc Carbonate,zinc carbonate
-open_beauty_facts:8006530231428,7,Glycol Distearate,glycol distearate
-open_beauty_facts:8006530231428,8,Sodium Xylenesulfonate,sodium xylenesulfonate
-open_beauty_facts:8006530231428,9,Sodium Citrate,sodium citrate
-open_beauty_facts:8006530231428,10,Dimethicone,dimethicone
-open_beauty_facts:8006530231428,11,Sodium Benzoate,sodium benzoate
-open_beauty_facts:8006530231428,12,Cocamide MEA,cocamide mea
-open_beauty_facts:8006530231428,13,Parfum,fragrance
-open_beauty_facts:8006530231428,14,Citric Acid,citric acid
-open_beauty_facts:8006530231428,15,Guar Hydroxypropyltrimonium Chloride,guar hydroxypropyltrimonium chloride
-open_beauty_facts:8006530231428,16,Menthol,menthol
-open_beauty_facts:8006530231428,17,Mentha Arvensis Leaf Oil,mentha arvensis leaf oil
-open_beauty_facts:8006530231428,18,Hexyl Cinnamal,hexyl cinnamal
-open_beauty_facts:8006530231428,19,Linalool,linalool
-open_beauty_facts:8006530231428,20,Magnesium Carbonate Hydroxide,magnesium carbonate hydroxide
-open_beauty_facts:8006530231428,21,CI 42090,ci 42090
-open_beauty_facts:8006530231428,22,CI 17200,ci 17200
-open_beauty_facts:8682397031373,1,Aqua (Water),water
-open_beauty_facts:8682397031373,2,Glycerin,glycerin
-open_beauty_facts:8682397031373,3,Panthenol,panthenol
-open_beauty_facts:8682397031373,4,Butyrospermum Parkii (Shea) Butter,butyrospermum parkii butter
-open_beauty_facts:8682397031373,5,Squalane,squalane
-open_beauty_facts:8682397031373,6,Simmondsia Chinensis (Jojoba) Seed Oil,simmondsia chinensis seed oil
-open_beauty_facts:8682397031373,7,Sodium Hyaluronate,sodium hyaluronate
-open_beauty_facts:8682397031373,8,Ceramide NP,ceramide np
-open_beauty_facts:8682397031373,9,Sodium PCA,sodium pca
-open_beauty_facts:8682397031373,10,Sodium Lactate,sodium lactate
-open_beauty_facts:8682397031373,11,Allantoin,allantoin
-open_beauty_facts:8682397031373,12,Inulin Lauryl Carbamate,inulin lauryl carbamate
-open_beauty_facts:8682397031373,13,Arginine,arginine
-open_beauty_facts:8682397031373,14,Aspartic Acid,aspartic acid
-open_beauty_facts:8682397031373,15,PCA,pca
-open_beauty_facts:8682397031373,16,Glycine,glycine
-open_beauty_facts:8682397031373,17,Alanine,alanine
-open_beauty_facts:8682397031373,18,Serine,serine
-open_beauty_facts:8682397031373,19,Valine,valine
-open_beauty_facts:8682397031373,20,Proline,proline
-open_beauty_facts:8682397031373,21,Threonine,threonine
-open_beauty_facts:8682397031373,22,Isoleucine,isoleucine
-open_beauty_facts:8682397031373,23,Histidine,histidine
-open_beauty_facts:8682397031373,24,Phenylalanine,phenylalanine
-open_beauty_facts:8682397031373,25,Potassium Cetyl Phosphate,potassium cetyl phosphate
-open_beauty_facts:8682397031373,26,Xanthan Gum,xanthan gum
-open_beauty_facts:8682397031373,27,Phenethyl Alcohol,phenethyl alcohol
-open_beauty_facts:8682397031373,28,Capryl Glycol,capryl glycol
-open_beauty_facts:8682397031373,29,Parfum (Fragrance),fragrance
-open_beauty_facts:8682397031373,30,Sodium Hydroxide,sodium hydroxide
-open_beauty_facts:8682397031373,31,Tetrasodium EDTA,tetrasodium edta
-open_beauty_facts:8806194067476,1,Water,water
-open_beauty_facts:8806194067476,2,Dipropylene Glycol,dipropylene glycol
-open_beauty_facts:8806194067476,3,Glycerin,glycerin
-open_beauty_facts:8806194067476,4,Pentaerythrityl Tetraisostearate,pentaerythrityl tetraisostearate
-open_beauty_facts:8806194067476,5,Glyceryl-26,glyceryl-26
-open_beauty_facts:8806194067476,6,"1,2-Hexanediol","1,2-hexanediol"
-open_beauty_facts:8806194067476,7,Macadamia Ternifolia Seed Oil,macadamia ternifolia seed oil
-open_beauty_facts:8806194067476,8,Phenyl Trimethicone,phenyl trimethicone
-open_beauty_facts:8806194067476,9,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,hydroxyethyl acrylate sodium acryloyldimethyl taurate copolymer
-open_beauty_facts:8806194067476,10,Styrene/VP Copolymer,styrene vp copolymer
-open_beauty_facts:8806194067476,11,Ethylhexylglycerin,ethylhexylglycerin
-open_beauty_facts:8806194067476,12,Centella Asiatica Extract,centella asiatica extract
-open_beauty_facts:8806194067476,13,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates c10-30 alkyl acrylate crosspolymer
-open_beauty_facts:8806194067476,14,Triethamine,triethamine
-open_beauty_facts:8806194067476,15,Caprylic/Capric Triglyceride,caprylic capric triglyceride
-open_beauty_facts:8806194067476,16,Allantoin,allantoin
-open_beauty_facts:8806194067476,17,Hydrogenated Lecithin,hydrogenated lecithin
-open_beauty_facts:8806194067476,18,Propanediol,propanediol
-open_beauty_facts:8806194067476,19,Panthenol,panthenol
-open_beauty_facts:8806194067476,20,Phytosteryl/Octyldodecyl Lauroyl Glutamate,phytosteryl octyldodecyl lauroyl glutamate
-open_beauty_facts:8806194067476,21,"Ceramide NP(5,000ppm)",ceramide np
-open_beauty_facts:8806194067476,22,Sodium Hyaluronate,sodium hyaluronate
-open_beauty_facts:8806194067476,23,Aniba Rosodora (Rosewood) Wood Oil,aniba rosodora wood oil
-open_beauty_facts:8806194067476,24,Citrus Limon (Lemon) Peel Oil,citrus limon peel oil
-open_beauty_facts:8806194067476,25,Disodium EDTA,disodium edta
-open_beauty_facts:8806194067476,26,Linalool,linalool
-open_beauty_facts:8806194067476,27,Limonene,limonene
-open_beauty_facts:8809721161524,1,Water,water
-open_beauty_facts:8809721161524,2,Glycerin,glycerin
-open_beauty_facts:8809721161524,3,Dipropylene Glycol,dipropylene glycol
-open_beauty_facts:8809721161524,4,Vaccinium Macrocarpon (Cranberry) Fruit Extract(0.0068%),vaccinium macrocarpon fruit extract
-open_beauty_facts:8809721161524,5,Vaccinium Angustifolium (Blueberry) Fruit Extract(0.0068%),vaccinium angustifolium fruit extract
-open_beauty_facts:8809721161524,6,Rubus Idaeus (Raspberry) Fruit Extract(0.0068%),rubus idaeus fruit extract
-open_beauty_facts:8809721161524,7,Fragaria Vesca (Strawberry) Leaf Extract(0.0068%),fragaria vesca leaf extract
-open_beauty_facts:8809721161524,8,Niacinamide,niacinamide
-open_beauty_facts:8809721161524,9,Hydroxyacetophenone,hydroxyacetophenone
-open_beauty_facts:8809721161524,10,PEG-60 Hydrogenated Castor Oil,peg-60 hydrogenated castor oil
-open_beauty_facts:8809721161524,11,Glyceryl Caprylate,glyceryl caprylate
-open_beauty_facts:8809721161524,12,Panthenol,panthenol
-open_beauty_facts:8809721161524,13,Butylene Glycol,butylene glycol
-open_beauty_facts:8809721161524,14,Tromethamine,tromethamine
-open_beauty_facts:8809721161524,15,Cellulose Gum,cellulose gum
-open_beauty_facts:8809721161524,16,Allantoin,allantoin
-open_beauty_facts:8809721161524,17,"1,2-Hexanediol","1,2-hexanediol"
-open_beauty_facts:8809721161524,18,Disodium EDTA,disodium edta
-open_beauty_facts:8809721161524,19,Sodium Hyaluronate,sodium hyaluronate
-open_beauty_facts:8809721161524,20,Xanthan Gum,xanthan gum
-open_beauty_facts:8809721161524,21,Vitis Vinifera (Grape) Fruit Extract,vitis vinifera fruit extract
-open_beauty_facts:8809721161524,22,Citrus Aurantium Dulcis (Orange) Fruit Extract,citrus aurantium dulcis fruit extract
-open_beauty_facts:8809721161524,23,Prunica Granatum Fruit Extract,prunica granatum fruit extract
-open_beauty_facts:8809721161524,24,Morus Alba Fruit Extract,morus alba fruit extract
-open_beauty_facts:8809721161524,25,Ethylhexylglycerin,ethylhexylglycerin
-open_beauty_facts:8809721161524,26,Adenosine,adenosine
-open_beauty_facts:8809721161524,27,Caprylyl Glycol,caprylyl glycol
-open_beauty_facts:8809721161524,28,Citric Acid,citric acid
-open_beauty_facts:8809721161524,29,Tocopherol,tocopherol
-open_beauty_facts:8809721161524,30,Phenoxyethanol,phenoxyethanol
-open_beauty_facts:8809721161524,31,Fragrance,fragrance
-open_beauty_facts:8886482911827,1,Aqua/Water/Eau,water
-open_beauty_facts:8886482911827,2,Cetearyl Alcohol,cetearyl alcohol
-open_beauty_facts:8886482911827,3,Cetrimonium Chloride,cetrimonium chloride
-open_beauty_facts:8886482911827,4,Dipalmoylethyl Hydroxyethylmonium Methosulfate,dipalmoylethyl hydroxyethylmonium methosulfate
-open_beauty_facts:8886482911827,5,Persea Gratissima (Avocado) Oil/Persea Gratissima Oil,persea gratissima oil persea gratissima oil
-open_beauty_facts:8886482911827,6,Cocamide MEA,cocamide mea
-open_beauty_facts:8886482911827,7,Cocos Nucifera (Coconut) Fruit Extract/Cocos Nucifera Fruit Extract,cocos nucifera fruit extract cocos nucifera fruit extract
-open_beauty_facts:8886482911827,8,Hydrolyzed Hyaluronic Acid,hydrolyzed hyaluronic acid
-open_beauty_facts:8886482911827,9,Musa Sapientum (Banana) Fruit Extract/Musa Sapientum Fruit Extract,musa sapientum fruit extract musa sapientum fruit extract
-open_beauty_facts:8886482911827,10,Panthenol,panthenol
-open_beauty_facts:8886482911827,11,Sodium Hyaluronate,sodium hyaluronate
-open_beauty_facts:8886482911827,12,Inulin,inulin
-open_beauty_facts:8886482911827,13,Ananas Sativus (Pineapple) Fruit Extract/Ananas Sativus Fruit Extract,ananas sativus fruit extract ananas sativus fruit extract
-open_beauty_facts:8886482911827,14,Ficus Carica (Fig) Fruit Extract/Ficus Carica Fruit Extract,ficus carica fruit extract ficus carica fruit extract
-open_beauty_facts:8886482911827,15,Hydrolyzed Hemp Seed Extract,hydrolyzed hemp seed extract
-open_beauty_facts:8886482911827,16,Hydrolyzed Pea Protein,hydrolyzed pea protein
-open_beauty_facts:8886482911827,17,Hydrolyzed Rice Protein,hydrolyzed rice protein
-open_beauty_facts:8886482911827,18,Nephilium Lappaceum Fruit/Leaf Extract,nephilium lappaceum fruit leaf extract
-open_beauty_facts:8886482911827,19,Nephelium Lappaceum Branch/Fruit/Leaf Extract,nephelium lappaceum branch fruit leaf extract
-open_beauty_facts:8886482911827,20,Glycolic Acid,glycolic acid
-open_beauty_facts:8886482911827,21,Ethylhexyl Palmitate,ethylhexyl palmitate
-open_beauty_facts:8886482911827,22,Glyceryl Oleate,glyceryl oleate
-open_beauty_facts:8886482911827,23,PPG-4-Ceteath-20,ppg-4-ceteath-20
-open_beauty_facts:8886482911827,24,Dipropylene Glycol,dipropylene glycol
-open_beauty_facts:8886482911827,25,Ethylhexylglycerin,ethylhexylglycerin
-open_beauty_facts:8886482911827,26,Propylene Glycol,propylene glycol
-open_beauty_facts:8886482911827,27,Quaternium-80,quaternium-80
-open_beauty_facts:8886482911827,28,Guar Hydroxypropyltrimonium Chloride,guar hydroxypropyltrimonium chloride
-open_beauty_facts:8886482911827,29,Fragrance/Parfum,fragrance
-open_beauty_facts:8886482911827,30,Benzyl Alcohol,benzyl alcohol
-open_beauty_facts:8886482911827,31,Hexyl Cinnamal,hexyl cinnamal
-open_beauty_facts:8886482911827,32,Benzoic Acid,benzoic acid
-open_beauty_facts:8886482911827,33,Sodium Hydroxide,sodium hydroxide
-open_beauty_facts:8886482911827,34,Sorbic Acid,sorbic acid
-open_beauty_facts:8904492003124,1,DM Water,dm water
-open_beauty_facts:8904492003124,2,Myristic Acid,myristic acid
-open_beauty_facts:8904492003124,3,Glycerin,glycerin
-open_beauty_facts:8904492003124,4,Oryza Sativa (Rice) Extract,oryza sativa extract
-open_beauty_facts:8904492003124,5,Sodium Lauryl Ether Sulfate,sodium lauryl ether sulfate
-open_beauty_facts:8904492003124,6,Cocamidopropyl Betaine,cocamidopropyl betaine
-open_beauty_facts:8904492003124,7,Stearic Acid,stearic acid
-open_beauty_facts:8904492003124,8,Glycol Distearate,glycol distearate
-open_beauty_facts:8904492003124,9,Potassium Hydroxide,potassium hydroxide
-open_beauty_facts:8904492003124,10,Lauric Acid,lauric acid
-open_beauty_facts:8904492003124,11,Olive Oil Glycereth-8 Esters,olive oil glycereth-8 esters
-open_beauty_facts:8904492003124,12,Perfume,fragrance
-open_beauty_facts:8904492003124,13,Glyceryl Stearate (and) PEG 100 Stearate,glyceryl stearate peg 100 stearate
-open_beauty_facts:8904492003124,14,PEG 150 Distearate,peg 150 distearate
-open_beauty_facts:8904492003124,15,Polyquaternium 7,polyquaternium 7
-open_beauty_facts:8904492003124,16,Glyceryl Monostearate,glyceryl monostearate
-open_beauty_facts:8904492003124,17,Phenoxyethanol and Ethylhexylglycerin,phenoxyethanol and ethylhexylglycerin
-open_beauty_facts:8904492003124,18,Sodium Gluconate,sodium gluconate
-open_beauty_facts:8904492003124,19,Niacinamide,niacinamide
-open_beauty_facts:8904492003124,20,Tocopheryl Acetate,tocopheryl acetate
-open_beauty_facts:8904492003124,21,Betaine,betaine
-open_beauty_facts:8904492003124,22,CI 19140,ci 19140
-open_beauty_facts:8904492003124,23,CI 42090,ci 42090
-open_beauty_facts:8909106067318,1,Water,water
-open_beauty_facts:8909106067318,2,Isopropyl Myristate,isopropyl myristate
-open_beauty_facts:8909106067318,3,Stearic Acid,stearic acid
-open_beauty_facts:8909106067318,4,Mineral Oil,mineral oil
-open_beauty_facts:8909106067318,5,Glyceryl Stearate,glyceryl stearate
-open_beauty_facts:8909106067318,6,Ethylhexyl Methoxycinnamate,ethylhexyl methoxycinnamate
-open_beauty_facts:8909106067318,7,Niacinamide,niacinamide
-open_beauty_facts:8909106067318,8,Glycerin,glycerin
-open_beauty_facts:8909106067318,9,Triethanolamine,triethanolamine
-open_beauty_facts:8909106067318,10,Phenoxyethanol,phenoxyethanol
-open_beauty_facts:8909106067318,11,Perfume,fragrance
-open_beauty_facts:8909106067318,12,Benzyl Alcohol,benzyl alcohol
-open_beauty_facts:8909106067318,13,Dimethicone,dimethicone
-open_beauty_facts:8909106067318,14,Carbomer,carbomer
-open_beauty_facts:8909106067318,15,Cetyl Alcohol,cetyl alcohol
-open_beauty_facts:8909106067318,16,Methyl Paraben,methyl paraben
-open_beauty_facts:8909106067318,17,Petrolatum,petrolatum
-open_beauty_facts:8909106067318,18,Titanium Dioxide (and) Aluminum Hydroxide (and) Stearic Acid,titanium dioxide aluminum hydroxide stearic acid
-open_beauty_facts:8909106067318,19,Aluminum Hydroxide (and) Stearic Acid,aluminum hydroxide stearic acid
-open_beauty_facts:8909106067318,20,Trisodium EDTA,trisodium edta
-open_beauty_facts:8909106067318,21,Disodium EDTA,disodium edta
-open_beauty_facts:8909106067318,22,Butyl Methoxydibenzoylmethane,butyl methoxydibenzoylmethane
-open_beauty_facts:8909106067318,23,Phenylbenzimidazole Sulfonic Acid,phenylbenzimidazole sulfonic acid
-open_beauty_facts:8909106067318,24,Propyl Paraben,propyl paraben
-open_beauty_facts:8909106067318,25,Limonene,limonene
-open_beauty_facts:8909106067318,26,Linalool,linalool
-open_beauty_facts:8909106093744,1,WATER,water
-open_beauty_facts:8909106093744,2,PETROLATUM,petrolatum
-open_beauty_facts:8909106093744,3,GLYCERIN,glycerin
-open_beauty_facts:8909106093744,4,PALMITIC ACID (AND) STEARIC ACID,palmitic acid stearic acid
-open_beauty_facts:8909106093744,5,ISOPROPYL PALMITATE,isopropyl palmitate
-open_beauty_facts:8909106093744,6,GLYCOL STEARATE (AND) STEARAMIDE AMP,glycol stearate stearamide amp
-open_beauty_facts:8909106093744,7,DIMETHICONE,dimethicone
-open_beauty_facts:8909106093744,8,TRIETHANOLAMINE,triethanolamine
-open_beauty_facts:8909106093744,9,GLYCERYL STEARATE,glyceryl stearate
-open_beauty_facts:8909106093744,10,THEOBROMA CACAO (COCOA) SEED BUTTER,theobroma cacao seed butter
-open_beauty_facts:8909106093744,11,BUTYROSPERMUM PARKII (SHEA) BUTTER,butyrospermum parkii butter
-open_beauty_facts:8909106093744,12,CETYL ALCOHOL,cetyl alcohol
-open_beauty_facts:8909106093744,13,PHENOXYETHANOL,phenoxyethanol
-open_beauty_facts:8909106093744,14,FRAGRANCE,fragrance
-open_beauty_facts:8909106093744,15,MAGNESIUM ALUMINUM SILICATE,magnesium aluminum silicate
-open_beauty_facts:8909106093744,16,METHYLPARABEN,methylparaben
-open_beauty_facts:8909106093744,17,CARBOMER,carbomer
-open_beauty_facts:8909106093744,18,PROPYLPARABEN,propylparaben
-open_beauty_facts:8909106093744,19,DISODIUM EDTA,disodium edta
-open_beauty_facts:8909106093744,20,CARAMEL,caramel
-open_beauty_facts:8909106093744,21,BENZYL ALCOHOL,benzyl alcohol
-open_beauty_facts:8909106093744,22,BENZYL BENZOATE,benzyl benzoate
-open_beauty_facts:8909106093744,23,CITRONELLOL,citronellol
-open_beauty_facts:8909106093744,24,COUMARIN,coumarin
-open_beauty_facts:8909106093744,25,HEXYL CINNAMAL,hexyl cinnamal
-open_beauty_facts:8909106093744,26,HYDROXYCITRONELLAL,hydroxycitronellal
-open_beauty_facts:8909106093744,27,LIMONENE,limonene
-open_beauty_facts:8909106093744,28,LINALOOL,linalool
+open_beauty_facts:0049696240352,1,water,water
+open_beauty_facts:0049696240352,2,fragrance,fragrance
+open_beauty_facts:0049696240352,3,glycerin,glycerin
+open_beauty_facts:0049696240352,4,hydrolyzed collagen,hydrolyzed collagen
+open_beauty_facts:0049696240352,5,blue 1,blue 1
+open_beauty_facts:0080878203055,1,Water,water
+open_beauty_facts:0080878203055,2,Stearyl Alcohol,stearyl alcohol
+open_beauty_facts:0080878203055,3,Behentrimonium Chloride,behentrimonium chloride
+open_beauty_facts:0080878203055,4,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:0080878203055,5,Bis-Aminopropyl Dimethicone,bis-aminopropyl dimethicone
+open_beauty_facts:0080878203055,6,Fragrance,fragrance
+open_beauty_facts:0080878203055,7,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:0080878203055,8,Disodium EDTA,disodium edta
+open_beauty_facts:0080878203055,9,Panthenol,panthenol
+open_beauty_facts:0080878203055,10,Panthenyl Ethyl Ether,panthenyl ethyl ether
+open_beauty_facts:0080878203055,11,Histidine,histidine
+open_beauty_facts:0080878203055,12,Citric Acid,citric acid
+open_beauty_facts:0080878203055,13,Zea Mays (Corn) Silk Extract,zea mays silk extract
+open_beauty_facts:0080878203055,14,Cocos Nucifera (Coconut) Fruit Extract,cocos nucifera fruit extract
+open_beauty_facts:0080878203055,15,Persea Gratissima (Avocado) Fruit Extract,persea gratissima fruit extract
+open_beauty_facts:0080878203055,16,Methylchloroisothiazolinone,methylchloroisothiazolinone
+open_beauty_facts:0080878203055,17,Methylisothiazolinone,methylisothiazolinone
+open_beauty_facts:0080878203062,1,Water,water
+open_beauty_facts:0080878203062,2,Sodium Lauryl Sulfate,sodium lauryl sulfate
+open_beauty_facts:0080878203062,3,Sodium Laureth Sulfate,sodium laureth sulfate
+open_beauty_facts:0080878203062,4,Cocamidopropyl Betaine,cocamidopropyl betaine
+open_beauty_facts:0080878203062,5,Sodium Citrate,sodium citrate
+open_beauty_facts:0080878203062,6,Sodium Xylenesulfonate,sodium xylenesulfonate
+open_beauty_facts:0080878203062,7,Fragrance,fragrance
+open_beauty_facts:0080878203062,8,Cocamide MEA,cocamide mea
+open_beauty_facts:0080878203062,9,Citric Acid,citric acid
+open_beauty_facts:0080878203062,10,Sodium Benzoate,sodium benzoate
+open_beauty_facts:0080878203062,11,Guar Hydroxypropyltrimonium Chloride,guar hydroxypropyltrimonium chloride
+open_beauty_facts:0080878203062,12,Tetrasodium EDTA,tetrasodium edta
+open_beauty_facts:0080878203062,13,Polyquaternium-6,polyquaternium-6
+open_beauty_facts:0080878203062,14,Panthenol,panthenol
+open_beauty_facts:0080878203062,15,Panthenyl Ethyl Ether,panthenyl ethyl ether
+open_beauty_facts:0080878203062,16,Histidine,histidine
+open_beauty_facts:0080878203062,17,Cocos Nucifera (Coconut) Fruit Extract,cocos nucifera fruit extract
+open_beauty_facts:0080878203062,18,Methylchloroisothiazolinone,methylchloroisothiazolinone
+open_beauty_facts:0080878203062,19,Methylisothiazolinone,methylisothiazolinone
+open_beauty_facts:0111000000645,1,water,water
+open_beauty_facts:0111000000645,2,glycerin,glycerin
+open_beauty_facts:0111000000645,3,petrolatum,petrolatum
+open_beauty_facts:0111000000645,4,dimethicone,dimethicone
+open_beauty_facts:0111000000645,5,cetyl alcohol,cetyl alcohol
+open_beauty_facts:0111000000645,6,jojoba esters,jojoba esters
+open_beauty_facts:0111000000645,7,aloe barbadensis leaf juice,aloe barbadensis leaf juice
+open_beauty_facts:0111000000645,8,stearyl alcohol,stearyl alcohol
+open_beauty_facts:0111000000645,9,distearyldimonium chloride,distearyldimonium chloride
+open_beauty_facts:0111000000645,10,cetearyl alcohol,cetearyl alcohol
+open_beauty_facts:0111000000645,11,steareth-2,steareth-2
+open_beauty_facts:0111000000645,12,steareth-21,steareth-21
+open_beauty_facts:0111000000645,13,propylene glycol,propylene glycol
+open_beauty_facts:0111000000645,14,chamomilla recutita (matricaria) flower extract,chamomilla recutita flower extract
+open_beauty_facts:0111000000645,15,polysorbate 60,polysorbate 60
+open_beauty_facts:0111000000645,16,stearamidopropyl PG-dimonium chloride phosphate,stearamidopropyl pg-dimonium chloride phosphate
+open_beauty_facts:0111000000645,17,methyl gluceth-20,methyl gluceth-20
+open_beauty_facts:0111000000645,18,hydroxyacetophenone,hydroxyacetophenone
+open_beauty_facts:0111000000645,19,tocopheryl acetate,tocopheryl acetate
+open_beauty_facts:0111000000645,20,magnesium ascorbyl phosphate,magnesium ascorbyl phosphate
+open_beauty_facts:0111000000645,21,niacinamide,niacinamide
+open_beauty_facts:0111000000645,22,hydrolyzed jojoba esters,hydrolyzed jojoba esters
+open_beauty_facts:0111000000645,23,glyceryl stearate,glyceryl stearate
+open_beauty_facts:0111000000645,24,citric acid,citric acid
+open_beauty_facts:0111000000645,25,disodium EDTA,disodium edta
+open_beauty_facts:0111000000645,26,fragrance,fragrance
+open_beauty_facts:0667659400942,1,Alcohol Denat,alcohol denat
+open_beauty_facts:0667659400942,2,"Water (Aqua, Eau)",water
+open_beauty_facts:0667659400942,3,Fragrance (Parfum),fragrance
+open_beauty_facts:0667659400942,4,Propylene Glycol,propylene glycol
+open_beauty_facts:0667659400942,5,Ethylhexyl Methoxycinnamate,ethylhexyl methoxycinnamate
+open_beauty_facts:0667659400942,6,Ethylhexyl Salicylate,ethylhexyl salicylate
+open_beauty_facts:0667659400942,7,Butyl Methoxydibenzoylmethane,butyl methoxydibenzoylmethane
+open_beauty_facts:0667659400942,8,Hexamethylindanopyran,hexamethylindanopyran
+open_beauty_facts:0667659400942,9,Limonene,limonene
+open_beauty_facts:0667659400942,10,Citrus Aurantium Peel Oil,citrus aurantium peel oil
+open_beauty_facts:0667659400942,11,Citrus Limon Peel Oil,citrus limon peel oil
+open_beauty_facts:0667659400942,12,Linalool,linalool
+open_beauty_facts:0667659400942,13,Geranyl Acetate,geranyl acetate
+open_beauty_facts:0667659400942,14,Pinene,pinene
+open_beauty_facts:0667659400942,15,Linalyl Acetate,linalyl acetate
+open_beauty_facts:0667659400942,16,Citral,citral
+open_beauty_facts:0667659400942,17,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:0667659400942,18,Rosa Ketones,rosa ketones
+open_beauty_facts:0667659400942,19,Benzaldehyde,benzaldehyde
+open_beauty_facts:0667659400942,20,Terpinolene,terpinolene
+open_beauty_facts:0667659400942,21,Terpineol,terpineol
+open_beauty_facts:0811068019237,1,Water (Aqua),water
+open_beauty_facts:0811068019237,2,Glycerin,glycerin
+open_beauty_facts:0811068019237,3,Isopropyl Palmitate,isopropyl palmitate
+open_beauty_facts:0811068019237,4,Zea Mays (Corn) Starch,zea mays starch
+open_beauty_facts:0811068019237,5,Glyceryl Stearate,glyceryl stearate
+open_beauty_facts:0811068019237,6,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:0811068019237,7,PEG-100 Stearate,peg-100 stearate
+open_beauty_facts:0811068019237,8,Fragrance (Parfum),fragrance
+open_beauty_facts:0811068019237,9,Citrus Nobilis (Mandarin Orange) Peel Oil,citrus nobilis peel oil
+open_beauty_facts:0811068019237,10,Citrus Aurantium Dulcis (Orange) Peel Oil,citrus aurantium dulcis peel oil
+open_beauty_facts:0811068019237,11,Ascorbic Acid (Vitamin C),ascorbic acid
+open_beauty_facts:0811068019237,12,Magnesium Sulfate (Epsom Salt),magnesium sulfate
+open_beauty_facts:0811068019237,13,Theobroma Cacao (Cocoa) Seed Butter,theobroma cacao seed butter
+open_beauty_facts:0811068019237,14,Butyrospermum Parkii (Shea) Butter,butyrospermum parkii butter
+open_beauty_facts:0811068019237,15,Tocopheryl Acetate (Vitamin E),tocopheryl acetate
+open_beauty_facts:0811068019237,16,Simmondsia Chinensis (Jojoba) Seed Oil,simmondsia chinensis seed oil
+open_beauty_facts:0811068019237,17,Dimethicone,dimethicone
+open_beauty_facts:0811068019237,18,Stearic Acid,stearic acid
+open_beauty_facts:0811068019237,19,Magnesium Aluminum Silicate,magnesium aluminum silicate
+open_beauty_facts:0811068019237,20,Xanthan Gum,xanthan gum
+open_beauty_facts:0811068019237,21,Disodium EDTA,disodium edta
+open_beauty_facts:0811068019237,22,Sodium Hydroxide,sodium hydroxide
+open_beauty_facts:0811068019237,23,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:0811068019237,24,Chlorphenesin,chlorphenesin
+open_beauty_facts:0811068019237,25,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:0811068019237,26,Ethylhexylglycerin,ethylhexylglycerin
+open_beauty_facts:0811068019237,27,Aluminum Starch Octenylsuccinate,aluminum starch octenylsuccinate
+open_beauty_facts:0884400381163,1,Aqua (Water),water
+open_beauty_facts:0884400381163,2,Olea Europaea (Olive) Fruit Oil,olea europaea fruit oil
+open_beauty_facts:0884400381163,3,Avena Sativa (Oat) Kernel Flour,avena sativa kernel flour
+open_beauty_facts:0884400381163,4,Mel (Honey),mel
+open_beauty_facts:0884400381163,5,Ascorbic Acid (Vitamin C),ascorbic acid
+open_beauty_facts:0884400381163,6,Curcuma Longa (Turmeric) Root Powder,curcuma longa root powder
+open_beauty_facts:0884400381163,7,Butyrospermum Parkii (Shea) Butter,butyrospermum parkii butter
+open_beauty_facts:0884400381163,8,Elaeis Guineensis (Palm) Kernel Oil,elaeis guineensis kernel oil
+open_beauty_facts:0884400381163,9,Elaeis Guineensis (Palm) Oil,elaeis guineensis oil
+open_beauty_facts:0884400381163,10,Cocos Nucifera (Coconut) Oil,cocos nucifera oil
+open_beauty_facts:0884400381163,11,Ricinus Communis (Castor) Seed Oil,ricinus communis seed oil
+open_beauty_facts:0884400381163,12,Fragrance (Parfum),fragrance
+open_beauty_facts:0884400381163,13,Glycerin,glycerin
+open_beauty_facts:0884400381163,14,Melaleuca Alternifolia (Tea Tree) Leaf Oil,melaleuca alternifolia leaf oil
+open_beauty_facts:0884400381163,15,Tocopherol (Vitamin E),tocopherol
+open_beauty_facts:0884400381163,16,Carbon (Activated Charcoal),carbon
+open_beauty_facts:6974780226254,1,Hydroxyethylcellulose,hydroxyethylcellulose
+open_beauty_facts:6974780226254,2,Propylene Glycol,propylene glycol
+open_beauty_facts:6974780226254,3,Disodium EDTA,disodium edta
+open_beauty_facts:6974780226254,4,Ethanolamine,ethanolamine
+open_beauty_facts:6974780226254,5,Sodium Erythorbate,sodium erythorbate
+open_beauty_facts:6974780226254,6,PEG-75 Lanolin,peg-75 lanolin
+open_beauty_facts:6974780226254,7,Sodium Hydrosulfite,sodium hydrosulfite
+open_beauty_facts:6974780226254,8,Thioglycolic Acid,thioglycolic acid
+open_beauty_facts:6974780226254,9,Etidronic Acid,etidronic acid
+open_beauty_facts:6974780226254,10,Petrolatum,petrolatum
+open_beauty_facts:6974780226254,11,Aroma,flavor
+open_beauty_facts:6974780226254,12,4-Amino-2-Hydroxytoluene,4-amino-2-hydroxytoluene
+open_beauty_facts:6974780226254,13,m-Aminophenol,m-aminophenol
+open_beauty_facts:6974780226254,14,p-Phenylenediamine,p-phenylenediamine
+open_beauty_facts:6974780226254,15,Resorcinol,resorcinol
+open_beauty_facts:6974780226254,16,p-Aminophenol,p-aminophenol
+open_beauty_facts:6974780226254,17,Biota Orientalis Leaf Extract,biota orientalis leaf extract
+open_beauty_facts:6974780226254,18,Zingiber Officinale (Ginger) Root Extract,zingiber officinale root extract
+open_beauty_facts:6974780226254,19,Polygonum Multiflorum Root Extract,polygonum multiflorum root extract
+open_beauty_facts:6974780226254,20,Aloe Barbadensis Leaf Extract,aloe barbadensis leaf extract
+open_beauty_facts:6974780226254,21,Morus Nigra Leaf Extract,morus nigra leaf extract
+open_beauty_facts:6974780226254,22,Artemisia Argyi Leaf Extract,artemisia argyi leaf extract
+open_beauty_facts:6974780226254,23,Panax Ginseng Root Extract,panax ginseng root extract
+open_beauty_facts:6974780226254,24,Hydrolyzed Keratin,hydrolyzed keratin
+open_beauty_facts:6974780226254,25,Guar Hydroxypropyltrimonium Chloride,guar hydroxypropyltrimonium chloride
+open_beauty_facts:6974780226254,26,Sodium Laureth Sulfate,sodium laureth sulfate
+open_beauty_facts:6974780226254,27,Oxyquinoline Sulfate,oxyquinoline sulfate
+open_beauty_facts:6974780226254,28,Cocamidopropyl Betaine,cocamidopropyl betaine
+open_beauty_facts:6974780226254,29,Palm Kernelamide DEA,palm kernelamide dea
+open_beauty_facts:6974780226254,30,Etidronic Acid,etidronic acid
+open_beauty_facts:6974780226254,31,Disodium Phosphate,disodium phosphate
+open_beauty_facts:6974780226254,32,Aroma,flavor
+open_beauty_facts:6974780226254,33,Hydrogen Peroxide,hydrogen peroxide
+open_beauty_facts:6974780226254,34,Sodium Chloride,sodium chloride
+open_beauty_facts:7506306252875,1,Aqua,water
+open_beauty_facts:7506306252875,2,Glycerin,glycerin
+open_beauty_facts:7506306252875,3,Dimethicone,dimethicone
+open_beauty_facts:7506306252875,4,Niacinamide,niacinamide
+open_beauty_facts:7506306252875,5,Petrolatum,petrolatum
+open_beauty_facts:7506306252875,6,Stearic Acid,stearic acid
+open_beauty_facts:7506306252875,7,Caprylic/Capric Triglyceride,caprylic capric triglyceride
+open_beauty_facts:7506306252875,8,Glycol Stearate,glycol stearate
+open_beauty_facts:7506306252875,9,PEG-100 Stearate,peg-100 stearate
+open_beauty_facts:7506306252875,10,Parfum,fragrance
+open_beauty_facts:7506306252875,11,Caprylyl Glycol,caprylyl glycol
+open_beauty_facts:7506306252875,12,Glyceryl Stearate,glyceryl stearate
+open_beauty_facts:7506306252875,13,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:7506306252875,14,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates c10-30 alkyl acrylate crosspolymer
+open_beauty_facts:7506306252875,15,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:7506306252875,16,Dimethiconol,dimethiconol
+open_beauty_facts:7506306252875,17,Helianthus Annuus Seed Oil,helianthus annuus seed oil
+open_beauty_facts:7506306252875,18,Triolein,triolein
+open_beauty_facts:7506306252875,19,Sodium Hydroxide,sodium hydroxide
+open_beauty_facts:7506306252875,20,Disodium EDTA,disodium edta
+open_beauty_facts:7506306252875,21,Stearamide AMP,stearamide amp
+open_beauty_facts:7506306252875,22,Carbomer,carbomer
+open_beauty_facts:7506306252875,23,Sodium Ascorbyl Phosphate,sodium ascorbyl phosphate
+open_beauty_facts:7506306252875,24,Lysine Carboxymethyl Cysteinate,lysine carboxymethyl cysteinate
+open_beauty_facts:7506306252875,25,Rosa Canina Fruit Oil,rosa canina fruit oil
+open_beauty_facts:7506306252875,26,Retinyl Propionate,retinyl propionate
+open_beauty_facts:7506306252875,27,SH-Polypeptide-121,sh-polypeptide-121
+open_beauty_facts:7506306252875,28,Alpha-Isomethyl Ionone,alpha-isomethyl ionone
+open_beauty_facts:7506306252875,29,Benzyl Salicylate,benzyl salicylate
+open_beauty_facts:7506306252875,30,Citronellol,citronellol
+open_beauty_facts:7506306252875,31,Coumarin,coumarin
+open_beauty_facts:7506306252875,32,Geraniol,geraniol
+open_beauty_facts:7506306252875,33,Hexyl Cinnamal,hexyl cinnamal
+open_beauty_facts:7506306252875,34,Isoeugenol,isoeugenol
+open_beauty_facts:7506306252875,35,Limonene,limonene
+open_beauty_facts:7506306252875,36,Linalool,linalool
+open_beauty_facts:7506306253070,1,Aqua,water
+open_beauty_facts:7506306253070,2,Glycerin,glycerin
+open_beauty_facts:7506306253070,3,Niacinamide,niacinamide
+open_beauty_facts:7506306253070,4,Dimethicone,dimethicone
+open_beauty_facts:7506306253070,5,Isopropyl Palmitate,isopropyl palmitate
+open_beauty_facts:7506306253070,6,Petrolatum,petrolatum
+open_beauty_facts:7506306253070,7,PEG-40 Hydrogenated Castor Oil,peg-40 hydrogenated castor oil
+open_beauty_facts:7506306253070,8,Caprylyl Glycol,caprylyl glycol
+open_beauty_facts:7506306253070,9,Carbomer,carbomer
+open_beauty_facts:7506306253070,10,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:7506306253070,11,Lysine Carboxymethyl Cysteinate,lysine carboxymethyl cysteinate
+open_beauty_facts:7506306253070,12,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates c10-30 alkyl acrylate crosspolymer
+open_beauty_facts:7506306253070,13,Sodium Hydroxide,sodium hydroxide
+open_beauty_facts:7506306253070,14,Disodium EDTA,disodium edta
+open_beauty_facts:7506306253070,15,SH-Polypeptide-121,sh-polypeptide-121
+open_beauty_facts:7506306253070,16,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:7707314970069,1,Aqua,water
+open_beauty_facts:7707314970069,2,Propylene Glycol,propylene glycol
+open_beauty_facts:7707314970069,3,Aloe Barbadensis Leaf Extract,aloe barbadensis leaf extract
+open_beauty_facts:7707314970069,4,Calendula Officinalis Flower Extract,calendula officinalis flower extract
+open_beauty_facts:7707314970069,5,Glycerin,glycerin
+open_beauty_facts:7707314970069,6,Polysorbate 20,polysorbate 20
+open_beauty_facts:7707314970069,7,Carbomer,carbomer
+open_beauty_facts:7707314970069,8,Triethanolamine,triethanolamine
+open_beauty_facts:7707314970069,9,PEG-7 Glyceryl Cocoate,peg-7 glyceryl cocoate
+open_beauty_facts:7707314970069,10,Disodium EDTA,disodium edta
+open_beauty_facts:7707314970069,11,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:7707314970069,12,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:7707314970069,13,Methylchloroisothiazolinone,methylchloroisothiazolinone
+open_beauty_facts:7707314970069,14,Methylisothiazolinone,methylisothiazolinone
+open_beauty_facts:7707314970069,15,Parfum,fragrance
+open_beauty_facts:7707314970069,16,CI 19140,ci 19140
+open_beauty_facts:7707314970069,17,CI 42090,ci 42090
+open_beauty_facts:7709794671726,1,Water,water
+open_beauty_facts:7709794671726,2,Parfum,fragrance
+open_beauty_facts:7709794671726,3,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:7709794671726,4,Isopropyl Myristate,isopropyl myristate
+open_beauty_facts:7709794671726,5,Stearic Acid,stearic acid
+open_beauty_facts:7709794671726,6,Dimethicone,dimethicone
+open_beauty_facts:7709794671726,7,Sodium Lauryl Sulfate,sodium lauryl sulfate
+open_beauty_facts:7709794671726,8,Cetearyl Alcohol,cetearyl alcohol
+open_beauty_facts:7709794671726,9,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:7709794671726,10,Ethylhexylglycerin,ethylhexylglycerin
+open_beauty_facts:7709794671726,11,Prunus Amygdalus Dulcis Oil,prunus amygdalus dulcis oil
+open_beauty_facts:7709794671726,12,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:7709794671726,13,Butyrospermum Parkii Butter,butyrospermum parkii butter
+open_beauty_facts:7709794671726,14,PEG-100 Stearate,peg-100 stearate
+open_beauty_facts:7709794671726,15,Glyceryl Stearate,glyceryl stearate
+open_beauty_facts:7709794671726,16,Disodium EDTA,disodium edta
+open_beauty_facts:7709794671726,17,Allantoin,allantoin
+open_beauty_facts:7709794671726,18,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate
+open_beauty_facts:7709794671764,1,Water,water
+open_beauty_facts:7709794671764,2,Parfum,fragrance
+open_beauty_facts:7709794671764,3,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:7709794671764,4,Isopropyl Myristate,isopropyl myristate
+open_beauty_facts:7709794671764,5,Stearic Acid,stearic acid
+open_beauty_facts:7709794671764,6,Dimethicone,dimethicone
+open_beauty_facts:7709794671764,7,Sodium Lauryl Sulfate,sodium lauryl sulfate
+open_beauty_facts:7709794671764,8,Cetearyl Alcohol,cetearyl alcohol
+open_beauty_facts:7709794671764,9,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:7709794671764,10,Ethylhexylglycerin,ethylhexylglycerin
+open_beauty_facts:7709794671764,11,Prunus Amygdalus Dulcis Oil,prunus amygdalus dulcis oil
+open_beauty_facts:7709794671764,12,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:7709794671764,13,Butyrospermum Parkii Butter,butyrospermum parkii butter
+open_beauty_facts:7709794671764,14,PEG-100 Stearate,peg-100 stearate
+open_beauty_facts:7709794671764,15,Glyceryl Stearate,glyceryl stearate
+open_beauty_facts:7709794671764,16,Disodium EDTA,disodium edta
+open_beauty_facts:7709794671764,17,Allantoin,allantoin
+open_beauty_facts:7709794671764,18,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate
+open_beauty_facts:7750075050099,1,Aqua (Water),water
+open_beauty_facts:7750075050099,2,Glyoxylic Acid,glyoxylic acid
+open_beauty_facts:7750075050099,3,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:7750075050099,4,Glycerin,glycerin
+open_beauty_facts:7750075050099,5,Stearyl Alcohol,stearyl alcohol
+open_beauty_facts:7750075050099,6,Parfum,fragrance
+open_beauty_facts:7750075050099,7,Ceteareth-20,ceteareth-20
+open_beauty_facts:7750075050099,8,Dicaprylyl Ether,dicaprylyl ether
+open_beauty_facts:7750075050099,9,Lauryl Alcohol,lauryl alcohol
+open_beauty_facts:7750075050099,10,Behentrimonium Methosulfate,behentrimonium methosulfate
+open_beauty_facts:7750075050099,11,Bis-Hydroxy/Methoxy Amodimethicone,bis-hydroxy methoxy amodimethicone
+open_beauty_facts:7750075050099,12,Dimethicone,dimethicone
+open_beauty_facts:7750075050099,13,Polyquaternium-55,polyquaternium-55
+open_beauty_facts:7750075050099,14,Butylene Glycol,butylene glycol
+open_beauty_facts:7750075050099,15,Butyrospermum Parkii Butter,butyrospermum parkii butter
+open_beauty_facts:7750075050099,16,Theobroma Cacao Seed Butter,theobroma cacao seed butter
+open_beauty_facts:7750075050099,17,Methicone,methicone
+open_beauty_facts:7750075050099,18,PEG-90M,peg-90m
+open_beauty_facts:7750075050099,19,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate
+open_beauty_facts:7750075050099,20,Carbocysteine,carbocysteine
+open_beauty_facts:7750075050099,21,Hydrolyzed Wheat Protein,hydrolyzed wheat protein
+open_beauty_facts:7750075050099,22,Polyquaternium-10,polyquaternium-10
+open_beauty_facts:7750075050099,23,Magnesium Nitrate,magnesium nitrate
+open_beauty_facts:7750075050099,24,Cocos Nucifera Oil,cocos nucifera oil
+open_beauty_facts:7750075050099,25,Theobroma Grandiflorum Seed Butter,theobroma grandiflorum seed butter
+open_beauty_facts:7750075050099,26,Acetum,acetum
+open_beauty_facts:7750075050099,27,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:7750075050099,28,Caprylyl Glycol,caprylyl glycol
+open_beauty_facts:7750075050099,29,Sodium PCA,sodium pca
+open_beauty_facts:7750075050099,30,Sodium Lactate,sodium lactate
+open_beauty_facts:7750075050099,31,Soy Amino Acids,soy amino acids
+open_beauty_facts:7750075050099,32,Wheat Amino Acids,wheat amino acids
+open_beauty_facts:7750075050099,33,Arginine,arginine
+open_beauty_facts:7750075050099,34,Citrus Limon Fruit Extract,citrus limon fruit extract
+open_beauty_facts:7750075050099,35,Pyrus Malus Fruit Extract,pyrus malus fruit extract
+open_beauty_facts:7750075050099,36,Tamarindus Indica Fruit Extract,tamarindus indica fruit extract
+open_beauty_facts:7750075050099,37,Methylchloroisothiazolinone,methylchloroisothiazolinone
+open_beauty_facts:7750075050099,38,Serine,serine
+open_beauty_facts:7750075050099,39,Threonine,threonine
+open_beauty_facts:7750075050099,40,Aspartic Acid,aspartic acid
+open_beauty_facts:7750075050099,41,Arginine HCl,arginine hcl
+open_beauty_facts:7750075050099,42,PCA,pca
+open_beauty_facts:7750075050099,43,Magnesium Chloride,magnesium chloride
+open_beauty_facts:7750075050099,44,Fructose,fructose
+open_beauty_facts:7750075050099,45,Gluconic Acid,gluconic acid
+open_beauty_facts:7750075050099,46,Gluconolactone,gluconolactone
+open_beauty_facts:7750075050099,47,Glucose,glucose
+open_beauty_facts:7750075050099,48,Methylisothiazolinone,methylisothiazolinone
+open_beauty_facts:7750075050099,49,Glycine,glycine
+open_beauty_facts:7750075050099,50,Alanine,alanine
+open_beauty_facts:7750075050099,51,Hydrolyzed Pearl,hydrolyzed pearl
+open_beauty_facts:7750075050099,52,Xanthan Gum,xanthan gum
+open_beauty_facts:7750075050099,53,Caesalpinia Spinosa Gum,caesalpinia spinosa gum
+open_beauty_facts:7750075050099,54,Tocopherol,tocopherol
+open_beauty_facts:7750075050099,55,Valine,valine
+open_beauty_facts:7750075050099,56,Sodium Benzoate,sodium benzoate
+open_beauty_facts:7750075050099,57,Isoleucine,isoleucine
+open_beauty_facts:7750075050099,58,Proline,proline
+open_beauty_facts:7750075050099,59,Potassium Sorbate,potassium sorbate
+open_beauty_facts:7750075050099,60,Histidine,histidine
+open_beauty_facts:7750075050099,61,Phenylalanine,phenylalanine
+open_beauty_facts:7750075050099,62,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:7750075050099,63,Sodium C14-16 Olefin Sulfonate,sodium c14-16 olefin sulfonate
+open_beauty_facts:7750075050099,64,Cocamide DEA,cocamide dea
+open_beauty_facts:7750075050099,65,Cocamidopropyl Betaine,cocamidopropyl betaine
+open_beauty_facts:7750075050099,66,Disodium Laureth Sulfosuccinate,disodium laureth sulfosuccinate
+open_beauty_facts:7750075050099,67,Hydroxyethyl Urea,hydroxyethyl urea
+open_beauty_facts:7750075050099,68,Propylene Glycol,propylene glycol
+open_beauty_facts:7750075050099,69,PEG-120 Methyl Glucose Trioleate,peg-120 methyl glucose trioleate
+open_beauty_facts:7750075050099,70,Linoleamidopropyl PG-Dimonium Chloride Phosphate,linoleamidopropyl pg-dimonium chloride phosphate
+open_beauty_facts:7750075050099,71,Triethanolamine,triethanolamine
+open_beauty_facts:7750075050099,72,Polyquaternium-7,polyquaternium-7
+open_beauty_facts:7750075050099,73,Polyquaternium-70,polyquaternium-70
+open_beauty_facts:7750075050099,74,Citric Acid,citric acid
+open_beauty_facts:7750075050099,75,Dipropylene Glycol,dipropylene glycol
+open_beauty_facts:7750075050099,76,Hydrolyzed Keratin,hydrolyzed keratin
+open_beauty_facts:7750075050099,77,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:7750075050099,78,Argania Spinosa Kernel Oil,argania spinosa kernel oil
+open_beauty_facts:7750075058767,1,Aqua (Water),water
+open_beauty_facts:7750075058767,2,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:7750075058767,3,Stearyl Alcohol,stearyl alcohol
+open_beauty_facts:7750075058767,4,Cetrimonium Chloride,cetrimonium chloride
+open_beauty_facts:7750075058767,5,Parfum,fragrance
+open_beauty_facts:7750075058767,6,Alcohol,alcohol
+open_beauty_facts:7750075058767,7,Dimethiconol,dimethiconol
+open_beauty_facts:7750075058767,8,Cocos Nucifera Oil,cocos nucifera oil
+open_beauty_facts:7750075058767,9,Prunus Amygdalus Dulcis Oil,prunus amygdalus dulcis oil
+open_beauty_facts:7750075058767,10,Isopropyl Myristate,isopropyl myristate
+open_beauty_facts:7750075058767,11,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate
+open_beauty_facts:7750075058767,12,TEA-Dodecylbenzenesulfonate,tea-dodecylbenzenesulfonate
+open_beauty_facts:7750075058767,13,Sodium Benzoate,sodium benzoate
+open_beauty_facts:7750075058767,14,Citric Acid,citric acid
+open_beauty_facts:7750075058767,15,Carthamus Tinctorius Seed Oil,carthamus tinctorius seed oil
+open_beauty_facts:7750075058767,16,Linoleic Acid,linoleic acid
+open_beauty_facts:7750075058767,17,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:7750075058767,18,Coumarin,coumarin
+open_beauty_facts:7750075058767,19,Methylchloroisothiazolinone,methylchloroisothiazolinone
+open_beauty_facts:7750075058767,20,Chloride,chloride
+open_beauty_facts:7750075058767,21,Methylisothiazolinone,methylisothiazolinone
+open_beauty_facts:7750075058767,22,PEG-8,peg-8
+open_beauty_facts:7750075058767,23,Tocopherol,tocopherol
+open_beauty_facts:7750075058767,24,Ascorbyl Palmitate,ascorbyl palmitate
+open_beauty_facts:7750075058767,25,Ascorbic Acid,ascorbic acid
+open_beauty_facts:7750075063563,1,Aqua (Water),water
+open_beauty_facts:7750075063563,2,Cetyl Alcohol,cetyl alcohol
+open_beauty_facts:7750075063563,3,Stearyl Alcohol,stearyl alcohol
+open_beauty_facts:7750075063563,4,Cetrimonium Chloride,cetrimonium chloride
+open_beauty_facts:7750075063563,5,Parfum,fragrance
+open_beauty_facts:7750075063563,6,Dimethiconol,dimethiconol
+open_beauty_facts:7750075063563,7,Alcohol,alcohol
+open_beauty_facts:7750075063563,8,TEA-Dodecylbenzenesulfonate,tea-dodecylbenzenesulfonate
+open_beauty_facts:7750075063563,9,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate
+open_beauty_facts:7750075063563,10,Dimethyl Palmitamine,dimethyl palmitamine
+open_beauty_facts:7750075063563,11,Magnesium Nitrate,magnesium nitrate
+open_beauty_facts:7750075063563,12,Citric Acid,citric acid
+open_beauty_facts:7750075063563,13,Soy Amino Acids,soy amino acids
+open_beauty_facts:7750075063563,14,Wheat Amino Acids,wheat amino acids
+open_beauty_facts:7750075063563,15,Sodium Benzoate,sodium benzoate
+open_beauty_facts:7750075063563,16,Arginine HCl,arginine hcl
+open_beauty_facts:7750075063563,17,Serine,serine
+open_beauty_facts:7750075063563,18,Threonine,threonine
+open_beauty_facts:7750075063563,19,Glycerin,glycerin
+open_beauty_facts:7750075063563,20,Methylchloroisothiazolinone,methylchloroisothiazolinone
+open_beauty_facts:7750075063563,21,Hydrolyzed Hyaluronic Acid,hydrolyzed hyaluronic acid
+open_beauty_facts:7750075063563,22,Magnesium Chloride,magnesium chloride
+open_beauty_facts:7750075063563,23,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:7750075063563,24,Lecithin,lecithin
+open_beauty_facts:7750075063563,25,Methylisothiazolinone,methylisothiazolinone
+open_beauty_facts:7750075063563,26,Benzyl Alcohol,benzyl alcohol
+open_beauty_facts:7750075063563,27,Carnitine,carnitine
+open_beauty_facts:7750075063563,28,Sodium Hyaluronate,sodium hyaluronate
+open_beauty_facts:7750075063563,29,Lactic Acid,lactic acid
+open_beauty_facts:7750075063563,30,Potassium Sorbate,potassium sorbate
+open_beauty_facts:7750075063563,31,Sodium Citrate,sodium citrate
+open_beauty_facts:7750075063563,32,Trisodium EDTA,trisodium edta
+open_beauty_facts:7750075063563,33,Ubiquinone,ubiquinone
+open_beauty_facts:7750075063563,34,Tocopherol,tocopherol
+open_beauty_facts:7750075063563,35,Biotin,biotin
+open_beauty_facts:8411135009677,1,Aqua (Water),water
+open_beauty_facts:8411135009677,2,Glycerin,glycerin
+open_beauty_facts:8411135009677,3,Paraffinum Liquidum (Mineral Oil),paraffinum liquidum
+open_beauty_facts:8411135009677,4,Cetearyl Alcohol,cetearyl alcohol
+open_beauty_facts:8411135009677,5,Glyceryl Stearate,glyceryl stearate
+open_beauty_facts:8411135009677,6,Cetyl Palmitate,cetyl palmitate
+open_beauty_facts:8411135009677,7,Cetearyl Ethylhexanoate,cetearyl ethylhexanoate
+open_beauty_facts:8411135009677,8,PEG-100 Stearate,peg-100 stearate
+open_beauty_facts:8411135009677,9,Dimethicone,dimethicone
+open_beauty_facts:8411135009677,10,Urea,urea
+open_beauty_facts:8411135009677,11,Potassium Lactate,potassium lactate
+open_beauty_facts:8411135009677,12,Stearic Acid,stearic acid
+open_beauty_facts:8411135009677,13,Palmitic Acid,palmitic acid
+open_beauty_facts:8411135009677,14,Milk,milk
+open_beauty_facts:8411135009677,15,Tocopheryl Acetate,tocopheryl acetate
+open_beauty_facts:8411135009677,16,Carbomer,carbomer
+open_beauty_facts:8411135009677,17,Phenoxyethanol,phenoxyethanol
+open_beauty_facts:8411135009677,18,Caprylyl Glycol,caprylyl glycol
+open_beauty_facts:8411135009677,19,Propanediol,propanediol
+open_beauty_facts:8411135009677,20,Lecithin,lecithin
+open_beauty_facts:8411135009677,21,Tocopherol,tocopherol
+open_beauty_facts:8411135009677,22,Helianthus Annuus (Sunflower) Seed Oil,helianthus annuus seed oil
+open_beauty_facts:8411135009677,23,Sodium Phytate,sodium phytate
+open_beauty_facts:8411135009677,24,Sodium Hydroxide,sodium hydroxide
+open_beauty_facts:8411135009677,25,Parfum (Fragrance),fragrance
+open_beauty_facts:8411135009677,26,Citral,citral
+open_beauty_facts:8411135009677,27,Alpha-Isomethyl Ionone,alpha-isomethyl ionone
+open_beauty_facts:8411135009677,28,Geraniol,geraniol
+open_beauty_facts:8411135009677,29,Coumarin,coumarin
+open_beauty_facts:8411135009677,30,Citronellol,citronellol
+open_beauty_facts:8411135009677,31,Limonene,limonene
+open_beauty_facts:8411135009677,32,Hexyl Cinnamal,hexyl cinnamal
+open_beauty_facts:8411135009677,33,Linalool,linalool
