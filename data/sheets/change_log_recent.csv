@@ -1,4 +1,81 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-11-26,20261126T190138Z,cosrx,products,cosrx:pure-fit-cica-calming-true-sheet-mask,Pure Fit Cica Calming True Sheet Mask,changed,"price_max, price_min",price_max: 6.99 -> 6; price_min: 6.99 -> 6
+2026-11-26,20261126T190138Z,cosrx,products,cosrx:lip-plump-refresh-aha-bha-viamin-c-lip-plumper,Lip Plump - Refresh AHA BHA Vitamin C Lip Plumper,changed,in_stock,in_stock: true -> false
+2026-11-26,20261126T190138Z,cosrx,products,cosrx:cosrx-the-blue-peptide-bakuchiol-hydra-plump-boosting-mist,COSRX The Blue Peptide Bakuchiol Hydra Plump Boosting Mist,changed,"ingredient_count, ingredients, ingredients_text","ingredient_count: 43 -> 3; ingredients_text: AQUA/WATER, CAPRYLIC/CAPRIC TRIGLYCERIDE, DICAPRYLYL CARBONATE, NIACINAMIDE, ... -> in this! The blend of Copper Peptides and Bakuchiol gives great firming benef..."
+2026-11-26,20261126T190138Z,cosrx,products,cosrx:full-fit-propolis-light-ampoule-copy,Full fit Propolis Light Ampoule,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:9421035739887,Naturals Hand & Body Lotion Firming Cocoa Butter & Vitamin E,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:9348918004880,Manuka Honey + Vanilla Bean,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:9309003885005,NOURISH HAIR OIL PROTECT • NOURISH HAIR MST,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:9000101656695,Silky Shine Shampoo,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:8800307377391,Eternal Honmoon Brightening Collagen Mask,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:8006540768877,Satin Care Avocado Twist,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:7502310640097,Pleasures Divine Orchid,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:7500435247634,"Dragonblast Aroma a Cedro, Spray Antitranspirante",changed,"ingredient_count, ingredients, ingredients_text, name, size, tags","ingredient_count: 16 -> 20; ingredients_text: Butane, Isobutane, Propane, Aluminum Chlorohydrate, Dimethicone, Parfum, C12-... -> Butane, Isobutane, Propane, Aluminum Chlorohydrate, Dimethicone, Parfum, C12-...; name: Dragonblast Antitranspirante en spray, aroma a cedro -> Dragonblast Aroma a Cedro, Spray Antitranspirante"
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:6969856785230,30 Colors Matte Eyeshadow Palette,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:69243080,Supernatural Deodorant,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:6921199199686,Sunblock Cream,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:6009610391199,Rose Water Spray,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:6001087370196,Vaseline Intensive Care,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:5712876736574,Hand Soap Creamy,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:5712876736550,Hand Soap Cashmire,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:4800310156130,Insta-White Lotion,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:4305615918082,Liquid Moisturizer,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:4305615467474,Chusteczki facelle,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:4066447987751,Acqua micellare Pelle mista Fico d'India,changed,name,name: Mizellenwasser Mischhaut Kaktusfeige -> Acqua micellare Pelle mista Fico d'India
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:4059729338792,Primer Serum,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:4056489764137,Sonnencrem 50 LSF,changed,"category, ingredient_count, ingredients, ingredients_text, name, size, tags","category:  -> Sunscreen; ingredient_count: 22 -> 18; ingredients_text: Aqua, Alcohol Denat., Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Parfu... -> Aqua, Glycerin, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benz..."
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:4001669091534,(unnamed),added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:3701436930547,Boucles intenses,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:3606000642669,Invisible Mineral Sunscreen SPF 50 Face,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:3600524142377,Elvive Hydra Hyaluronic Moisture Locking Conditioner,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:22004321,Zahncreme Sensitive,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0860013935405,Dry Shampoo Fresh & Clean,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0858514006083,"Deodorant Palo Santo & Frankincense, Original Formula",changed,"name, size","name: Deodorant Choice of Domesticated Fragrance Palo Santo & Frankincense -> Deodorant Palo Santo & Frankincense, Original Formula; size:  -> 2.5oz"
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0855933000715,XyliMelts Dry Mouth,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0850083819026,Whipped Body Wash,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0850010322094,Dry Body Oil Amber Woods,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0840026672535,Pro Filt'r Fluid Flex,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0810210624572,Drunk'n Pumpkin,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0810137684994,Element Essence Face Serum,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0810095597961,"Odor Squatching Deodorant, Coastal Mist (Men's Natural, with Arrowroot, Charcoal, Postbiotics)",added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0810018879860,I Am Magic Concealer,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0667888306824,Moisturizing Lotion,changed,"category, ingredient_count, ingredients, ingredients_text, name, tags","category:  -> Open-beauty-facts; ingredient_count: 11 -> 12; ingredients_text: Water/Aqua, Paraffinum Liquidum, Cetearyl Alcohol, Glyceryl Stearate, PEG-40 ... -> Water/Aqua, Paraffinum Liquidum, Cetearyl Alcohol, Glyceryl Stearate, PEG-40 ..."
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0667553697226,Aromatherapy Eucalyptus + Spearmint Stress Relief Moisturizing Body Cream,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0646670546532,Body Lotion,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0641018702120,Snoopy's Face Sheet Mask,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0605923341256,Hydrate Eye & Face Makeup Remover,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0605069200257,Complete Care Toothpaste,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0605069064835,"Xylitol Toothpaste, Mint",changed,"category, name, tags","category: Toothpastes -> Oral care; name: Xylitol Toothpaste -> Xylitol Toothpaste, Mint; tags: toothpaste -> hygiene; toothpastes; Oral care"
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0390205025008,UV Clear Broad Spectrum SPF 46 Face Sunscreen,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0197689035260,Shape Tape Ultra Creamy Concealer,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0194248063450,BAREPRO 24HR Wear Skin-Perfecting Matte Liquid Foundation,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0041840830242,Shea Buttermilk Nourishing Bath Bar,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0041554101287,Lifter Plump & Glow Foundation,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0030772105962,3D White Advanced Charcoal,added,,
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0012044045114,Swagger Underarm & Body Spray Aluminum Free,changed,"ingredients, ingredients_text","ingredients_text: alcohol denat., hydrofluorocarbon 152A, fragrance, methyl cyclodextrin, water -> Alcohol Denatured, Hydrofluorocarbon 152A, Fragrance, Methyl Cyclodextrin, Wa..."
+2026-11-26,20261126T190138Z,open_beauty_facts,products,open_beauty_facts:0011111614406,Moisturizing Cream Pink,added,,
+2026-11-26,20261126T190138Z,aromantic,raw_materials,aromantic:evening-primrose-oil,Evening Primrose Oil,changed,in_stock,in_stock: true -> false
+2026-11-26,20261126T190138Z,aromantic,raw_materials,aromantic:eco-marine-algae-extract,Eco Marine Algae Extract,changed,in_stock,in_stock: true -> false
+2026-11-26,20261126T190138Z,aromantic,raw_materials,aromantic:calendula-co2-extract-organic,Organic Calendula CO2 Extract,changed,in_stock,in_stock: false -> true
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:brown-iron-oxide,Iron Oxide - Brown,changed,description,description: Description Details Documents Will add a a chocolate brown colour to your soa... -> Description Details Documents Will add a a chocolate brown colour to your soa...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:dead-sea-mineral-salt-coarse,Dead Sea Mineral Salt - Coarse,changed,description,description: Description Details Documents This mineral rich salt comes from the most sali... -> Description Details Documents This mineral rich salt comes from the most sali...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:dead-sea-mineral-salt-fine,Dead Sea Mineral Salt - Fine,changed,description,description: Description Details Documents This mineral rich salt comes from the most sali... -> Description Details Documents This mineral rich salt comes from the most sali...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:french-green-clay,French Green Clay,changed,description,description: Description Details Documents French Green Clay absorbs and removed impuritie... -> Description Details Documents French Green Clay absorbs and removed impuritie...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:grapeseed-oil,Grapeseed Oil,changed,description,"description: Description Details Documents Grapeseed Oil is a light, odorless oil suitable... -> Description Details Documents Grapeseed Oil is a light, odorless oil suitable..."
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:pastel-pink-clay,French Pink Clay,changed,description,description: Description Details Documents French Pink Clay has hydrating properties to mo... -> Description Details Documents French Pink Clay has hydrating properties to mo...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:foaming-silk,Foaming Silk,changed,description,description: Description Details Documents Foaming silk is made from hydrolyzed pure silk ... -> Description Details Documents Foaming silk is made from hydrolyzed pure silk ...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:slick-fix-modified-tapioca-starch,Slick Fix - Modified Tapioca Starch,changed,description,description: Description Details Documents Slick Fix is a form of tapioca starch that has ... -> Description Details Documents Slick Fix is a form of tapioca starch that has ...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:pumice-stone-granules-superfine,Pumice Stone Granules - Extra Fine,changed,description,"description: Description Details Documents Pumice is a light grey, porous volcanic rock th... -> Description Details Documents Pumice is a light grey, porous volcanic rock th..."
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:himalayan-pink-salt,Himalayan Pink Salt,changed,description,"description: Description Details Documents Found deep inside the Himalayan Mountains, this... -> Description Details Documents Found deep inside the Himalayan Mountains, this..."
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:ricebran-oil,Ricebran Oil,changed,description,description: Description Details Documents Ricebran Oil is a very popular oil for lotions ... -> Description Details Documents Ricebran Oil is a very popular oil for lotions ...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:magnesium-hydroxide,Magnesium Hydroxide,changed,description,description: Description Details Documents Magnesium Hydroxide is used as an additive in f... -> Description Details Documents Magnesium Hydroxide is used as an additive in f...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:palm-kernel-oil-flakes,Palm Kernel Oil Flakes,changed,description,description: Description Details Documents Palm Kernel Carrier Oil is commonly used in soa... -> Description Details Documents Palm Kernel Carrier Oil is commonly used in soa...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:detergent-free-shea-butter-mp-soap-bulk,Detergent Free Shea Butter MP Soap - Bulk,changed,in_stock,in_stock: true -> false
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:zinc-oxide,Zinc Oxide,changed,description,description: Description Details Documents Zinc Oxide is a white powder with wonderful ast... -> Description Details Documents Zinc Oxide is a white powder with wonderful ast...
+2026-11-26,20261126T190138Z,windy_point,raw_materials,windy_point:lauryl-glucoside,Lauryl Glucoside,changed,in_stock,in_stock: false -> true
+2026-11-26,20261126T190138Z,lotioncrafter,raw_materials,lotioncrafter:honey-powder,Honey Powder,changed,"description, price_max, price_min","description: For smaller variants, our current lot of Honey powder has a retest date of 3/... -> CAS#: 8028-66-8, 9050-36-6 Honey Powder is a natural honey that has been spra...; price_max: 408.5 -> 432.5; price_min: 7.6 -> 8.95"
+2026-11-26,20261126T190138Z,lotioncrafter,raw_materials,lotioncrafter:ceramide-complex,Ceramide Complex,changed,in_stock,in_stock: false -> true
+2026-11-26,20261126T190138Z,lotioncrafter,raw_materials,lotioncrafter:lcpeptide-copper,LCPeptide™ Copper,changed,use_level_min_pct,use_level_min_pct: 0.5 -> 0.2
 2026-11-25,20261125T191758Z,cosrx,products,cosrx:full-fit-propolis-light-ampoule,Full fit Propolis Light Ampoule,changed,in_stock,in_stock: true -> false
 2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:8411135009677,Lactourea 10 Repairing Body Milk (Leche corporal reparadora),added,,
 2026-11-25,20261125T191758Z,open_beauty_facts,products,open_beauty_facts:8025796009466,saponetta vegetale tea tree,changed,"ingredients, ingredients_text","ingredients_text: Ingredients: Sodium Palmate*, Sodium Palm Kernelate*, Aqua (Water), Glycerin,... -> Ingredients: Sodium Palmate, Sodium Palm Kernelate*, Aqua (Water), Glycerin, ..."
@@ -1922,80 +1999,3 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522108108,Carbon Protect Anti-Transpirant 5 en 1 Ice Fresh,removed,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522105992,Pure Liss Système soin lissant Shampooing lissage & discipline,removed,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600521982075,Elsene Total Repair 5 Miracle Instantané,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600521830499,(unnamed),removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600521830154,Elseve Antipelliculaire Selenium S actif shampooing traitant,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600521756805,Elseve Color-Vive Shampooing soin (maxi format),removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600521667125,Hydra Energetic Bille glacée Yeux anti-poches + anti-cernes,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600521602485,Hydra Sensitive Soin Hydratant Peaux Sensibles,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600520978642,Casting crème gloos,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600520301174,Stop Rides Soin Hydratant Anti-rides d'expression Boswelox,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3597610182785,Aniosgel,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596710515394,Bandes de cire froide à l'aloe vera,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596710389094,Lingettes naturelles,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596710389070,Lingettes sensitive au lait - peaux sensibles,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596710387113,Gel Douche Peaux Sensibles Visage Corps Men,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596710198986,72 lingettes bébé à l'aloe vera,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596710198900,Lingettes douceur à l'eau nettoyante,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596490003593,Nutrissance Crème mains Nourrissante,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596490001575,Déo-Soin Dermato,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596490000998,Gel surgras bain et douche,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596209936747,Gel dentifrice pour Enfant,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596209532666,Fluide confort absolu,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596206227794,Huile de massage à l'Arnica,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596206226346,Huile de massage à l'arnica,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596206198001,Savon végétal au calendula,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596206181102,Weleda - Pâte dentifrice au Ratanhia,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596205152134,Shampooing usage fréquent Millet,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596204696189,Weleda Bébé Calendula - Crème lavante corps et cheveux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596204471700,Bain de Bouche à la Myrrhe,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596204358476,Weleda Bébé Calendula - Huile de Massage Douceur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596202561939,Dentifrice Au Ratanhia Duo - 2 75 ML - Weleda,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3596200077586,Skin Food - Baume corps,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661574639,Shampooing gel purifiant Feuille d'ortie et Citron bio,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661568928,Gel douche châtaigne des bois,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661500553,Pflegeöl,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661480367,Shampooing hydratation sans silicone,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661479699,Masque 3 en 1 hydratation,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661460161,Shampoing doux purifiant à l'ortie blanche et au citron,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661404233,Bain de bouche quotidien  - Listerine fraîcheur  -,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661353456,Gel douche extra doux verveine,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661349800,Savon liquide,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661349794,Fleur d'Oranger,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661349701,Lait crème mousse mains extra doux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661347097,Douche crème Extra Doux Lait,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661337739,Déodorant Extra Doux Pêche Blanche,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661332550,Visibly clear,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661309637,Shampooing Fraîcheur Détox,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661285894,Daily Moisturing Body Lotion,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661261065,Déodorant extra doux 24 h fleur d'oranger,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661258522,Savon surgras à l'huile d'amande douce,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661257389,Savon extra doux chèvrefeuille,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661257365,Crème pieds secs,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661254494,Ma pause coco-ning,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661249858,Shampooing Eclat Couleur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661249094,beruhigende bodylotion,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661244839,Visibly clear correct & perfect,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661231372,Shampooing Force & Éclat,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661231365,shampoing,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661231358,Shampooing Nutrition au lait de Karité & au Miel,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661213613,Baume surgras Hypoallergénique Sève d'aloe vera,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661211138,Douche crème surgras hypoallergénique seve d'aloe vera et beurre d'amande,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661193175,Bois de Cade et Fougère,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661186276,Shampooing Brillance & Volume,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661184159,lait soin hydratant réparation peaux abîmées desséchées,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661183916,lait hydratant nutrition,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661183350,Lait douche et bain moussant extra doux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661182001,intense repair,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661181899,Formule Norvégienne Deep Moisture Sensitive,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661169392,Savon Extra Doux Amande Douce,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661154008,Lait hydratant hypoallergénique sève d'Aloe Vera & Calendula,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661151274,Douche & Bain crème hypoallergenique Sève d'Aloe Vera & Fleur d'Abricotier,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661144900,Pêche de vigne Gel mousse extra doux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661113708,LISTERINE - Fraîcheur intense,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661099255,Douche Baume de soin Nutrition intense,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661065441,"Gel douche Extra Doux, Pin & Criste Marine",removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661065410,Gel douche extra doux Pêche blanche & Nectarine,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661065373,Douche crème extra doux Lilas,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661065342,Douche crème extra doux Lait de Vanille,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661059099,Douche & Bain Émollient Surgras Peaux sèches,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3574661054780,Shampooing Purifiant aux extraits d'Ortie et de Citron,removed,,
