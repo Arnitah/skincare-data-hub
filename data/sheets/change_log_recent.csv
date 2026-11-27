@@ -1,4 +1,34 @@
 date,run_id,source_id,table,record_id,name,change,fields,details
+2026-11-27,20261127T185949Z,cosrx,products,cosrx:low-ph-goodnight-soft-peeling-gel,Low pH Goodnight Soft Peeling Gel,changed,in_stock,in_stock: true -> false
+2026-11-27,20261127T185949Z,cosrx,products,cosrx:comfort-ceramide-soft-cream-sheet-mask,Balancium Comfort Ceramide Soft Cream Sheet Mask,changed,in_stock,in_stock: true -> false
+2026-11-27,20261127T185949Z,round_lab,products,round_lab:birch-moisturizing-cream,Birch Moisturizing Cream,changed,in_stock,in_stock: true -> false
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:8906090577939,Anti Dandruff Conditioner,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:8906090576659,Exfoliating Face Scrub,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:8906090575959,Anti-Dandruff Shampoo,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:8851932418140,Hijab Shampoo,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:8720181750403,Dark Temptation 3 in 1,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:8683829431556,Natural Oil-Based Cleaner,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:8006530116558,Pampers 99% Water Babydoekjes,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:6224008073390,Soothing Gel,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:4070765001525,Erfrischungstücher Citrusduft,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:4066447952971,med Ultra Sensitive Waschgel,changed,"ingredient_count, ingredients, ingredients_text, name","ingredient_count: 10 -> 11; ingredients_text: AQUA · GLYCERIN · PENTYLENE GLYCOL · COCAMIDOPROPYL BETAINE · DECYL GLUCOSIDE... -> AQUA, GLYCERIN, PENTYLENE GLYCOL, COCO-GLUCOSIDE, BETAINE, COCO-GLUCOSIDE, XA...; name: Ultra Sensitive Waschgel -> med Ultra Sensitive Waschgel"
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:4066447942767,Cake it Easy Cream Shower,changed,name,name: Cremedusche Cake it easy -> Cake it Easy Cream Shower
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:3606000534872,Hydrating Facial Cleanser,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:3600524230449,Elseve Glycolic Gloss,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:3600524000028,Elseve Canlandirici Serum,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:3600523036332,Elseve Mucizevi Yağ Saç Güzelleştirici Krem,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:0850062484504,Clean Makeup Wipes,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:0810129110043,Sun barrier mineral sunscreen,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:0722510927584,Working Hands Hand & Body Lotion,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:0390205025008,UV Clear Broad Spectrum SPF 46 Face Sunscreen,changed,"ingredients, ingredients_text, tags","ingredients_text: Octinoxate (7.5%) and Zinc Oxide (9.0%), alongside the inactive ingredients W... -> Octinoxate (7.5%), Zinc Oxide (9.0%), Water, Cyclopentasiloxane, Niacinamide,...; tags: Face sunscreens; Sun protection -> face; suncare; facial creams; in sun protections; sunscreen; facial sunscreen..."
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:0380610430603,Topical foam,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:0199874402925,Daily Essentials Pearl Whispers Plant + Mineral Deodorant,added,,
+2026-11-27,20261127T185949Z,open_beauty_facts,products,open_beauty_facts:0022796913067,Coconut Milk Conditioner,added,,
+2026-11-27,20261127T185949Z,aromantic,raw_materials,aromantic:shea-butter-oil,Shea Butter Oil,changed,in_stock,in_stock: false -> true
+2026-11-27,20261127T185949Z,aromantic,raw_materials,aromantic:chamomile-co2-extract-organic,Organic Chamomile CO2 Extract,changed,in_stock,in_stock: true -> false
+2026-11-27,20261127T185949Z,aromantic,raw_materials,aromantic:preservative-12,Preservative 12,changed,in_stock,in_stock: false -> true
+2026-11-27,20261127T185949Z,aromantic,raw_materials,aromantic:eco-marine-algae-extract,Eco Marine Algae Extract,changed,in_stock,in_stock: false -> true
+2026-11-27,20261127T185949Z,aromantic,raw_materials,aromantic:vegetal,Montanov™ 68 MB (Vegetal),changed,in_stock,in_stock: false -> true
 2026-11-26,20261126T190138Z,cosrx,products,cosrx:pure-fit-cica-calming-true-sheet-mask,Pure Fit Cica Calming True Sheet Mask,changed,"price_max, price_min",price_max: 6.99 -> 6; price_min: 6.99 -> 6
 2026-11-26,20261126T190138Z,cosrx,products,cosrx:lip-plump-refresh-aha-bha-viamin-c-lip-plumper,Lip Plump - Refresh AHA BHA Vitamin C Lip Plumper,changed,in_stock,in_stock: true -> false
 2026-11-26,20261126T190138Z,cosrx,products,cosrx:cosrx-the-blue-peptide-bakuchiol-hydra-plump-boosting-mist,COSRX The Blue Peptide Bakuchiol Hydra Plump Boosting Mist,changed,"ingredient_count, ingredients, ingredients_text","ingredient_count: 43 -> 3; ingredients_text: AQUA/WATER, CAPRYLIC/CAPRIC TRIGLYCERIDE, DICAPRYLYL CARBONATE, NIACINAMIDE, ... -> in this! The blend of Copper Peptides and Bakuchiol gives great firming benef..."
@@ -1969,33 +1999,3 @@ date,run_id,source_id,table,record_id,name,change,fields,details
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600524081720,(unnamed),removed,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523925544,Shampooing Traitant Antipelliculaire,removed,,
 2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523741465,Carbon Protect Anti-Transpirant,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523586301,Elseve dream long,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523583270,Shampoing reconstructeur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523557295,(unnamed),removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523526048,BarberClub Nettoyant 3 en 1 Barbe + Visage + Cheveux,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523443970,Elseve Phytoclear Antipelliculaire Cure 7 Jours,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523426485,Elseve Phytoclear antipelliculaire Shampooing + Soin,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523426478,Elseve Phytoclear antipelliculaire,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523426461,Phytoclear antipelliculaire - Shampooing régulateur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523386284,Colorista washout #bluehair,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523371013,Shampooing Source de Force coriandre,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523306336,Masque Detox Argile Pure,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523277520,Elvive Color-vive,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523232710,Men Expert Cool Power,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523199204,Elseve Huile extraordinaire Shampooing boucles sublimes,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523177677,Studio Line Vapo Go Create Fixation Ultra Forte,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600523128204,Elseve Liss-Intense Shampooing disciplinant Huile d'Argan + Thermo-Protect,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522862666,Formule 2 en 1 Elseve Color-Vive Shampooing soin,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522840626,Accord Parfait fond de teint unifiant sur-mesure Lin,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522836964,Elseve Color-vive shampooing soin,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522836896,Color-Vive Soin démêlant instantané Cheveux colorés ou mêchés,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522836872,Elseve Total Repair 5,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522836797,Elseve Anti-casse shampooing réparateur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522495871,Elseve Fibralogy Shampooing créateur de matière,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522448433,Elseve Huile extraordinaire Shampooing Nutrition,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522418634,Gel nettoyant au charbon multi-purifiant Pure Power 5 en 1,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522220077,Arginine resist X3 shampooing renforçateur,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522214656,Huile Extraordinaire cheveux colorés,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522108108,Carbon Protect Anti-Transpirant 5 en 1 Ice Fresh,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600522105992,Pure Liss Système soin lissant Shampooing lissage & discipline,removed,,
-2026-11-07,20261107T154028Z,open_beauty_facts,products,open_beauty_facts:3600521982075,Elsene Total Repair 5 Miracle Instantané,removed,,

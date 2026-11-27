@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-26T19:01:38+00:00",
- "run_id": "20261126T190138Z",
- "date": "2026-11-26",
+ "generated_at": "2026-11-27T18:59:49+00:00",
+ "run_id": "20261127T185949Z",
+ "date": "2026-11-27",
  "totals": {
   "raw_materials": 1902,
-  "products": 21311,
+  "products": 21330,
   "regulatory": 3032,
-  "ingredients": 9148,
-  "products_with_regulated_ingredients": 18577,
+  "ingredients": 9157,
+  "products_with_regulated_ingredients": 18596,
   "atlas_entries_with_product_matches": 21,
-  "atlas_product_matches_exact": 1875,
+  "atlas_product_matches_exact": 1876,
   "excluded_non_cosmetic": 139,
   "review_status": {
-   "candidate": 27630
+   "candidate": 27649
   }
  },
  "sources": [
@@ -27,15 +27,15 @@
    "base_url": "https://www.nativeextracts.com",
    "active": true,
    "last_run_status": "partial",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 252,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 245.9,
-   "message": "8 product page(s) failed to load; kept previous data for those"
+   "duration_seconds": 230.1,
+   "message": "9 product page(s) failed to load; kept previous data for those"
   },
   {
    "source_id": "lotioncrafter",
@@ -48,14 +48,14 @@
    "base_url": "https://lotioncrafter.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 350,
    "records_added": 0,
-   "records_changed": 3,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.0,
+   "duration_seconds": 3.9,
    "message": ""
   },
   {
@@ -69,8 +69,8 @@
    "base_url": "https://formulatorsampleshop.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 700,
    "records_added": 0,
@@ -90,14 +90,14 @@
    "base_url": "https://windypointsoap.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 266,
    "records_added": 0,
-   "records_changed": 16,
+   "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 8.8,
+   "duration_seconds": 8.7,
    "message": ""
   },
   {
@@ -111,12 +111,12 @@
    "base_url": "https://aromantic.co.uk",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 334,
    "records_added": 0,
-   "records_changed": 3,
+   "records_changed": 5,
    "records_removed": 0,
    "duration_seconds": 5.0,
    "message": ""
@@ -132,14 +132,14 @@
    "base_url": "https://world.openbeautyfacts.org",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
-   "records_active": 21153,
-   "records_added": 44,
-   "records_changed": 7,
+   "records_active": 21172,
+   "records_added": 19,
+   "records_changed": 3,
    "records_removed": 0,
-   "duration_seconds": 15.1,
+   "duration_seconds": 14.5,
    "message": ""
   },
   {
@@ -153,12 +153,12 @@
    "base_url": "https://roundlab.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 62,
    "records_added": 0,
-   "records_changed": 0,
+   "records_changed": 1,
    "records_removed": 0,
    "duration_seconds": 1.3,
    "message": ""
@@ -174,14 +174,14 @@
    "base_url": "https://www.cosrx.com",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 96,
-   "records_added": 1,
-   "records_changed": 3,
+   "records_added": 0,
+   "records_changed": 2,
    "records_removed": 0,
-   "duration_seconds": 208.9,
+   "duration_seconds": 208.6,
    "message": ""
   },
   {
@@ -195,14 +195,14 @@
    "base_url": "eu",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 2353,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 17.4,
+   "duration_seconds": 88.5,
    "message": ""
   },
   {
@@ -216,14 +216,14 @@
    "base_url": "ca",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 580,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 4.3,
+   "duration_seconds": 58.4,
    "message": ""
   },
   {
@@ -237,14 +237,14 @@
    "base_url": "us",
    "active": true,
    "last_run_status": "passed",
-   "last_run_at": "2026-11-26T19:01:38+00:00",
-   "last_success_at": "2026-11-26T19:01:38+00:00",
+   "last_run_at": "2026-11-27T18:59:49+00:00",
+   "last_success_at": "2026-11-27T18:59:49+00:00",
    "consecutive_failures": 0,
    "records_active": 99,
    "records_added": 0,
    "records_changed": 0,
    "records_removed": 0,
-   "duration_seconds": 1.0,
+   "duration_seconds": 0.8,
    "message": ""
   },
   {
@@ -461,10 +461,6 @@
  "history": {
   "native_extracts": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -578,15 +574,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "partial"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "partial"
    }
   ],
   "lotioncrafter": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -700,15 +696,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "formulator_sample_shop": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -822,15 +818,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "windy_point": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -944,15 +940,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "aromantic": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -1066,15 +1062,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "open_beauty_facts": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -1188,15 +1184,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "round_lab": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -1310,15 +1306,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "cosrx": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -1432,15 +1428,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "reg_eu": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -1554,15 +1550,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "reg_ca": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -1676,15 +1672,15 @@
    },
    {
     "run_id": "20261126T190138Z",
+    "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
     "status": "passed"
    }
   ],
   "reg_us": [
    {
-    "run_id": "20261028T160452Z",
-    "status": "passed"
-   },
-   {
     "run_id": "20261029T160831Z",
     "status": "passed"
    },
@@ -1799,10 +1795,344 @@
    {
     "run_id": "20261126T190138Z",
     "status": "passed"
+   },
+   {
+    "run_id": "20261127T185949Z",
+    "status": "passed"
    }
   ]
  },
  "recent_changes": [
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "cosrx",
+   "table": "products",
+   "record_id": "cosrx:low-ph-goodnight-soft-peeling-gel",
+   "name": "Low pH Goodnight Soft Peeling Gel",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "cosrx",
+   "table": "products",
+   "record_id": "cosrx:comfort-ceramide-soft-cream-sheet-mask",
+   "name": "Balancium Comfort Ceramide Soft Cream Sheet Mask",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "round_lab",
+   "table": "products",
+   "record_id": "round_lab:birch-moisturizing-cream",
+   "name": "Birch Moisturizing Cream",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8906090577939",
+   "name": "Anti Dandruff Conditioner",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8906090576659",
+   "name": "Exfoliating Face Scrub",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8906090575959",
+   "name": "Anti-Dandruff Shampoo",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8851932418140",
+   "name": "Hijab Shampoo",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8720181750403",
+   "name": "Dark Temptation 3 in 1",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8683829431556",
+   "name": "Natural Oil-Based Cleaner",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:8006530116558",
+   "name": "Pampers 99% Water Babydoekjes",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:6224008073390",
+   "name": "Soothing Gel",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:4070765001525",
+   "name": "Erfrischungstücher Citrusduft",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:4066447952971",
+   "name": "med Ultra Sensitive Waschgel",
+   "change": "changed",
+   "fields": "ingredient_count, ingredients, ingredients_text, name",
+   "details": "ingredient_count: 10 -> 11; ingredients_text: AQUA · GLYCERIN · PENTYLENE GLYCOL · COCAMIDOPROPYL BETAINE · DECYL GLUCOSIDE... -> AQUA, GLYCERIN, PENTYLENE GLYCOL, COCO-GLUCOSIDE, BETAINE, COCO-GLUCOSIDE, XA...; name: Ultra Sensitive Waschgel -> med Ultra Sensitive Waschgel"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:4066447942767",
+   "name": "Cake it Easy Cream Shower",
+   "change": "changed",
+   "fields": "name",
+   "details": "name: Cremedusche Cake it easy -> Cake it Easy Cream Shower"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3606000534872",
+   "name": "Hydrating Facial Cleanser",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3600524230449",
+   "name": "Elseve Glycolic Gloss",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3600524000028",
+   "name": "Elseve Canlandirici Serum",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:3600523036332",
+   "name": "Elseve Mucizevi Yağ Saç Güzelleştirici Krem",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0850062484504",
+   "name": "Clean Makeup Wipes",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0810129110043",
+   "name": "Sun barrier mineral sunscreen",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0722510927584",
+   "name": "Working Hands Hand & Body Lotion",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0390205025008",
+   "name": "UV Clear Broad Spectrum SPF 46 Face Sunscreen",
+   "change": "changed",
+   "fields": "ingredients, ingredients_text, tags",
+   "details": "ingredients_text: Octinoxate (7.5%) and Zinc Oxide (9.0%), alongside the inactive ingredients W... -> Octinoxate (7.5%), Zinc Oxide (9.0%), Water, Cyclopentasiloxane, Niacinamide,...; tags: Face sunscreens; Sun protection -> face; suncare; facial creams; in sun protections; sunscreen; facial sunscreen..."
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0380610430603",
+   "name": "Topical foam",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0199874402925",
+   "name": "Daily Essentials Pearl Whispers Plant + Mineral Deodorant",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "open_beauty_facts",
+   "table": "products",
+   "record_id": "open_beauty_facts:0022796913067",
+   "name": "Coconut Milk Conditioner",
+   "change": "added",
+   "fields": "",
+   "details": ""
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:shea-butter-oil",
+   "name": "Shea Butter Oil",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:chamomile-co2-extract-organic",
+   "name": "Organic Chamomile CO2 Extract",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: true -> false"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:preservative-12",
+   "name": "Preservative 12",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:eco-marine-algae-extract",
+   "name": "Eco Marine Algae Extract",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
+  {
+   "date": "2026-11-27",
+   "run_id": "20261127T185949Z",
+   "source_id": "aromantic",
+   "table": "raw_materials",
+   "record_id": "aromantic:vegetal",
+   "name": "Montanov™ 68 MB (Vegetal)",
+   "change": "changed",
+   "fields": "in_stock",
+   "details": "in_stock: false -> true"
+  },
   {
    "date": "2026-11-26",
    "run_id": "20261126T190138Z",
@@ -3122,336 +3452,6 @@
    "change": "added",
    "fields": "",
    "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8682397031373",
-   "name": "Hyaluronic Acid Moisturizing Body Cream",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8006530231428",
-   "name": "Anti-Dandruff Shampoo Menthol Fresh",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:6295199811108",
-   "name": "Zesty Lemon Body Wash",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:6291108451243",
-   "name": "After Shave Cool Balm",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4056489988373",
-   "name": "(unnamed)",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:4001499964428",
-   "name": "Sensitiv-Spülmittel Aloe Vera",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:3587925343940",
-   "name": "Whitening Lemon Face Wash",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0850075780334",
-   "name": "Whitening Toothpaste",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0850075780327",
-   "name": "Nano-Hydroxyapatite Toothpaste ELA MINT",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0793052117436",
-   "name": "Kakadu Plum Sunscreen Lotion",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:0010181046353",
-   "name": "Cocoa Butter Formula Daily Skin Therapy",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "aromantic",
-   "table": "raw_materials",
-   "record_id": "aromantic:emulsifying-wax-btms-25",
-   "name": "Emulsifying Wax (BTMS 25)",
-   "change": "changed",
-   "fields": "in_stock",
-   "details": "in_stock: true -> false"
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "formulator_sample_shop",
-   "table": "raw_materials",
-   "record_id": "formulator_sample_shop:olivemr-2090",
-   "name": "OLIVEM® 2090",
-   "change": "changed",
-   "fields": "description, tags",
-   "details": "description: OLIVEM® 2090 W/O Cold Process Emulsifier Olivem® 2090 is a derived natural in... -> OLIVEM® 2090 Select items, including this product, are not eligible for promo...; tags: All Products; Emulsifiers; Hair Products; Solubilizers -> All Products; Emulsifiers; Hair Products; Not eligible for promotional discou..."
-  },
-  {
-   "date": "2026-11-24",
-   "run_id": "20261124T201031Z",
-   "source_id": "lotioncrafter",
-   "table": "raw_materials",
-   "record_id": "lotioncrafter:dl-panthenol-25kg",
-   "name": "dl-Panthenol, 25kg Bulk",
-   "change": "changed",
-   "fields": "description",
-   "details": "description: This bulk package pricing is in lieu of Customer Rewards Points accrual or ot... -> 11/24/2026 - We have switched vendors and have received an alternative supply..."
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:9349410000011",
-   "name": "(unnamed)",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:9327693001161",
-   "name": "Botanical Body Wash Mango Paradise",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8904320079147",
-   "name": "Baby Lotion",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8901526724871",
-   "name": "Hyaluron Moisture 72H Moisture Filling Shampoo",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8901088737067",
-   "name": "Coconut Milk Protein Shampoo",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8901030866081",
-   "name": "Baby Lotion",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8853963004606",
-   "name": "Organic Coconut & Avocado Hair Treatment",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8718951576193",
-   "name": "Colgate Fresh Gel",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8480017337535",
-   "name": "Loción corporal",
-   "change": "changed",
-   "fields": "name",
-   "details": "name: (unnamed) -> Loción corporal"
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8435821401996",
-   "name": "Sugar Body Scrub",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8053732104500",
-   "name": "Avocado Shampoo",
-   "change": "changed",
-   "fields": "ingredient_count, ingredients, ingredients_text, name",
-   "details": "ingredient_count: 8 -> 24; ingredients_text: oder gewelles seidig-weiches Haar en sanfte Haarwäsche. Ohne Silikone für nam... -> Aqua, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Parfum, ...; name: BottegaVerde Shampoo Setificante per ricci -> Avocado Shampoo"
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8050628550588",
-   "name": "Miss't Kinky Pear & Freesia",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8021568003700",
-   "name": "Gioiosa Acqua Corpo Spray",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8006540523056",
-   "name": "Sensitive babydoekjes 0% plastic",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:8001090150981",
-   "name": "Pro-V Oil Replacement Milky Damage Repair",
-   "change": "added",
-   "fields": "",
-   "details": ""
-  },
-  {
-   "date": "2026-11-23",
-   "run_id": "20261123T212657Z",
-   "source_id": "open_beauty_facts",
-   "table": "products",
-   "record_id": "open_beauty_facts:6974908118126",
-   "name": "Face Palette",
-   "change": "added",
-   "fields": "",
-   "details": ""
   }
  ],
  "imports": [
@@ -3827,7 +3827,7 @@
    "products_related": 66,
    "raw_materials_exact": 0,
    "raw_materials_related": 10,
-   "new_matches_today": 1,
+   "new_matches_today": 0,
    "example_products": "",
    "atlas_commercial_examples": "No quinoa-milk beverage product verified in this pass.",
    "atlas_verification_status": "Do not infer topical tradition from food heritage.",
@@ -3932,7 +3932,7 @@
    "products_related": 0,
    "raw_materials_exact": 1,
    "raw_materials_related": 0,
-   "new_matches_today": 1,
+   "new_matches_today": 0,
    "example_products": "Shea Buttermilk Nourishing Bath Bar | Burts Bees Baby Sunflower Lotion | burt's bees baby nourishing lotion original",
    "atlas_commercial_examples": "No specific buttermilk cosmetic product verified in this pass.",
    "atlas_verification_status": "Variable acidity; not equivalent to formulated lactic acid.",
@@ -3958,11 +3958,11 @@
    "atlas_id": "MILK-026",
    "name": "Lactic acid",
    "group": "Purified/derived cosmetic ingredient",
-   "products_exact": 1404,
+   "products_exact": 1405,
    "products_related": 0,
    "raw_materials_exact": 7,
    "raw_materials_related": 0,
-   "new_matches_today": 5,
+   "new_matches_today": 1,
    "example_products": "COSRX The AHA BHA PHA LHA 35 Peel | COSRX COSRX PEPTIDE-132 Ultra Perfect Hair Bonding Treatment | COSRX 5 Peptide B5 Sensitive Repair Salve Lip Balm",
    "atlas_commercial_examples": "Common in formulated exfoliating products; a product-specific example should be added only after INCI, concentration/pH claims and market are verified.",
    "atlas_verification_status": "Function depends on concentration, pH and formulation; avoid DIY acid mixing.",
